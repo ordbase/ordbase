@@ -12,10 +12,22 @@ end
 
 def country_to_md_path( country )
 
-  country_title = country.title.downcase
+  ## guard for nil title; shouldn't happen (but it does) -- fix!!!
+  ## country_title = country.title || "untitled-#{country.key}"
+  country_title = country.title
+
+  country_title = country_title.downcase
   country_title = country_title.gsub( /\[[^\]]+\]/, '' ) ## e.g. remove [Mexico] etc.
   country_title = country_title.gsub( 'é', 'e' )  ## todo/fix: use a generic version for accents
+  country_title = country_title.gsub( 'á', 'a' )  ## todo/fix: use a generic version for accents
+  country_title = country_title.gsub( 'ô', 'o' )  ## todo/fix: use a generic version for accents
+  country_title = country_title.gsub( 'ã', 'a' )  ## todo/fix: use a generic version for accents
+  country_title = country_title.gsub( 'í', 'i' )  ## todo/fix: use a generic version for accents
+
+  country_title = country_title.gsub( "'", '' )  # e.g. ci-côte-d'ivoire  
+      
   country_title = country_title.strip
+
   country_title = country_title.gsub(' ', '-')
   country_title = country_title.gsub('-and-', '-n-')
 
@@ -37,6 +49,9 @@ def country_to_md_path( country )
   elsif country.key == 'ch'
     # use confoederatio helvetica NOT switzerland (same as domain country code)
     path = "europe/ch-confoederatio-helvetica.md" # latin
+  elsif country.continent_id.nil?
+    puts "!!! warn: !!!! - country #{country.key}-#{country.title} w/o continent!!!!"
+    path = "others/#{country_path}.md"
   elsif country.continent.title == 'Asia & Australia'
     path = "asia/#{country_path}.md"
   else
