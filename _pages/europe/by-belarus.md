@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Belarus (BLR)
+layout: book
+title: Belarus (BLR)
 permalink: /by.html
 ---
 

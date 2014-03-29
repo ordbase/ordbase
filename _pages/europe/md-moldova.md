@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Moldova (MDA)
+layout: book
+title: Moldova (MDA)
 permalink: /md.html
 ---
 

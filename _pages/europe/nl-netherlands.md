@@ -1,22 +1,26 @@
 ---
-layout:    book
-title:     Netherlands (NED)
+layout: book
+title: Netherlands (NED)
 permalink: /nl.html
 ---
 
-## Netherlands (NED) - 12 Regions, 12 Cities
+## Netherlands (NED) - 12 Regions, 14 Cities
 {: #nl }
 
 
-[Groningen](#nl-gr) _(1)_{:.count} • [Fryslân [Friesland]](#nl-fr) _(1)_{:.count} • [Drenthe](#nl-dr) _(1)_{:.count} • [Overijssel](#nl-ov) _(1)_{:.count} • [Gelderland](#nl-ge) _(1)_{:.count} • [Flevoland](#nl-fl) _(1)_{:.count} • [Utrecht](#nl-ut) _(0)_{:.count} • [Noord-Holland [North Holland]](#nl-nh) _(1)_{:.count} • [Zuid-Holland [South Holland]](#nl-zh) _(0)_{:.count} • [Zeeland](#nl-ze) _(0)_{:.count} • [Noord-Brabant [North Brabant]](#nl-nb) _(1)_{:.count} • [Limburg](#nl-li) _(1)_{:.count} • **Uncategorized** _(3)_{:.count}
+[Groningen](#nl-gr) _(1)_{:.count} • [Fryslân [Friesland]](#nl-fr) _(1)_{:.count} • [Drenthe](#nl-dr) _(1)_{:.count} • [Overijssel](#nl-ov) _(1)_{:.count} • [Gelderland](#nl-ge) _(1)_{:.count} • [Flevoland](#nl-fl) _(1)_{:.count} • [Utrecht](#nl-ut) _(0)_{:.count} • [Noord-Holland [North Holland]](#nl-nh) _(1)_{:.count} • [Zuid-Holland [South Holland]](#nl-zh) _(0)_{:.count} • [Zeeland](#nl-ze) _(0)_{:.count} • [Noord-Brabant [North Brabant]](#nl-nb) _(1)_{:.count} • [Limburg](#nl-li) _(1)_{:.count} • **Uncategorized** _(5)_{:.count}
 
 
-### Uncategorized _(3)_{:.count}
+### Uncategorized _(5)_{:.count}
 
 
-Rotterdam-The Hague  _pop (2.113.000)_{:.pop} {: .city #rotterdamthehague } <br>
+Rotterdam-Den Haag [Rotterdam-The Hague]  _pop (2.113.000)_{:.pop} {: .city #rotterdamdenhaag } <br>
 
 Amsterdam  _pop (1.050.000)_{:.pop} {: .city #amsterdam } <br>
+
+Rotterdam  {: .city #rotterdam } <br>
+
+Den Haag  {: .city #denhaag } <br>
 
 Alkmaar  {: .city #alkmaar } <br>
 

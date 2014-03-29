@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Sweden (SWE)
+layout: book
+title: Sweden (SWE)
 permalink: /se.html
 ---
 

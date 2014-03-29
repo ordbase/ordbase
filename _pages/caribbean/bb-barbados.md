@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Barbados (BRB)
+layout: book
+title: Barbados (BRB)
 permalink: /bb.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Palau (PLW)
+layout: book
+title: Palau (PLW)
 permalink: /pw.html
 ---
 

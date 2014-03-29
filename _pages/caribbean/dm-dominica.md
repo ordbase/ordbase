@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Dominica (DMA)
+layout: book
+title: Dominica (DMA)
 permalink: /dm.html
 ---
 

@@ -1,15 +1,22 @@
 ---
-layout:    book
-title:     Ghana (GHA)
+layout: book
+title: Ghana (GHA)
 permalink: /gh.html
 ---
 
-## Ghana (GHA) - 0 Regions, 0 Cities
+## Ghana (GHA) - 0 Regions, 2 Cities
 {: #gh }
 
 
 
 
+
+### Uncategorized _(2)_{:.count}
+
+
+Accra  _pop (4)_{:.pop} {: .city #accra } <br>
+
+Kumasi  _pop (2)_{:.pop} {: .city #kumasi } <br>
 
 
  

@@ -1,19 +1,19 @@
 ---
-layout:    book
-title:     Czech Republic (CZE)
+layout: book
+title: Czech Republic (CZE)
 permalink: /cz.html
 ---
 
-## Czech Republic (CZE) - 14 Regions, 16 Cities
+## Czech Republic (CZE) - 14 Regions, 19 Cities
 {: #cz }
 
 
-[Praha [Prague • Prag]](#cz-pr) _(1)_{:.count} • [Střední Čechy [Central Bohemia • Mittelböhmen]](#cz-st) _(1)_{:.count} • [Jižní Čechy [South Bohemia • Südböhmen]](#cz-jc) _(4)_{:.count} • [Plzeň [• Pilsen]](#cz-pl) _(1)_{:.count} • [Karlovy Vary [Carlsbad • Karlsbad]](#cz-ka) _(1)_{:.count} • [Ústí nad Labem [• Aussig]](#cz-us) _(1)_{:.count} • [Liberec   [• Reichenberg]](#cz-li) _(1)_{:.count} • [Hradec Králové [• Königgrätz]](#cz-kr) _(1)_{:.count} • [Pardubice   [• Pardubitz]](#cz-pa) _(1)_{:.count} • [Jižní Morava [South Moravia • Südmähren]](#cz-jm) _(2)_{:.count} • [Vysočina [• Hochland]](#cz-vy) _(0)_{:.count} • [Olomouc [• Olmütz]](#cz-ol) _(1)_{:.count} • [Zlín [• Zlin]](#cz-zl) _(0)_{:.count} • [Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien]](#cz-mo) _(1)_{:.count}
+[Praha [Prague]](#cz-pr) _(1)_{:.count} • [Střední Čechy [Central Bohemia]](#cz-st) _(1)_{:.count} • [Jižní Čechy [South Bohemia]](#cz-jc) _(5)_{:.count} • [Plzeň](#cz-pl) _(1)_{:.count} • [Karlovy Vary [Carlsbad]](#cz-ka) _(1)_{:.count} • [Ústí nad Labem](#cz-us) _(1)_{:.count} • [Liberec](#cz-li) _(1)_{:.count} • [Hradec Králové](#cz-kr) _(1)_{:.count} • [Pardubice](#cz-pa) _(1)_{:.count} • [Jižní Morava [South Moravia]](#cz-jm) _(2)_{:.count} • [Vysočina](#cz-vy) _(1)_{:.count} • [Olomouc](#cz-ol) _(1)_{:.count} • [Zlín](#cz-zl) _(1)_{:.count} • [Moravskoslezsko [Moravia-Silesia]](#cz-mo) _(1)_{:.count}
 
 
 
 
-### Praha [Prague • Prag] _(1)_{:.count}
+### Praha [Prague] | Prag[de] _(1)_{:.count}
 {: #cz-pr }
 
 
@@ -28,7 +28,7 @@ Praha [Prague]  _pop 1.290.846 (1.265.000)_{:.pop} {: .city #praha } <br>
 
 
 
-### Střední Čechy [Central Bohemia • Mittelböhmen] _(1)_{:.count}
+### Střední Čechy [Central Bohemia] | Mittelböhmen[de] _(1)_{:.count}
 {: #cz-st }
 
 
@@ -43,16 +43,16 @@ Kutná Hora  _pop 20.839_{:.pop} {: .city #kutnahora } <br>
 
 
 
-### Jižní Čechy [South Bohemia • Südböhmen] _(4)_{:.count}
+### Jižní Čechy [South Bohemia] | Südböhmen[de] _(5)_{:.count}
 {: #cz-jc }
 
 
-[Budějovice [Budweis]](#budejovice) • [Krumlov](#krumlov) • [Tábor](#tabor) • [Třeboň](#trebon)
+[Budějovice](#budejovice) • [Krumlov](#krumlov) • [Tábor](#tabor) • [Třeboň](#trebon) • [České Budějovice](#ceskebudejovice)
 
 <div class='columns2' markdown='1'>
 
 
-Budějovice [Budweis]  _pop 93.883_{:.pop} {: .city #budejovice } <br>
+Budějovice  _pop 93.883_{:.pop} {: .city #budejovice } <br>
 
 Krumlov  _pop 13.752_{:.pop} {: .city #krumlov } <br>
 
@@ -60,11 +60,13 @@ Tábor  _pop 35.769_{:.pop} {: .city #tabor } <br>
 
 Třeboň  _pop 8.840_{:.pop} {: .city #trebon } <br>
 
+České Budějovice  {: .city #ceskebudejovice } <br>
+
 </div>
 
 
 
-### Plzeň [• Pilsen] _(1)_{:.count}
+### Plzeň | Pilsen[de] _(1)_{:.count}
 {: #cz-pl }
 
 
@@ -73,13 +75,13 @@ Třeboň  _pop 8.840_{:.pop} {: .city #trebon } <br>
 <div class='columns2' markdown='1'>
 
 
-Plzeň [Pilsen]  _pop 169.688_{:.pop} {: .city #plzen } <br>
+Plzeň  _pop 169.688_{:.pop} {: .city #plzen } <br>
 
 </div>
 
 
 
-### Karlovy Vary [Carlsbad • Karlsbad] _(1)_{:.count}
+### Karlovy Vary [Carlsbad] | Karlsbad[de] _(1)_{:.count}
 {: #cz-ka }
 
 
@@ -94,7 +96,7 @@ Karlovy Vary [Carlsbad]  _pop 53.737_{:.pop} {: .city #karlovyvary } <br>
 
 
 
-### Ústí nad Labem [• Aussig] _(1)_{:.count}
+### Ústí nad Labem | Aussig[de] _(1)_{:.count}
 {: #cz-us }
 
 
@@ -109,7 +111,7 @@ Karlovy Vary [Carlsbad]  _pop 53.737_{:.pop} {: .city #karlovyvary } <br>
 
 
 
-### Liberec   [• Reichenberg] _(1)_{:.count}
+### Liberec | Reichenberg[de] _(1)_{:.count}
 {: #cz-li }
 
 
@@ -124,7 +126,7 @@ Liberec  _pop 102.247_{:.pop} {: .city #liberec } <br>
 
 
 
-### Hradec Králové [• Königgrätz] _(1)_{:.count}
+### Hradec Králové | Königgrätz[de] _(1)_{:.count}
 {: #cz-kr }
 
 
@@ -139,7 +141,7 @@ Hradec Králové  _pop 94.242_{:.pop} {: .city #hradeckralove } <br>
 
 
 
-### Pardubice   [• Pardubitz] _(1)_{:.count}
+### Pardubice | Pardubitz[de] _(1)_{:.count}
 {: #cz-pa }
 
 
@@ -154,7 +156,7 @@ Pardubice  _pop 91.073_{:.pop} {: .city #pardubice } <br>
 
 
 
-### Jižní Morava [South Moravia • Südmähren] _(2)_{:.count}
+### Jižní Morava [South Moravia] | Südmähren[de] _(2)_{:.count}
 {: #cz-jm }
 
 
@@ -171,7 +173,7 @@ Mikulov  _pop 7.624_{:.pop} {: .city #mikulov } <br>
 
 
 
-### Vysočina [• Hochland] _(0)_{:.count}
+### Vysočina | Hochland[de] _(1)_{:.count}
 {: #cz-vy }
 
 
@@ -180,11 +182,13 @@ Mikulov  _pop 7.624_{:.pop} {: .city #mikulov } <br>
 <div class='columns2' markdown='1'>
 
 
+Jihlava  {: .city #jihlava } <br>
+
 </div>
 
 
 
-### Olomouc [• Olmütz] _(1)_{:.count}
+### Olomouc | Olmütz[de] _(1)_{:.count}
 {: #cz-ol }
 
 
@@ -199,7 +203,7 @@ Olomouc  _pop 100.043_{:.pop} {: .city #olomouc } <br>
 
 
 
-### Zlín [• Zlin] _(0)_{:.count}
+### Zlín | Zlin[de] _(1)_{:.count}
 {: #cz-zl }
 
 
@@ -208,11 +212,13 @@ Olomouc  _pop 100.043_{:.pop} {: .city #olomouc } <br>
 <div class='columns2' markdown='1'>
 
 
+Zlín  {: .city #zlin } <br>
+
 </div>
 
 
 
-### Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien] _(1)_{:.count}
+### Moravskoslezsko [Moravia-Silesia] | Mähren-Schlesien[de] _(1)_{:.count}
 {: #cz-mo }
 
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Andorra (AND)
+layout: book
+title: Andorra (AND)
 permalink: /ad.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Romania (ROU)
+layout: book
+title: Romania (ROU)
 permalink: /ro.html
 ---
 

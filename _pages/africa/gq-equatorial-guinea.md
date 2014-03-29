@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Equatorial Guinea (EQG)
+layout: book
+title: Equatorial Guinea (EQG)
 permalink: /gq.html
 ---
 

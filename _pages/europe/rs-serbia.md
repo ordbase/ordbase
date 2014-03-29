@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Serbia (SRB)
+layout: book
+title: Serbia (SRB)
 permalink: /rs.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /rs.html
 ### Uncategorized _(1)_{:.count}
 
 
-Beograd [Belgrade]  _pop 1.154.589 (1.098.000)_{:.pop} {: .city #beograd } <br>
+Beograd [Belgrade]  _pop 1.154.589 (1)_{:.pop} {: .city #beograd } <br>
 
 
  

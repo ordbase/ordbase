@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Liberia (LBR)
+layout: book
+title: Liberia (LBR)
 permalink: /lr.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /lr.html
 ### Uncategorized _(1)_{:.count}
 
 
-Monrovia  {: .city #monrovia } <br>
+Monrovia  _pop (1)_{:.pop} {: .city #monrovia } <br>
 
 
  

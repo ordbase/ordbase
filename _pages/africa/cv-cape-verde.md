@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Cape Verde (CPV)
+layout: book
+title: Cape Verde (CPV)
 permalink: /cv.html
 ---
 

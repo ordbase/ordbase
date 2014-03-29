@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Jordan (JOR)
+layout: book
+title: Jordan (JOR)
 permalink: /jo.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /jo.html
 ### Uncategorized _(1)_{:.count}
 
 
-Amman  {: .city #amman } <br>
+'Ammān [Amman]  _pop (3)_{:.pop} {: .city #amman } <br>
 
 
  

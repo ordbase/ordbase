@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Eritrea (ERI)
+layout: book
+title: Eritrea (ERI)
 permalink: /er.html
 ---
 

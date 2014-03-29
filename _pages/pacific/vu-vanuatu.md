@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Vanuatu (VAN)
+layout: book
+title: Vanuatu (VAN)
 permalink: /vu.html
 ---
 

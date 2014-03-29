@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Saint Lucia (LCA)
+layout: book
+title: Saint Lucia (LCA)
 permalink: /lc.html
 ---
 

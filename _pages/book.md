@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Contents
+title: Book Title Here
 permalink: /book.html
 ---
 
@@ -16,7 +16,7 @@ permalink: /book.html
 ### World Country Tour
 {: #tour}
 
-[Europe](#europe) • [South America](#south-america) • [North America](#north-america) • [Central America](#central-america) • [Caribbean](#caribbean) • [Africa](#africa) • [Middle East](#middle-east) • [Asia & Australia](#asia--australia) • [Pacific](#pacific) • [Others](#others)
+[Europe](#europe) • [South America](#south-america) • [North America](#north-america) • [Central America](#central-america) • [Caribbean](#caribbean) • [Africa](#africa) • [Middle East](#middle-east) • [Asia](#asia) • [Pacific](#pacific) • [Others](#others)
 
 
 
@@ -28,31 +28,35 @@ permalink: /book.html
 
 [Albania (ALB)](#al) - _0 Regions, 0 Cities_{:.count}  <br>
 [Andorra (AND)](#ad) - _0 Regions, 0 Cities_{:.count}  <br>
-[Armenia (ARM)](#am) - _0 Regions, 0 Cities_{:.count}  <br>
-[Austria (AUT)](#at) - _9 Regions, 103 Cities_{:.count}  <br>
+[Armenia (ARM)](#am) - _0 Regions, 1 Cities_{:.count}  <br>
+[Austria (AUT)](#at) - _9 Regions, 31 Cities_{:.count}  <br>
 [Azerbaijan (AZE)](#az) - _0 Regions, 1 Cities_{:.count}  <br>
 [Belarus (BLR)](#by) - _0 Regions, 2 Cities_{:.count}  <br>
-[Belgium (BEL)](#be) - _11 Regions, 14 Cities_{:.count}  <br>
+[Belgium (BEL)](#be) - _11 Regions, 13 Cities_{:.count}  <br>
 [Bosnia and Herzegovina (BIH)](#ba) - _0 Regions, 1 Cities_{:.count}  <br>
 [Bulgaria (BUL)](#bg) - _28 Regions, 23 Cities_{:.count}  <br>
 [Croatia (CRO)](#hr) - _0 Regions, 1 Cities_{:.count}  <br>
 [Cyprus (CYP)](#cy) - _0 Regions, 1 Cities_{:.count}  <br>
-[Czech Republic (CZE)](#cz) - _14 Regions, 16 Cities_{:.count}  <br>
-[Denmark (DEN)](#dk) - _0 Regions, 2 Cities_{:.count}  <br>
-[England (ENG)](#en) - _9 Regions, 19 Cities_{:.count}  <br>
+[Czech Republic (CZE)](#cz) - _14 Regions, 19 Cities_{:.count}  <br>
+[Denmark (DEN)](#dk) - _5 Regions, 7 Cities_{:.count}  <br>
+[England (ENG)](#en) - _9 Regions, 17 Cities_{:.count}  <br>
 [Estonia (EST)](#ee) - _0 Regions, 1 Cities_{:.count}  <br>
+[European Union (EUR)](#eu) - _0 Regions, 0 Cities_{:.count}  <br>
 [Faroe Islands (FRO)](#fo) - _0 Regions, 0 Cities_{:.count}  <br>
 [Finland (FIN)](#fi) - _0 Regions, 1 Cities_{:.count}  <br>
 [France (FRA)](#fr) - _21 Regions, 22 Cities_{:.count}  <br>
-[Georgia (GEO)](#ge) - _0 Regions, 0 Cities_{:.count}  <br>
-[Germany (GER)](#de) - _16 Regions, 603 Cities_{:.count}  <br>
+[Georgia (GEO)](#ge) - _0 Regions, 1 Cities_{:.count}  <br>
+[Germany (GER)](#de) - _16 Regions, 45 Cities_{:.count}  <br>
+[Gibraltar (GIB)](#gi) - _0 Regions, 0 Cities_{:.count}  <br>
+[Great Britain (GBR)](#gb) - _0 Regions, 0 Cities_{:.count}  <br>
 [Greece (GRE)](#gr) - _0 Regions, 3 Cities_{:.count}  <br>
+[Guernsey (GGY)](#gg) - _0 Regions, 0 Cities_{:.count}  <br>
 [Hungary (HUN)](#hu) - _0 Regions, 1 Cities_{:.count}  <br>
 [Iceland (ISL)](#is) - _0 Regions, 0 Cities_{:.count}  <br>
 [Irland (IRL)](#ie) - _27 Regions, 30 Cities_{:.count}  <br>
-[Israel (ISR)](#il) - _0 Regions, 0 Cities_{:.count}  <br>
+[Isle of Man (IMN)](#im) - _0 Regions, 0 Cities_{:.count}  <br>
 [Italy (ITA)](#it) - _20 Regions, 28 Cities_{:.count}  <br>
-[Kazakhstan (KAZ)](#kz) - _0 Regions, 0 Cities_{:.count}  <br>
+[Jersey (JEY)](#je) - _0 Regions, 0 Cities_{:.count}  <br>
 [Latvija [Latvia] (LVA)](#lv) - _0 Regions, 1 Cities_{:.count}  <br>
 [Liechtenstein (LIE)](#li) - _0 Regions, 1 Cities_{:.count}  <br>
 [Lithuania (LTU)](#lt) - _0 Regions, 1 Cities_{:.count}  <br>
@@ -60,25 +64,28 @@ permalink: /book.html
 [Macedonia (MKD)](#mk) - _0 Regions, 0 Cities_{:.count}  <br>
 [Malta (MLT)](#mt) - _0 Regions, 0 Cities_{:.count}  <br>
 [Moldova (MDA)](#md) - _0 Regions, 1 Cities_{:.count}  <br>
+[Monaco (MCO)](#mc) - _0 Regions, 1 Cities_{:.count}  <br>
 [Montenegro (MNE)](#me) - _0 Regions, 1 Cities_{:.count}  <br>
-[Netherlands (NED)](#nl) - _12 Regions, 12 Cities_{:.count}  <br>
+[Netherlands (NED)](#nl) - _12 Regions, 14 Cities_{:.count}  <br>
 [Northern Ireland (NIR)](#nd) - _0 Regions, 1 Cities_{:.count}  <br>
 [Norway (NOR)](#no) - _0 Regions, 1 Cities_{:.count}  <br>
-[Poland (POL)](#pl) - _0 Regions, 5 Cities_{:.count}  <br>
+[Poland (POL)](#pl) - _0 Regions, 6 Cities_{:.count}  <br>
 [Portugal (POR)](#pt) - _0 Regions, 3 Cities_{:.count}  <br>
 [Romania (ROU)](#ro) - _42 Regions, 37 Cities_{:.count}  <br>
-[Russia (RUS)](#ru) - _0 Regions, 5 Cities_{:.count}  <br>
+[Russia (RUS)](#ru) - _0 Regions, 15 Cities_{:.count}  <br>
 [San Marino (SMR)](#sm) - _0 Regions, 1 Cities_{:.count}  <br>
 [Scotland (SCO)](#sc) - _0 Regions, 1 Cities_{:.count}  <br>
 [Serbia (SRB)](#rs) - _0 Regions, 1 Cities_{:.count}  <br>
 [Slovakia (SVK)](#sk) - _8 Regions, 20 Cities_{:.count}  <br>
 [Slovenia (SVN)](#si) - _0 Regions, 0 Cities_{:.count}  <br>
-[Spain (ESP)](#es) - _19 Regions, 16 Cities_{:.count}  <br>
+[Spain (ESP)](#es) - _19 Regions, 21 Cities_{:.count}  <br>
 [Sweden (SWE)](#se) - _0 Regions, 1 Cities_{:.count}  <br>
-[Switzerland (SUI)](#ch) - _26 Regions, 34 Cities_{:.count}  <br>
-[Turkey (TUR)](#tr) - _0 Regions, 1 Cities_{:.count}  <br>
+[Switzerland (SUI)](#ch) - _26 Regions, 35 Cities_{:.count}  <br>
+[Turkey (TUR)](#tr) - _0 Regions, 8 Cities_{:.count}  <br>
 [Ukraine (UKR)](#ua) - _0 Regions, 5 Cities_{:.count}  <br>
+[Vatican City (VAT)](#va) - _0 Regions, 1 Cities_{:.count}  <br>
 [Wales (WAL)](#wa) - _0 Regions, 1 Cities_{:.count}  <br>
+[Åland Islands (ALA)](#ax) - _0 Regions, 0 Cities_{:.count}  <br>
 
 </div>
 
@@ -91,16 +98,22 @@ permalink: /book.html
 
 <div class='columns2' markdown='1'>
 
-[Argentina (ARG)](#ar) - _24 Regions, 25 Cities_{:.count}  <br>
-[Bolivia (BOL)](#bo) - _0 Regions, 0 Cities_{:.count}  <br>
+[Argentina (ARG)](#ar) - _24 Regions, 26 Cities_{:.count}  <br>
+[Bolivia (BOL)](#bo) - _0 Regions, 3 Cities_{:.count}  <br>
 [Brazil (BRA)](#br) - _27 Regions, 37 Cities_{:.count}  <br>
-[Chile (CHI)](#cl) - _0 Regions, 0 Cities_{:.count}  <br>
-[Colombia (COL)](#co) - _0 Regions, 0 Cities_{:.count}  <br>
-[Ecuador (ECU)](#ec) - _0 Regions, 0 Cities_{:.count}  <br>
-[Paraguay (PAR)](#py) - _0 Regions, 0 Cities_{:.count}  <br>
-[Peru (PER)](#pe) - _0 Regions, 0 Cities_{:.count}  <br>
-[Uruguay (URU)](#uy) - _0 Regions, 0 Cities_{:.count}  <br>
-[Venezuela (VEN)](#ve) - _24 Regions, 21 Cities_{:.count}  <br>
+[Chile (CHI)](#cl) - _0 Regions, 2 Cities_{:.count}  <br>
+[Colombia (COL)](#co) - _0 Regions, 6 Cities_{:.count}  <br>
+[Ecuador (ECU)](#ec) - _0 Regions, 2 Cities_{:.count}  <br>
+[Falkland Islands (FLK)](#fk) - _0 Regions, 1 Cities_{:.count}  <br>
+[French Guiana (GUF)](#gf) - _0 Regions, 1 Cities_{:.count}  <br>
+[Guyana (GUY)](#gy) - _0 Regions, 0 Cities_{:.count}  <br>
+[Paraguay (PAR)](#py) - _0 Regions, 1 Cities_{:.count}  <br>
+[Peru (PER)](#pe) - _0 Regions, 1 Cities_{:.count}  <br>
+[Saint Helena (SHN)](#sh) - _0 Regions, 2 Cities_{:.count}  <br>
+[South Georgia and South Sandwich (SGS)](#gs) - _0 Regions, 1 Cities_{:.count}  <br>
+[Suriname (SUR)](#sr) - _0 Regions, 0 Cities_{:.count}  <br>
+[Uruguay (URU)](#uy) - _0 Regions, 1 Cities_{:.count}  <br>
+[Venezuela (VEN)](#ve) - _24 Regions, 24 Cities_{:.count}  <br>
 
 </div>
 
@@ -113,9 +126,11 @@ permalink: /book.html
 
 <div class='columns2' markdown='1'>
 
-[Canada (CAN)](#ca) - _13 Regions, 34 Cities_{:.count}  <br>
-[México [Mexico] (MEX)](#mx) - _32 Regions, 50 Cities_{:.count}  <br>
-[United States (USA)](#us) - _51 Regions, 82 Cities_{:.count}  <br>
+[Canada (CAN)](#ca) - _13 Regions, 36 Cities_{:.count}  <br>
+[Greenland (GRL)](#gl) - _0 Regions, 0 Cities_{:.count}  <br>
+[México [Mexico] (MEX)](#mx) - _32 Regions, 48 Cities_{:.count}  <br>
+[Saint Pierre and Miquelon (SPM)](#pm) - _0 Regions, 0 Cities_{:.count}  <br>
+[United States (USA)](#us) - _51 Regions, 81 Cities_{:.count}  <br>
 
 </div>
 
@@ -130,11 +145,11 @@ permalink: /book.html
 
 [Belize (BLZ)](#bz) - _0 Regions, 0 Cities_{:.count}  <br>
 [Costa Rica (CRC)](#cr) - _0 Regions, 0 Cities_{:.count}  <br>
-[El Salvador (SLV)](#sv) - _0 Regions, 0 Cities_{:.count}  <br>
-[Guatemala (GUA)](#gt) - _0 Regions, 0 Cities_{:.count}  <br>
-[Honduras (HON)](#hn) - _0 Regions, 0 Cities_{:.count}  <br>
-[Nicaragua (NCA)](#ni) - _0 Regions, 0 Cities_{:.count}  <br>
-[Panamá [Panama] (PAN)](#pa) - _0 Regions, 0 Cities_{:.count}  <br>
+[El Salvador (SLV)](#sv) - _0 Regions, 1 Cities_{:.count}  <br>
+[Guatemala (GUA)](#gt) - _0 Regions, 2 Cities_{:.count}  <br>
+[Honduras (HON)](#hn) - _0 Regions, 1 Cities_{:.count}  <br>
+[Nicaragua (NCA)](#ni) - _0 Regions, 1 Cities_{:.count}  <br>
+[Panamá [Panama] (PAN)](#pa) - _0 Regions, 1 Cities_{:.count}  <br>
 
 </div>
 
@@ -147,24 +162,33 @@ permalink: /book.html
 
 <div class='columns2' markdown='1'>
 
+[Anguilla (AIA)](#ai) - _0 Regions, 1 Cities_{:.count}  <br>
 [Antigua and Barbuda (ATG)](#ag) - _0 Regions, 1 Cities_{:.count}  <br>
+[Aruba (ABW)](#aw) - _0 Regions, 1 Cities_{:.count}  <br>
 [Bahamas (BAH)](#bs) - _0 Regions, 1 Cities_{:.count}  <br>
 [Barbados (BRB)](#bb) - _0 Regions, 1 Cities_{:.count}  <br>
-[Cuba (CUB)](#cu) - _0 Regions, 0 Cities_{:.count}  <br>
+[Bermuda (BMU)](#bm) - _0 Regions, 0 Cities_{:.count}  <br>
+[British Virgin Islands (VGB)](#vg) - _0 Regions, 1 Cities_{:.count}  <br>
+[Cayman Islands (CYM)](#ky) - _0 Regions, 0 Cities_{:.count}  <br>
+[Cuba (CUB)](#cu) - _0 Regions, 14 Cities_{:.count}  <br>
+[Curaçao (CUW)](#cw) - _0 Regions, 1 Cities_{:.count}  <br>
 [Dominica (DMA)](#dm) - _0 Regions, 1 Cities_{:.count}  <br>
-[Dominican Republic (DOM)](#do) - _0 Regions, 0 Cities_{:.count}  <br>
+[Dominican Republic (DOM)](#do) - _0 Regions, 2 Cities_{:.count}  <br>
 [Grenada (GRN)](#gd) - _0 Regions, 1 Cities_{:.count}  <br>
 [Guadeloupe (GPE)](#gp) - _0 Regions, 0 Cities_{:.count}  <br>
-[Guyana (GUY)](#gy) - _0 Regions, 0 Cities_{:.count}  <br>
 [Haiti (HAI)](#ht) - _0 Regions, 1 Cities_{:.count}  <br>
 [Jamaica (JAM)](#jm) - _0 Regions, 0 Cities_{:.count}  <br>
 [Martinique (MTQ)](#mq) - _0 Regions, 0 Cities_{:.count}  <br>
-[Puerto Rico (PUR)](#pr) - _0 Regions, 0 Cities_{:.count}  <br>
+[Montserrat (MSR)](#ms) - _0 Regions, 1 Cities_{:.count}  <br>
+[Puerto Rico (PUR)](#pr) - _0 Regions, 1 Cities_{:.count}  <br>
+[Saint Barthélemy (BLM)](#bl) - _0 Regions, 0 Cities_{:.count}  <br>
 [Saint Kitts and Nevis (SKN)](#kn) - _0 Regions, 1 Cities_{:.count}  <br>
 [Saint Lucia (LCA)](#lc) - _0 Regions, 1 Cities_{:.count}  <br>
+[Saint Martin (French) (MAF)](#mf) - _0 Regions, 1 Cities_{:.count}  <br>
 [Saint Vincent and the Grenadines (VIN)](#vc) - _0 Regions, 1 Cities_{:.count}  <br>
-[Suriname (SUR)](#sr) - _0 Regions, 0 Cities_{:.count}  <br>
 [Trinidad and Tobago (TRI)](#tt) - _0 Regions, 1 Cities_{:.count}  <br>
+[Turks and Caicos Islands (TCA)](#tc) - _0 Regions, 1 Cities_{:.count}  <br>
+[United States Virgin Islands (VIR)](#vi) - _0 Regions, 1 Cities_{:.count}  <br>
 
 </div>
 
@@ -177,57 +201,59 @@ permalink: /book.html
 
 <div class='columns2' markdown='1'>
 
-[Algeria (ALG)](#dz) - _0 Regions, 0 Cities_{:.count}  <br>
+[Algeria (ALG)](#dz) - _0 Regions, 2 Cities_{:.count}  <br>
 [Angola (ANG)](#ao) - _0 Regions, 1 Cities_{:.count}  <br>
-[Benin (BEN)](#bj) - _0 Regions, 1 Cities_{:.count}  <br>
+[Benin (BEN)](#bj) - _0 Regions, 2 Cities_{:.count}  <br>
 [Botswana (BOT)](#bw) - _0 Regions, 1 Cities_{:.count}  <br>
 [Burkina Faso (BFA)](#bf) - _0 Regions, 1 Cities_{:.count}  <br>
 [Burundi (BDI)](#bi) - _0 Regions, 1 Cities_{:.count}  <br>
-[Cameroon (CMR)](#cm) - _0 Regions, 0 Cities_{:.count}  <br>
+[Cameroon (CMR)](#cm) - _0 Regions, 2 Cities_{:.count}  <br>
 [Cape Verde (CPV)](#cv) - _0 Regions, 1 Cities_{:.count}  <br>
 [Central African Republic (CTA)](#cf) - _0 Regions, 1 Cities_{:.count}  <br>
 [Chad (CHA)](#td) - _0 Regions, 1 Cities_{:.count}  <br>
 [Comoros (COM)](#km) - _0 Regions, 1 Cities_{:.count}  <br>
 [Congo (CGO)](#cg) - _0 Regions, 1 Cities_{:.count}  <br>
-[Congo DR (COD)](#cd) - _0 Regions, 1 Cities_{:.count}  <br>
-[Côte d'Ivoire (CIV)](#ci) - _0 Regions, 0 Cities_{:.count}  <br>
+[Congo DR (COD)](#cd) - _0 Regions, 3 Cities_{:.count}  <br>
+[Côte d'Ivoire (CIV)](#ci) - _0 Regions, 1 Cities_{:.count}  <br>
 [Djibouti (DJI)](#dj) - _0 Regions, 1 Cities_{:.count}  <br>
-[Egypt (EGY)](#eg) - _0 Regions, 0 Cities_{:.count}  <br>
+[Egypt (EGY)](#eg) - _0 Regions, 2 Cities_{:.count}  <br>
 [Equatorial Guinea (EQG)](#gq) - _0 Regions, 1 Cities_{:.count}  <br>
 [Eritrea (ERI)](#er) - _0 Regions, 1 Cities_{:.count}  <br>
-[Ethiopia (ETH)](#et) - _0 Regions, 0 Cities_{:.count}  <br>
+[Ethiopia (ETH)](#et) - _0 Regions, 1 Cities_{:.count}  <br>
 [Gabon (GAB)](#ga) - _0 Regions, 0 Cities_{:.count}  <br>
 [Gambia (GAM)](#gm) - _0 Regions, 0 Cities_{:.count}  <br>
-[Ghana (GHA)](#gh) - _0 Regions, 0 Cities_{:.count}  <br>
+[Ghana (GHA)](#gh) - _0 Regions, 2 Cities_{:.count}  <br>
 [Guinea (GUI)](#gn) - _0 Regions, 1 Cities_{:.count}  <br>
 [Guinea-Bissau (GNB)](#gw) - _0 Regions, 1 Cities_{:.count}  <br>
-[Kenya (KEN)](#ke) - _0 Regions, 1 Cities_{:.count}  <br>
+[Kenya (KEN)](#ke) - _0 Regions, 2 Cities_{:.count}  <br>
 [Lesotho (LES)](#ls) - _0 Regions, 1 Cities_{:.count}  <br>
 [Liberia (LBR)](#lr) - _0 Regions, 1 Cities_{:.count}  <br>
-[Libya (LBY)](#ly) - _0 Regions, 0 Cities_{:.count}  <br>
+[Libya (LBY)](#ly) - _0 Regions, 1 Cities_{:.count}  <br>
 [Madagascar (MAD)](#mg) - _0 Regions, 1 Cities_{:.count}  <br>
 [Malawi (MWI)](#mw) - _0 Regions, 1 Cities_{:.count}  <br>
 [Mali (MLI)](#ml) - _0 Regions, 1 Cities_{:.count}  <br>
 [Mauritania (MTN)](#mr) - _0 Regions, 0 Cities_{:.count}  <br>
 [Mauritius (MRI)](#mu) - _0 Regions, 0 Cities_{:.count}  <br>
-[Morocco (MAR)](#ma) - _0 Regions, 0 Cities_{:.count}  <br>
+[Mayotte (MYT)](#yt) - _0 Regions, 1 Cities_{:.count}  <br>
+[Morocco (MAR)](#ma) - _0 Regions, 7 Cities_{:.count}  <br>
 [Mozambique (MOZ)](#mz) - _0 Regions, 1 Cities_{:.count}  <br>
 [Namibia (NAM)](#na) - _0 Regions, 1 Cities_{:.count}  <br>
 [Niger (NIG)](#ne) - _0 Regions, 1 Cities_{:.count}  <br>
-[Nigeria (NGA)](#ng) - _0 Regions, 0 Cities_{:.count}  <br>
+[Nigeria (NGA)](#ng) - _0 Regions, 8 Cities_{:.count}  <br>
 [Rwanda (RWA)](#rw) - _0 Regions, 1 Cities_{:.count}  <br>
+[Réunion (REU)](#re) - _0 Regions, 0 Cities_{:.count}  <br>
 [Senegal (SEN)](#sn) - _0 Regions, 1 Cities_{:.count}  <br>
 [Seychelles (SEY)](#yc) - _0 Regions, 0 Cities_{:.count}  <br>
 [Sierra Leone (SLE)](#sl) - _0 Regions, 1 Cities_{:.count}  <br>
-[Somalia (SOM)](#so) - _0 Regions, 1 Cities_{:.count}  <br>
-[South Africa (RSA)](#za) - _0 Regions, 0 Cities_{:.count}  <br>
+[Somalia (SOM)](#so) - _0 Regions, 2 Cities_{:.count}  <br>
+[South Africa (RSA)](#za) - _0 Regions, 10 Cities_{:.count}  <br>
 [South Sudan (SSD)](#ss) - _0 Regions, 1 Cities_{:.count}  <br>
-[Sudan (SDN)](#sd) - _0 Regions, 1 Cities_{:.count}  <br>
+[Sudan (SDN)](#sd) - _0 Regions, 2 Cities_{:.count}  <br>
 [Swaziland (SWZ)](#sz) - _0 Regions, 1 Cities_{:.count}  <br>
 [São Tomé and Príncipe (STP)](#st) - _0 Regions, 1 Cities_{:.count}  <br>
-[Tanzania (TAN)](#tz) - _0 Regions, 1 Cities_{:.count}  <br>
+[Tanzania (TAN)](#tz) - _0 Regions, 2 Cities_{:.count}  <br>
 [Togo (TOG)](#tg) - _0 Regions, 1 Cities_{:.count}  <br>
-[Tunisia (TUN)](#tn) - _0 Regions, 0 Cities_{:.count}  <br>
+[Tunisia (TUN)](#tn) - _0 Regions, 1 Cities_{:.count}  <br>
 [Uganda (UGA)](#ug) - _0 Regions, 1 Cities_{:.count}  <br>
 [Zambia (ZAM)](#zm) - _0 Regions, 1 Cities_{:.count}  <br>
 [Zimbabwe (ZIM)](#zw) - _0 Regions, 1 Cities_{:.count}  <br>
@@ -243,62 +269,67 @@ permalink: /book.html
 
 <div class='columns2' markdown='1'>
 
-[Bahrain (BHR)](#bh) - _0 Regions, 1 Cities_{:.count}  <br>
-[Iran (IRN)](#ir) - _0 Regions, 1 Cities_{:.count}  <br>
-[Iraq (IRQ)](#iq) - _0 Regions, 1 Cities_{:.count}  <br>
+[Bahrain (BHR)](#bh) - _0 Regions, 2 Cities_{:.count}  <br>
+[Iran (IRN)](#ir) - _0 Regions, 7 Cities_{:.count}  <br>
+[Iraq (IRQ)](#iq) - _0 Regions, 5 Cities_{:.count}  <br>
+[Israel (ISR)](#il) - _0 Regions, 2 Cities_{:.count}  <br>
 [Jordan (JOR)](#jo) - _0 Regions, 1 Cities_{:.count}  <br>
-[Kuwait (KUW)](#kw) - _0 Regions, 1 Cities_{:.count}  <br>
-[Lebanon (LIB)](#lb) - _0 Regions, 1 Cities_{:.count}  <br>
+[Kuwait (KUW)](#kw) - _0 Regions, 2 Cities_{:.count}  <br>
+[Lebanon (LIB)](#lb) - _0 Regions, 2 Cities_{:.count}  <br>
 [Oman (OMA)](#om) - _0 Regions, 1 Cities_{:.count}  <br>
-[Palestine (PLE)](#ps) - _0 Regions, 0 Cities_{:.count}  <br>
-[Qatar (QAT)](#qa) - _0 Regions, 1 Cities_{:.count}  <br>
-[Saudi Arabia (KSA)](#sa) - _0 Regions, 0 Cities_{:.count}  <br>
-[Syria (SYR)](#sy) - _0 Regions, 1 Cities_{:.count}  <br>
-[United Arab Emirates (UAE)](#ae) - _0 Regions, 1 Cities_{:.count}  <br>
-[Yemen (YEM)](#ye) - _0 Regions, 1 Cities_{:.count}  <br>
+[Palestine (PLE)](#ps) - _0 Regions, 1 Cities_{:.count}  <br>
+[Qatar (QAT)](#qa) - _0 Regions, 2 Cities_{:.count}  <br>
+[Saudi Arabia (KSA)](#sa) - _0 Regions, 9 Cities_{:.count}  <br>
+[Syria (SYR)](#sy) - _0 Regions, 3 Cities_{:.count}  <br>
+[United Arab Emirates (UAE)](#ae) - _0 Regions, 3 Cities_{:.count}  <br>
+[Yemen (YEM)](#ye) - _0 Regions, 2 Cities_{:.count}  <br>
 
 </div>
 
 
 
 
-#### Asia & Australia
-{: #asia--australia }
+#### Asia
+{: #asia }
 
 
 <div class='columns2' markdown='1'>
 
-[Afghanistan (AFG)](#af) - _0 Regions, 1 Cities_{:.count}  <br>
-[Australia (AUS)](#au) - _8 Regions, 22 Cities_{:.count}  <br>
-[Bangladesh (BAN)](#bd) - _0 Regions, 0 Cities_{:.count}  <br>
+[Afghanistan (AFG)](#af) - _0 Regions, 2 Cities_{:.count}  <br>
+[Bangladesh (BAN)](#bd) - _0 Regions, 3 Cities_{:.count}  <br>
 [Bhutan (BHU)](#bt) - _0 Regions, 1 Cities_{:.count}  <br>
+[British Indian Ocean Territory (IOT)](#io) - _0 Regions, 1 Cities_{:.count}  <br>
 [Brunei (BRU)](#bn) - _0 Regions, 1 Cities_{:.count}  <br>
-[Cambodia (CAM)](#kh) - _0 Regions, 1 Cities_{:.count}  <br>
-[China (CHN)](#cn) - _0 Regions, 0 Cities_{:.count}  <br>
+[Cambodia (CAM)](#kh) - _0 Regions, 2 Cities_{:.count}  <br>
+[China (CHN)](#cn) - _0 Regions, 24 Cities_{:.count}  <br>
+[Christmas Island (CXR)](#cx) - _0 Regions, 1 Cities_{:.count}  <br>
+[Cocos (Keeling) Islands (CCK)](#cc) - _0 Regions, 1 Cities_{:.count}  <br>
 [Hong Kong (HKG)](#hk) - _0 Regions, 0 Cities_{:.count}  <br>
-[India (IND)](#in) - _0 Regions, 0 Cities_{:.count}  <br>
-[Indonesia (IDN)](#id) - _0 Regions, 0 Cities_{:.count}  <br>
-[Japan (JPN)](#jp) - _0 Regions, 0 Cities_{:.count}  <br>
+[India (IND)](#in) - _0 Regions, 18 Cities_{:.count}  <br>
+[Indonesia (IDN)](#id) - _0 Regions, 15 Cities_{:.count}  <br>
+[Japan (JPN)](#jp) - _0 Regions, 17 Cities_{:.count}  <br>
+[Kazakhstan (KAZ)](#kz) - _0 Regions, 1 Cities_{:.count}  <br>
 [Kyrgyzstan (KGZ)](#kg) - _0 Regions, 1 Cities_{:.count}  <br>
 [Laos (LAO)](#la) - _0 Regions, 1 Cities_{:.count}  <br>
-[Malaysia (MAS)](#my) - _0 Regions, 0 Cities_{:.count}  <br>
+[Macau (MAC)](#mo) - _0 Regions, 0 Cities_{:.count}  <br>
+[Malaysia (MAS)](#my) - _0 Regions, 2 Cities_{:.count}  <br>
 [Maldives (MDV)](#mv) - _0 Regions, 1 Cities_{:.count}  <br>
-[Mongolia (MGL)](#mn) - _0 Regions, 1 Cities_{:.count}  <br>
-[Myanmar (MYA)](#mm) - _0 Regions, 1 Cities_{:.count}  <br>
-[Nepal (NEP)](#np) - _0 Regions, 0 Cities_{:.count}  <br>
-[North Korea (PRK)](#kp) - _0 Regions, 0 Cities_{:.count}  <br>
-[Pakistan (PAK)](#pk) - _0 Regions, 0 Cities_{:.count}  <br>
-[Philippines (PHI)](#ph) - _0 Regions, 0 Cities_{:.count}  <br>
-[Singapore (SIN)](#sg) - _0 Regions, 0 Cities_{:.count}  <br>
-[South Korea (KOR)](#kr) - _0 Regions, 0 Cities_{:.count}  <br>
-[Sri Lanka (SRI)](#lk) - _0 Regions, 0 Cities_{:.count}  <br>
-[Taiwan (TPE)](#tw) - _0 Regions, 0 Cities_{:.count}  <br>
+[Mongolia (MGL)](#mn) - _0 Regions, 2 Cities_{:.count}  <br>
+[Myanmar (MYA)](#mm) - _0 Regions, 3 Cities_{:.count}  <br>
+[Nepal (NEP)](#np) - _0 Regions, 1 Cities_{:.count}  <br>
+[North Korea (PRK)](#kp) - _0 Regions, 1 Cities_{:.count}  <br>
+[Pakistan (PAK)](#pk) - _0 Regions, 10 Cities_{:.count}  <br>
+[Philippines (PHI)](#ph) - _0 Regions, 4 Cities_{:.count}  <br>
+[Singapore (SIN)](#sg) - _0 Regions, 1 Cities_{:.count}  <br>
+[South Korea (KOR)](#kr) - _0 Regions, 8 Cities_{:.count}  <br>
+[Sri Lanka (SRI)](#lk) - _0 Regions, 1 Cities_{:.count}  <br>
+[Taiwan (TPE)](#tw) - _0 Regions, 4 Cities_{:.count}  <br>
 [Tajikistan (TJK)](#tj) - _0 Regions, 1 Cities_{:.count}  <br>
-[Thailand (THA)](#th) - _0 Regions, 0 Cities_{:.count}  <br>
+[Thailand (THA)](#th) - _0 Regions, 1 Cities_{:.count}  <br>
 [Timor-Leste [East Timor] (TLS)](#tl) - _0 Regions, 1 Cities_{:.count}  <br>
-[Turkmenistan (TKM)](#tm) - _0 Regions, 1 Cities_{:.count}  <br>
-[Uzbekistan (UZB)](#uz) - _0 Regions, 1 Cities_{:.count}  <br>
-[Vietnam (VIE)](#vn) - _0 Regions, 0 Cities_{:.count}  <br>
+[Turkmenistan (TKM)](#tm) - _0 Regions, 2 Cities_{:.count}  <br>
+[Uzbekistan (UZB)](#uz) - _0 Regions, 2 Cities_{:.count}  <br>
+[Vietnam (VIE)](#vn) - _0 Regions, 2 Cities_{:.count}  <br>
 
 </div>
 
@@ -311,17 +342,31 @@ permalink: /book.html
 
 <div class='columns2' markdown='1'>
 
+[American Samoa (ASM)](#as) - _0 Regions, 0 Cities_{:.count}  <br>
+[Australia (AUS)](#au) - _8 Regions, 22 Cities_{:.count}  <br>
+[Cook Islands (COK)](#ck) - _0 Regions, 0 Cities_{:.count}  <br>
 [Fiji (FIJ)](#fj) - _0 Regions, 1 Cities_{:.count}  <br>
+[Guam (GUM)](#gu) - _0 Regions, 0 Cities_{:.count}  <br>
 [Kiribati (KIR)](#ki) - _0 Regions, 1 Cities_{:.count}  <br>
-[New Zealand (NZL)](#nz) - _0 Regions, 0 Cities_{:.count}  <br>
+[Marshall Islands (MHL)](#mh) - _0 Regions, 1 Cities_{:.count}  <br>
+[Micronesia (FSM)](#fm) - _0 Regions, 1 Cities_{:.count}  <br>
+[Nauru (NRU)](#nr) - _0 Regions, 1 Cities_{:.count}  <br>
+[New Caledonia (NCL)](#nc) - _0 Regions, 1 Cities_{:.count}  <br>
+[New Zealand (NZL)](#nz) - _0 Regions, 1 Cities_{:.count}  <br>
+[Niue (NIU)](#nu) - _0 Regions, 1 Cities_{:.count}  <br>
+[Norfolk Island (NFK)](#nf) - _0 Regions, 0 Cities_{:.count}  <br>
+[Northern Mariana Islands (MNP)](#mp) - _0 Regions, 1 Cities_{:.count}  <br>
 [Palau (PLW)](#pw) - _0 Regions, 1 Cities_{:.count}  <br>
 [Papua New Guinea (PNG)](#pg) - _0 Regions, 0 Cities_{:.count}  <br>
+[Pitcairn Islands (PCN)](#pn) - _0 Regions, 1 Cities_{:.count}  <br>
 [Samoa (SAM)](#ws) - _0 Regions, 1 Cities_{:.count}  <br>
 [Solomon Islands (SOL)](#sb) - _0 Regions, 1 Cities_{:.count}  <br>
 [Tahiti (TAH)](#pf) - _0 Regions, 0 Cities_{:.count}  <br>
+[Tokelau (TKL)](#tk) - _0 Regions, 1 Cities_{:.count}  <br>
 [Tonga (TGA)](#to) - _0 Regions, 1 Cities_{:.count}  <br>
 [Tuvalu (TUV)](#tv) - _0 Regions, 1 Cities_{:.count}  <br>
 [Vanuatu (VAN)](#vu) - _0 Regions, 1 Cities_{:.count}  <br>
+[Wallis and Futuna (WLF)](#wf) - _0 Regions, 0 Cities_{:.count}  <br>
 
 </div>
 
@@ -334,18 +379,6 @@ permalink: /book.html
 
 <div class='columns2' markdown='1'>
 
-[European Union (EUR)](#eu) - _0 Regions, 0 Cities_{:.count}  <br>
-[Gibraltar (GIB)](#gi) - _0 Regions, 0 Cities_{:.count}  <br>
-[Great Britain (GBR)](#gb) - _0 Regions, 0 Cities_{:.count}  <br>
-[Greenland (GRL)](#gl) - _0 Regions, 0 Cities_{:.count}  <br>
-[Guernsey (GGY)](#gg) - _0 Regions, 0 Cities_{:.count}  <br>
-[Isle of Man (IMN)](#im) - _0 Regions, 0 Cities_{:.count}  <br>
-[Jersey (JEY)](#je) - _0 Regions, 0 Cities_{:.count}  <br>
-[Marshall Islands (MHL)](#mh) - _0 Regions, 1 Cities_{:.count}  <br>
-[Micronesia (FSM)](#fm) - _0 Regions, 1 Cities_{:.count}  <br>
-[Monaco (MCO)](#mc) - _0 Regions, 1 Cities_{:.count}  <br>
-[Nauru (NRU)](#nr) - _0 Regions, 1 Cities_{:.count}  <br>
-[Vatican City (VAT)](#va) - _0 Regions, 1 Cities_{:.count}  <br>
 
 </div>
 
@@ -357,11 +390,8 @@ permalink: /book.html
 
 
 [Countries A-Z Index](countries.html) _(245)_{: .count} <br>
-[Regions A-Z Index](regions.html) _(441)_{: .count} <br>
-[Cities A-Z Index](cities.html) _(1401)_{: .count}  <br>
-
----------------------------------------
-
+[Regions A-Z Index](regions.html) _(446)_{: .count} <br>
+[Cities A-Z Index](cities.html) _(1041)_{: .count}  <br>
 ## Albania (ALB) - 0 Regions, 0 Cities
 {: #al }
 
@@ -371,9 +401,6 @@ permalink: /book.html
 
 
  
-
----------------------------------------
-
 ## Andorra (AND) - 0 Regions, 0 Cities
 {: #ad }
 
@@ -383,44 +410,39 @@ permalink: /book.html
 
 
  
-
----------------------------------------
-
-## Armenia (ARM) - 0 Regions, 0 Cities
+## Armenia (ARM) - 0 Regions, 1 Cities
 {: #am }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Yerevan  _pop (1)_{:.pop} {: .city #yerevan } <br>
+
 
  
-
----------------------------------------
-
-## Austria (AUT) - 9 Regions, 103 Cities
+## Austria (AUT) - 9 Regions, 31 Cities
 {: #at }
 
 
-[Burgenland](#at-b) _(4)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(25)_{:.count} • [Wien [Vienna]](#at-w) _(1)_{:.count} • [Steiermark [Styria]](#at-st) _(18)_{:.count} • [Kärnten [Carinthia]](#at-k) _(6)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(29)_{:.count} • [Salzburg](#at-s) _(4)_{:.count} • [Tirol [Tyrol]](#at-t) _(8)_{:.count} • [Vorarlberg](#at-v) _(8)_{:.count}
+[Burgenland](#at-b) _(2)_{:.count} • [Niederösterreich [Lower Austria]](#at-n) _(7)_{:.count} • [Wien [Vienna]](#at-w) _(1)_{:.count} • [Steiermark [Styria]](#at-st) _(4)_{:.count} • [Kärnten [Carinthia]](#at-k) _(3)_{:.count} • [Oberösterreich [Upper Austria]](#at-o) _(6)_{:.count} • [Salzburg](#at-s) _(2)_{:.count} • [Tirol [Tyrol]](#at-t) _(1)_{:.count} • [Vorarlberg](#at-v) _(5)_{:.count}
 
 
 
 
-### Burgenland _(4)_{:.count}
+### Burgenland _(2)_{:.count}
 {: #at-b }
 
 
-[Eisenstadt](#eisenstadt) • [Gols](#gols) • [Kobersdorf](#kobersdorf) • [Mattersburg](#mattersburg)
+[Eisenstadt](#eisenstadt) • [Mattersburg](#mattersburg)
 
 <div class='columns2' markdown='1'>
 
 
 Eisenstadt  _pop 12.367_{:.pop} {: .city #eisenstadt } <br>
-
-Gols  {: .city #gols } <br>
-
-Kobersdorf  {: .city #kobersdorf } <br>
 
 Mattersburg  _pop 6.256_{:.pop} {: .city #mattersburg } <br>
 
@@ -428,64 +450,28 @@ Mattersburg  _pop 6.256_{:.pop} {: .city #mattersburg } <br>
 
 
 
-### Niederösterreich [Lower Austria] _(25)_{:.count}
+### Niederösterreich [Lower Austria] _(7)_{:.count}
 {: #at-n }
 
 
-[Baden](#baden) • [Brunn am Gebirge](#brunnamgebirge) • [Gablitz](#gablitz) • [Gaming](#gaming) • [Hainfeld](#hainfeld) • [Horn](#horn) • [Korneuburg](#korneuburg) • [Kosterneuburg](#kosterneuburg) • [Krems](#krems) • [Krumbach](#krumbach) • [Laa/Thaya](#laathaya) • [Mödling](#moedling) • [Schottwien](#schottwien) • [Schrems](#schrems) • [Schwechat](#schwechat) • [St. Pölten](#stpoelten) • [Thernberg](#thernberg) • [Unterradlberg](#unterradlberg) • [Untersiebenbrunn](#untersiebenbrunn) • [Warth](#warth) • [Weitra](#weitra) • [Wieselburg](#wieselburg) • [Winzendorf](#winzendorf) • [Wr. Neustadt](#wrneustadt) • [Zwettl](#zwettl)
+[Baden](#baden) • [Horn](#horn) • [Kosterneuburg](#kosterneuburg) • [Krems](#krems) • [Mödling](#moedling) • [St. Pölten](#stpoelten) • [Wr. Neustadt](#wrneustadt)
 
 <div class='columns2' markdown='1'>
 
 
 Baden  _pop 25.142_{:.pop} {: .city #baden } <br>
 
-Brunn am Gebirge  {: .city #brunnamgebirge } <br>
-
-Gablitz  {: .city #gablitz } <br>
-
-Gaming  {: .city #gaming } <br>
-
-Hainfeld  {: .city #hainfeld } <br>
-
 Horn  _pop 6.411_{:.pop} {: .city #horn } <br>
-
-Korneuburg  {: .city #korneuburg } <br>
 
 Kosterneuburg  _pop 25.927_{:.pop} {: .city #kosterneuburg } <br>
 
 Krems  _pop 24.110_{:.pop} {: .city #krems } <br>
 
-Krumbach  {: .city #krumbach } <br>
-
-Laa/Thaya  {: .city #laathaya } <br>
-
 Mödling  _pop 20.649_{:.pop} {: .city #moedling } <br>
-
-Schottwien  {: .city #schottwien } <br>
-
-Schrems  {: .city #schrems } <br>
-
-Schwechat  {: .city #schwechat } <br>
 
 St. Pölten  _pop 52.048_{:.pop} {: .city #stpoelten } <br>
 
-Thernberg  {: .city #thernberg } <br>
-
-Unterradlberg  {: .city #unterradlberg } <br>
-
-Untersiebenbrunn  {: .city #untersiebenbrunn } <br>
-
-Warth  {: .city #warth } <br>
-
-Weitra  {: .city #weitra } <br>
-
-Wieselburg  {: .city #wieselburg } <br>
-
-Winzendorf  {: .city #winzendorf } <br>
-
 Wr. Neustadt  _pop 41.537_{:.pop} {: .city #wrneustadt } <br>
-
-Zwettl  {: .city #zwettl } <br>
 
 </div>
 
@@ -500,77 +486,43 @@ Zwettl  {: .city #zwettl } <br>
 <div class='columns2' markdown='1'>
 
 
-Wien  _pop 1.731.236 (1.724.000)_{:.pop} {: .city #wien } <br>
+Wien [Vienna]  _pop 1.731.236 (1.724.000)_{:.pop} {: .city #wien } <br>
 
 </div>
 
 
 
-### Steiermark [Styria] _(18)_{:.count}
+### Steiermark [Styria] _(4)_{:.count}
 {: #at-st }
 
 
-[Bad Radkersburg](#badradkersburg) • [Ebersdorf](#ebersdorf) • [Eisenerz](#eisenerz) • [Fürstenfeld](#fuerstenfeld) • [Graz](#graz) • [Göss/Leoben](#goessleoben) • [Hartberg](#hartberg) • [Kaindorf](#kaindorf) • [Kalsdorf](#kalsdorf) • [Kapfenberg](#kapfenberg) • [Leoben](#leoben) • [Leutschach](#leutschach) • [Murau](#murau) • [Schladming](#schladming) • [St. Marein](#stmarein) • [St. Nikolai i. S.](#stnikolaiis) • [Weinburg](#weinburg) • [Wundschuh](#wundschuh)
+[Graz](#graz) • [Hartberg](#hartberg) • [Kapfenberg](#kapfenberg) • [Leoben](#leoben)
 
 <div class='columns2' markdown='1'>
 
 
-Bad Radkersburg  {: .city #badradkersburg } <br>
-
-Ebersdorf  {: .city #ebersdorf } <br>
-
-Eisenerz  {: .city #eisenerz } <br>
-
-Fürstenfeld  {: .city #fuerstenfeld } <br>
-
 Graz  _pop 265.318_{:.pop} {: .city #graz } <br>
 
-Göss/Leoben  {: .city #goessleoben } <br>
-
 Hartberg  _pop 6.547_{:.pop} {: .city #hartberg } <br>
-
-Kaindorf  {: .city #kaindorf } <br>
-
-Kalsdorf  {: .city #kalsdorf } <br>
 
 Kapfenberg  _pop 21.928_{:.pop} {: .city #kapfenberg } <br>
 
 Leoben  _pop 24.645_{:.pop} {: .city #leoben } <br>
 
-Leutschach  {: .city #leutschach } <br>
-
-Murau  {: .city #murau } <br>
-
-Schladming  {: .city #schladming } <br>
-
-St. Marein  {: .city #stmarein } <br>
-
-St. Nikolai i. S.  {: .city #stnikolaiis } <br>
-
-Weinburg  {: .city #weinburg } <br>
-
-Wundschuh  {: .city #wundschuh } <br>
-
 </div>
 
 
 
-### Kärnten [Carinthia] _(6)_{:.count}
+### Kärnten [Carinthia] _(3)_{:.count}
 {: #at-k }
 
 
-[Klagenfurt](#klagenfurt) • [Kraig](#kraig) • [Kötschach-Mauthen](#koetschachmauthen) • [Micheldorf](#micheldorf) • [Villach](#villach) • [Wolfsberg](#wolfsberg)
+[Klagenfurt](#klagenfurt) • [Villach](#villach) • [Wolfsberg](#wolfsberg)
 
 <div class='columns2' markdown='1'>
 
 
 Klagenfurt  _pop 94.796_{:.pop} {: .city #klagenfurt } <br>
-
-Kraig  {: .city #kraig } <br>
-
-Kötschach-Mauthen  {: .city #koetschachmauthen } <br>
-
-Micheldorf  {: .city #micheldorf } <br>
 
 Villach  _pop 59.585_{:.pop} {: .city #villach } <br>
 
@@ -580,91 +532,41 @@ Wolfsberg  _pop 24.983_{:.pop} {: .city #wolfsberg } <br>
 
 
 
-### Oberösterreich [Upper Austria] _(29)_{:.count}
+### Oberösterreich [Upper Austria] _(6)_{:.count}
 {: #at-o }
 
 
-[Altheim](#altheim) • [Ampflwang](#ampflwang) • [Attersee](#attersee) • [Braunau](#braunau) • [Eggelsberg](#eggelsberg) • [Engelhartszell](#engelhartszell) • [Frankenmarkt](#frankenmarkt) • [Freistadt](#freistadt) • [Grieskirchen](#grieskirchen) • [Leonding](#leonding) • [Linz](#linz) • [Neufelden](#neufelden) • [Neumarkt/Hausruck](#neumarkthausruck) • [Ried](#ried) • [Ried/Innkreis](#riedinnkreis) • [Schlägl](#schlaegl) • [Schwertberg](#schwertberg) • [Schärding](#schaerding) • [Schörfling (am Attersee)](#schoerfling) • [St. Martin](#stmartin) • [St. Stefan am Walde](#ststefanamwalde) • [Steyr](#steyr) • [Straß (i. Attergau)](#strass) • [Traun](#traun) • [Uttendorf](#uttendorf) • [Vorchdorf](#vorchdorf) • [Wels](#wels) • [Wilhering](#wilhering) • [Zipf](#zipf)
+[Leonding](#leonding) • [Linz](#linz) • [Ried](#ried) • [Steyr](#steyr) • [Traun](#traun) • [Wels](#wels)
 
 <div class='columns2' markdown='1'>
 
-
-Altheim  {: .city #altheim } <br>
-
-Ampflwang  {: .city #ampflwang } <br>
-
-Attersee  {: .city #attersee } <br>
-
-Braunau  {: .city #braunau } <br>
-
-Eggelsberg  {: .city #eggelsberg } <br>
-
-Engelhartszell  {: .city #engelhartszell } <br>
-
-Frankenmarkt  {: .city #frankenmarkt } <br>
-
-Freistadt  {: .city #freistadt } <br>
-
-Grieskirchen  {: .city #grieskirchen } <br>
 
 Leonding  _pop 25.689_{:.pop} {: .city #leonding } <br>
 
 Linz  _pop 191.107_{:.pop} {: .city #linz } <br>
 
-Neufelden  {: .city #neufelden } <br>
-
-Neumarkt/Hausruck  {: .city #neumarkthausruck } <br>
-
 Ried  _pop 11.585_{:.pop} {: .city #ried } <br>
-
-Ried/Innkreis  {: .city #riedinnkreis } <br>
-
-Schlägl  {: .city #schlaegl } <br>
-
-Schwertberg  {: .city #schwertberg } <br>
-
-Schärding  {: .city #schaerding } <br>
-
-Schörfling (am Attersee)  {: .city #schoerfling } <br>
-
-St. Martin  {: .city #stmartin } <br>
-
-St. Stefan am Walde  {: .city #ststefanamwalde } <br>
 
 Steyr  _pop 38.248_{:.pop} {: .city #steyr } <br>
 
-Straß (i. Attergau)  {: .city #strass } <br>
-
 Traun  _pop 23.941_{:.pop} {: .city #traun } <br>
 
-Uttendorf  {: .city #uttendorf } <br>
-
-Vorchdorf  {: .city #vorchdorf } <br>
-
 Wels  _pop 58.717_{:.pop} {: .city #wels } <br>
-
-Wilhering  {: .city #wilhering } <br>
-
-Zipf  {: .city #zipf } <br>
 
 </div>
 
 
 
-### Salzburg _(4)_{:.count}
+### Salzburg _(2)_{:.count}
 {: #at-s }
 
 
-[Grödig](#groedig) • [Hallein-Kaltenhausen](#halleinkaltenhausen) • [Obertrum](#obertrum) • [Salzburg](#salzburg)
+[Grödig](#groedig) • [Salzburg](#salzburg)
 
 <div class='columns2' markdown='1'>
 
 
 Grödig  _pop 6.638_{:.pop} {: .city #groedig } <br>
-
-Hallein-Kaltenhausen  {: .city #halleinkaltenhausen } <br>
-
-Obertrum  {: .city #obertrum } <br>
 
 Salzburg  _pop 148.521_{:.pop} {: .city #salzburg } <br>
 
@@ -672,57 +574,37 @@ Salzburg  _pop 148.521_{:.pop} {: .city #salzburg } <br>
 
 
 
-### Tirol [Tyrol] _(8)_{:.count}
+### Tirol [Tyrol] _(1)_{:.count}
 {: #at-t }
 
 
-[Alpach](#alpach) • [Innsbruck](#innsbruck) • [Lienz](#lienz) • [St. Johann](#stjohann) • [Tarrenz](#tarrenz) • [Unterperfuß/Innsbruck](#unterperfussinnsbruck) • [Vils](#vils) • [Zell am Ziller](#zellamziller)
+
 
 <div class='columns2' markdown='1'>
 
 
-Alpach  {: .city #alpach } <br>
-
 Innsbruck  _pop 121.329_{:.pop} {: .city #innsbruck } <br>
-
-Lienz  {: .city #lienz } <br>
-
-St. Johann  {: .city #stjohann } <br>
-
-Tarrenz  {: .city #tarrenz } <br>
-
-Unterperfuß/Innsbruck  {: .city #unterperfussinnsbruck } <br>
-
-Vils  {: .city #vils } <br>
-
-Zell am Ziller  {: .city #zellamziller } <br>
 
 </div>
 
 
 
-### Vorarlberg _(8)_{:.count}
+### Vorarlberg _(5)_{:.count}
 {: #at-v }
 
 
-[Altach](#altach) • [Bludenz](#bludenz) • [Bregenz](#bregenz) • [Dornbirn](#dornbirn) • [Egg](#egg) • [Feldkirch](#feldkirch) • [Frastanz](#frastanz) • [Lustenau](#lustenau)
+[Altach](#altach) • [Bregenz](#bregenz) • [Dornbirn](#dornbirn) • [Feldkirch](#feldkirch) • [Lustenau](#lustenau)
 
 <div class='columns2' markdown='1'>
 
 
 Altach  _pop 5.704_{:.pop} {: .city #altach } <br>
 
-Bludenz  {: .city #bludenz } <br>
-
 Bregenz  _pop 28.007_{:.pop} {: .city #bregenz } <br>
 
 Dornbirn  _pop 45.978_{:.pop} {: .city #dornbirn } <br>
 
-Egg  {: .city #egg } <br>
-
 Feldkirch  _pop 31.025_{:.pop} {: .city #feldkirch } <br>
-
-Frastanz  {: .city #frastanz } <br>
 
 Lustenau  _pop 20.606_{:.pop} {: .city #lustenau } <br>
 
@@ -730,9 +612,6 @@ Lustenau  _pop 20.606_{:.pop} {: .city #lustenau } <br>
 
 
  
-
----------------------------------------
-
 ## Azerbaijan (AZE) - 0 Regions, 1 Cities
 {: #az }
 
@@ -743,13 +622,10 @@ Lustenau  _pop 20.606_{:.pop} {: .city #lustenau } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Baku  {: .city #baku } <br>
+Bakı [Baku]  _pop (2)_{:.pop} {: .city #baku } <br>
 
 
  
-
----------------------------------------
-
 ## Belarus (BLR) - 0 Regions, 2 Cities
 {: #by }
 
@@ -766,14 +642,11 @@ Borissow  {: .city #borisov } <br>
 
 
  
-
----------------------------------------
-
-## Belgium (BEL) - 11 Regions, 14 Cities
+## Belgium (BEL) - 11 Regions, 13 Cities
 {: #be }
 
 
-[Bruxelles•Brussel [Brussels (Capital Region)]](#be-bru) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-van) _(2)_{:.count} • [Limburg](#be-vli) _(1)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-vov) _(1)_{:.count} • [Vlaams-Brabant [Flemish Brabant]](#be-vbr) _(1)_{:.count} • [West-Vlaanderen [West Flanders]](#be-vwv) _(2)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-wbr) _(1)_{:.count} • [Hainaut](#be-wht) _(2)_{:.count} • [Liège](#be-wlg) _(1)_{:.count} • [Luxembourg](#be-wlx) _(1)_{:.count} • [Namur](#be-wna) _(1)_{:.count}
+[Bruxelles•Brussel [Brussels (Capital Region)]](#be-bru) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-van) _(2)_{:.count} • [Limburg](#be-vli) _(1)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-vov) _(1)_{:.count} • [Vlaams-Brabant [Flemish Brabant]](#be-vbr) _(1)_{:.count} • [West-Vlaanderen [West Flanders]](#be-vwv) _(1)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-wbr) _(1)_{:.count} • [Hainaut](#be-wht) _(2)_{:.count} • [Liège](#be-wlg) _(1)_{:.count} • [Luxembourg](#be-wlx) _(1)_{:.count} • [Namur](#be-wna) _(1)_{:.count}
 
 
 
@@ -787,7 +660,7 @@ Borissow  {: .city #borisov } <br>
 <div class='columns2' markdown='1'>
 
 
-Brussel  _pop 1.048.491 (1.929.000)_{:.pop} {: .city #brussel } <br>
+Brussel[nl]  _pop 1.048.491 (1.929.000)_{:.pop} {: .city #brussel } <br>
 
 </div>
 
@@ -797,14 +670,14 @@ Brussel  _pop 1.048.491 (1.929.000)_{:.pop} {: .city #brussel } <br>
 {: #be-van }
 
 
-[Antwerpen](#antwerpen) • [Mechelen](#mechelen)
+[Antwerpen[nl]](#antwerpen) • [Mechelen[nl]](#mechelen)
 
 <div class='columns2' markdown='1'>
 
 
-Antwerpen  _pop 466.203 (960.000)_{:.pop} {: .city #antwerpen } <br>
+Antwerpen[nl]  _pop 466.203 (960.000)_{:.pop} {: .city #antwerpen } <br>
 
-Mechelen  _pop 78.900_{:.pop} {: .city #mechelen } <br>
+Mechelen[nl]  _pop 78.900_{:.pop} {: .city #mechelen } <br>
 
 </div>
 
@@ -834,7 +707,7 @@ Hasselt  {: .city #hasselt } <br>
 <div class='columns2' markdown='1'>
 
 
-Gent  _pop 235.143_{:.pop} {: .city #gent } <br>
+Gent[nl]  _pop 235.143_{:.pop} {: .city #gent } <br>
 
 </div>
 
@@ -849,24 +722,22 @@ Gent  _pop 235.143_{:.pop} {: .city #gent } <br>
 <div class='columns2' markdown='1'>
 
 
-Leuven  _pop 91.942_{:.pop} {: .city #leuven } <br>
+Leuven[nl]  _pop 91.942_{:.pop} {: .city #leuven } <br>
 
 </div>
 
 
 
-### West-Vlaanderen [West Flanders] _(2)_{:.count}
+### West-Vlaanderen [West Flanders] _(1)_{:.count}
 {: #be-vwv }
 
 
-[Bruges](#bruges) • [Brugge](#brugge)
+
 
 <div class='columns2' markdown='1'>
 
 
-Bruges  _pop 116.982_{:.pop} {: .city #bruges } <br>
-
-Brugge  {: .city #brugge } <br>
+Brugge[nl]  _pop 116.982_{:.pop} {: .city #brugge } <br>
 
 </div>
 
@@ -891,14 +762,14 @@ Wavre  {: .city #wavre } <br>
 {: #be-wht }
 
 
-[Charleroi](#charleroi) • [Mons](#mons)
+[Charleroi[fr]](#charleroi) • [Mons[fr]](#mons)
 
 <div class='columns2' markdown='1'>
 
 
-Charleroi  _pop 201.550_{:.pop} {: .city #charleroi } <br>
+Charleroi[fr]  _pop 201.550_{:.pop} {: .city #charleroi } <br>
 
-Mons  _pop 91.196_{:.pop} {: .city #mons } <br>
+Mons[fr]  _pop 91.196_{:.pop} {: .city #mons } <br>
 
 </div>
 
@@ -913,7 +784,7 @@ Mons  _pop 91.196_{:.pop} {: .city #mons } <br>
 <div class='columns2' markdown='1'>
 
 
-Liège  _pop 188.907_{:.pop} {: .city #liege } <br>
+Liège[fr]  _pop 188.907_{:.pop} {: .city #liege } <br>
 
 </div>
 
@@ -943,15 +814,12 @@ Arlon  {: .city #arlon } <br>
 <div class='columns2' markdown='1'>
 
 
-Namur  _pop 107.653_{:.pop} {: .city #namur } <br>
+Namur[fr]  _pop 107.653_{:.pop} {: .city #namur } <br>
 
 </div>
 
 
  
-
----------------------------------------
-
 ## Bosnia and Herzegovina (BIH) - 0 Regions, 1 Cities
 {: #ba }
 
@@ -966,9 +834,6 @@ Sarajevo  {: .city #sarajevo } <br>
 
 
  
-
----------------------------------------
-
 ## Bulgaria (BUL) - 28 Regions, 23 Cities
 {: #bg }
 
@@ -987,7 +852,7 @@ Sarajevo  {: .city #sarajevo } <br>
 <div class='columns2' markdown='1'>
 
 
-Sofija [Sofia]  _pop 1.204.685 (1.291.591)_{:.pop} {: .city #sofija } <br>
+Sofija [Sofia]  _pop 1.204.685 (1)_{:.pop} {: .city #sofija } <br>
 
 </div>
 
@@ -1388,9 +1253,6 @@ Stara Zagora  _pop 138.272_{:.pop} {: .city #starazagora } <br>
 
 
  
-
----------------------------------------
-
 ## Croatia (CRO) - 0 Regions, 1 Cities
 {: #hr }
 
@@ -1405,9 +1267,6 @@ Zagreb  {: .city #zagreb } <br>
 
 
  
-
----------------------------------------
-
 ## Cyprus (CYP) - 0 Regions, 1 Cities
 {: #cy }
 
@@ -1422,19 +1281,16 @@ Nikosia  {: .city #nikosia } <br>
 
 
  
-
----------------------------------------
-
-## Czech Republic (CZE) - 14 Regions, 16 Cities
+## Czech Republic (CZE) - 14 Regions, 19 Cities
 {: #cz }
 
 
-[Praha [Prague • Prag]](#cz-pr) _(1)_{:.count} • [Střední Čechy [Central Bohemia • Mittelböhmen]](#cz-st) _(1)_{:.count} • [Jižní Čechy [South Bohemia • Südböhmen]](#cz-jc) _(4)_{:.count} • [Plzeň [• Pilsen]](#cz-pl) _(1)_{:.count} • [Karlovy Vary [Carlsbad • Karlsbad]](#cz-ka) _(1)_{:.count} • [Ústí nad Labem [• Aussig]](#cz-us) _(1)_{:.count} • [Liberec   [• Reichenberg]](#cz-li) _(1)_{:.count} • [Hradec Králové [• Königgrätz]](#cz-kr) _(1)_{:.count} • [Pardubice   [• Pardubitz]](#cz-pa) _(1)_{:.count} • [Jižní Morava [South Moravia • Südmähren]](#cz-jm) _(2)_{:.count} • [Vysočina [• Hochland]](#cz-vy) _(0)_{:.count} • [Olomouc [• Olmütz]](#cz-ol) _(1)_{:.count} • [Zlín [• Zlin]](#cz-zl) _(0)_{:.count} • [Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien]](#cz-mo) _(1)_{:.count}
+[Praha [Prague]](#cz-pr) _(1)_{:.count} • [Střední Čechy [Central Bohemia]](#cz-st) _(1)_{:.count} • [Jižní Čechy [South Bohemia]](#cz-jc) _(5)_{:.count} • [Plzeň](#cz-pl) _(1)_{:.count} • [Karlovy Vary [Carlsbad]](#cz-ka) _(1)_{:.count} • [Ústí nad Labem](#cz-us) _(1)_{:.count} • [Liberec](#cz-li) _(1)_{:.count} • [Hradec Králové](#cz-kr) _(1)_{:.count} • [Pardubice](#cz-pa) _(1)_{:.count} • [Jižní Morava [South Moravia]](#cz-jm) _(2)_{:.count} • [Vysočina](#cz-vy) _(1)_{:.count} • [Olomouc](#cz-ol) _(1)_{:.count} • [Zlín](#cz-zl) _(1)_{:.count} • [Moravskoslezsko [Moravia-Silesia]](#cz-mo) _(1)_{:.count}
 
 
 
 
-### Praha [Prague • Prag] _(1)_{:.count}
+### Praha [Prague] | Prag[de] _(1)_{:.count}
 {: #cz-pr }
 
 
@@ -1449,7 +1305,7 @@ Praha [Prague]  _pop 1.290.846 (1.265.000)_{:.pop} {: .city #praha } <br>
 
 
 
-### Střední Čechy [Central Bohemia • Mittelböhmen] _(1)_{:.count}
+### Střední Čechy [Central Bohemia] | Mittelböhmen[de] _(1)_{:.count}
 {: #cz-st }
 
 
@@ -1464,16 +1320,16 @@ Kutná Hora  _pop 20.839_{:.pop} {: .city #kutnahora } <br>
 
 
 
-### Jižní Čechy [South Bohemia • Südböhmen] _(4)_{:.count}
+### Jižní Čechy [South Bohemia] | Südböhmen[de] _(5)_{:.count}
 {: #cz-jc }
 
 
-[Budějovice [Budweis]](#budejovice) • [Krumlov](#krumlov) • [Tábor](#tabor) • [Třeboň](#trebon)
+[Budějovice](#budejovice) • [Krumlov](#krumlov) • [Tábor](#tabor) • [Třeboň](#trebon) • [České Budějovice](#ceskebudejovice)
 
 <div class='columns2' markdown='1'>
 
 
-Budějovice [Budweis]  _pop 93.883_{:.pop} {: .city #budejovice } <br>
+Budějovice  _pop 93.883_{:.pop} {: .city #budejovice } <br>
 
 Krumlov  _pop 13.752_{:.pop} {: .city #krumlov } <br>
 
@@ -1481,11 +1337,13 @@ Tábor  _pop 35.769_{:.pop} {: .city #tabor } <br>
 
 Třeboň  _pop 8.840_{:.pop} {: .city #trebon } <br>
 
+České Budějovice  {: .city #ceskebudejovice } <br>
+
 </div>
 
 
 
-### Plzeň [• Pilsen] _(1)_{:.count}
+### Plzeň | Pilsen[de] _(1)_{:.count}
 {: #cz-pl }
 
 
@@ -1494,13 +1352,13 @@ Třeboň  _pop 8.840_{:.pop} {: .city #trebon } <br>
 <div class='columns2' markdown='1'>
 
 
-Plzeň [Pilsen]  _pop 169.688_{:.pop} {: .city #plzen } <br>
+Plzeň  _pop 169.688_{:.pop} {: .city #plzen } <br>
 
 </div>
 
 
 
-### Karlovy Vary [Carlsbad • Karlsbad] _(1)_{:.count}
+### Karlovy Vary [Carlsbad] | Karlsbad[de] _(1)_{:.count}
 {: #cz-ka }
 
 
@@ -1515,7 +1373,7 @@ Karlovy Vary [Carlsbad]  _pop 53.737_{:.pop} {: .city #karlovyvary } <br>
 
 
 
-### Ústí nad Labem [• Aussig] _(1)_{:.count}
+### Ústí nad Labem | Aussig[de] _(1)_{:.count}
 {: #cz-us }
 
 
@@ -1530,7 +1388,7 @@ Karlovy Vary [Carlsbad]  _pop 53.737_{:.pop} {: .city #karlovyvary } <br>
 
 
 
-### Liberec   [• Reichenberg] _(1)_{:.count}
+### Liberec | Reichenberg[de] _(1)_{:.count}
 {: #cz-li }
 
 
@@ -1545,7 +1403,7 @@ Liberec  _pop 102.247_{:.pop} {: .city #liberec } <br>
 
 
 
-### Hradec Králové [• Königgrätz] _(1)_{:.count}
+### Hradec Králové | Königgrätz[de] _(1)_{:.count}
 {: #cz-kr }
 
 
@@ -1560,7 +1418,7 @@ Hradec Králové  _pop 94.242_{:.pop} {: .city #hradeckralove } <br>
 
 
 
-### Pardubice   [• Pardubitz] _(1)_{:.count}
+### Pardubice | Pardubitz[de] _(1)_{:.count}
 {: #cz-pa }
 
 
@@ -1575,7 +1433,7 @@ Pardubice  _pop 91.073_{:.pop} {: .city #pardubice } <br>
 
 
 
-### Jižní Morava [South Moravia • Südmähren] _(2)_{:.count}
+### Jižní Morava [South Moravia] | Südmähren[de] _(2)_{:.count}
 {: #cz-jm }
 
 
@@ -1592,7 +1450,7 @@ Mikulov  _pop 7.624_{:.pop} {: .city #mikulov } <br>
 
 
 
-### Vysočina [• Hochland] _(0)_{:.count}
+### Vysočina | Hochland[de] _(1)_{:.count}
 {: #cz-vy }
 
 
@@ -1601,11 +1459,13 @@ Mikulov  _pop 7.624_{:.pop} {: .city #mikulov } <br>
 <div class='columns2' markdown='1'>
 
 
+Jihlava  {: .city #jihlava } <br>
+
 </div>
 
 
 
-### Olomouc [• Olmütz] _(1)_{:.count}
+### Olomouc | Olmütz[de] _(1)_{:.count}
 {: #cz-ol }
 
 
@@ -1620,7 +1480,7 @@ Olomouc  _pop 100.043_{:.pop} {: .city #olomouc } <br>
 
 
 
-### Zlín [• Zlin] _(0)_{:.count}
+### Zlín | Zlin[de] _(1)_{:.count}
 {: #cz-zl }
 
 
@@ -1629,11 +1489,13 @@ Olomouc  _pop 100.043_{:.pop} {: .city #olomouc } <br>
 <div class='columns2' markdown='1'>
 
 
+Zlín  {: .city #zlin } <br>
+
 </div>
 
 
 
-### Moravskoslezsko [Moravia-Silesia • Mähren-Schlesien] _(1)_{:.count}
+### Moravskoslezsko [Moravia-Silesia] | Mähren-Schlesien[de] _(1)_{:.count}
 {: #cz-mo }
 
 
@@ -1648,33 +1510,102 @@ Ostrava  _pop 302.456_{:.pop} {: .city #ostrava } <br>
 
 
  
-
----------------------------------------
-
-## Denmark (DEN) - 0 Regions, 2 Cities
+## Denmark (DEN) - 5 Regions, 7 Cities
 {: #dk }
 
 
-
+[Hovedstaden [Greater Copenhagen](#dk-h) _(1)_{:.count} • [Sjælland [Zealand]](#dk-sj) _(1)_{:.count} • [Nordjylland [North Denmark](#dk-n) _(1)_{:.count} • [Midtjylland [Central Denmark](#dk-m) _(1)_{:.count} • [Syddanmark  [South Denmark]](#dk-s) _(1)_{:.count} • **Uncategorized** _(2)_{:.count}
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-København [Copenhagen]  _pop (1.181.000)_{:.pop} {: .city #kobenhavn } <br>
+København [Copenhagen]  _pop (1)_{:.pop} {: .city #kobenhavn } <br>
 
 Farum  {: .city #farum } <br>
 
 
+
+### Hovedstaden [Greater Copenhagen | Capital Region] _(1)_{:.count}
+{: #dk-h }
+
+
+
+
+<div class='columns2' markdown='1'>
+
+
+Hillerød  {: .city #hillerod } <br>
+
+</div>
+
+
+
+### Sjælland [Zealand] _(1)_{:.count}
+{: #dk-sj }
+
+
+
+
+<div class='columns2' markdown='1'>
+
+
+Sorø  {: .city #soro } <br>
+
+</div>
+
+
+
+### Nordjylland [North Denmark | North Jutland] _(1)_{:.count}
+{: #dk-n }
+
+
+
+
+<div class='columns2' markdown='1'>
+
+
+Aalborg  {: .city #aalborg } <br>
+
+</div>
+
+
+
+### Midtjylland [Central Denmark | Central Jutland] _(1)_{:.count}
+{: #dk-m }
+
+
+
+
+<div class='columns2' markdown='1'>
+
+
+Viborg  {: .city #viborg } <br>
+
+</div>
+
+
+
+### Syddanmark  [South Denmark] _(1)_{:.count}
+{: #dk-s }
+
+
+
+
+<div class='columns2' markdown='1'>
+
+
+Vejle  {: .city #vejle } <br>
+
+</div>
+
+
  
-
----------------------------------------
-
-## England (ENG) - 9 Regions, 19 Cities
+## England (ENG) - 9 Regions, 17 Cities
 {: #en }
 
 
-[North East England](#en-ne) _(1)_{:.count} • [North West England](#en-nw) _(3)_{:.count} • [Yorkshire and the Humber](#en-yh) _(5)_{:.count} • [East Midlands](#en-em) _(1)_{:.count} • [West Midlands](#en-wm) _(4)_{:.count} • [East of England](#en-ee) _(1)_{:.count} • [Greater London](#en-gl) _(1)_{:.count} • [South East England](#en-se) _(2)_{:.count} • [South West England](#en-sw) _(1)_{:.count}
+[North East England](#en-ne) _(1)_{:.count} • [North West England](#en-nw) _(3)_{:.count} • [Yorkshire and the Humber](#en-yh) _(4)_{:.count} • [East Midlands](#en-em) _(1)_{:.count} • [West Midlands](#en-wm) _(4)_{:.count} • [East of England](#en-ee) _(1)_{:.count} • [Greater London](#en-gl) _(0)_{:.count} • [South East England](#en-se) _(2)_{:.count} • [South West England](#en-sw) _(1)_{:.count}
 
 
 
@@ -1713,18 +1644,16 @@ Wigan  _pop 81.203_{:.pop} {: .city #wigan } <br>
 
 
 
-### Yorkshire and the Humber _(5)_{:.count}
+### Yorkshire and the Humber _(4)_{:.count}
 {: #en-yh }
 
 
-[Bradford](#bradford) • [Kingston](#kingston) • [Leeds](#leeds) • [Leeds-Bradford](#leedsbradford) • [Sheffield](#sheffield)
+[Bradford](#bradford) • [Leeds](#leeds) • [Leeds-Bradford](#leedsbradford) • [Sheffield](#sheffield)
 
 <div class='columns2' markdown='1'>
 
 
 Bradford  _pop 293.717_{:.pop} {: .city #bradford } <br>
-
-Kingston  _pop 301.416_{:.pop} {: .city #kingston } <br>
 
 Leeds  _pop 443.247_{:.pop} {: .city #leeds } <br>
 
@@ -1787,7 +1716,7 @@ Norwich  _pop 140.200_{:.pop} {: .city #norwich } <br>
 
 
 
-### Greater London _(1)_{:.count}
+### Greater London _(0)_{:.count}
 {: #en-gl }
 
 
@@ -1795,8 +1724,6 @@ Norwich  _pop 140.200_{:.pop} {: .city #norwich } <br>
 
 <div class='columns2' markdown='1'>
 
-
-London  _pop 7.619.800 (8.586.000)_{:.pop} {: .city #london } <br>
 
 </div>
 
@@ -1834,9 +1761,6 @@ Bristol  _pop 420.556_{:.pop} {: .city #bristol } <br>
 
 
  
-
----------------------------------------
-
 ## Estonia (EST) - 0 Regions, 1 Cities
 {: #ee }
 
@@ -1851,9 +1775,15 @@ Tallinn  _pop 418.107_{:.pop} {: .city #tallinn } <br>
 
 
  
+## European Union (EUR) - 0 Regions, 0 Cities
+{: #eu }
 
----------------------------------------
 
+
+
+
+
+ 
 ## Faroe Islands (FRO) - 0 Regions, 0 Cities
 {: #fo }
 
@@ -1863,9 +1793,6 @@ Tallinn  _pop 418.107_{:.pop} {: .city #tallinn } <br>
 
 
  
-
----------------------------------------
-
 ## Finland (FIN) - 0 Regions, 1 Cities
 {: #fi }
 
@@ -1880,14 +1807,11 @@ Helsingfors [Helsinki]  _pop (1.131.000)_{:.pop} {: .city #helsingfors } <br>
 
 
  
-
----------------------------------------
-
 ## France (FRA) - 21 Regions, 22 Cities
 {: #fr }
 
 
-[Ile-de-France](#fr-if) _(1)_{:.count} • [Champagne-Ardenne](#fr-ca) _(2)_{:.count} • [Picardie](#fr-pd) _(0)_{:.count} • [Haute-Normandie](#fr-hn) _(0)_{:.count} • [Centre](#fr-ct) _(0)_{:.count} • [Basse-Normandie](#fr-bn) _(0)_{:.count} • [Bourgogne](#fr-bg) _(0)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(2)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(2)_{:.count} • [Alsace](#fr-al) _(1)_{:.count} • [Franche-Comté](#fr-fc) _(1)_{:.count} • [Pays de la Loire](#fr-pl) _(1)_{:.count} • [Bretagne [Brittany]](#fr-br) _(3)_{:.count} • [Poitou-Charentes](#fr-pc) _(0)_{:.count} • [Aquitaine](#fr-aq) _(1)_{:.count} • [Midi-Pyrénées](#fr-mp) _(1)_{:.count} • [Limousin](#fr-lm) _(0)_{:.count} • [Rhône-Alpes](#fr-ra) _(3)_{:.count} • [Auvergne](#fr-av) _(0)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(2)_{:.count} • [Corse](#fr-cr) _(2)_{:.count}
+[Ile-de-France](#fr-if) _(1)_{:.count} • [Champagne-Ardenne](#fr-ca) _(1)_{:.count} • [Picardie [Picardy]](#fr-pd) _(1)_{:.count} • [Haute-Normandie [Upper Normandy]](#fr-hn) _(1)_{:.count} • [Centre](#fr-ct) _(1)_{:.count} • [Basse-Normandie [Lower Normandy]](#fr-bn) _(1)_{:.count} • [Bourgogne [Burgundy]](#fr-bg) _(1)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(1)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(2)_{:.count} • [Alsace](#fr-al) _(1)_{:.count} • [Franche-Comté](#fr-fc) _(1)_{:.count} • [Pays de la Loire](#fr-pl) _(1)_{:.count} • [Bretagne [Brittany]](#fr-br) _(1)_{:.count} • [Poitou-Charentes](#fr-pc) _(1)_{:.count} • [Aquitaine](#fr-aq) _(1)_{:.count} • [Midi-Pyrénées](#fr-mp) _(1)_{:.count} • [Limousin](#fr-lm) _(1)_{:.count} • [Rhône-Alpes](#fr-ra) _(1)_{:.count} • [Auvergne](#fr-av) _(1)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(1)_{:.count} • [Corse [Corsica]](#fr-cr) _(1)_{:.count}
 
 
 
@@ -1901,30 +1825,28 @@ Helsingfors [Helsinki]  _pop (1.131.000)_{:.pop} {: .city #helsingfors } <br>
 <div class='columns2' markdown='1'>
 
 
-Paris  _pop 2.234.105 (10.755.000)_{:.pop} {: .city #paris } <br>
+Paris  {: .city #paris } <br>
 
 </div>
 
 
 
-### Champagne-Ardenne _(2)_{:.count}
+### Champagne-Ardenne _(1)_{:.count}
 {: #fr-ca }
 
 
-[Reims](#reims) • [Troyes](#troyes)
+
 
 <div class='columns2' markdown='1'>
 
 
-Reims  {: .city #reims } <br>
-
-Troyes  {: .city #troyes } <br>
+Châlons-en-Champagne  {: .city #chalonsenchampagne } <br>
 
 </div>
 
 
 
-### Picardie _(0)_{:.count}
+### Picardie [Picardy] _(1)_{:.count}
 {: #fr-pd }
 
 
@@ -1933,11 +1855,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Amiens  {: .city #amiens } <br>
+
 </div>
 
 
 
-### Haute-Normandie _(0)_{:.count}
+### Haute-Normandie [Upper Normandy] _(1)_{:.count}
 {: #fr-hn }
 
 
@@ -1946,11 +1870,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Rouen  {: .city #rouen } <br>
+
 </div>
 
 
 
-### Centre _(0)_{:.count}
+### Centre _(1)_{:.count}
 {: #fr-ct }
 
 
@@ -1959,11 +1885,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Orléans  {: .city #orleans } <br>
+
 </div>
 
 
 
-### Basse-Normandie _(0)_{:.count}
+### Basse-Normandie [Lower Normandy] _(1)_{:.count}
 {: #fr-bn }
 
 
@@ -1972,11 +1900,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Caen  {: .city #caen } <br>
+
 </div>
 
 
 
-### Bourgogne _(0)_{:.count}
+### Bourgogne [Burgundy] _(1)_{:.count}
 {: #fr-bg }
 
 
@@ -1985,22 +1915,22 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Dijon  {: .city #dijon } <br>
+
 </div>
 
 
 
-### Nord-Pas-de-Calais _(2)_{:.count}
+### Nord-Pas-de-Calais _(1)_{:.count}
 {: #fr-nc }
 
 
-[Lille](#lille) • [Valenciennes](#valenciennes)
+
 
 <div class='columns2' markdown='1'>
 
 
-Lille  _pop 226.827 (1.050.000)_{:.pop} {: .city #lille } <br>
-
-Valenciennes  {: .city #valenciennes } <br>
+Lille  {: .city #lille } <br>
 
 </div>
 
@@ -2010,14 +1940,14 @@ Valenciennes  {: .city #valenciennes } <br>
 {: #fr-lr }
 
 
-[Montpellier](#montpellier) • [Nancy](#nancy)
+[Metz](#metz) • [Montpellier](#montpellier)
 
 <div class='columns2' markdown='1'>
 
 
-Montpellier  _pop 255.080_{:.pop} {: .city #montpellier } <br>
+Metz  {: .city #metz } <br>
 
-Nancy  {: .city #nancy } <br>
+Montpellier  {: .city #montpellier } <br>
 
 </div>
 
@@ -2032,7 +1962,7 @@ Nancy  {: .city #nancy } <br>
 <div class='columns2' markdown='1'>
 
 
-Strasbourg  _pop 271.708_{:.pop} {: .city #strasbourg } <br>
+Strasbourg  {: .city #strasbourg } <br>
 
 </div>
 
@@ -2047,7 +1977,7 @@ Strasbourg  _pop 271.708_{:.pop} {: .city #strasbourg } <br>
 <div class='columns2' markdown='1'>
 
 
-Sochaux  {: .city #sochaux } <br>
+Besançon  {: .city #besancon } <br>
 
 </div>
 
@@ -2062,32 +1992,28 @@ Sochaux  {: .city #sochaux } <br>
 <div class='columns2' markdown='1'>
 
 
-Nantes  _pop 282.047_{:.pop} {: .city #nantes } <br>
+Nantes  {: .city #nantes } <br>
 
 </div>
 
 
 
-### Bretagne [Brittany] _(3)_{:.count}
+### Bretagne [Brittany] _(1)_{:.count}
 {: #fr-br }
 
 
-[Brest](#brest) • [Lorient](#lorient) • [Rennes](#rennes)
+
 
 <div class='columns2' markdown='1'>
 
 
-Brest  {: .city #brest } <br>
-
-Lorient  {: .city #lorient } <br>
-
-Rennes  _pop 206.604_{:.pop} {: .city #rennes } <br>
+Rennes  {: .city #rennes } <br>
 
 </div>
 
 
 
-### Poitou-Charentes _(0)_{:.count}
+### Poitou-Charentes _(1)_{:.count}
 {: #fr-pc }
 
 
@@ -2095,6 +2021,8 @@ Rennes  _pop 206.604_{:.pop} {: .city #rennes } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Poitiers  {: .city #poitiers } <br>
 
 </div>
 
@@ -2109,7 +2037,7 @@ Rennes  _pop 206.604_{:.pop} {: .city #rennes } <br>
 <div class='columns2' markdown='1'>
 
 
-Bordeaux  _pop 236.725 (845.000)_{:.pop} {: .city #bordeaux } <br>
+Bordeaux  {: .city #bordeaux } <br>
 
 </div>
 
@@ -2124,13 +2052,13 @@ Bordeaux  _pop 236.725 (845.000)_{:.pop} {: .city #bordeaux } <br>
 <div class='columns2' markdown='1'>
 
 
-Toulouse  _pop 440.204 (880.000)_{:.pop} {: .city #toulouse } <br>
+Toulouse  {: .city #toulouse } <br>
 
 </div>
 
 
 
-### Limousin _(0)_{:.count}
+### Limousin _(1)_{:.count}
 {: #fr-lm }
 
 
@@ -2139,30 +2067,28 @@ Toulouse  _pop 440.204 (880.000)_{:.pop} {: .city #toulouse } <br>
 <div class='columns2' markdown='1'>
 
 
+Limoges  {: .city #limoges } <br>
+
 </div>
 
 
 
-### Rhône-Alpes _(3)_{:.count}
+### Rhône-Alpes _(1)_{:.count}
 {: #fr-ra }
 
 
-[Lyon](#lyon) • [Saint-Étienne](#saintetienne) • [Thonon-les-Bains](#thononlesbains)
+
 
 <div class='columns2' markdown='1'>
 
 
-Lyon  _pop 479.803 (1.542.000)_{:.pop} {: .city #lyon } <br>
-
-Saint-Étienne  {: .city #saintetienne } <br>
-
-Thonon-les-Bains  {: .city #thononlesbains } <br>
+Lyon  {: .city #lyon } <br>
 
 </div>
 
 
 
-### Auvergne _(0)_{:.count}
+### Auvergne _(1)_{:.count}
 {: #fr-av }
 
 
@@ -2171,73 +2097,70 @@ Thonon-les-Bains  {: .city #thononlesbains } <br>
 <div class='columns2' markdown='1'>
 
 
+Clermont-Ferrand  {: .city #clermontferrand } <br>
+
 </div>
 
 
 
-### Provence-Alpes-Côte d'Azur _(2)_{:.count}
+### Provence-Alpes-Côte d'Azur _(1)_{:.count}
 {: #fr-ac }
 
 
-[Marseille](#marseille) • [Nice](#nice)
+
 
 <div class='columns2' markdown='1'>
 
 
-Marseille  _pop 850.602 (1.582.000)_{:.pop} {: .city #marseille } <br>
-
-Nice  _pop 340.735 (962.000)_{:.pop} {: .city #nice } <br>
+Marseille  {: .city #marseille } <br>
 
 </div>
 
 
 
-### Corse _(2)_{:.count}
+### Corse [Corsica] _(1)_{:.count}
 {: #fr-cr }
 
 
-[Ajaccio](#ajaccio) • [Bastia](#bastia)
+
 
 <div class='columns2' markdown='1'>
 
 
 Ajaccio  {: .city #ajaccio } <br>
 
-Bastia  {: .city #bastia } <br>
-
 </div>
 
 
  
-
----------------------------------------
-
-## Georgia (GEO) - 0 Regions, 0 Cities
+## Georgia (GEO) - 0 Regions, 1 Cities
 {: #ge }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Tbilisi  _pop (1)_{:.pop} {: .city #tbilisi } <br>
+
 
  
-
----------------------------------------
-
-## Germany (GER) - 16 Regions, 603 Cities
+## Germany (GER) - 16 Regions, 45 Cities
 {: #de }
 
 
-[Baden-Württemberg](#de-bw) _(9)_{:.count} • [Bayern [Bavaria]](#de-by) _(436)_{:.count} • [Berlin](#de-be) _(1)_{:.count} • [Brandenburg](#de-bb) _(12)_{:.count} • [Bremen](#de-hb) _(1)_{:.count} • [Hamburg](#de-hh) _(1)_{:.count} • [Hessen [Hesse]](#de-he) _(21)_{:.count} • [Mecklenburg-Vorpommern](#de-mv) _(7)_{:.count} • [Niedersachsen [Lower Saxony]](#de-ni) _(23)_{:.count} • [Nordrhein-Westfalen [North Rhine-Westphalia]](#de-nw) _(17)_{:.count} • [Rheinland-Pfalz [Rhineland-Palatinate]](#de-rp) _(16)_{:.count} • [Saarland](#de-sl) _(0)_{:.count} • [Sachsen [Saxony]](#de-sn) _(25)_{:.count} • [Sachsen-Anhalt [Saxony-Anhalt]](#de-st) _(10)_{:.count} • [Schleswig-Holstein](#de-sh) _(10)_{:.count} • [Thüringen [Thuringia]](#de-th) _(14)_{:.count}
+[Baden-Württemberg](#de-bw) _(5)_{:.count} • [Bayern [Bavaria]](#de-by) _(6)_{:.count} • [Berlin](#de-be) _(1)_{:.count} • [Brandenburg](#de-bb) _(2)_{:.count} • [Bremen](#de-hb) _(1)_{:.count} • [Hamburg](#de-hh) _(1)_{:.count} • [Hessen [Hesse]](#de-he) _(2)_{:.count} • [Mecklenburg-Vorpommern](#de-mv) _(1)_{:.count} • [Niedersachsen [Lower Saxony]](#de-ni) _(4)_{:.count} • [Nordrhein-Westfalen [North Rhine-Westphalia]](#de-nw) _(13)_{:.count} • [Rheinland-Pfalz [Rhineland-Palatinate]](#de-rp) _(2)_{:.count} • [Saarland](#de-sl) _(1)_{:.count} • [Sachsen [Saxony]](#de-sn) _(3)_{:.count} • [Sachsen-Anhalt [Saxony-Anhalt]](#de-st) _(1)_{:.count} • [Schleswig-Holstein](#de-sh) _(1)_{:.count} • [Thüringen [Thuringia]](#de-th) _(1)_{:.count}
 
 
 
 
-### Baden-Württemberg _(9)_{:.count}
+### Baden-Württemberg _(5)_{:.count}
 {: #de-bw }
 
 
-[Aalen](#aalen) • [Freiburg](#freiburg) • [Gaildorf](#gaildorf) • [Grafenhausen-Rothaus](#grafenhausenrothaus) • [Hoffenheim](#hoffenheim) • [Mannheim](#mannheim) • [Sandhausen](#sandhausen) • [Stuttgart](#stuttgart) • [Waldhaus](#waldhaus)
+[Aalen](#aalen) • [Freiburg](#freiburg) • [Hoffenheim](#hoffenheim) • [Sandhausen](#sandhausen) • [Stuttgart](#stuttgart)
 
 <div class='columns2' markdown='1'>
 
@@ -2246,904 +2169,36 @@ Aalen  {: .city #aalen } <br>
 
 Freiburg  _pop 229.144_{:.pop} {: .city #freiburg } <br>
 
-Gaildorf  {: .city #gaildorf } <br>
-
-Grafenhausen-Rothaus  {: .city #grafenhausenrothaus } <br>
-
 Hoffenheim  _pop 3.272_{:.pop} {: .city #hoffenheim } <br>
-
-Mannheim  {: .city #mannheim } <br>
 
 Sandhausen  {: .city #sandhausen } <br>
 
 Stuttgart  _pop 613.392 (1.272.000)_{:.pop} {: .city #stuttgart } <br>
 
-Waldhaus  {: .city #waldhaus } <br>
-
 </div>
 
 
 
-### Bayern [Bavaria] _(436)_{:.count}
+### Bayern [Bavaria] _(6)_{:.count}
 {: #de-by }
 
 
-[Abensberg](#abensberg) • [Adelsdorf-Aisch](#adelsdorfaisch) • [Adelsdorf-Neuhaus](#adelsdorfneuhaus) • [Adelsried](#adelsried) • [Ahorntal](#ahorntal) • [Aichach (Schloss Blumenthal)](#aichach) • [Aichach-Oberbernbach](#aichachoberbernbach) • [Aichach-Obermauerbach](#aichachobermauerbach) • [Aidenbach](#aidenbach) • [Albertshofen](#albertshofen) • [Aldersbach](#aldersbach) • [Altenkunstadt](#altenkunstadt) • [Altenmarkt an der Alz](#altenmarktanderalz) • [Altenstadt](#altenstadt) • [Altomünster](#altomuenster) • [Altötting](#altoetting) • [Amberg](#amberg) • [Ammerndorf](#ammerndorf) • [Andechs](#andechs) • [Apfeltrang](#apfeltrang) • [Appendorf](#appendorf) • [Arnschwang](#arnschwang) • [Arnstein](#arnstein) • [Arnstorf](#arnstorf) • [Arnstorf-Mariakirchen](#arnstorfmariakirchen) • [Aschaffenburg-Schweinheim](#aschaffenburgschweinheim) • [Aschau](#aschau) • [Au in der Hallertau](#auinderhallertau) • [Aufseß](#aufsess) • [Augsburg](#augsburg) • [Aying](#aying) • [Baar](#baar) • [Bad Abbach-Oberndorf](#badabbachoberndorf) • [Bad Kissingen-Arnshausen](#badkissingenarnshausen) • [Bad Kissingen-Garitz](#badkissingengaritz) • [Bad Kötzting](#badkoetzting) • [Bad Reichenhall](#badreichenhall) • [Bad Rodach](#badrodach) • [Bad Staffelstein-Frauendorf](#badstaffelsteinfrauendorf) • [Bad Staffelstein-Loffeld](#badstaffelsteinloffeld) • [Bad Staffelstein-Nedensdorf](#badstaffelsteinnedensdorf) • [Bad Staffelstein-Stublang](#badstaffelsteinstublang) • [Bad Staffelstein-Uetzing](#badstaffelsteinuetzing) • [Bad Staffelstein-Vierzehnheiligen](#badstaffelsteinvierzehnheiligen) • [Bad Staffelstein-Wiesen](#badstaffelsteinwiesen) • [Bad Tölz](#badtoelz) • [Bad Windsheim](#badwindsheim) • [Bad Wörishofen](#badwoerishofen) • [Bamberg](#bamberg) • [Bayreuth](#bayreuth) • [Berching](#berching) • [Berchtesgaden](#berchtesgaden) • [Bergen-Thalmannsfeld](#bergenthalmannsfeld) • [Biberach](#biberach) • [Bichl](#bichl) • [Bischberg](#bischberg) • [Bischofsheim an der Rhön](#bischofsheimanderrhoen) • [Bockhorn (Oberbayern)-Grünbach](#bockhorngruenbach) • [Bodenkirchen](#bodenkirchen) • [Bodenmais](#bodenmais) • [Bodenwöhr](#bodenwoehr) • [Breitengüßbach](#breitenguessbach) • [Bruckberg](#bruckberg) • [Bruckmühl](#bruckmuehl) • [Burgebrach](#burgebrach) • [Burgebrach-Ampferbach](#burgebrachampferbach) • [Burgkunstadt](#burgkunstadt) • [Buttenheim](#buttenheim) • [Böbrach](#boebrach) • [Cham](#cham) • [Cham-Thierlstein](#chamthierlstein) • [Creussen-Lindenhardt](#creussenlindenhardt) • [Debring](#debring) • [Deuerling](#deuerling) • [Dingolfing](#dingolfing) • [Dinkelsbühl](#dinkelsbuehl) • [Dorfen](#dorfen) • [Drachselsried](#drachselsried) • [Ebensfeld](#ebensfeld) • [Ebensfeld-Unterneuses](#ebensfeldunterneuses) • [Ebermannstadt](#ebermannstadt) • [Ebing](#ebing) • [Edelsfeld](#edelsfeld) • [Eggenfelden-Spanberg](#eggenfeldenspanberg) • [Eggolsheim](#eggolsheim) • [Eggolsheim-Weigelshofen](#eggolsheimweigelshofen) • [Eichendorf-Adldorf](#eichendorfadldorf) • [Eichstätt](#eichstaett) • [Eitting](#eitting) • [Ellingen](#ellingen) • [Elsendorf-Horneck](#elsendorfhorneck) • [Eltmann-Eschenbach](#eltmanneschenbach) • [Eltmann-Roßstadt](#eltmannrossstadt) • [Erding](#erding) • [Erharting](#erharting) • [Erlangen](#erlangen) • [Eslarn](#eslarn) • [Essing](#essing) • [Ettal](#ettal) • [Etzelwang](#etzelwang) • [Eurasburg](#eurasburg) • [Feldkirchen-Riem](#feldkirchenriem) • [Flughafen München](#flughafenmuenchen) • [Forchheim](#forchheim) • [Frammersbach](#frammersbach) • [Freilassing](#freilassing) • [Freising](#freising) • [Frensdorf-Reundorf](#frensdorfreundorf) • [Frensdorf-Untergreuth](#frensdorfuntergreuth) • [Freudenberg](#freudenberg) • [Freystadt](#freystadt) • [Freyung](#freyung) • [Fridolfing](#fridolfing) • [Friedberg](#friedberg) • [Friedenfels](#friedenfels) • [Frontenhausen](#frontenhausen) • [Furth](#furth) • [Furth im Wald](#furthimwald) • [Fürstenfeldbruck](#fuerstenfeldbruck) • [Fürth](#fuerth) • [Gangkofen-Seemannshausen](#gangkofenseemannshausen) • [Geiselhöring](#geiselhoering) • [Gessertshausen](#gessertshausen) • [Glonn](#glonn) • [Gnodstadt](#gnodstadt) • [Grafenau](#grafenau) • [Grafing bei München](#grafingbeimuenchen) • [Großheirath-Rossach](#grossheirathrossach) • [Großostheim](#grossostheim) • [Gräfenberg](#graefenberg) • [Gunzendorf](#gunzendorf) • [Gunzenhausen](#gunzenhausen) • [Gutenstetten](#gutenstetten) • [Günzburg](#guenzburg) • [Haag in Oberbayern](#haaginoberbayern) • [Haimhausen](#haimhausen) • [Halfing](#halfing) • [Hallerndorf](#hallerndorf) • [Hallstadt](#hallstadt) • [Hausen-Herrnwahlthann](#hausenherrnwahlthann) • [Heiligenstadt](#heiligenstadt) • [Heimenkirch](#heimenkirch) • [Hemau](#hemau) • [Herrngiersdorf](#herrngiersdorf) • [Hersbruck](#hersbruck) • [Herzogenaurach](#herzogenaurach) • [Hirschaid](#hirschaid) • [Hirschau](#hirschau) • [Hof](#hof) • [Hofheim](#hofheim) • [Hohenthann](#hohenthann) • [Holzhausen bei Buchloe](#holzhausenbeibuchloe) • [Holzheim-Neuhausen](#holzheimneuhausen) • [Holzkirchen](#holzkirchen) • [Hutthurm](#hutthurm) • [Höchstadt](#hoechstadt) • [Höchstadt an der Aisch-Greuth](#hoechstadtanderaischgreuth) • [Ichenhausen-Autenried](#ichenhausenautenried) • [Illerberg](#illerberg) • [Illertissen](#illertissen) • [Ingolstadt](#ingolstadt) • [Irlbach](#irlbach) • [Irsee](#irsee) • [Itzgrund](#itzgrund) • [Jandelsbrunn](#jandelsbrunn) • [Jettenbach](#jettenbach) • [Jochsberg bei Leutershausen](#jochsbergbeileutershausen) • [Kammerstein-Barthelmesaurach](#kammersteinbarthelmesaurach) • [Karlstadt-Stadelhofen](#karlstadtstadelhofen) • [Kaufbeuren](#kaufbeuren) • [Kelheim](#kelheim) • [Kelheim-Weltenburg](#kelheimweltenburg) • [Kemmern](#kemmern) • [Kemnath](#kemnath) • [Kempten](#kempten) • [Kirchenthumbach](#kirchenthumbach) • [Konzell](#konzell) • [Krautheim](#krautheim) • [Kreuzwertheim](#kreuzwertheim) • [Kronach](#kronach) • [Kronburg](#kronburg) • [Kulmbach](#kulmbach) • [Kutzenhausen](#kutzenhausen) • [Königsberg in Bayern-Unfinden](#koenigsberginbayernunfinden) • [Königsfeld](#koenigsfeld) • [Kößlarn](#koesslarn) • [Kühbach](#kuehbach) • [Laaber](#laaber) • [Landau an der Isar](#landauanderisar) • [Landshut](#landshut) • [Lauf an der Pegnitz](#laufanderpegnitz) • [Lauf-Neunhof](#laufneunhof) • [Leinburg](#leinburg) • [Leipheim](#leipheim) • [Leutenbach](#leutenbach) • [Leuterschach](#leuterschach) • [Lichtenau](#lichtenau) • [Lichtenberg](#lichtenberg) • [Lichtenfels](#lichtenfels) • [Litzendorf-Lohndorf](#litzendorflohndorf) • [Litzendorf-Melkendorf](#litzendorfmelkendorf) • [Litzendorf-Tiefenellern](#litzendorftiefenellern) • [Lohberg](#lohberg) • [Mainburg](#mainburg) • [Maisach](#maisach) • [Malgersdorf-Heilmfurt](#malgersdorfheilmfurt) • [Mallersdorf](#mallersdorf) • [Markt Schwaben](#marktschwaben) • [Marktheidenfeld](#marktheidenfeld) • [Marktredwitz](#marktredwitz) • [Marktsteft](#marktsteft) • [Maroldsweisach](#maroldsweisach) • [Maxlrain](#maxlrain) • [Memmelsdorf](#memmelsdorf) • [Memmelsdorf-Drosendorf](#memmelsdorfdrosendorf) • [Memmelsdorf-Merkendorf](#memmelsdorfmerkendorf) • [Memmingen](#memmingen) • [Merkendorf](#merkendorf) • [Meßhofen](#messhofen) • [Michelsneukirchen](#michelsneukirchen) • [Miesbach](#miesbach) • [Miltenberg](#miltenberg) • [Mindelheim](#mindelheim) • [Missen](#missen) • [Mittenwald](#mittenwald) • [Mitterteich](#mitterteich) • [Mitwitz](#mitwitz) • [Moos](#moos) • [Moosbach](#moosbach) • [Motten](#motten) • [Murnau](#murnau) • [Murnau am Staffelsee](#murnauamstaffelsee) • [Mönchsambach](#moenchsambach) • [Mühldorf am Inn](#muehldorfaminn) • [Mühlhausen](#muehlhausen) • [München](#muenchen) • [München-Neuhausen](#muenchenneuhausen) • [Münchsteinach](#muenchsteinach) • [Mürsbach](#muersbach) • [Naila](#naila) • [Nennslingen](#nennslingen) • [Nesselwang](#nesselwang) • [Neu-Ulm](#neuulm) • [Neu-Ulm-Offenhausen](#neuulmoffenhausen) • [Neu-Ulm-Reutti](#neuulmreutti) • [Neuburg an der Donau](#neuburganderdonau) • [Neuhaus an der Pegnitz](#neuhausanderpegnitz) • [Neukirchen bei Sulzbach-Rosenberg](#neukirchenbeisulzbachrosenberg) • [Neumarkt](#neumarkt) • [Neumarkt in der Oberpfalz](#neumarktinderoberpfalz) • [Neunburg vorm Wald](#neunburgvormwald) • [Neunkirchen am Brand](#neunkirchenambrand) • [Neunkirchen am Sand](#neunkirchenamsand) • [Neureichenau-Riedelsbach](#neureichenauriedelsbach) • [Neustadt an der Aisch](#neustadtanderaisch) • [Neusäß-Steppach](#neusaesssteppach) • [Neuötting](#neuoetting) • [Nittenau](#nittenau) • [Nittendorf](#nittendorf) • [Nördlingen](#noerdlingen) • [Nürnberg](#nuernberg) • [Oberammergau](#oberammergau) • [Oberaurach-Trossenfurt](#oberaurachtrossenfurt) • [Oberelsbach](#oberelsbach) • [Oberhaching-Deisenhofen](#oberhachingdeisenhofen) • [Oberhaid](#oberhaid) • [Oberkotzau-Fattigau](#oberkotzaufattigau) • [Oberreichenbach](#oberreichenbach) • [Obertaufkirchen](#obertaufkirchen) • [Ochsenfurt](#ochsenfurt) • [Odelzhausen](#odelzhausen) • [Oettingen](#oettingen) • [Osterberg](#osterberg) • [Ostheim vor der Rhön](#ostheimvorderrhoen) • [Ottobeuren](#ottobeuren) • [Pahres](#pahres) • [Pappenheim-Bieswang](#pappenheimbieswang) • [Pappenheim-Zimmern](#pappenheimzimmern) • [Passau](#passau) • [Passau-Ries](#passauries) • [Pegnitz](#pegnitz) • [Pegnitz-Büchenbach](#pegnitzbuechenbach) • [Pettendorf](#pettendorf) • [Petting/Schönram](#pettingschoenram) • [Pfaffenberg](#pfaffenberg) • [Pfaffenhausen](#pfaffenhausen) • [Pfaffenhofen an der Ilm](#pfaffenhofenanderilm) • [Pfaffing-Forsting](#pfaffingforsting) • [Pfeffenhausen](#pfeffenhausen) • [Pfronten](#pfronten) • [Pilsting-Großköllnbach](#pilstinggrosskoellnbach) • [Pirk](#pirk) • [Plattling](#plattling) • [Plößberg](#ploessberg) • [Pommersfelden](#pommersfelden) • [Pottenstein](#pottenstein) • [Pretzfeld](#pretzfeld) • [Priesendorf](#priesendorf) • [Pullach-Großhesselohe](#pullachgrosshesselohe) • [Pörnbach](#poernbach) • [Pösing](#poesing) • [Raigering](#raigering) • [Rammingen](#rammingen) • [Rattelsdorf](#rattelsdorf) • [Rauhenebrach-Theinheim](#rauhenebrachtheinheim) • [Reckendorf](#reckendorf) • [Regen](#regen) • [Regensburg](#regensburg) • [Rehling](#rehling) • [Reischach](#reischach) • [Rettenberg](#rettenberg) • [Reuth bei Erbendorf](#reuthbeierbendorf) • [Ried bei Markt Indersdorf](#riedbeimarktindersdorf) • [Riedenburg](#riedenburg) • [Rosenheim](#rosenheim) • [Roth vor der Rhön](#rothvorderrhoen) • [Roßdorf am Forst](#rossdorfamforst) • [Ruderatshofen](#ruderatshofen) • [Runding](#runding) • [Röbersdorf](#roebersdorf) • [Rödental](#roedental) • [Röttenbach (bei Erlangen)](#roettenbach) • [Rötz](#roetz) • [Rüdenhausen](#ruedenhausen) • [Saal an der Saale-Waltershausen](#saalandersaalewaltershausen) • [Sachsendorf](#sachsendorf) • [Sachsenkam-Reutberg](#sachsenkamreutberg) • [Salz](#salz) • [Sandersdorf](#sandersdorf) • [Sankt Wolfgang](#sanktwolfgang) • [Schammelsdorf](#schammelsdorf) • [Scheyern](#scheyern) • [Scheßlitz](#schesslitz) • [Schierling](#schierling) • [Schlammersdorf](#schlammersdorf) • [Schloss Haselbach](#schlosshaselbach) • [Schlüsselfeld](#schluesselfeld) • [Schnaitsee](#schnaitsee) • [Schnaittach](#schnaittach) • [Schnaittach-Enzenreuth](#schnaittachenzenreuth) • [Schonungen-Hausen](#schonungenhausen) • [Schwandorf](#schwandorf) • [Schwangau](#schwangau) • [Schwarzach](#schwarzach) • [Schweinfurt](#schweinfurt) • [Schöllkrippen](#schoellkrippen) • [Schönbrunn-Zettmannsdorf](#schoenbrunnzettmannsdorf) • [Schönthal](#schoenthal) • [Seinsheim](#seinsheim) • [Selb](#selb) • [Seßlach](#sesslach) • [Seßlach-Heilgersdorf](#sesslachheilgersdorf) • [Siegenburg](#siegenburg) • [Solnhofen-Hochholz](#solnhofenhochholz) • [Sonthofen](#sonthofen) • [Spalt](#spalt) • [Speiden](#speiden) • [Spiegelau-Klingenbrunn](#spiegelauklingenbrunn) • [Stadelhofen](#stadelhofen) • [Stadelhofen-Schederndorf](#stadelhofenschederndorf) • [Stadtsteinach](#stadtsteinach) • [Stegaurach](#stegaurach) • [Stegaurach-Mühlendorf](#stegaurachmuehlendorf) • [Stein an der Traun](#steinandertraun) • [Steinfeld-Waldzell](#steinfeldwaldzell) • [Steinsfeld-Reichelshofen](#steinsfeldreichelshofen) • [Stettfeld](#stettfeld) • [Straubing](#straubing) • [Straßkirchen (Salzweg)](#strasskirchen) • [Strullendorf-Geisfeld](#strullendorfgeisfeld) • [Sulzbach-Rosenberg](#sulzbachrosenberg) • [Tacherting](#tacherting) • [Taufkirchen (Vils)](#taufkirchen) • [Tegernsee](#tegernsee) • [Teisendorf](#teisendorf) • [Teisnach](#teisnach) • [Teunz](#teunz) • [Thalmässing-Pyras](#thalmaessingpyras) • [Thannhausen](#thannhausen) • [Thüngen](#thuengen) • [Titting](#titting) • [Trabelsdorf](#trabelsdorf) • [Traitsching-Loifling](#traitschingloifling) • [Traunstein](#traunstein) • [Trebgast](#trebgast) • [Triefenstein-Homburg](#triefensteinhomburg) • [Truchtlaching](#truchtlaching) • [Tüßling](#tuessling) • [Uehlfeld](#uehlfeld) • [Unterneukirchen](#unterneukirchen) • [Untersiemau](#untersiemau) • [Untersiemau-Birkach am Forst](#untersiemaubirkachamforst) • [Ursberg](#ursberg) • [Ustersbach](#ustersbach) • [Velburg-Lengenfeld](#velburglengenfeld) • [Velden](#velden) • [Viechtach](#viechtach) • [Viereth-Trunstadt](#vierethtrunstadt) • [Vilseck](#vilseck) • [Vilshofen an der Donau](#vilshofenanderdonau) • [Vohenstrauß](#vohenstrauss) • [Volkach-Krautheim](#volkachkrautheim) • [Waischenfeld](#waischenfeld) • [Walkertshofen](#walkertshofen) • [Wallerstein](#wallerstein) • [Warmensteinach](#warmensteinach) • [Wartenberg](#wartenberg) • [Wassertrüdingen-Fürnheim](#wassertruedingenfuernheim) • [Wattendorf](#wattendorf) • [Weiden in der Oberpfalz](#weideninderoberpfalz) • [Weihmichl](#weihmichl) • [Weiler-Simmerberg](#weilersimmerberg) • [Weilheim in Oberbayern](#weilheiminoberbayern) • [Weismain](#weismain) • [Weissenstadt](#weissenstadt) • [Weißenbrunn](#weissenbrunn) • [Weißenburg in Bayern](#weissenburginbayern) • [Weißenohe](#weissenohe) • [Werneck](#werneck) • [Wertingen](#wertingen) • [Wettelsheim](#wettelsheim) • [Weyarn](#weyarn) • [Wiesen](#wiesen) • [Wieseth](#wieseth) • [Wildenberg](#wildenberg) • [Windischeschenbach](#windischeschenbach) • [Wolnzach](#wolnzach) • [Wunsiedel](#wunsiedel) • [Wunsiedel-Schönbrunn](#wunsiedelschoenbrunn) • [Würgau](#wuergau) • [Würzburg](#wuerzburg) • [Zeil am Main](#zeilammain) • [Zentbechhofen-Höchstadt](#zentbechhofenhoechstadt) • [Zirndorf](#zirndorf) • [Zusmarshausen](#zusmarshausen) • [Zwiesel](#zwiesel)
+[Augsburg](#augsburg) • [Fürth](#fuerth) • [Ingolstadt](#ingolstadt) • [München [Munich]](#muenchen) • [Nürnberg [Nuremberg]](#nuernberg) • [Regensburg](#regensburg)
 
 <div class='columns2' markdown='1'>
 
 
-Abensberg  {: .city #abensberg } <br>
-
-Adelsdorf-Aisch  {: .city #adelsdorfaisch } <br>
-
-Adelsdorf-Neuhaus  {: .city #adelsdorfneuhaus } <br>
-
-Adelsried  {: .city #adelsried } <br>
-
-Ahorntal  {: .city #ahorntal } <br>
-
-Aichach (Schloss Blumenthal)  {: .city #aichach } <br>
-
-Aichach-Oberbernbach  {: .city #aichachoberbernbach } <br>
-
-Aichach-Obermauerbach  {: .city #aichachobermauerbach } <br>
-
-Aidenbach  {: .city #aidenbach } <br>
-
-Albertshofen  {: .city #albertshofen } <br>
-
-Aldersbach  {: .city #aldersbach } <br>
-
-Altenkunstadt  {: .city #altenkunstadt } <br>
-
-Altenmarkt an der Alz  {: .city #altenmarktanderalz } <br>
-
-Altenstadt  {: .city #altenstadt } <br>
-
-Altomünster  {: .city #altomuenster } <br>
-
-Altötting  {: .city #altoetting } <br>
-
-Amberg  {: .city #amberg } <br>
-
-Ammerndorf  {: .city #ammerndorf } <br>
-
-Andechs  {: .city #andechs } <br>
-
-Apfeltrang  {: .city #apfeltrang } <br>
-
-Appendorf  {: .city #appendorf } <br>
-
-Arnschwang  {: .city #arnschwang } <br>
-
-Arnstein  {: .city #arnstein } <br>
-
-Arnstorf  {: .city #arnstorf } <br>
-
-Arnstorf-Mariakirchen  {: .city #arnstorfmariakirchen } <br>
-
-Aschaffenburg-Schweinheim  {: .city #aschaffenburgschweinheim } <br>
-
-Aschau  {: .city #aschau } <br>
-
-Au in der Hallertau  {: .city #auinderhallertau } <br>
-
-Aufseß  {: .city #aufsess } <br>
-
 Augsburg  _pop 266.647_{:.pop} {: .city #augsburg } <br>
-
-Aying  {: .city #aying } <br>
-
-Baar  {: .city #baar } <br>
-
-Bad Abbach-Oberndorf  {: .city #badabbachoberndorf } <br>
-
-Bad Kissingen-Arnshausen  {: .city #badkissingenarnshausen } <br>
-
-Bad Kissingen-Garitz  {: .city #badkissingengaritz } <br>
-
-Bad Kötzting  {: .city #badkoetzting } <br>
-
-Bad Reichenhall  {: .city #badreichenhall } <br>
-
-Bad Rodach  {: .city #badrodach } <br>
-
-Bad Staffelstein-Frauendorf  {: .city #badstaffelsteinfrauendorf } <br>
-
-Bad Staffelstein-Loffeld  {: .city #badstaffelsteinloffeld } <br>
-
-Bad Staffelstein-Nedensdorf  {: .city #badstaffelsteinnedensdorf } <br>
-
-Bad Staffelstein-Stublang  {: .city #badstaffelsteinstublang } <br>
-
-Bad Staffelstein-Uetzing  {: .city #badstaffelsteinuetzing } <br>
-
-Bad Staffelstein-Vierzehnheiligen  {: .city #badstaffelsteinvierzehnheiligen } <br>
-
-Bad Staffelstein-Wiesen  {: .city #badstaffelsteinwiesen } <br>
-
-Bad Tölz  {: .city #badtoelz } <br>
-
-Bad Windsheim  {: .city #badwindsheim } <br>
-
-Bad Wörishofen  {: .city #badwoerishofen } <br>
-
-Bamberg  {: .city #bamberg } <br>
-
-Bayreuth  {: .city #bayreuth } <br>
-
-Berching  {: .city #berching } <br>
-
-Berchtesgaden  {: .city #berchtesgaden } <br>
-
-Bergen-Thalmannsfeld  {: .city #bergenthalmannsfeld } <br>
-
-Biberach  {: .city #biberach } <br>
-
-Bichl  {: .city #bichl } <br>
-
-Bischberg  {: .city #bischberg } <br>
-
-Bischofsheim an der Rhön  {: .city #bischofsheimanderrhoen } <br>
-
-Bockhorn (Oberbayern)-Grünbach  {: .city #bockhorngruenbach } <br>
-
-Bodenkirchen  {: .city #bodenkirchen } <br>
-
-Bodenmais  {: .city #bodenmais } <br>
-
-Bodenwöhr  {: .city #bodenwoehr } <br>
-
-Breitengüßbach  {: .city #breitenguessbach } <br>
-
-Bruckberg  {: .city #bruckberg } <br>
-
-Bruckmühl  {: .city #bruckmuehl } <br>
-
-Burgebrach  {: .city #burgebrach } <br>
-
-Burgebrach-Ampferbach  {: .city #burgebrachampferbach } <br>
-
-Burgkunstadt  {: .city #burgkunstadt } <br>
-
-Buttenheim  {: .city #buttenheim } <br>
-
-Böbrach  {: .city #boebrach } <br>
-
-Cham  {: .city #cham } <br>
-
-Cham-Thierlstein  {: .city #chamthierlstein } <br>
-
-Creussen-Lindenhardt  {: .city #creussenlindenhardt } <br>
-
-Debring  {: .city #debring } <br>
-
-Deuerling  {: .city #deuerling } <br>
-
-Dingolfing  {: .city #dingolfing } <br>
-
-Dinkelsbühl  {: .city #dinkelsbuehl } <br>
-
-Dorfen  {: .city #dorfen } <br>
-
-Drachselsried  {: .city #drachselsried } <br>
-
-Ebensfeld  {: .city #ebensfeld } <br>
-
-Ebensfeld-Unterneuses  {: .city #ebensfeldunterneuses } <br>
-
-Ebermannstadt  {: .city #ebermannstadt } <br>
-
-Ebing  {: .city #ebing } <br>
-
-Edelsfeld  {: .city #edelsfeld } <br>
-
-Eggenfelden-Spanberg  {: .city #eggenfeldenspanberg } <br>
-
-Eggolsheim  {: .city #eggolsheim } <br>
-
-Eggolsheim-Weigelshofen  {: .city #eggolsheimweigelshofen } <br>
-
-Eichendorf-Adldorf  {: .city #eichendorfadldorf } <br>
-
-Eichstätt  {: .city #eichstaett } <br>
-
-Eitting  {: .city #eitting } <br>
-
-Ellingen  {: .city #ellingen } <br>
-
-Elsendorf-Horneck  {: .city #elsendorfhorneck } <br>
-
-Eltmann-Eschenbach  {: .city #eltmanneschenbach } <br>
-
-Eltmann-Roßstadt  {: .city #eltmannrossstadt } <br>
-
-Erding  {: .city #erding } <br>
-
-Erharting  {: .city #erharting } <br>
-
-Erlangen  {: .city #erlangen } <br>
-
-Eslarn  {: .city #eslarn } <br>
-
-Essing  {: .city #essing } <br>
-
-Ettal  {: .city #ettal } <br>
-
-Etzelwang  {: .city #etzelwang } <br>
-
-Eurasburg  {: .city #eurasburg } <br>
-
-Feldkirchen-Riem  {: .city #feldkirchenriem } <br>
-
-Flughafen München  {: .city #flughafenmuenchen } <br>
-
-Forchheim  {: .city #forchheim } <br>
-
-Frammersbach  {: .city #frammersbach } <br>
-
-Freilassing  {: .city #freilassing } <br>
-
-Freising  {: .city #freising } <br>
-
-Frensdorf-Reundorf  {: .city #frensdorfreundorf } <br>
-
-Frensdorf-Untergreuth  {: .city #frensdorfuntergreuth } <br>
-
-Freudenberg  {: .city #freudenberg } <br>
-
-Freystadt  {: .city #freystadt } <br>
-
-Freyung  {: .city #freyung } <br>
-
-Fridolfing  {: .city #fridolfing } <br>
-
-Friedberg  {: .city #friedberg } <br>
-
-Friedenfels  {: .city #friedenfels } <br>
-
-Frontenhausen  {: .city #frontenhausen } <br>
-
-Furth  {: .city #furth } <br>
-
-Furth im Wald  {: .city #furthimwald } <br>
-
-Fürstenfeldbruck  {: .city #fuerstenfeldbruck } <br>
 
 Fürth  _pop 116.317_{:.pop} {: .city #fuerth } <br>
 
-Gangkofen-Seemannshausen  {: .city #gangkofenseemannshausen } <br>
-
-Geiselhöring  {: .city #geiselhoering } <br>
-
-Gessertshausen  {: .city #gessertshausen } <br>
-
-Glonn  {: .city #glonn } <br>
-
-Gnodstadt  {: .city #gnodstadt } <br>
-
-Grafenau  {: .city #grafenau } <br>
-
-Grafing bei München  {: .city #grafingbeimuenchen } <br>
-
-Großheirath-Rossach  {: .city #grossheirathrossach } <br>
-
-Großostheim  {: .city #grossostheim } <br>
-
-Gräfenberg  {: .city #graefenberg } <br>
-
-Gunzendorf  {: .city #gunzendorf } <br>
-
-Gunzenhausen  {: .city #gunzenhausen } <br>
-
-Gutenstetten  {: .city #gutenstetten } <br>
-
-Günzburg  {: .city #guenzburg } <br>
-
-Haag in Oberbayern  {: .city #haaginoberbayern } <br>
-
-Haimhausen  {: .city #haimhausen } <br>
-
-Halfing  {: .city #halfing } <br>
-
-Hallerndorf  {: .city #hallerndorf } <br>
-
-Hallstadt  {: .city #hallstadt } <br>
-
-Hausen-Herrnwahlthann  {: .city #hausenherrnwahlthann } <br>
-
-Heiligenstadt  {: .city #heiligenstadt } <br>
-
-Heimenkirch  {: .city #heimenkirch } <br>
-
-Hemau  {: .city #hemau } <br>
-
-Herrngiersdorf  {: .city #herrngiersdorf } <br>
-
-Hersbruck  {: .city #hersbruck } <br>
-
-Herzogenaurach  {: .city #herzogenaurach } <br>
-
-Hirschaid  {: .city #hirschaid } <br>
-
-Hirschau  {: .city #hirschau } <br>
-
-Hof  {: .city #hof } <br>
-
-Hofheim  {: .city #hofheim } <br>
-
-Hohenthann  {: .city #hohenthann } <br>
-
-Holzhausen bei Buchloe  {: .city #holzhausenbeibuchloe } <br>
-
-Holzheim-Neuhausen  {: .city #holzheimneuhausen } <br>
-
-Holzkirchen  {: .city #holzkirchen } <br>
-
-Hutthurm  {: .city #hutthurm } <br>
-
-Höchstadt  {: .city #hoechstadt } <br>
-
-Höchstadt an der Aisch-Greuth  {: .city #hoechstadtanderaischgreuth } <br>
-
-Ichenhausen-Autenried  {: .city #ichenhausenautenried } <br>
-
-Illerberg  {: .city #illerberg } <br>
-
-Illertissen  {: .city #illertissen } <br>
-
 Ingolstadt  {: .city #ingolstadt } <br>
 
-Irlbach  {: .city #irlbach } <br>
+München [Munich]  _pop 1.378.176 (1.355.000)_{:.pop} {: .city #muenchen } <br>
 
-Irsee  {: .city #irsee } <br>
-
-Itzgrund  {: .city #itzgrund } <br>
-
-Jandelsbrunn  {: .city #jandelsbrunn } <br>
-
-Jettenbach  {: .city #jettenbach } <br>
-
-Jochsberg bei Leutershausen  {: .city #jochsbergbeileutershausen } <br>
-
-Kammerstein-Barthelmesaurach  {: .city #kammersteinbarthelmesaurach } <br>
-
-Karlstadt-Stadelhofen  {: .city #karlstadtstadelhofen } <br>
-
-Kaufbeuren  {: .city #kaufbeuren } <br>
-
-Kelheim  {: .city #kelheim } <br>
-
-Kelheim-Weltenburg  {: .city #kelheimweltenburg } <br>
-
-Kemmern  {: .city #kemmern } <br>
-
-Kemnath  {: .city #kemnath } <br>
-
-Kempten  {: .city #kempten } <br>
-
-Kirchenthumbach  {: .city #kirchenthumbach } <br>
-
-Konzell  {: .city #konzell } <br>
-
-Krautheim  {: .city #krautheim } <br>
-
-Kreuzwertheim  {: .city #kreuzwertheim } <br>
-
-Kronach  {: .city #kronach } <br>
-
-Kronburg  {: .city #kronburg } <br>
-
-Kulmbach  {: .city #kulmbach } <br>
-
-Kutzenhausen  {: .city #kutzenhausen } <br>
-
-Königsberg in Bayern-Unfinden  {: .city #koenigsberginbayernunfinden } <br>
-
-Königsfeld  {: .city #koenigsfeld } <br>
-
-Kößlarn  {: .city #koesslarn } <br>
-
-Kühbach  {: .city #kuehbach } <br>
-
-Laaber  {: .city #laaber } <br>
-
-Landau an der Isar  {: .city #landauanderisar } <br>
-
-Landshut  {: .city #landshut } <br>
-
-Lauf an der Pegnitz  {: .city #laufanderpegnitz } <br>
-
-Lauf-Neunhof  {: .city #laufneunhof } <br>
-
-Leinburg  {: .city #leinburg } <br>
-
-Leipheim  {: .city #leipheim } <br>
-
-Leutenbach  {: .city #leutenbach } <br>
-
-Leuterschach  {: .city #leuterschach } <br>
-
-Lichtenau  {: .city #lichtenau } <br>
-
-Lichtenberg  {: .city #lichtenberg } <br>
-
-Lichtenfels  {: .city #lichtenfels } <br>
-
-Litzendorf-Lohndorf  {: .city #litzendorflohndorf } <br>
-
-Litzendorf-Melkendorf  {: .city #litzendorfmelkendorf } <br>
-
-Litzendorf-Tiefenellern  {: .city #litzendorftiefenellern } <br>
-
-Lohberg  {: .city #lohberg } <br>
-
-Mainburg  {: .city #mainburg } <br>
-
-Maisach  {: .city #maisach } <br>
-
-Malgersdorf-Heilmfurt  {: .city #malgersdorfheilmfurt } <br>
-
-Mallersdorf  {: .city #mallersdorf } <br>
-
-Markt Schwaben  {: .city #marktschwaben } <br>
-
-Marktheidenfeld  {: .city #marktheidenfeld } <br>
-
-Marktredwitz  {: .city #marktredwitz } <br>
-
-Marktsteft  {: .city #marktsteft } <br>
-
-Maroldsweisach  {: .city #maroldsweisach } <br>
-
-Maxlrain  {: .city #maxlrain } <br>
-
-Memmelsdorf  {: .city #memmelsdorf } <br>
-
-Memmelsdorf-Drosendorf  {: .city #memmelsdorfdrosendorf } <br>
-
-Memmelsdorf-Merkendorf  {: .city #memmelsdorfmerkendorf } <br>
-
-Memmingen  {: .city #memmingen } <br>
-
-Merkendorf  {: .city #merkendorf } <br>
-
-Meßhofen  {: .city #messhofen } <br>
-
-Michelsneukirchen  {: .city #michelsneukirchen } <br>
-
-Miesbach  {: .city #miesbach } <br>
-
-Miltenberg  {: .city #miltenberg } <br>
-
-Mindelheim  {: .city #mindelheim } <br>
-
-Missen  {: .city #missen } <br>
-
-Mittenwald  {: .city #mittenwald } <br>
-
-Mitterteich  {: .city #mitterteich } <br>
-
-Mitwitz  {: .city #mitwitz } <br>
-
-Moos  {: .city #moos } <br>
-
-Moosbach  {: .city #moosbach } <br>
-
-Motten  {: .city #motten } <br>
-
-Murnau  {: .city #murnau } <br>
-
-Murnau am Staffelsee  {: .city #murnauamstaffelsee } <br>
-
-Mönchsambach  {: .city #moenchsambach } <br>
-
-Mühldorf am Inn  {: .city #muehldorfaminn } <br>
-
-Mühlhausen  {: .city #muehlhausen } <br>
-
-München  _pop 1.378.176 (1.355.000)_{:.pop} {: .city #muenchen } <br>
-
-München-Neuhausen  {: .city #muenchenneuhausen } <br>
-
-Münchsteinach  {: .city #muenchsteinach } <br>
-
-Mürsbach  {: .city #muersbach } <br>
-
-Naila  {: .city #naila } <br>
-
-Nennslingen  {: .city #nennslingen } <br>
-
-Nesselwang  {: .city #nesselwang } <br>
-
-Neu-Ulm  {: .city #neuulm } <br>
-
-Neu-Ulm-Offenhausen  {: .city #neuulmoffenhausen } <br>
-
-Neu-Ulm-Reutti  {: .city #neuulmreutti } <br>
-
-Neuburg an der Donau  {: .city #neuburganderdonau } <br>
-
-Neuhaus an der Pegnitz  {: .city #neuhausanderpegnitz } <br>
-
-Neukirchen bei Sulzbach-Rosenberg  {: .city #neukirchenbeisulzbachrosenberg } <br>
-
-Neumarkt  {: .city #neumarkt } <br>
-
-Neumarkt in der Oberpfalz  {: .city #neumarktinderoberpfalz } <br>
-
-Neunburg vorm Wald  {: .city #neunburgvormwald } <br>
-
-Neunkirchen am Brand  {: .city #neunkirchenambrand } <br>
-
-Neunkirchen am Sand  {: .city #neunkirchenamsand } <br>
-
-Neureichenau-Riedelsbach  {: .city #neureichenauriedelsbach } <br>
-
-Neustadt an der Aisch  {: .city #neustadtanderaisch } <br>
-
-Neusäß-Steppach  {: .city #neusaesssteppach } <br>
-
-Neuötting  {: .city #neuoetting } <br>
-
-Nittenau  {: .city #nittenau } <br>
-
-Nittendorf  {: .city #nittendorf } <br>
-
-Nördlingen  {: .city #noerdlingen } <br>
-
-Nürnberg  _pop 510.602 (1.020.000)_{:.pop} {: .city #nuernberg } <br>
-
-Oberammergau  {: .city #oberammergau } <br>
-
-Oberaurach-Trossenfurt  {: .city #oberaurachtrossenfurt } <br>
-
-Oberelsbach  {: .city #oberelsbach } <br>
-
-Oberhaching-Deisenhofen  {: .city #oberhachingdeisenhofen } <br>
-
-Oberhaid  {: .city #oberhaid } <br>
-
-Oberkotzau-Fattigau  {: .city #oberkotzaufattigau } <br>
-
-Oberreichenbach  {: .city #oberreichenbach } <br>
-
-Obertaufkirchen  {: .city #obertaufkirchen } <br>
-
-Ochsenfurt  {: .city #ochsenfurt } <br>
-
-Odelzhausen  {: .city #odelzhausen } <br>
-
-Oettingen  {: .city #oettingen } <br>
-
-Osterberg  {: .city #osterberg } <br>
-
-Ostheim vor der Rhön  {: .city #ostheimvorderrhoen } <br>
-
-Ottobeuren  {: .city #ottobeuren } <br>
-
-Pahres  {: .city #pahres } <br>
-
-Pappenheim-Bieswang  {: .city #pappenheimbieswang } <br>
-
-Pappenheim-Zimmern  {: .city #pappenheimzimmern } <br>
-
-Passau  {: .city #passau } <br>
-
-Passau-Ries  {: .city #passauries } <br>
-
-Pegnitz  {: .city #pegnitz } <br>
-
-Pegnitz-Büchenbach  {: .city #pegnitzbuechenbach } <br>
-
-Pettendorf  {: .city #pettendorf } <br>
-
-Petting/Schönram  {: .city #pettingschoenram } <br>
-
-Pfaffenberg  {: .city #pfaffenberg } <br>
-
-Pfaffenhausen  {: .city #pfaffenhausen } <br>
-
-Pfaffenhofen an der Ilm  {: .city #pfaffenhofenanderilm } <br>
-
-Pfaffing-Forsting  {: .city #pfaffingforsting } <br>
-
-Pfeffenhausen  {: .city #pfeffenhausen } <br>
-
-Pfronten  {: .city #pfronten } <br>
-
-Pilsting-Großköllnbach  {: .city #pilstinggrosskoellnbach } <br>
-
-Pirk  {: .city #pirk } <br>
-
-Plattling  {: .city #plattling } <br>
-
-Plößberg  {: .city #ploessberg } <br>
-
-Pommersfelden  {: .city #pommersfelden } <br>
-
-Pottenstein  {: .city #pottenstein } <br>
-
-Pretzfeld  {: .city #pretzfeld } <br>
-
-Priesendorf  {: .city #priesendorf } <br>
-
-Pullach-Großhesselohe  {: .city #pullachgrosshesselohe } <br>
-
-Pörnbach  {: .city #poernbach } <br>
-
-Pösing  {: .city #poesing } <br>
-
-Raigering  {: .city #raigering } <br>
-
-Rammingen  {: .city #rammingen } <br>
-
-Rattelsdorf  {: .city #rattelsdorf } <br>
-
-Rauhenebrach-Theinheim  {: .city #rauhenebrachtheinheim } <br>
-
-Reckendorf  {: .city #reckendorf } <br>
-
-Regen  {: .city #regen } <br>
+Nürnberg [Nuremberg]  _pop 510.602 (1.020.000)_{:.pop} {: .city #nuernberg } <br>
 
 Regensburg  {: .city #regensburg } <br>
-
-Rehling  {: .city #rehling } <br>
-
-Reischach  {: .city #reischach } <br>
-
-Rettenberg  {: .city #rettenberg } <br>
-
-Reuth bei Erbendorf  {: .city #reuthbeierbendorf } <br>
-
-Ried bei Markt Indersdorf  {: .city #riedbeimarktindersdorf } <br>
-
-Riedenburg  {: .city #riedenburg } <br>
-
-Rosenheim  {: .city #rosenheim } <br>
-
-Roth vor der Rhön  {: .city #rothvorderrhoen } <br>
-
-Roßdorf am Forst  {: .city #rossdorfamforst } <br>
-
-Ruderatshofen  {: .city #ruderatshofen } <br>
-
-Runding  {: .city #runding } <br>
-
-Röbersdorf  {: .city #roebersdorf } <br>
-
-Rödental  {: .city #roedental } <br>
-
-Röttenbach (bei Erlangen)  {: .city #roettenbach } <br>
-
-Rötz  {: .city #roetz } <br>
-
-Rüdenhausen  {: .city #ruedenhausen } <br>
-
-Saal an der Saale-Waltershausen  {: .city #saalandersaalewaltershausen } <br>
-
-Sachsendorf  {: .city #sachsendorf } <br>
-
-Sachsenkam-Reutberg  {: .city #sachsenkamreutberg } <br>
-
-Salz  {: .city #salz } <br>
-
-Sandersdorf  {: .city #sandersdorf } <br>
-
-Sankt Wolfgang  {: .city #sanktwolfgang } <br>
-
-Schammelsdorf  {: .city #schammelsdorf } <br>
-
-Scheyern  {: .city #scheyern } <br>
-
-Scheßlitz  {: .city #schesslitz } <br>
-
-Schierling  {: .city #schierling } <br>
-
-Schlammersdorf  {: .city #schlammersdorf } <br>
-
-Schloss Haselbach  {: .city #schlosshaselbach } <br>
-
-Schlüsselfeld  {: .city #schluesselfeld } <br>
-
-Schnaitsee  {: .city #schnaitsee } <br>
-
-Schnaittach  {: .city #schnaittach } <br>
-
-Schnaittach-Enzenreuth  {: .city #schnaittachenzenreuth } <br>
-
-Schonungen-Hausen  {: .city #schonungenhausen } <br>
-
-Schwandorf  {: .city #schwandorf } <br>
-
-Schwangau  {: .city #schwangau } <br>
-
-Schwarzach  {: .city #schwarzach } <br>
-
-Schweinfurt  {: .city #schweinfurt } <br>
-
-Schöllkrippen  {: .city #schoellkrippen } <br>
-
-Schönbrunn-Zettmannsdorf  {: .city #schoenbrunnzettmannsdorf } <br>
-
-Schönthal  {: .city #schoenthal } <br>
-
-Seinsheim  {: .city #seinsheim } <br>
-
-Selb  {: .city #selb } <br>
-
-Seßlach  {: .city #sesslach } <br>
-
-Seßlach-Heilgersdorf  {: .city #sesslachheilgersdorf } <br>
-
-Siegenburg  {: .city #siegenburg } <br>
-
-Solnhofen-Hochholz  {: .city #solnhofenhochholz } <br>
-
-Sonthofen  {: .city #sonthofen } <br>
-
-Spalt  {: .city #spalt } <br>
-
-Speiden  {: .city #speiden } <br>
-
-Spiegelau-Klingenbrunn  {: .city #spiegelauklingenbrunn } <br>
-
-Stadelhofen  {: .city #stadelhofen } <br>
-
-Stadelhofen-Schederndorf  {: .city #stadelhofenschederndorf } <br>
-
-Stadtsteinach  {: .city #stadtsteinach } <br>
-
-Stegaurach  {: .city #stegaurach } <br>
-
-Stegaurach-Mühlendorf  {: .city #stegaurachmuehlendorf } <br>
-
-Stein an der Traun  {: .city #steinandertraun } <br>
-
-Steinfeld-Waldzell  {: .city #steinfeldwaldzell } <br>
-
-Steinsfeld-Reichelshofen  {: .city #steinsfeldreichelshofen } <br>
-
-Stettfeld  {: .city #stettfeld } <br>
-
-Straubing  {: .city #straubing } <br>
-
-Straßkirchen (Salzweg)  {: .city #strasskirchen } <br>
-
-Strullendorf-Geisfeld  {: .city #strullendorfgeisfeld } <br>
-
-Sulzbach-Rosenberg  {: .city #sulzbachrosenberg } <br>
-
-Tacherting  {: .city #tacherting } <br>
-
-Taufkirchen (Vils)  {: .city #taufkirchen } <br>
-
-Tegernsee  {: .city #tegernsee } <br>
-
-Teisendorf  {: .city #teisendorf } <br>
-
-Teisnach  {: .city #teisnach } <br>
-
-Teunz  {: .city #teunz } <br>
-
-Thalmässing-Pyras  {: .city #thalmaessingpyras } <br>
-
-Thannhausen  {: .city #thannhausen } <br>
-
-Thüngen  {: .city #thuengen } <br>
-
-Titting  {: .city #titting } <br>
-
-Trabelsdorf  {: .city #trabelsdorf } <br>
-
-Traitsching-Loifling  {: .city #traitschingloifling } <br>
-
-Traunstein  {: .city #traunstein } <br>
-
-Trebgast  {: .city #trebgast } <br>
-
-Triefenstein-Homburg  {: .city #triefensteinhomburg } <br>
-
-Truchtlaching  {: .city #truchtlaching } <br>
-
-Tüßling  {: .city #tuessling } <br>
-
-Uehlfeld  {: .city #uehlfeld } <br>
-
-Unterneukirchen  {: .city #unterneukirchen } <br>
-
-Untersiemau  {: .city #untersiemau } <br>
-
-Untersiemau-Birkach am Forst  {: .city #untersiemaubirkachamforst } <br>
-
-Ursberg  {: .city #ursberg } <br>
-
-Ustersbach  {: .city #ustersbach } <br>
-
-Velburg-Lengenfeld  {: .city #velburglengenfeld } <br>
-
-Velden  {: .city #velden } <br>
-
-Viechtach  {: .city #viechtach } <br>
-
-Viereth-Trunstadt  {: .city #vierethtrunstadt } <br>
-
-Vilseck  {: .city #vilseck } <br>
-
-Vilshofen an der Donau  {: .city #vilshofenanderdonau } <br>
-
-Vohenstrauß  {: .city #vohenstrauss } <br>
-
-Volkach-Krautheim  {: .city #volkachkrautheim } <br>
-
-Waischenfeld  {: .city #waischenfeld } <br>
-
-Walkertshofen  {: .city #walkertshofen } <br>
-
-Wallerstein  {: .city #wallerstein } <br>
-
-Warmensteinach  {: .city #warmensteinach } <br>
-
-Wartenberg  {: .city #wartenberg } <br>
-
-Wassertrüdingen-Fürnheim  {: .city #wassertruedingenfuernheim } <br>
-
-Wattendorf  {: .city #wattendorf } <br>
-
-Weiden in der Oberpfalz  {: .city #weideninderoberpfalz } <br>
-
-Weihmichl  {: .city #weihmichl } <br>
-
-Weiler-Simmerberg  {: .city #weilersimmerberg } <br>
-
-Weilheim in Oberbayern  {: .city #weilheiminoberbayern } <br>
-
-Weismain  {: .city #weismain } <br>
-
-Weissenstadt  {: .city #weissenstadt } <br>
-
-Weißenbrunn  {: .city #weissenbrunn } <br>
-
-Weißenburg in Bayern  {: .city #weissenburginbayern } <br>
-
-Weißenohe  {: .city #weissenohe } <br>
-
-Werneck  {: .city #werneck } <br>
-
-Wertingen  {: .city #wertingen } <br>
-
-Wettelsheim  {: .city #wettelsheim } <br>
-
-Weyarn  {: .city #weyarn } <br>
-
-Wiesen  {: .city #wiesen } <br>
-
-Wieseth  {: .city #wieseth } <br>
-
-Wildenberg  {: .city #wildenberg } <br>
-
-Windischeschenbach  {: .city #windischeschenbach } <br>
-
-Wolnzach  {: .city #wolnzach } <br>
-
-Wunsiedel  {: .city #wunsiedel } <br>
-
-Wunsiedel-Schönbrunn  {: .city #wunsiedelschoenbrunn } <br>
-
-Würgau  {: .city #wuergau } <br>
-
-Würzburg  {: .city #wuerzburg } <br>
-
-Zeil am Main  {: .city #zeilammain } <br>
-
-Zentbechhofen-Höchstadt  {: .city #zentbechhofenhoechstadt } <br>
-
-Zirndorf  {: .city #zirndorf } <br>
-
-Zusmarshausen  {: .city #zusmarshausen } <br>
-
-Zwiesel  {: .city #zwiesel } <br>
 
 </div>
 
@@ -3164,38 +2219,18 @@ Berlin  _pop 3.501.872 (3.453.000)_{:.pop} {: .city #berlin } <br>
 
 
 
-### Brandenburg _(12)_{:.count}
+### Brandenburg _(2)_{:.count}
 {: #de-bb }
 
 
-[Brandenburg a.d. Havel](#brandenburgadhavel) • [Cottbus](#cottbus) • [Drebkau](#drebkau) • [Finsterwalde](#finsterwalde) • [Luckau](#luckau) • [Lübbenau](#luebbenau) • [Müncheberg](#muencheberg) • [Neuzelle](#neuzelle) • [Potsdam](#potsdam) • [Rathenow](#rathenow) • [Schlepzig](#schlepzig) • [Wusterhausen](#wusterhausen)
+[Cottbus](#cottbus) • [Potsdam](#potsdam)
 
 <div class='columns2' markdown='1'>
 
 
-Brandenburg a.d. Havel  {: .city #brandenburgadhavel } <br>
-
 Cottbus  {: .city #cottbus } <br>
 
-Drebkau  {: .city #drebkau } <br>
-
-Finsterwalde  {: .city #finsterwalde } <br>
-
-Luckau  {: .city #luckau } <br>
-
-Lübbenau  {: .city #luebbenau } <br>
-
-Müncheberg  {: .city #muencheberg } <br>
-
-Neuzelle  {: .city #neuzelle } <br>
-
 Potsdam  {: .city #potsdam } <br>
-
-Rathenow  {: .city #rathenow } <br>
-
-Schlepzig  {: .city #schlepzig } <br>
-
-Wusterhausen  {: .city #wusterhausen } <br>
 
 </div>
 
@@ -3231,140 +2266,52 @@ Hamburg  _pop 1.798.836 (1.794.000)_{:.pop} {: .city #hamburg } <br>
 
 
 
-### Hessen [Hesse] _(21)_{:.count}
+### Hessen [Hesse] _(2)_{:.count}
 {: #de-he }
 
 
-[Alsfeld](#alsfeld) • [Babenhausen](#babenhausen) • [Bad Orb](#badorb) • [Baunatal](#baunatal) • [Darmstadt](#darmstadt) • [Erbach im Odenwald](#erbachimodenwald) • [Eschwege](#eschwege) • [Frankfurt](#frankfurt) • [Frankfurt / Main](#frankfurtmain) • [Frankfurt am Main](#frankfurtammain) • [Frankfurt-Sachsenhausen-Süd](#frankfurtsachsenhausensued) • [Fulda](#fulda) • [Kassel](#kassel) • [Lich](#lich) • [Michelstadt](#michelstadt) • [Mossautal](#mossautal) • [Offenbach am Main](#offenbachammain) • [Pfungstadt](#pfungstadt) • [Seligenstadt](#seligenstadt) • [Willingen](#willingen) • [Witzenhausen](#witzenhausen)
+[Frankfurt](#frankfurt) • [Wiesbaden](#wiesbaden)
 
 <div class='columns2' markdown='1'>
 
-
-Alsfeld  {: .city #alsfeld } <br>
-
-Babenhausen  {: .city #babenhausen } <br>
-
-Bad Orb  {: .city #badorb } <br>
-
-Baunatal  {: .city #baunatal } <br>
-
-Darmstadt  {: .city #darmstadt } <br>
-
-Erbach im Odenwald  {: .city #erbachimodenwald } <br>
-
-Eschwege  {: .city #eschwege } <br>
 
 Frankfurt  _pop 691.518 (2.300.000)_{:.pop} {: .city #frankfurt } <br>
 
-Frankfurt / Main  {: .city #frankfurtmain } <br>
-
-Frankfurt am Main  {: .city #frankfurtammain } <br>
-
-Frankfurt-Sachsenhausen-Süd  {: .city #frankfurtsachsenhausensued } <br>
-
-Fulda  {: .city #fulda } <br>
-
-Kassel  {: .city #kassel } <br>
-
-Lich  {: .city #lich } <br>
-
-Michelstadt  {: .city #michelstadt } <br>
-
-Mossautal  {: .city #mossautal } <br>
-
-Offenbach am Main  {: .city #offenbachammain } <br>
-
-Pfungstadt  {: .city #pfungstadt } <br>
-
-Seligenstadt  {: .city #seligenstadt } <br>
-
-Willingen  {: .city #willingen } <br>
-
-Witzenhausen  {: .city #witzenhausen } <br>
+Wiesbaden  {: .city #wiesbaden } <br>
 
 </div>
 
 
 
-### Mecklenburg-Vorpommern _(7)_{:.count}
+### Mecklenburg-Vorpommern _(1)_{:.count}
 {: #de-mv }
 
 
-[Dargun](#dargun) • [Groß Gievitz](#grossgievitz) • [Hansestadt Stralsund](#hansestadtstralsund) • [Lübz](#luebz) • [Mellenthin](#mellenthin) • [Rostock](#rostock) • [Vielank](#vielank)
+
 
 <div class='columns2' markdown='1'>
 
 
-Dargun  {: .city #dargun } <br>
-
-Groß Gievitz  {: .city #grossgievitz } <br>
-
-Hansestadt Stralsund  {: .city #hansestadtstralsund } <br>
-
-Lübz  {: .city #luebz } <br>
-
-Mellenthin  {: .city #mellenthin } <br>
-
-Rostock  {: .city #rostock } <br>
-
-Vielank  {: .city #vielank } <br>
+Schwerin  {: .city #schwerin } <br>
 
 </div>
 
 
 
-### Niedersachsen [Lower Saxony] _(23)_{:.count}
+### Niedersachsen [Lower Saxony] _(4)_{:.count}
 {: #de-ni }
 
 
-[Braunschweig](#braunschweig) • [Celle](#celle) • [Dahlenburg](#dahlenburg) • [Einbeck](#einbeck) • [Großefehn](#grossefehn) • [Großefehn-Bagband](#grossefehnbagband) • [Hannover](#hannover) • [Hannover-Altstadt](#hannoveraltstadt) • [Holzminden](#holzminden) • [Jever](#jever) • [Langeoog](#langeoog) • [Lauenau](#lauenau) • [Lüneburg](#lueneburg) • [Lünne](#luenne) • [Nortrup](#nortrup) • [Nörten-Hardenberg](#noertenhardenberg) • [Osnabrück](#osnabrueck) • [Peine](#peine) • [Stadthagen](#stadthagen) • [Uslar](#uslar) • [Varel](#varel) • [Wittingen](#wittingen) • [Wolfsburg](#wolfsburg)
+[Braunschweig](#braunschweig) • [Hannove](#hannove) • [Hannover](#hannover) • [Wolfsburg](#wolfsburg)
 
 <div class='columns2' markdown='1'>
 
 
 Braunschweig  {: .city #braunschweig } <br>
 
-Celle  {: .city #celle } <br>
-
-Dahlenburg  {: .city #dahlenburg } <br>
-
-Einbeck  {: .city #einbeck } <br>
-
-Großefehn  {: .city #grossefehn } <br>
-
-Großefehn-Bagband  {: .city #grossefehnbagband } <br>
+Hannove  {: .city #hannove } <br>
 
 Hannover  _pop 525.875_{:.pop} {: .city #hannover } <br>
-
-Hannover-Altstadt  {: .city #hannoveraltstadt } <br>
-
-Holzminden  {: .city #holzminden } <br>
-
-Jever  {: .city #jever } <br>
-
-Langeoog  {: .city #langeoog } <br>
-
-Lauenau  {: .city #lauenau } <br>
-
-Lüneburg  {: .city #lueneburg } <br>
-
-Lünne  {: .city #luenne } <br>
-
-Nortrup  {: .city #nortrup } <br>
-
-Nörten-Hardenberg  {: .city #noertenhardenberg } <br>
-
-Osnabrück  {: .city #osnabrueck } <br>
-
-Peine  {: .city #peine } <br>
-
-Stadthagen  {: .city #stadthagen } <br>
-
-Uslar  {: .city #uslar } <br>
-
-Varel  {: .city #varel } <br>
-
-Wittingen  {: .city #wittingen } <br>
 
 Wolfsburg  _pop 122.583_{:.pop} {: .city #wolfsburg } <br>
 
@@ -3372,11 +2319,11 @@ Wolfsburg  _pop 122.583_{:.pop} {: .city #wolfsburg } <br>
 
 
 
-### Nordrhein-Westfalen [North Rhine-Westphalia] _(17)_{:.count}
+### Nordrhein-Westfalen [North Rhine-Westphalia] _(13)_{:.count}
 {: #de-nw }
 
 
-[Bochum](#bochum) • [Bonn](#bonn) • [Dortmund (Hafen)](#dortmund) • [Duisburg](#duisburg) • [Düsseldorf](#duesseldorf) • [Essen](#essen) • [Gelsenkirchen](#gelsenkirchen) • [Hagen (Dahl)](#hagen) • [Kreuztal](#kreuztal) • [Köln](#koeln) • [Köln/Bonn  [Cologne-Bonn]](#koelnbonn) • [Leverkusen](#leverkusen) • [M'gladbach](#mgladbach) • [Meschede](#meschede) • [Paderborn](#paderborn) • [Ruhrgebiet [Ruhr area]](#ruhr) • [Warstein](#warstein)
+[Bochum](#bochum) • [Bonn](#bonn) • [Dortmund](#dortmund) • [Duisburg](#duisburg) • [Düsseldorf](#duesseldorf) • [Essen](#essen) • [Gelsenkirchen](#gelsenkirchen) • [Köln](#koeln) • [Köln/Bonn  [Cologne-Bonn]](#koelnbonn) • [Leverkusen](#leverkusen) • [M'gladbach](#mgladbach) • [Paderborn](#paderborn) • [Ruhrgebiet [Ruhr area]](#ruhr)
 
 <div class='columns2' markdown='1'>
 
@@ -3385,7 +2332,7 @@ Bochum  _pop 388.100_{:.pop} {: .city #bochum } <br>
 
 Bonn  _pop 307.500_{:.pop} {: .city #bonn } <br>
 
-Dortmund (Hafen)  _pop 580.956_{:.pop} {: .city #dortmund } <br>
+Dortmund  _pop 580.956_{:.pop} {: .city #dortmund } <br>
 
 Duisburg  _pop 513.400_{:.pop} {: .city #duisburg } <br>
 
@@ -3395,10 +2342,6 @@ Essen  _pop 573.468_{:.pop} {: .city #essen } <br>
 
 Gelsenkirchen  _pop 256.652_{:.pop} {: .city #gelsenkirchen } <br>
 
-Hagen (Dahl)  {: .city #hagen } <br>
-
-Kreuztal  {: .city #kreuztal } <br>
-
 Köln  _pop 1.017.155_{:.pop} {: .city #koeln } <br>
 
 Köln/Bonn  [Cologne-Bonn]  _pop (2.063.000)_{:.pop} {: .city #koelnbonn } <br>
@@ -3407,64 +2350,32 @@ Leverkusen  _pop 161.195_{:.pop} {: .city #leverkusen } <br>
 
 M'gladbach  _pop 257.208_{:.pop} {: .city #mgladbach } <br>
 
-Meschede  {: .city #meschede } <br>
-
 Paderborn  {: .city #paderborn } <br>
 
 Ruhrgebiet [Ruhr area]  _pop (7.304.000)_{:.pop} {: .city #ruhr } <br>
 
-Warstein  {: .city #warstein } <br>
-
 </div>
 
 
 
-### Rheinland-Pfalz [Rhineland-Palatinate] _(16)_{:.count}
+### Rheinland-Pfalz [Rhineland-Palatinate] _(2)_{:.count}
 {: #de-rp }
 
 
-[Bernkastel-Wehlen](#bernkastelwehlen) • [Bitburg](#bitburg) • [Hachenburg](#hachenburg) • [Kaiserslautern](#kaiserslautern) • [Kirn](#kirn) • [Koblenz](#koblenz) • [Lahnstein](#lahnstein) • [Linz am Rhein](#linzamrhein) • [Mainz](#mainz) • [Mainz-Kastel](#mainzkastel) • [Naurath](#naurath) • [Pirmasens](#pirmasens) • [Ransbach-Baumbach](#ransbachbaumbach) • [Remagen](#remagen) • [Trier](#trier) • [Winnweiler](#winnweiler)
+[Kaiserslautern](#kaiserslautern) • [Mainz](#mainz)
 
 <div class='columns2' markdown='1'>
 
 
-Bernkastel-Wehlen  {: .city #bernkastelwehlen } <br>
-
-Bitburg  {: .city #bitburg } <br>
-
-Hachenburg  {: .city #hachenburg } <br>
-
 Kaiserslautern  {: .city #kaiserslautern } <br>
 
-Kirn  {: .city #kirn } <br>
-
-Koblenz  {: .city #koblenz } <br>
-
-Lahnstein  {: .city #lahnstein } <br>
-
-Linz am Rhein  {: .city #linzamrhein } <br>
-
 Mainz  _pop 200.957_{:.pop} {: .city #mainz } <br>
-
-Mainz-Kastel  {: .city #mainzkastel } <br>
-
-Naurath  {: .city #naurath } <br>
-
-Pirmasens  {: .city #pirmasens } <br>
-
-Ransbach-Baumbach  {: .city #ransbachbaumbach } <br>
-
-Remagen  {: .city #remagen } <br>
-
-Trier  {: .city #trier } <br>
-
-Winnweiler  {: .city #winnweiler } <br>
 
 </div>
 
 
 
-### Saarland _(0)_{:.count}
+### Saarland _(1)_{:.count}
 {: #de-sl }
 
 
@@ -3473,183 +2384,94 @@ Winnweiler  {: .city #winnweiler } <br>
 <div class='columns2' markdown='1'>
 
 
+Saarbrücken  {: .city #saarbruecken } <br>
+
 </div>
 
 
 
-### Sachsen [Saxony] _(25)_{:.count}
+### Sachsen [Saxony] _(3)_{:.count}
 {: #de-sn }
 
 
-[Aue](#aue) • [Bautzen](#bautzen) • [Chemnitz](#chemnitz) • [Coswig](#coswig) • [Dresden](#dresden) • [Ehrenfriedersdorf](#ehrenfriedersdorf) • [Eibau](#eibau) • [Freiberg](#freiberg) • [Gersdorf](#gersdorf) • [Großröhrsdorf](#grossroehrsdorf) • [Görlitz](#goerlitz) • [Krostitz](#krostitz) • [Leipzig](#leipzig) • [Löbau](#loebau) • [Meißen](#meissen) • [Penig](#penig) • [Pirna-Copitz](#pirnacopitz) • [Plauen](#plauen) • [Radeberg](#radeberg) • [Rechenberg-Bienenmühle](#rechenbergbienenmuehle) • [Scheibenberg-Oberscheibe](#scheibenbergoberscheibe) • [Torgau](#torgau) • [Wernesgrün](#wernesgruen) • [Wittichenau](#wittichenau) • [Zwickau](#zwickau)
+[Aue](#aue) • [Dresden](#dresden) • [Leipzig](#leipzig)
 
 <div class='columns2' markdown='1'>
 
 
 Aue  {: .city #aue } <br>
 
-Bautzen  {: .city #bautzen } <br>
-
-Chemnitz  {: .city #chemnitz } <br>
-
-Coswig  {: .city #coswig } <br>
-
 Dresden  _pop 473.300_{:.pop} {: .city #dresden } <br>
-
-Ehrenfriedersdorf  {: .city #ehrenfriedersdorf } <br>
-
-Eibau  {: .city #eibau } <br>
-
-Freiberg  {: .city #freiberg } <br>
-
-Gersdorf  {: .city #gersdorf } <br>
-
-Großröhrsdorf  {: .city #grossroehrsdorf } <br>
-
-Görlitz  {: .city #goerlitz } <br>
-
-Krostitz  {: .city #krostitz } <br>
 
 Leipzig  _pop 486.100_{:.pop} {: .city #leipzig } <br>
 
-Löbau  {: .city #loebau } <br>
-
-Meißen  {: .city #meissen } <br>
-
-Penig  {: .city #penig } <br>
-
-Pirna-Copitz  {: .city #pirnacopitz } <br>
-
-Plauen  {: .city #plauen } <br>
-
-Radeberg  {: .city #radeberg } <br>
-
-Rechenberg-Bienenmühle  {: .city #rechenbergbienenmuehle } <br>
-
-Scheibenberg-Oberscheibe  {: .city #scheibenbergoberscheibe } <br>
-
-Torgau  {: .city #torgau } <br>
-
-Wernesgrün  {: .city #wernesgruen } <br>
-
-Wittichenau  {: .city #wittichenau } <br>
-
-Zwickau  {: .city #zwickau } <br>
-
 </div>
 
 
 
-### Sachsen-Anhalt [Saxony-Anhalt] _(10)_{:.count}
+### Sachsen-Anhalt [Saxony-Anhalt] _(1)_{:.count}
 {: #de-st }
 
 
-[Bitterfeld-Wolfen](#bitterfeldwolfen) • [Gardelegen](#gardelegen) • [Köthen](#koethen) • [Landsberg](#landsberg) • [Lutherstadt Wittenberg](#lutherstadtwittenberg) • [Magdeburg](#magdeburg) • [Neuendorf](#neuendorf) • [Sangerhausen / Wippra](#sangerhausenwippra) • [Schkopau OT Röglitz](#schkopauotroeglitz) • [Wernigerode](#wernigerode)
+
 
 <div class='columns2' markdown='1'>
 
-
-Bitterfeld-Wolfen  {: .city #bitterfeldwolfen } <br>
-
-Gardelegen  {: .city #gardelegen } <br>
-
-Köthen  {: .city #koethen } <br>
-
-Landsberg  {: .city #landsberg } <br>
-
-Lutherstadt Wittenberg  {: .city #lutherstadtwittenberg } <br>
 
 Magdeburg  {: .city #magdeburg } <br>
 
-Neuendorf  {: .city #neuendorf } <br>
-
-Sangerhausen / Wippra  {: .city #sangerhausenwippra } <br>
-
-Schkopau OT Röglitz  {: .city #schkopauotroeglitz } <br>
-
-Wernigerode  {: .city #wernigerode } <br>
-
 </div>
 
 
 
-### Schleswig-Holstein _(10)_{:.count}
+### Schleswig-Holstein _(1)_{:.count}
 {: #de-sh }
 
 
-[Eutin](#eutin) • [Flensburg](#flensburg) • [Husum](#husum) • [Kiel](#kiel) • [Lübeck](#luebeck) • [Marne](#marne) • [Neustadt in Holstein](#neustadtinholstein) • [Rickling](#rickling) • [Schenefeld](#schenefeld) • [Schillsdorf](#schillsdorf)
+
 
 <div class='columns2' markdown='1'>
 
 
-Eutin  {: .city #eutin } <br>
-
-Flensburg  {: .city #flensburg } <br>
-
-Husum  {: .city #husum } <br>
-
 Kiel  {: .city #kiel } <br>
-
-Lübeck  {: .city #luebeck } <br>
-
-Marne  {: .city #marne } <br>
-
-Neustadt in Holstein  {: .city #neustadtinholstein } <br>
-
-Rickling  {: .city #rickling } <br>
-
-Schenefeld  {: .city #schenefeld } <br>
-
-Schillsdorf  {: .city #schillsdorf } <br>
 
 </div>
 
 
 
-### Thüringen [Thuringia] _(14)_{:.count}
+### Thüringen [Thuringia] _(1)_{:.count}
 {: #de-th }
 
 
-[Altenburg](#altenburg) • [Apolda](#apolda) • [Bad Blankenburg](#badblankenburg) • [Bad Köstritz](#badkoestritz) • [Dingsleben](#dingsleben) • [Eisenach](#eisenach) • [Erfurt](#erfurt) • [Greiz](#greiz) • [Kaltennordheim](#kaltennordheim) • [Leinefelde-Worbis](#leinefeldeworbis) • [Meiningen](#meiningen) • [Pößneck](#poessneck) • [Saalfeld](#saalfeld) • [Sonneberg](#sonneberg)
+
 
 <div class='columns2' markdown='1'>
 
 
-Altenburg  {: .city #altenburg } <br>
-
-Apolda  {: .city #apolda } <br>
-
-Bad Blankenburg  {: .city #badblankenburg } <br>
-
-Bad Köstritz  {: .city #badkoestritz } <br>
-
-Dingsleben  {: .city #dingsleben } <br>
-
-Eisenach  {: .city #eisenach } <br>
-
 Erfurt  {: .city #erfurt } <br>
-
-Greiz  {: .city #greiz } <br>
-
-Kaltennordheim  {: .city #kaltennordheim } <br>
-
-Leinefelde-Worbis  {: .city #leinefeldeworbis } <br>
-
-Meiningen  {: .city #meiningen } <br>
-
-Pößneck  {: .city #poessneck } <br>
-
-Saalfeld  {: .city #saalfeld } <br>
-
-Sonneberg  {: .city #sonneberg } <br>
 
 </div>
 
 
  
+## Gibraltar (GIB) - 0 Regions, 0 Cities
+{: #gi }
 
----------------------------------------
 
+
+
+
+
+ 
+## Great Britain (GBR) - 0 Regions, 0 Cities
+{: #gb }
+
+
+
+
+
+
+ 
 ## Greece (GRE) - 0 Regions, 3 Cities
 {: #gr }
 
@@ -3668,9 +2490,15 @@ Piräus  {: .city #piraeus } <br>
 
 
  
+## Guernsey (GGY) - 0 Regions, 0 Cities
+{: #gg }
 
----------------------------------------
 
+
+
+
+
+ 
 ## Hungary (HUN) - 0 Regions, 1 Cities
 {: #hu }
 
@@ -3685,9 +2513,6 @@ Budapest  _pop 1.733.685 (1.727.000)_{:.pop} {: .city #budapest } <br>
 
 
  
-
----------------------------------------
-
 ## Iceland (ISL) - 0 Regions, 0 Cities
 {: #is }
 
@@ -3697,9 +2522,6 @@ Budapest  _pop 1.733.685 (1.727.000)_{:.pop} {: .city #budapest } <br>
 
 
  
-
----------------------------------------
-
 ## Irland (IRL) - 27 Regions, 30 Cities
 {: #ie }
 
@@ -4120,11 +2942,8 @@ Tralee  {: .city #tralee } <br>
 
 
  
-
----------------------------------------
-
-## Israel (ISR) - 0 Regions, 0 Cities
-{: #il }
+## Isle of Man (IMN) - 0 Regions, 0 Cities
+{: #im }
 
 
 
@@ -4132,9 +2951,6 @@ Tralee  {: .city #tralee } <br>
 
 
  
-
----------------------------------------
-
 ## Italy (ITA) - 20 Regions, 28 Cities
 {: #it }
 
@@ -4460,11 +3276,8 @@ Palermo  _pop 689.349 (876.000)_{:.pop} {: .city #palermo } <br>
 
 
  
-
----------------------------------------
-
-## Kazakhstan (KAZ) - 0 Regions, 0 Cities
-{: #kz }
+## Jersey (JEY) - 0 Regions, 0 Cities
+{: #je }
 
 
 
@@ -4472,9 +3285,6 @@ Palermo  _pop 689.349 (876.000)_{:.pop} {: .city #palermo } <br>
 
 
  
-
----------------------------------------
-
 ## Latvija [Latvia] (LVA) - 0 Regions, 1 Cities
 {: #lv }
 
@@ -4489,9 +3299,6 @@ Riga  _pop 699.203 (1.018.295)_{:.pop} {: .city #riga } <br>
 
 
  
-
----------------------------------------
-
 ## Liechtenstein (LIE) - 0 Regions, 1 Cities
 {: #li }
 
@@ -4506,9 +3313,6 @@ Vaduz  {: .city #vaduz } <br>
 
 
  
-
----------------------------------------
-
 ## Lithuania (LTU) - 0 Regions, 1 Cities
 {: #lt }
 
@@ -4523,9 +3327,6 @@ Vilnius  _pop 554.060 (838.852)_{:.pop} {: .city #vilnius } <br>
 
 
  
-
----------------------------------------
-
 ## Luxembourg (LUX) - 0 Regions, 0 Cities
 {: #lu }
 
@@ -4535,9 +3336,6 @@ Vilnius  _pop 554.060 (838.852)_{:.pop} {: .city #vilnius } <br>
 
 
  
-
----------------------------------------
-
 ## Macedonia (MKD) - 0 Regions, 0 Cities
 {: #mk }
 
@@ -4547,9 +3345,6 @@ Vilnius  _pop 554.060 (838.852)_{:.pop} {: .city #vilnius } <br>
 
 
  
-
----------------------------------------
-
 ## Malta (MLT) - 0 Regions, 0 Cities
 {: #mt }
 
@@ -4559,9 +3354,6 @@ Vilnius  _pop 554.060 (838.852)_{:.pop} {: .city #vilnius } <br>
 
 
  
-
----------------------------------------
-
 ## Moldova (MDA) - 0 Regions, 1 Cities
 {: #md }
 
@@ -4576,9 +3368,20 @@ Chișinău  {: .city #chisinau } <br>
 
 
  
+## Monaco (MCO) - 0 Regions, 1 Cities
+{: #mc }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Monaco  {: .city #monaco } <br>
+
+
+ 
 ## Montenegro (MNE) - 0 Regions, 1 Cities
 {: #me }
 
@@ -4593,22 +3396,23 @@ Podgorica  {: .city #podgorica } <br>
 
 
  
-
----------------------------------------
-
-## Netherlands (NED) - 12 Regions, 12 Cities
+## Netherlands (NED) - 12 Regions, 14 Cities
 {: #nl }
 
 
-[Groningen](#nl-gr) _(1)_{:.count} • [Fryslân [Friesland]](#nl-fr) _(1)_{:.count} • [Drenthe](#nl-dr) _(1)_{:.count} • [Overijssel](#nl-ov) _(1)_{:.count} • [Gelderland](#nl-ge) _(1)_{:.count} • [Flevoland](#nl-fl) _(1)_{:.count} • [Utrecht](#nl-ut) _(0)_{:.count} • [Noord-Holland [North Holland]](#nl-nh) _(1)_{:.count} • [Zuid-Holland [South Holland]](#nl-zh) _(0)_{:.count} • [Zeeland](#nl-ze) _(0)_{:.count} • [Noord-Brabant [North Brabant]](#nl-nb) _(1)_{:.count} • [Limburg](#nl-li) _(1)_{:.count} • **Uncategorized** _(3)_{:.count}
+[Groningen](#nl-gr) _(1)_{:.count} • [Fryslân [Friesland]](#nl-fr) _(1)_{:.count} • [Drenthe](#nl-dr) _(1)_{:.count} • [Overijssel](#nl-ov) _(1)_{:.count} • [Gelderland](#nl-ge) _(1)_{:.count} • [Flevoland](#nl-fl) _(1)_{:.count} • [Utrecht](#nl-ut) _(0)_{:.count} • [Noord-Holland [North Holland]](#nl-nh) _(1)_{:.count} • [Zuid-Holland [South Holland]](#nl-zh) _(0)_{:.count} • [Zeeland](#nl-ze) _(0)_{:.count} • [Noord-Brabant [North Brabant]](#nl-nb) _(1)_{:.count} • [Limburg](#nl-li) _(1)_{:.count} • **Uncategorized** _(5)_{:.count}
 
 
-### Uncategorized _(3)_{:.count}
+### Uncategorized _(5)_{:.count}
 
 
-Rotterdam-The Hague  _pop (2.113.000)_{:.pop} {: .city #rotterdamthehague } <br>
+Rotterdam-Den Haag [Rotterdam-The Hague]  _pop (2.113.000)_{:.pop} {: .city #rotterdamdenhaag } <br>
 
 Amsterdam  _pop (1.050.000)_{:.pop} {: .city #amsterdam } <br>
+
+Rotterdam  {: .city #rotterdam } <br>
+
+Den Haag  {: .city #denhaag } <br>
 
 Alkmaar  {: .city #alkmaar } <br>
 
@@ -4788,9 +3592,6 @@ Maastricht  {: .city #maastricht } <br>
 
 
  
-
----------------------------------------
-
 ## Northern Ireland (NIR) - 0 Regions, 1 Cities
 {: #nd }
 
@@ -4805,9 +3606,6 @@ Belfast  {: .city #belfast } <br>
 
 
  
-
----------------------------------------
-
 ## Norway (NOR) - 0 Regions, 1 Cities
 {: #no }
 
@@ -4822,17 +3620,14 @@ Oslo  _pop (922.000)_{:.pop} {: .city #oslo } <br>
 
 
  
-
----------------------------------------
-
-## Poland (POL) - 0 Regions, 5 Cities
+## Poland (POL) - 0 Regions, 6 Cities
 {: #pl }
 
 
 
 
 
-### Uncategorized _(5)_{:.count}
+### Uncategorized _(6)_{:.count}
 
 
 Katowice (Upper-Silesian Metropolis)  _pop (2.505.000)_{:.pop} {: .city #katowicemetro } <br>
@@ -4845,11 +3640,10 @@ Warszawa [Warsaw]  _pop 1.720.398 (1.713.000)_{:.pop} {: .city #warszawa } <br>
 
 Kraków  _pop (760.000)_{:.pop} {: .city #krakow } <br>
 
+Katowice  {: .city #katowice } <br>
+
 
  
-
----------------------------------------
-
 ## Portugal (POR) - 0 Regions, 3 Cities
 {: #pt }
 
@@ -4860,7 +3654,7 @@ Kraków  _pop (760.000)_{:.pop} {: .city #krakow } <br>
 ### Uncategorized _(3)_{:.count}
 
 
-Lissabon  _pop (3.051.000)_{:.pop} {: .city #lisboa } <br>
+Lisboa [Lisbon]  _pop (3.051.000)_{:.pop} {: .city #lisboa } <br>
 
 Porto  _pop (1.491.000)_{:.pop} {: .city #porto } <br>
 
@@ -4868,9 +3662,6 @@ Braga  {: .city #braga } <br>
 
 
  
-
----------------------------------------
-
 ## Romania (ROU) - 42 Regions, 37 Cities
 {: #ro }
 
@@ -5500,34 +4291,48 @@ Timișoara  {: .city #timisoara } <br>
 
 
  
-
----------------------------------------
-
-## Russia (RUS) - 0 Regions, 5 Cities
+## Russia (RUS) - 0 Regions, 15 Cities
 {: #ru }
 
 
 
 
 
-### Uncategorized _(5)_{:.count}
+### Uncategorized _(15)_{:.count}
 
 
-Moskva [Moscow]  _pop 11.689.048 (15.512.000)_{:.pop} {: .city #moskva } <br>
+Moskva  _pop 11.689.048 (15.512.000)_{:.pop} {: .city #moskva } <br>
 
-St. Petersburg  _pop 4.879.566 (4.879.000)_{:.pop} {: .city #stpetersburg } <br>
+Sankt-Peterburg  _pop 4.879.566 (4.879.000)_{:.pop} {: .city #sanktpeterburg } <br>
 
-Novgorod  _pop 1.250.615 (1.248.000)_{:.pop} {: .city #novgorod } <br>
+Nizhny Novgorod  _pop 1.250.615 (1.248.000)_{:.pop} {: .city #nizhnynovgorod } <br>
 
-Samaram  _pop 1.164.896 (1.163.000)_{:.pop} {: .city #samaram } <br>
+Novosibirsk  _pop (1)_{:.pop} {: .city #novosibirsk } <br>
 
-Kazan  _pop 1.143.546 (1.141.000)_{:.pop} {: .city #kazan } <br>
+Jekaterinburg [Yekaterinburg]  _pop 1.350.136 (1)_{:.pop} {: .city #jekaterinburg } <br>
+
+Volgograd  _pop (1)_{:.pop} {: .city #volgograd } <br>
+
+Čel'abinsk [Chelyabinsk]  _pop 1.130.273 (1)_{:.pop} {: .city #celabinsk } <br>
+
+Samara  _pop 1.164.896 (1)_{:.pop} {: .city #samara } <br>
+
+Kazan  _pop 1.143.546 (1)_{:.pop} {: .city #kazan } <br>
+
+Rostov-na-Donu [Rostov-on-Don]  _pop (1)_{:.pop} {: .city #rostovnadonu } <br>
+
+Omsk  _pop (1)_{:.pop} {: .city #omsk } <br>
+
+Saratov  _pop (1)_{:.pop} {: .city #saratov } <br>
+
+Ufa  _pop (1)_{:.pop} {: .city #ufa } <br>
+
+Perm  _pop (1)_{:.pop} {: .city #perm } <br>
+
+Krasnojarsk [Krasnoyarsk]  _pop (1)_{:.pop} {: .city #krasnojarsk } <br>
 
 
  
-
----------------------------------------
-
 ## San Marino (SMR) - 0 Regions, 1 Cities
 {: #sm }
 
@@ -5542,9 +4347,6 @@ City of San Marino  {: .city #cityofsanmarino } <br>
 
 
  
-
----------------------------------------
-
 ## Scotland (SCO) - 0 Regions, 1 Cities
 {: #sc }
 
@@ -5559,9 +4361,6 @@ Glasgow  _pop (1.201.000)_{:.pop} {: .city #glasgow } <br>
 
 
  
-
----------------------------------------
-
 ## Serbia (SRB) - 0 Regions, 1 Cities
 {: #rs }
 
@@ -5572,13 +4371,10 @@ Glasgow  _pop (1.201.000)_{:.pop} {: .city #glasgow } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Beograd [Belgrade]  _pop 1.154.589 (1.098.000)_{:.pop} {: .city #beograd } <br>
+Beograd [Belgrade]  _pop 1.154.589 (1)_{:.pop} {: .city #beograd } <br>
 
 
  
-
----------------------------------------
-
 ## Slovakia (SVK) - 8 Regions, 20 Cities
 {: #sk }
 
@@ -5732,9 +4528,6 @@ Spišská Nová Ves  _pop 37.948_{:.pop} {: .city #spisskanovaves } <br>
 
 
  
-
----------------------------------------
-
 ## Slovenia (SVN) - 0 Regions, 0 Cities
 {: #si }
 
@@ -5744,19 +4537,16 @@ Spišská Nová Ves  _pop 37.948_{:.pop} {: .city #spisskanovaves } <br>
 
 
  
-
----------------------------------------
-
-## Spain (ESP) - 19 Regions, 16 Cities
+## Spain (ESP) - 19 Regions, 21 Cities
 {: #es }
 
 
-[Andalucía](#es-an) _(3)_{:.count} • [Aragón](#es-ar) _(1)_{:.count} • [Asturias](#es-as) _(0)_{:.count} • [Illes Balears](#es-ib) _(1)_{:.count} • [Pais Vasco](#es-pv) _(2)_{:.count} • [Canarias](#es-cn) _(1)_{:.count} • [Cantábria](#es-cb) _(0)_{:.count} • [Castilla y León](#es-cl) _(1)_{:.count} • [Castilla-La Mancha](#es-cm) _(0)_{:.count} • [Cataluña](#es-ct) _(1)_{:.count} • [Extremadura](#es-ex) _(0)_{:.count} • [Galicia](#es-ga) _(2)_{:.count} • [La Rioja](#es-ri) _(0)_{:.count} • [Madrid](#es-md) _(1)_{:.count} • [Murcia](#es-mc) _(1)_{:.count} • [Navarra](#es-na) _(1)_{:.count} • [Valencia](#es-vc) _(1)_{:.count} • [Ceuta](#es-ce) _(0)_{:.count} • [Melilla](#es-ml) _(0)_{:.count}
+[Andalucía [Andalusia]](#es-an) _(3)_{:.count} • [Aragón](#es-ar) _(1)_{:.count} • [Asturias](#es-as) _(1)_{:.count} • [Illes Balears [Balearic Islands]](#es-ib) _(1)_{:.count} • [Pais Vasco [Basque Country]](#es-pv) _(2)_{:.count} • [Canarias [Canary Islands]](#es-cn) _(1)_{:.count} • [Cantábria](#es-cb) _(1)_{:.count} • [Castilla y León](#es-cl) _(1)_{:.count} • [Castilla-La Mancha](#es-cm) _(1)_{:.count} • [Cataluña [Catalonia]](#es-ct) _(0)_{:.count} • [Extremadura](#es-ex) _(0)_{:.count} • [Galicia](#es-ga) _(3)_{:.count} • [La Rioja](#es-ri) _(1)_{:.count} • [Madrid](#es-md) _(1)_{:.count} • [Murcia](#es-mc) _(1)_{:.count} • [Navarra](#es-na) _(1)_{:.count} • [Valencia](#es-vc) _(0)_{:.count} • [Ceuta](#es-ce) _(1)_{:.count} • [Melilla](#es-ml) _(1)_{:.count}
 
 
 
 
-### Andalucía | Andalusia _(3)_{:.count}
+### Andalucía [Andalusia] _(3)_{:.count}
 {: #es-an }
 
 
@@ -5790,7 +4580,7 @@ Zaragoza  _pop 674.725_{:.pop} {: .city #zaragoza } <br>
 
 
 
-### Asturias _(0)_{:.count}
+### Asturias _(1)_{:.count}
 {: #es-as }
 
 
@@ -5799,11 +4589,13 @@ Zaragoza  _pop 674.725_{:.pop} {: .city #zaragoza } <br>
 <div class='columns2' markdown='1'>
 
 
+Oviedo  {: .city #oviedo } <br>
+
 </div>
 
 
 
-### Illes Balears | Balearic Islands _(1)_{:.count}
+### Illes Balears [Balearic Islands] _(1)_{:.count}
 {: #es-ib }
 
 
@@ -5818,7 +4610,7 @@ Palma (de Mallorca)  _pop 405.318_{:.pop} {: .city #palma } <br>
 
 
 
-### Pais Vasco | Basque Country _(2)_{:.count}
+### Pais Vasco [Basque Country] _(2)_{:.count}
 {: #es-pv }
 
 
@@ -5835,7 +4627,7 @@ San Sebastián  {: .city #sansebastian } <br>
 
 
 
-### Canarias | Canary Islands _(1)_{:.count}
+### Canarias [Canary Islands] _(1)_{:.count}
 {: #es-cn }
 
 
@@ -5850,7 +4642,7 @@ Las Palmas (de Gran Canaria)  _pop 383.343_{:.pop} {: .city #laspalmas } <br>
 
 
 
-### Cantábria _(0)_{:.count}
+### Cantábria _(1)_{:.count}
 {: #es-cb }
 
 
@@ -5858,6 +4650,8 @@ Las Palmas (de Gran Canaria)  _pop 383.343_{:.pop} {: .city #laspalmas } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Santander  {: .city #santander } <br>
 
 </div>
 
@@ -5878,7 +4672,7 @@ Valladolid  {: .city #valladolid } <br>
 
 
 
-### Castilla-La Mancha _(0)_{:.count}
+### Castilla-La Mancha _(1)_{:.count}
 {: #es-cm }
 
 
@@ -5887,11 +4681,13 @@ Valladolid  {: .city #valladolid } <br>
 <div class='columns2' markdown='1'>
 
 
+Toledo  {: .city #toledo } <br>
+
 </div>
 
 
 
-### Cataluña | Catalonia _(1)_{:.count}
+### Cataluña [Catalonia] _(0)_{:.count}
 {: #es-ct }
 
 
@@ -5899,8 +4695,6 @@ Valladolid  {: .city #valladolid } <br>
 
 <div class='columns2' markdown='1'>
 
-
-Barcelona  _pop 1.615.448 (4.223.000)_{:.pop} {: .city #barcelona } <br>
 
 </div>
 
@@ -5919,16 +4713,18 @@ Barcelona  _pop 1.615.448 (4.223.000)_{:.pop} {: .city #barcelona } <br>
 
 
 
-### Galicia _(2)_{:.count}
+### Galicia _(3)_{:.count}
 {: #es-ga }
 
 
-[A Coruña](#acoruna) • [Vigo](#vigo)
+[A Coruña](#acoruna) • [Santiago de Compostela](#santiagodecompostela) • [Vigo](#vigo)
 
 <div class='columns2' markdown='1'>
 
 
 A Coruña  {: .city #acoruna } <br>
+
+Santiago de Compostela  {: .city #santiagodecompostela } <br>
 
 Vigo  {: .city #vigo } <br>
 
@@ -5936,7 +4732,7 @@ Vigo  {: .city #vigo } <br>
 
 
 
-### La Rioja _(0)_{:.count}
+### La Rioja _(1)_{:.count}
 {: #es-ri }
 
 
@@ -5944,6 +4740,8 @@ Vigo  {: .city #vigo } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Logroño  {: .city #logrono } <br>
 
 </div>
 
@@ -5994,7 +4792,7 @@ Pamplona  {: .city #pamplona } <br>
 
 
 
-### Valencia _(1)_{:.count}
+### Valencia _(0)_{:.count}
 {: #es-vc }
 
 
@@ -6003,13 +4801,11 @@ Pamplona  {: .city #pamplona } <br>
 <div class='columns2' markdown='1'>
 
 
-Valencia  _pop 798.033 (810.000)_{:.pop} {: .city #valencia } <br>
-
 </div>
 
 
 
-### Ceuta _(0)_{:.count}
+### Ceuta _(1)_{:.count}
 {: #es-ce }
 
 
@@ -6018,11 +4814,13 @@ Valencia  _pop 798.033 (810.000)_{:.pop} {: .city #valencia } <br>
 <div class='columns2' markdown='1'>
 
 
+Ceuta  {: .city #ceuta } <br>
+
 </div>
 
 
 
-### Melilla _(0)_{:.count}
+### Melilla _(1)_{:.count}
 {: #es-ml }
 
 
@@ -6031,13 +4829,12 @@ Valencia  _pop 798.033 (810.000)_{:.pop} {: .city #valencia } <br>
 <div class='columns2' markdown='1'>
 
 
+Melilla  {: .city #melilla } <br>
+
 </div>
 
 
  
-
----------------------------------------
-
 ## Sweden (SWE) - 0 Regions, 1 Cities
 {: #se }
 
@@ -6052,14 +4849,11 @@ Stockholm  _pop (1.288.000)_{:.pop} {: .city #stockholm } <br>
 
 
  
-
----------------------------------------
-
-## Switzerland (SUI) - 26 Regions, 34 Cities
+## Switzerland (SUI) - 26 Regions, 35 Cities
 {: #ch }
 
 
-[Glarus](#ch-gl) _(1)_{:.count} • [Schaffhausen](#ch-sh) _(1)_{:.count} • [Appenzell Ausserrhoden](#ch-ar) _(1)_{:.count} • [Appenzell Innerrhoden](#ch-ai) _(1)_{:.count} • [St. Gallen](#ch-sg) _(2)_{:.count} • [Graubünden](#ch-gr) _(1)_{:.count} • [Thurgau](#ch-tg) _(1)_{:.count} • [Zürich](#ch-zh) _(2)_{:.count} • [Luzern](#ch-lu) _(1)_{:.count} • [Uri](#ch-ur) _(1)_{:.count} • [Schwyz](#ch-sz) _(1)_{:.count} • [Obwalden](#ch-ow) _(1)_{:.count} • [Nidwalden](#ch-nw) _(1)_{:.count} • [Zug](#ch-zg) _(1)_{:.count} • [Basel-Stadt](#ch-bs) _(1)_{:.count} • [Basel-Landschaft](#ch-bl) _(1)_{:.count} • [Aargau](#ch-ag) _(2)_{:.count} • [Bern](#ch-be) _(3)_{:.count} • [Fribourg](#ch-fr) _(1)_{:.count} • [Solothurn](#ch-so) _(1)_{:.count} • [Neuchâtel](#ch-ne) _(0)_{:.count} • [Jura](#ch-ju) _(1)_{:.count} • [Vaud](#ch-vd) _(1)_{:.count} • [Valais](#ch-vs) _(2)_{:.count} • [Genève](#ch-ge) _(1)_{:.count} • [Ticino](#ch-ti) _(4)_{:.count}
+[Glarus](#ch-gl) _(1)_{:.count} • [Schaffhausen](#ch-sh) _(1)_{:.count} • [Appenzell Ausserrhoden](#ch-ar) _(1)_{:.count} • [Appenzell Innerrhoden](#ch-ai) _(1)_{:.count} • [St. Gallen](#ch-sg) _(2)_{:.count} • [Graubünden](#ch-gr) _(1)_{:.count} • [Thurgau](#ch-tg) _(1)_{:.count} • [Zürich](#ch-zh) _(2)_{:.count} • [Luzern](#ch-lu) _(1)_{:.count} • [Uri](#ch-ur) _(1)_{:.count} • [Schwyz](#ch-sz) _(1)_{:.count} • [Obwalden](#ch-ow) _(1)_{:.count} • [Nidwalden](#ch-nw) _(1)_{:.count} • [Zug](#ch-zg) _(1)_{:.count} • [Basel-Stadt](#ch-bs) _(1)_{:.count} • [Basel-Landschaft](#ch-bl) _(1)_{:.count} • [Aargau](#ch-ag) _(2)_{:.count} • [Bern](#ch-be) _(3)_{:.count} • [Fribourg](#ch-fr) _(1)_{:.count} • [Solothurn](#ch-so) _(1)_{:.count} • [Neuchâtel](#ch-ne) _(1)_{:.count} • [Jura](#ch-ju) _(1)_{:.count} • [Vaud](#ch-vd) _(1)_{:.count} • [Valais](#ch-vs) _(2)_{:.count} • [Genève](#ch-ge) _(1)_{:.count} • [Ticino](#ch-ti) _(4)_{:.count}
 
 
 
@@ -6374,7 +5168,7 @@ Solothurn  {: .city #solothurn } <br>
 
 
 
-### Neuchâtel | Neuenburg _(0)_{:.count}
+### Neuchâtel | Neuenburg _(1)_{:.count}
 {: #ch-ne }
 
 
@@ -6382,6 +5176,8 @@ Solothurn  {: .city #solothurn } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Neuchâtel  {: .city #neuchatel } <br>
 
 </div>
 
@@ -6470,26 +5266,34 @@ Lugano  {: .city #lugano } <br>
 
 
  
-
----------------------------------------
-
-## Turkey (TUR) - 0 Regions, 1 Cities
+## Turkey (TUR) - 0 Regions, 8 Cities
 {: #tr }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(8)_{:.count}
 
 
-Istanbul  _pop 13.624.240 (13.576.000)_{:.pop} {: .city #istanbul } <br>
+İstanbul [Istanbul]  _pop 13.624.240 (13.576.000)_{:.pop} {: .city #istanbul } <br>
+
+Ankara  _pop (4)_{:.pop} {: .city #ankara } <br>
+
+İzmir   [Izmir]  _pop (2)_{:.pop} {: .city #izmir } <br>
+
+Bursa  _pop (1)_{:.pop} {: .city #bursa } <br>
+
+Adana  _pop (1)_{:.pop} {: .city #adana } <br>
+
+Gaziantep  _pop (1)_{:.pop} {: .city #gaziantep } <br>
+
+Konya  _pop (1)_{:.pop} {: .city #konya } <br>
+
+Antalya  _pop (1)_{:.pop} {: .city #antalya } <br>
 
 
  
-
----------------------------------------
-
 ## Ukraine (UKR) - 0 Regions, 5 Cities
 {: #ua }
 
@@ -6500,21 +5304,32 @@ Istanbul  _pop 13.624.240 (13.576.000)_{:.pop} {: .city #istanbul } <br>
 ### Uncategorized _(5)_{:.count}
 
 
-Kiev  _pop 2.785.100 (2.812.000)_{:.pop} {: .city #kiev } <br>
+Kyiv  _pop 2.785.100 (2.812.000)_{:.pop} {: .city #kyiv } <br>
 
-Kharkov  _pop 1.470.000 (1.449.000)_{:.pop} {: .city #kharkov } <br>
+Kharkiv  _pop 1.470.000 (1)_{:.pop} {: .city #kharkiv } <br>
 
-Donetsk  _pop (963.000)_{:.pop} {: .city #donetsk } <br>
+Donets’k  _pop (1)_{:.pop} {: .city #donetsk } <br>
 
-Dnepropetrovsk  _pop 1.007.200 (1.000.000)_{:.pop} {: .city #dnepropetrovsk } <br>
+Dnipropetrovsk  _pop 1.007.200 (1)_{:.pop} {: .city #dnipropetrovsk } <br>
 
-Odessa  _pop 1.003.705 (1.010.000)_{:.pop} {: .city #odessa } <br>
+Odessa  _pop 1.003.705 (1)_{:.pop} {: .city #odessa } <br>
 
 
  
+## Vatican City (VAT) - 0 Regions, 1 Cities
+{: #va }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Vatican City  {: .city #vaticancity } <br>
+
+
+ 
 ## Wales (WAL) - 0 Regions, 1 Cities
 {: #wa }
 
@@ -6529,14 +5344,20 @@ Swansea  _pop 239.000_{:.pop} {: .city #swansea } <br>
 
 
  
+## Åland Islands (ALA) - 0 Regions, 0 Cities
+{: #ax }
 
----------------------------------------
 
-## Argentina (ARG) - 24 Regions, 25 Cities
+
+
+
+
+ 
+## Argentina (ARG) - 24 Regions, 26 Cities
 {: #ar }
 
 
-[Ciudad de Buenos Aires](#ar-c) _(1)_{:.count} • [Provincia de Buenos Aires](#ar-b) _(1)_{:.count} • [Catamarca](#ar-k) _(1)_{:.count} • [Chaco](#ar-h) _(1)_{:.count} • [Chubut](#ar-u) _(1)_{:.count} • [Córdoba](#ar-x) _(1)_{:.count} • [Corrientes](#ar-w) _(1)_{:.count} • [Entre Ríos](#ar-e) _(1)_{:.count} • [Formosa](#ar-p) _(1)_{:.count} • [Jujuy](#ar-y) _(1)_{:.count} • [La Pampa](#ar-l) _(1)_{:.count} • [La Rioja](#ar-f) _(1)_{:.count} • [Mendoza](#ar-m) _(1)_{:.count} • [Misiones](#ar-n) _(1)_{:.count} • [Neuquén](#ar-q) _(1)_{:.count} • [Río Negro](#ar-r) _(1)_{:.count} • [Salta](#ar-a) _(1)_{:.count} • [San Juan](#ar-j) _(1)_{:.count} • [San Luis](#ar-d) _(1)_{:.count} • [Santa Cruz](#ar-z) _(1)_{:.count} • [Santa Fe](#ar-s) _(2)_{:.count} • [Santiago del Estero](#ar-g) _(1)_{:.count} • [Tierra del Fuego (Antártida e Islas del Atlántico Sur)](#ar-v) _(1)_{:.count} • [Tucumán](#ar-t) _(1)_{:.count}
+[Ciudad de Buenos Aires](#ar-c) _(1)_{:.count} • [Provincia de Buenos Aires](#ar-b) _(1)_{:.count} • [Catamarca](#ar-k) _(1)_{:.count} • [Chaco](#ar-h) _(1)_{:.count} • [Chubut](#ar-u) _(1)_{:.count} • [Córdoba](#ar-x) _(1)_{:.count} • [Corrientes](#ar-w) _(1)_{:.count} • [Entre Ríos](#ar-e) _(1)_{:.count} • [Formosa](#ar-p) _(1)_{:.count} • [Jujuy](#ar-y) _(1)_{:.count} • [La Pampa](#ar-l) _(1)_{:.count} • [La Rioja](#ar-f) _(1)_{:.count} • [Mendoza](#ar-m) _(1)_{:.count} • [Misiones](#ar-n) _(1)_{:.count} • [Neuquén](#ar-q) _(1)_{:.count} • [Río Negro](#ar-r) _(1)_{:.count} • [Salta](#ar-a) _(1)_{:.count} • [San Juan](#ar-j) _(1)_{:.count} • [San Luis](#ar-d) _(1)_{:.count} • [Santa Cruz](#ar-z) _(1)_{:.count} • [Santa Fe](#ar-s) _(3)_{:.count} • [Santiago del Estero](#ar-g) _(1)_{:.count} • [Tierra del Fuego (Antártida e Islas del Atlántico Sur)](#ar-v) _(1)_{:.count} • [Tucumán](#ar-t) _(1)_{:.count}
 
 
 
@@ -6550,7 +5371,7 @@ Swansea  _pop 239.000_{:.pop} {: .city #swansea } <br>
 <div class='columns2' markdown='1'>
 
 
-Buenos Aires  {: .city #buenosaires } <br>
+Buenos Aires  _pop (14)_{:.pop} {: .city #buenosaires } <br>
 
 </div>
 
@@ -6625,7 +5446,7 @@ Rawson  {: .city #rawson } <br>
 <div class='columns2' markdown='1'>
 
 
-Córdoba  {: .city #cordoba } <br>
+Córdoba  _pop (1)_{:.pop} {: .city #cordoba } <br>
 
 </div>
 
@@ -6805,7 +5626,7 @@ Salta  {: .city #salta } <br>
 <div class='columns2' markdown='1'>
 
 
-San Juan  {: .city #sanjuan } <br>
+San Juan  _pop 418.140 (2)_{:.pop} {: .city #sanjuan } <br>
 
 </div>
 
@@ -6841,18 +5662,20 @@ Río Gallegos  {: .city #riogallegos } <br>
 
 
 
-### Santa Fe _(2)_{:.count}
+### Santa Fe _(3)_{:.count}
 {: #ar-s }
 
 
-[Rafaela](#rafaela) • [Rosario](#rosario)
+[Rafaela](#rafaela) • [Rosario](#rosario) • [Santa Fe](#santafe)
 
 <div class='columns2' markdown='1'>
 
 
 Rafaela  {: .city #rafaela } <br>
 
-Rosario  {: .city #rosario } <br>
+Rosario  _pop (1)_{:.pop} {: .city #rosario } <br>
+
+Santa Fe  {: .city #santafe } <br>
 
 </div>
 
@@ -6903,21 +5726,22 @@ San Miguel de Tucumán  {: .city #sanmigueldetucuman } <br>
 
 
  
-
----------------------------------------
-
-## Bolivia (BOL) - 0 Regions, 0 Cities
+## Bolivia (BOL) - 0 Regions, 3 Cities
 {: #bo }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+Santa Cruz  _pop (2)_{:.pop} {: .city #santacruz } <br>
+
+Cochabamba  _pop (1)_{:.pop} {: .city #cochabamba } <br>
+
 
  
-
----------------------------------------
-
 ## Brazil (BRA) - 27 Regions, 37 Cities
 {: #br }
 
@@ -7352,86 +6176,185 @@ Florianópolis  _pop 408.161 (1.012.831)_{:.pop} {: .city #florianopolis } <br>
 
 
  
-
----------------------------------------
-
-## Chile (CHI) - 0 Regions, 0 Cities
+## Chile (CHI) - 0 Regions, 2 Cities
 {: #cl }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+Santiago  _pop 555.865 (6)_{:.pop} {: .city #santiago } <br>
+
+Valparaíso  _pop (1)_{:.pop} {: .city #valparaiso } <br>
+
 
  
-
----------------------------------------
-
-## Colombia (COL) - 0 Regions, 0 Cities
+## Colombia (COL) - 0 Regions, 6 Cities
 {: #co }
 
 
 
 
 
+### Uncategorized _(6)_{:.count}
+
+
+Bogotá  _pop (9)_{:.pop} {: .city #bogota } <br>
+
+Medellín  _pop (3)_{:.pop} {: .city #medellin } <br>
+
+(Santiago de) Cali  _pop (2)_{:.pop} {: .city #cali } <br>
+
+Barranquilla  _pop (2)_{:.pop} {: .city #barranquilla } <br>
+
+Cartagena  _pop (1)_{:.pop} {: .city #cartagena } <br>
+
+Bucaramanga  _pop (1)_{:.pop} {: .city #bucaramanga } <br>
+
 
  
-
----------------------------------------
-
-## Ecuador (ECU) - 0 Regions, 0 Cities
+## Ecuador (ECU) - 0 Regions, 2 Cities
 {: #ec }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+Guayaquil  _pop (2)_{:.pop} {: .city #guayaquil } <br>
+
+Quito  _pop (1)_{:.pop} {: .city #quito } <br>
+
 
  
+## Falkland Islands (FLK) - 0 Regions, 1 Cities
+{: #fk }
 
----------------------------------------
 
-## Paraguay (PAR) - 0 Regions, 0 Cities
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Stanley  {: .city #stanley } <br>
+
+
+ 
+## French Guiana (GUF) - 0 Regions, 1 Cities
+{: #gf }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Cayenne  {: .city #cayenne } <br>
+
+
+ 
+## Guyana (GUY) - 0 Regions, 0 Cities
+{: #gy }
+
+
+
+
+
+
+ 
+## Paraguay (PAR) - 0 Regions, 1 Cities
 {: #py }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Asunción  _pop (2)_{:.pop} {: .city #asuncion } <br>
+
 
  
-
----------------------------------------
-
-## Peru (PER) - 0 Regions, 0 Cities
+## Peru (PER) - 0 Regions, 1 Cities
 {: #pe }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Lima  _pop (9)_{:.pop} {: .city #lima } <br>
+
 
  
+## Saint Helena (SHN) - 0 Regions, 2 Cities
+{: #sh }
 
----------------------------------------
 
-## Uruguay (URU) - 0 Regions, 0 Cities
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+Ascension and Tristan da Cunha  {: .city #ascensionandtristandacunha } <br>
+
+Jamestown  {: .city #jamestown } <br>
+
+
+ 
+## South Georgia and South Sandwich (SGS) - 0 Regions, 1 Cities
+{: #gs }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+King Edward Point  {: .city #kingedwardpoint } <br>
+
+
+ 
+## Suriname (SUR) - 0 Regions, 0 Cities
+{: #sr }
+
+
+
+
+
+
+ 
+## Uruguay (URU) - 0 Regions, 1 Cities
 {: #uy }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Montevideo  _pop (1)_{:.pop} {: .city #montevideo } <br>
+
 
  
-
----------------------------------------
-
-## Venezuela (VEN) - 24 Regions, 21 Cities
+## Venezuela (VEN) - 24 Regions, 24 Cities
 {: #ve }
 
 
-[Amazonas](#ve-am) _(1)_{:.count} • [Bolívar](#ve-bo) _(1)_{:.count} • [Delta Amacuro](#ve-da) _(1)_{:.count} • [Anzoátegui](#ve-an) _(0)_{:.count} • [Monagas](#ve-mo) _(1)_{:.count} • [Sucre](#ve-su) _(1)_{:.count} • [Apure](#ve-ap) _(1)_{:.count} • [Guárico](#ve-gu) _(1)_{:.count} • [Carabobo](#ve-ca) _(0)_{:.count} • [Cojedes](#ve-co) _(1)_{:.count} • [Aragua](#ve-ar) _(1)_{:.count} • [Miranda](#ve-mi) _(1)_{:.count} • [Vargas](#ve-va) _(1)_{:.count} • [Distrito Capital](#ve-dc) _(1)_{:.count} • [Falcón](#ve-fa) _(1)_{:.count} • [Lara](#ve-la) _(1)_{:.count} • [Portuguesa](#ve-po) _(1)_{:.count} • [Yaracuy](#ve-ya) _(1)_{:.count} • [Barinas](#ve-ba) _(1)_{:.count} • [Mérida](#ve-me) _(0)_{:.count} • [Táchira](#ve-ta) _(1)_{:.count} • [Trujillo](#ve-tr) _(1)_{:.count} • [Nueva Esparta](#ve-ne) _(1)_{:.count} • [Zulia](#ve-zu) _(1)_{:.count}
+[Amazonas](#ve-am) _(1)_{:.count} • [Bolívar](#ve-bo) _(1)_{:.count} • [Delta Amacuro](#ve-da) _(1)_{:.count} • [Anzoátegui](#ve-an) _(1)_{:.count} • [Monagas](#ve-mo) _(1)_{:.count} • [Sucre](#ve-su) _(1)_{:.count} • [Apure](#ve-ap) _(1)_{:.count} • [Guárico](#ve-gu) _(1)_{:.count} • [Carabobo](#ve-ca) _(1)_{:.count} • [Cojedes](#ve-co) _(1)_{:.count} • [Aragua](#ve-ar) _(1)_{:.count} • [Miranda](#ve-mi) _(1)_{:.count} • [Vargas](#ve-va) _(1)_{:.count} • [Distrito Capital](#ve-dc) _(1)_{:.count} • [Falcón](#ve-fa) _(1)_{:.count} • [Lara](#ve-la) _(1)_{:.count} • [Portuguesa](#ve-po) _(1)_{:.count} • [Yaracuy](#ve-ya) _(1)_{:.count} • [Barinas](#ve-ba) _(1)_{:.count} • [Mérida](#ve-me) _(1)_{:.count} • [Táchira](#ve-ta) _(1)_{:.count} • [Trujillo](#ve-tr) _(1)_{:.count} • [Nueva Esparta](#ve-ne) _(1)_{:.count} • [Zulia](#ve-zu) _(1)_{:.count}
 
 
 
@@ -7481,7 +6404,7 @@ Tucupita  {: .city #tucupita } <br>
 
 
 
-### Anzoátegui _(0)_{:.count}
+### Anzoátegui _(1)_{:.count}
 {: #ve-an }
 
 
@@ -7489,6 +6412,8 @@ Tucupita  {: .city #tucupita } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Barcelona  _pop 1.615.448 (4.223.000)_{:.pop} {: .city #barcelona } <br>
 
 </div>
 
@@ -7554,7 +6479,7 @@ San Juan De Los Morros  {: .city #sanjuandelosmorros } <br>
 
 
 
-### Carabobo _(0)_{:.count}
+### Carabobo _(1)_{:.count}
 {: #ve-ca }
 
 
@@ -7562,6 +6487,8 @@ San Juan De Los Morros  {: .city #sanjuandelosmorros } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Valencia  _pop 798.033 (1)_{:.pop} {: .city #valencia } <br>
 
 </div>
 
@@ -7591,7 +6518,7 @@ San Carlos  {: .city #sancarlos } <br>
 <div class='columns2' markdown='1'>
 
 
-Maracay  {: .city #maracay } <br>
+Maracay  _pop (1)_{:.pop} {: .city #maracay } <br>
 
 </div>
 
@@ -7636,7 +6563,7 @@ La Güaira  {: .city #lagueaira } <br>
 <div class='columns2' markdown='1'>
 
 
-Caracas  {: .city #caracas } <br>
+Caracas  _pop (3)_{:.pop} {: .city #caracas } <br>
 
 </div>
 
@@ -7666,7 +6593,7 @@ Coro  {: .city #coro } <br>
 <div class='columns2' markdown='1'>
 
 
-Barquisimeto  {: .city #barquisimeto } <br>
+Barquisimeto  _pop (1)_{:.pop} {: .city #barquisimeto } <br>
 
 </div>
 
@@ -7717,7 +6644,7 @@ Barinas  {: .city #barinas } <br>
 
 
 
-### Mérida _(0)_{:.count}
+### Mérida _(1)_{:.count}
 {: #ve-me }
 
 
@@ -7725,6 +6652,8 @@ Barinas  {: .city #barinas } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Mérida  _pop (973.046)_{:.pop} {: .city #merida } <br>
 
 </div>
 
@@ -7784,20 +6713,17 @@ La Asunción  {: .city #laasuncion } <br>
 <div class='columns2' markdown='1'>
 
 
-Maracaibo  {: .city #maracaibo } <br>
+Maracaibo  _pop (2)_{:.pop} {: .city #maracaibo } <br>
 
 </div>
 
 
  
-
----------------------------------------
-
-## Canada (CAN) - 13 Regions, 34 Cities
+## Canada (CAN) - 13 Regions, 36 Cities
 {: #ca }
 
 
-[British Columbia](#ca-bc) _(4)_{:.count} • [Alberta](#ca-ab) _(2)_{:.count} • [Manitoba](#ca-mb) _(1)_{:.count} • [Saskatchewan](#ca-sk) _(2)_{:.count} • [New Brunswick](#ca-nb) _(3)_{:.count} • [Nova Scotia](#ca-ns) _(1)_{:.count} • [Prince Edward Island](#ca-pe) _(1)_{:.count} • [Newfoundland and Labrador](#ca-nl) _(1)_{:.count} • [Ontario](#ca-on) _(10)_{:.count} • [Québec](#ca-qc) _(6)_{:.count} • [Northwest Territories](#ca-nt) _(1)_{:.count} • [Yukon](#ca-yt) _(1)_{:.count} • [Nunavut](#ca-nu) _(1)_{:.count}
+[British Columbia](#ca-bc) _(4)_{:.count} • [Alberta](#ca-ab) _(2)_{:.count} • [Manitoba](#ca-mb) _(1)_{:.count} • [Saskatchewan](#ca-sk) _(2)_{:.count} • [New Brunswick](#ca-nb) _(3)_{:.count} • [Nova Scotia](#ca-ns) _(1)_{:.count} • [Prince Edward Island](#ca-pe) _(1)_{:.count} • [Newfoundland and Labrador](#ca-nl) _(1)_{:.count} • [Ontario](#ca-on) _(12)_{:.count} • [Québec](#ca-qc) _(6)_{:.count} • [Northwest Territories](#ca-nt) _(1)_{:.count} • [Yukon](#ca-yt) _(1)_{:.count} • [Nunavut](#ca-nu) _(1)_{:.count}
 
 
 
@@ -7936,11 +6862,11 @@ St John's  _pop 174.000_{:.pop} {: .city #stjohns } <br>
 
 
 
-### Ontario _(10)_{:.count}
+### Ontario _(12)_{:.count}
 {: #ca-on }
 
 
-[Barrie](#barrie) • [Hamilton](#hamilton) • [Kitchener](#kitchener) • [Oshawa](#oshawa) • [Ottawa](#ottawa) • [St Catharines-Niagara](#stcatharinesniagara) • [Sudbury](#sudbury) • [Thunder Bay](#thunderbay) • [Toronto](#toronto) • [Windsor](#windsor)
+[Barrie](#barrie) • [Hamilton](#hamilton) • [Kingston](#kingston) • [Kitchener](#kitchener) • [London](#london) • [Oshawa](#oshawa) • [Ottawa](#ottawa) • [St Catharines-Niagara](#stcatharinesniagara) • [Sudbury](#sudbury) • [Thunder Bay](#thunderbay) • [Toronto](#toronto) • [Windsor](#windsor)
 
 <div class='columns2' markdown='1'>
 
@@ -7949,7 +6875,11 @@ Barrie  _pop 119.000_{:.pop} {: .city #barrie } <br>
 
 Hamilton  _pop 721.053_{:.pop} {: .city #hamilton } <br>
 
+Kingston  _pop 143.000_{:.pop} {: .city #kingston } <br>
+
 Kitchener  _pop 477.160_{:.pop} {: .city #kitchener } <br>
+
+London  _pop 474.786 (8.586.000)_{:.pop} {: .city #london } <br>
 
 Oshawa  _pop 269.000_{:.pop} {: .city #oshawa } <br>
 
@@ -7973,14 +6903,14 @@ Windsor  _pop 279.000_{:.pop} {: .city #windsor } <br>
 {: #ca-qc }
 
 
-[Chicoutimi](#chicoutimi) • [Montreal](#montreal) • [Quebec City](#quebeccity) • [Québec](#quebec) • [Sherbrooke](#sherbrooke) • [Trois-Rivières](#troisrivieres)
+[Chicoutimi](#chicoutimi) • [Montréal](#montreal) • [Quebec City](#quebeccity) • [Québec](#quebec) • [Sherbrooke](#sherbrooke) • [Trois-Rivières](#troisrivieres)
 
 <div class='columns2' markdown='1'>
 
 
 Chicoutimi  _pop 160.000_{:.pop} {: .city #chicoutimi } <br>
 
-Montreal  _pop 3.824.221_{:.pop} {: .city #montreal } <br>
+Montréal  _pop 3.824.221_{:.pop} {: .city #montreal } <br>
 
 Quebec City  {: .city #quebeccity } <br>
 
@@ -8039,14 +6969,20 @@ Iqaluit  {: .city #iqaluit } <br>
 
 
  
+## Greenland (GRL) - 0 Regions, 0 Cities
+{: #gl }
 
----------------------------------------
 
-## México [Mexico] (MEX) - 32 Regions, 50 Cities
+
+
+
+
+ 
+## México [Mexico] (MEX) - 32 Regions, 48 Cities
 {: #mx }
 
 
-[Aguascalientes](#mx-ag) _(1)_{:.count} • [Baja California](#mx-bc) _(3)_{:.count} • [Baja California Sur](#mx-bs) _(7)_{:.count} • [Campeche](#mx-cm) _(1)_{:.count} • [Chiapas](#mx-cs) _(1)_{:.count} • [Chihuahua](#mx-ch) _(2)_{:.count} • [Coahuila](#mx-co) _(2)_{:.count} • [Colima](#mx-cl) _(1)_{:.count} • [Distrito Federal](#mx-df) _(1)_{:.count} • [Durango](#mx-dg) _(1)_{:.count} • [Guanajuato](#mx-gt) _(2)_{:.count} • [Guerrero](#mx-gr) _(2)_{:.count} • [Hidalgo](#mx-hg) _(1)_{:.count} • [Jalisco](#mx-ja) _(1)_{:.count} • [México](#mx-me) _(1)_{:.count} • [Michoacán](#mx-mi) _(1)_{:.count} • [Morelos](#mx-mo) _(1)_{:.count} • [Nayarit](#mx-na) _(1)_{:.count} • [Nuevo León](#mx-nl) _(2)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(1)_{:.count} • [Querétaro](#mx-qe) _(1)_{:.count} • [Quintana Roo](#mx-qr) _(2)_{:.count} • [San Luis Potosí](#mx-sl) _(1)_{:.count} • [Sinaloa](#mx-si) _(2)_{:.count} • [Sonora](#mx-so) _(2)_{:.count} • [Tabasco](#mx-tb) _(1)_{:.count} • [Tamaulipas](#mx-tm) _(1)_{:.count} • [Tlaxcala](#mx-tl) _(1)_{:.count} • [Veracruz](#mx-ve) _(1)_{:.count} • [Yucatán](#mx-yu) _(1)_{:.count} • [Zacatecas](#mx-za) _(1)_{:.count} • **Uncategorized** _(1)_{:.count}
+[Aguascalientes](#mx-ag) _(1)_{:.count} • [Baja California](#mx-bc) _(3)_{:.count} • [Baja California Sur](#mx-bs) _(7)_{:.count} • [Campeche](#mx-cm) _(1)_{:.count} • [Chiapas](#mx-cs) _(1)_{:.count} • [Chihuahua](#mx-ch) _(2)_{:.count} • [Coahuila](#mx-co) _(2)_{:.count} • [Colima](#mx-cl) _(1)_{:.count} • [Distrito Federal](#mx-df) _(1)_{:.count} • [Durango](#mx-dg) _(1)_{:.count} • [Guanajuato](#mx-gt) _(2)_{:.count} • [Guerrero](#mx-gr) _(2)_{:.count} • [Hidalgo](#mx-hg) _(1)_{:.count} • [Jalisco](#mx-ja) _(1)_{:.count} • [México](#mx-me) _(1)_{:.count} • [Michoacán](#mx-mi) _(1)_{:.count} • [Morelos](#mx-mo) _(1)_{:.count} • [Nayarit](#mx-na) _(1)_{:.count} • [Nuevo León](#mx-nl) _(2)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(1)_{:.count} • [Querétaro](#mx-qe) _(1)_{:.count} • [Quintana Roo](#mx-qr) _(2)_{:.count} • [San Luis Potosí](#mx-sl) _(1)_{:.count} • [Sinaloa](#mx-si) _(2)_{:.count} • [Sonora](#mx-so) _(2)_{:.count} • [Tabasco](#mx-tb) _(1)_{:.count} • [Tamaulipas](#mx-tm) _(1)_{:.count} • [Tlaxcala](#mx-tl) _(1)_{:.count} • [Veracruz](#mx-ve) _(1)_{:.count} • [Yucatán](#mx-yu) _(0)_{:.count} • [Zacatecas](#mx-za) _(1)_{:.count} • **Uncategorized** _(1)_{:.count}
 
 
 ### Uncategorized _(1)_{:.count}
@@ -8103,7 +7039,7 @@ Cabo San Lucas  {: .city #cabosanlucas } <br>
 
 Guerrero Negro  {: .city #guerreronegro } <br>
 
-La Paz  {: .city #lapaz } <br>
+La Paz  _pop (2)_{:.pop} {: .city #lapaz } <br>
 
 Mulegé  {: .city #mulege } <br>
 
@@ -8540,7 +7476,7 @@ Xalapa(-Enríquez)  {: .city #xalapa } <br>
 
 
 
-### Yucatán _(1)_{:.count}
+### Yucatán _(0)_{:.count}
 {: #mx-yu }
 
 
@@ -8548,8 +7484,6 @@ Xalapa(-Enríquez)  {: .city #xalapa } <br>
 
 <div class='columns2' markdown='1'>
 
-
-Mérida  _pop (973.046)_{:.pop} {: .city #merida } <br>
 
 </div>
 
@@ -8570,14 +7504,20 @@ Zacatecas  {: .city #zacatecas } <br>
 
 
  
+## Saint Pierre and Miquelon (SPM) - 0 Regions, 0 Cities
+{: #pm }
 
----------------------------------------
 
-## United States (USA) - 51 Regions, 82 Cities
+
+
+
+
+ 
+## United States (USA) - 51 Regions, 81 Cities
 {: #us }
 
 
-[Maine](#us-me) _(1)_{:.count} • [New Hampshire](#us-nh) _(1)_{:.count} • [Vermont](#us-vt) _(1)_{:.count} • [Massachusetts](#us-ma) _(1)_{:.count} • [Rhode Island](#us-ri) _(1)_{:.count} • [Connecticut](#us-ct) _(1)_{:.count} • [New York](#us-ny) _(3)_{:.count} • [Pennsylvania](#us-pa) _(3)_{:.count} • [New Jersey](#us-nj) _(2)_{:.count} • [Wisconsin](#us-wi) _(2)_{:.count} • [Michigan](#us-mi) _(2)_{:.count} • [Illinois](#us-il) _(2)_{:.count} • [Indiana](#us-in) _(1)_{:.count} • [Ohio](#us-oh) _(3)_{:.count} • [Missouri](#us-mo) _(3)_{:.count} • [North Dakota](#us-nd) _(1)_{:.count} • [South Dakota](#us-sd) _(1)_{:.count} • [Nebraska](#us-ne) _(1)_{:.count} • [Kansas](#us-ks) _(1)_{:.count} • [Minnesota](#us-mn) _(3)_{:.count} • [Iowa](#us-ia) _(1)_{:.count} • [Delaware](#us-de) _(1)_{:.count} • [Maryland](#us-md) _(2)_{:.count} • [District of Columbia](#us-dc) _(2)_{:.count} • [Virginia](#us-va) _(1)_{:.count} • [West Virginia](#us-wv) _(1)_{:.count} • [North Carolina](#us-nc) _(2)_{:.count} • [South Carolina](#us-sc) _(1)_{:.count} • [Georgia](#us-ga) _(1)_{:.count} • [Florida](#us-fl) _(4)_{:.count} • [Kentucky](#us-ky) _(1)_{:.count} • [Tennessee](#us-tn) _(1)_{:.count} • [Mississippi](#us-ms) _(1)_{:.count} • [Alabama](#us-al) _(1)_{:.count} • [Oklahoma](#us-ok) _(1)_{:.count} • [Texas](#us-tx) _(4)_{:.count} • [Arkansas](#us-ar) _(1)_{:.count} • [Louisiana](#us-la) _(2)_{:.count} • [Idaho](#us-id) _(1)_{:.count} • [Montana](#us-mt) _(1)_{:.count} • [Wyoming](#us-wy) _(1)_{:.count} • [Nevada](#us-nv) _(1)_{:.count} • [Utah](#us-ut) _(1)_{:.count} • [Colorado](#us-co) _(1)_{:.count} • [Arizona](#us-az) _(1)_{:.count} • [New Mexico](#us-nm) _(1)_{:.count} • [Alaska](#us-ak) _(1)_{:.count} • [Washington](#us-wa) _(2)_{:.count} • [Oregon](#us-or) _(1)_{:.count} • [California](#us-ca) _(7)_{:.count} • [Hawaii](#us-hi) _(1)_{:.count}
+[Maine](#us-me) _(1)_{:.count} • [New Hampshire](#us-nh) _(1)_{:.count} • [Vermont](#us-vt) _(1)_{:.count} • [Massachusetts](#us-ma) _(1)_{:.count} • [Rhode Island](#us-ri) _(1)_{:.count} • [Connecticut](#us-ct) _(1)_{:.count} • [New York](#us-ny) _(3)_{:.count} • [Pennsylvania](#us-pa) _(3)_{:.count} • [New Jersey](#us-nj) _(2)_{:.count} • [Wisconsin](#us-wi) _(2)_{:.count} • [Michigan](#us-mi) _(2)_{:.count} • [Illinois](#us-il) _(2)_{:.count} • [Indiana](#us-in) _(1)_{:.count} • [Ohio](#us-oh) _(3)_{:.count} • [Missouri](#us-mo) _(3)_{:.count} • [North Dakota](#us-nd) _(1)_{:.count} • [South Dakota](#us-sd) _(1)_{:.count} • [Nebraska](#us-ne) _(1)_{:.count} • [Kansas](#us-ks) _(1)_{:.count} • [Minnesota](#us-mn) _(3)_{:.count} • [Iowa](#us-ia) _(1)_{:.count} • [Delaware](#us-de) _(1)_{:.count} • [Maryland](#us-md) _(2)_{:.count} • [District of Columbia](#us-dc) _(2)_{:.count} • [Virginia](#us-va) _(1)_{:.count} • [West Virginia](#us-wv) _(1)_{:.count} • [North Carolina](#us-nc) _(2)_{:.count} • [South Carolina](#us-sc) _(1)_{:.count} • [Georgia](#us-ga) _(1)_{:.count} • [Florida](#us-fl) _(4)_{:.count} • [Kentucky](#us-ky) _(1)_{:.count} • [Tennessee](#us-tn) _(1)_{:.count} • [Mississippi](#us-ms) _(1)_{:.count} • [Alabama](#us-al) _(1)_{:.count} • [Oklahoma](#us-ok) _(1)_{:.count} • [Texas](#us-tx) _(4)_{:.count} • [Arkansas](#us-ar) _(1)_{:.count} • [Louisiana](#us-la) _(2)_{:.count} • [Idaho](#us-id) _(1)_{:.count} • [Montana](#us-mt) _(1)_{:.count} • [Wyoming](#us-wy) _(1)_{:.count} • [Nevada](#us-nv) _(1)_{:.count} • [Utah](#us-ut) _(1)_{:.count} • [Colorado](#us-co) _(1)_{:.count} • [Arizona](#us-az) _(1)_{:.count} • [New Mexico](#us-nm) _(0)_{:.count} • [Alaska](#us-ak) _(1)_{:.count} • [Washington](#us-wa) _(2)_{:.count} • [Oregon](#us-or) _(1)_{:.count} • [California](#us-ca) _(7)_{:.count} • [Hawaii](#us-hi) _(1)_{:.count}
 
 
 
@@ -9305,7 +8245,7 @@ Phoenix  _pop 1.445.632_{:.pop} {: .city #phoenix } <br>
 
 
 
-### New Mexico _(1)_{:.count}
+### New Mexico _(0)_{:.count}
 {: #us-nm }
 
 
@@ -9313,8 +8253,6 @@ Phoenix  _pop 1.445.632_{:.pop} {: .city #phoenix } <br>
 
 <div class='columns2' markdown='1'>
 
-
-Santa Fe  {: .city #santafe } <br>
 
 </div>
 
@@ -9388,7 +8326,7 @@ San Diego  _pop 1.307.402_{:.pop} {: .city #sandiego } <br>
 
 San Francisco  _pop 805.235_{:.pop} {: .city #sanfrancisco } <br>
 
-San Jose  _pop 945.942_{:.pop} {: .city #sanjose } <br>
+San Jose  _pop 945.942 (1)_{:.pop} {: .city #sanjose } <br>
 
 </div>
 
@@ -9409,9 +8347,6 @@ Honolulu  {: .city #honolulu } <br>
 
 
  
-
----------------------------------------
-
 ## Belize (BLZ) - 0 Regions, 0 Cities
 {: #bz }
 
@@ -9421,9 +8356,6 @@ Honolulu  {: .city #honolulu } <br>
 
 
  
-
----------------------------------------
-
 ## Costa Rica (CRC) - 0 Regions, 0 Cities
 {: #cr }
 
@@ -9433,69 +8365,92 @@ Honolulu  {: .city #honolulu } <br>
 
 
  
-
----------------------------------------
-
-## El Salvador (SLV) - 0 Regions, 0 Cities
+## El Salvador (SLV) - 0 Regions, 1 Cities
 {: #sv }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+San Salvador  _pop (1)_{:.pop} {: .city #sansalvador } <br>
+
 
  
-
----------------------------------------
-
-## Guatemala (GUA) - 0 Regions, 0 Cities
+## Guatemala (GUA) - 0 Regions, 2 Cities
 {: #gt }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+(Ciudad de) Guatemala [Guatemala City]  _pop 942.348 (2)_{:.pop} {: .city #guatemala } <br>
+
+Quetzaltenango  _pop 120.496_{:.pop} {: .city #quetzaltenango } <br>
+
 
  
-
----------------------------------------
-
-## Honduras (HON) - 0 Regions, 0 Cities
+## Honduras (HON) - 0 Regions, 1 Cities
 {: #hn }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Tegucigalpa  _pop (1)_{:.pop} {: .city #tegucigalpa } <br>
+
 
  
-
----------------------------------------
-
-## Nicaragua (NCA) - 0 Regions, 0 Cities
+## Nicaragua (NCA) - 0 Regions, 1 Cities
 {: #ni }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Managua  _pop (1)_{:.pop} {: .city #managua } <br>
+
 
  
-
----------------------------------------
-
-## Panamá [Panama] (PAN) - 0 Regions, 0 Cities
+## Panamá [Panama] (PAN) - 0 Regions, 1 Cities
 {: #pa }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+(Ciudad de) Panamá [Panama City]  _pop (1)_{:.pop} {: .city #panama } <br>
+
 
  
+## Anguilla (AIA) - 0 Regions, 1 Cities
+{: #ai }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+The Valley  {: .city #thevalley } <br>
+
+
+ 
 ## Antigua and Barbuda (ATG) - 0 Regions, 1 Cities
 {: #ag }
 
@@ -9510,9 +8465,20 @@ Saint John's  {: .city #saintjohns } <br>
 
 
  
+## Aruba (ABW) - 0 Regions, 1 Cities
+{: #aw }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Oranjestad  {: .city #oranjestad } <br>
+
+
+ 
 ## Bahamas (BAH) - 0 Regions, 1 Cities
 {: #bs }
 
@@ -9527,9 +8493,6 @@ Nassau  {: .city #nassau } <br>
 
 
  
-
----------------------------------------
-
 ## Barbados (BRB) - 0 Regions, 1 Cities
 {: #bb }
 
@@ -9544,11 +8507,8 @@ Bridgetown  {: .city #bridgetown } <br>
 
 
  
-
----------------------------------------
-
-## Cuba (CUB) - 0 Regions, 0 Cities
-{: #cu }
+## Bermuda (BMU) - 0 Regions, 0 Cities
+{: #bm }
 
 
 
@@ -9556,9 +8516,83 @@ Bridgetown  {: .city #bridgetown } <br>
 
 
  
+## British Virgin Islands (VGB) - 0 Regions, 1 Cities
+{: #vg }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Road Town  {: .city #roadtown } <br>
+
+
+ 
+## Cayman Islands (CYM) - 0 Regions, 0 Cities
+{: #ky }
+
+
+
+
+
+
+ 
+## Cuba (CUB) - 0 Regions, 14 Cities
+{: #cu }
+
+
+
+
+
+### Uncategorized _(14)_{:.count}
+
+
+La Habana [Havana]  _pop 2.163.824 (2)_{:.pop} {: .city #lahabana } <br>
+
+Camagüey  _pop 347.562_{:.pop} {: .city #camagueey } <br>
+
+Holguín  _pop 319.102_{:.pop} {: .city #holguin } <br>
+
+Guantánamo  _pop 272.801_{:.pop} {: .city #guantanamo } <br>
+
+Santa Clara  _pop 250.512_{:.pop} {: .city #santaclara } <br>
+
+Las Tunas  _pop 203.684_{:.pop} {: .city #lastunas } <br>
+
+Bayamo  _pop 144.664_{:.pop} {: .city #bayamo } <br>
+
+Cienfuegos  _pop 140.734_{:.pop} {: .city #cienfuegos } <br>
+
+Pinar del Río  _pop 139.336_{:.pop} {: .city #pinardelrio } <br>
+
+Matanzas  _pop 127.287_{:.pop} {: .city #matanzas } <br>
+
+Ciego de Ávila  _pop 106.225_{:.pop} {: .city #ciegodeavila } <br>
+
+Sancti Spíritus  _pop 98.283_{:.pop} {: .city #sanctispiritus } <br>
+
+Manzanillo  _pop 97.038_{:.pop} {: .city #manzanillo } <br>
+
+Cárdenas  _pop 80.832_{:.pop} {: .city #cardenas } <br>
+
+
+ 
+## Curaçao (CUW) - 0 Regions, 1 Cities
+{: #cw }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Willemstad  {: .city #willemstad } <br>
+
+
+ 
 ## Dominica (DMA) - 0 Regions, 1 Cities
 {: #dm }
 
@@ -9573,21 +8607,22 @@ Roseau  {: .city #roseau } <br>
 
 
  
-
----------------------------------------
-
-## Dominican Republic (DOM) - 0 Regions, 0 Cities
+## Dominican Republic (DOM) - 0 Regions, 2 Cities
 {: #do }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+Santo Domingo  _pop 2.201.941 (3)_{:.pop} {: .city #santodomingo } <br>
+
+Santiago de los Caballeros  _pop 1.200.000_{:.pop} {: .city #santiagodeloscaballeros } <br>
+
 
  
-
----------------------------------------
-
 ## Grenada (GRN) - 0 Regions, 1 Cities
 {: #gd }
 
@@ -9602,9 +8637,6 @@ St. George's  {: .city #stgeorges } <br>
 
 
  
-
----------------------------------------
-
 ## Guadeloupe (GPE) - 0 Regions, 0 Cities
 {: #gp }
 
@@ -9614,21 +8646,6 @@ St. George's  {: .city #stgeorges } <br>
 
 
  
-
----------------------------------------
-
-## Guyana (GUY) - 0 Regions, 0 Cities
-{: #gy }
-
-
-
-
-
-
- 
-
----------------------------------------
-
 ## Haiti (HAI) - 0 Regions, 1 Cities
 {: #ht }
 
@@ -9639,13 +8656,10 @@ St. George's  {: .city #stgeorges } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Port-au-Prince  {: .city #portauprince } <br>
+Port-au-Prince  _pop 1.234.742 (2)_{:.pop} {: .city #portauprince } <br>
 
 
  
-
----------------------------------------
-
 ## Jamaica (JAM) - 0 Regions, 0 Cities
 {: #jm }
 
@@ -9655,9 +8669,6 @@ Port-au-Prince  {: .city #portauprince } <br>
 
 
  
-
----------------------------------------
-
 ## Martinique (MTQ) - 0 Regions, 0 Cities
 {: #mq }
 
@@ -9667,11 +8678,36 @@ Port-au-Prince  {: .city #portauprince } <br>
 
 
  
+## Montserrat (MSR) - 0 Regions, 1 Cities
+{: #ms }
 
----------------------------------------
 
-## Puerto Rico (PUR) - 0 Regions, 0 Cities
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Plymouth  {: .city #plymouth } <br>
+
+
+ 
+## Puerto Rico (PUR) - 0 Regions, 1 Cities
 {: #pr }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Bayamón  _pop 203.499_{:.pop} {: .city #bayamon } <br>
+
+
+ 
+## Saint Barthélemy (BLM) - 0 Regions, 0 Cities
+{: #bl }
 
 
 
@@ -9679,9 +8715,6 @@ Port-au-Prince  {: .city #portauprince } <br>
 
 
  
-
----------------------------------------
-
 ## Saint Kitts and Nevis (SKN) - 0 Regions, 1 Cities
 {: #kn }
 
@@ -9696,9 +8729,6 @@ Basseterre  {: .city #basseterre } <br>
 
 
  
-
----------------------------------------
-
 ## Saint Lucia (LCA) - 0 Regions, 1 Cities
 {: #lc }
 
@@ -9713,9 +8743,20 @@ Castries  {: .city #castries } <br>
 
 
  
+## Saint Martin (French) (MAF) - 0 Regions, 1 Cities
+{: #mf }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Marigot  {: .city #marigot } <br>
+
+
+ 
 ## Saint Vincent and the Grenadines (VIN) - 0 Regions, 1 Cities
 {: #vc }
 
@@ -9730,21 +8771,6 @@ Kingstown  {: .city #kingstown } <br>
 
 
  
-
----------------------------------------
-
-## Suriname (SUR) - 0 Regions, 0 Cities
-{: #sr }
-
-
-
-
-
-
- 
-
----------------------------------------
-
 ## Trinidad and Tobago (TRI) - 0 Regions, 1 Cities
 {: #tt }
 
@@ -9759,21 +8785,50 @@ Port of Spain  {: .city #portofspain } <br>
 
 
  
+## Turks and Caicos Islands (TCA) - 0 Regions, 1 Cities
+{: #tc }
 
----------------------------------------
 
-## Algeria (ALG) - 0 Regions, 0 Cities
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Cockburn Town  {: .city #cockburntown } <br>
+
+
+ 
+## United States Virgin Islands (VIR) - 0 Regions, 1 Cities
+{: #vi }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Charlotte Amalie  {: .city #charlotteamalie } <br>
+
+
+ 
+## Algeria (ALG) - 0 Regions, 2 Cities
 {: #dz }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+El Djazaïr [Algiers]  _pop (3)_{:.pop} {: .city #eldjazair } <br>
+
+Oran  _pop (1)_{:.pop} {: .city #oran } <br>
+
 
  
-
----------------------------------------
-
 ## Angola (ANG) - 0 Regions, 1 Cities
 {: #ao }
 
@@ -9784,30 +8839,26 @@ Port of Spain  {: .city #portofspain } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Luanda  {: .city #luanda } <br>
+Luanda  _pop (6)_{:.pop} {: .city #luanda } <br>
 
 
  
-
----------------------------------------
-
-## Benin (BEN) - 0 Regions, 1 Cities
+## Benin (BEN) - 0 Regions, 2 Cities
 {: #bj }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Porto-Novo  {: .city #portonovo } <br>
 
+Cotonou  _pop (1)_{:.pop} {: .city #cotonou } <br>
+
 
  
-
----------------------------------------
-
 ## Botswana (BOT) - 0 Regions, 1 Cities
 {: #bw }
 
@@ -9822,9 +8873,6 @@ Gaborone  {: .city #gaborone } <br>
 
 
  
-
----------------------------------------
-
 ## Burkina Faso (BFA) - 0 Regions, 1 Cities
 {: #bf }
 
@@ -9835,13 +8883,10 @@ Gaborone  {: .city #gaborone } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Ouagadougou  {: .city #ouagadougou } <br>
+Ouagadougou  _pop (2)_{:.pop} {: .city #ouagadougou } <br>
 
 
  
-
----------------------------------------
-
 ## Burundi (BDI) - 0 Regions, 1 Cities
 {: #bi }
 
@@ -9856,21 +8901,22 @@ Bujumbura  {: .city #bujumbura } <br>
 
 
  
-
----------------------------------------
-
-## Cameroon (CMR) - 0 Regions, 0 Cities
+## Cameroon (CMR) - 0 Regions, 2 Cities
 {: #cm }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+Douala  _pop (2)_{:.pop} {: .city #douala } <br>
+
+Yaoundé  _pop (2)_{:.pop} {: .city #yaounde } <br>
+
 
  
-
----------------------------------------
-
 ## Cape Verde (CPV) - 0 Regions, 1 Cities
 {: #cv }
 
@@ -9885,9 +8931,6 @@ Praia  {: .city #praia } <br>
 
 
  
-
----------------------------------------
-
 ## Central African Republic (CTA) - 0 Regions, 1 Cities
 {: #cf }
 
@@ -9898,13 +8941,10 @@ Praia  {: .city #praia } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Bangui  {: .city #bangui } <br>
+Bangui  _pop (1)_{:.pop} {: .city #bangui } <br>
 
 
  
-
----------------------------------------
-
 ## Chad (CHA) - 0 Regions, 1 Cities
 {: #td }
 
@@ -9915,13 +8955,10 @@ Bangui  {: .city #bangui } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-N'Djamena  {: .city #ndjamena } <br>
+Ndjamena  _pop (1)_{:.pop} {: .city #ndjamena } <br>
 
 
  
-
----------------------------------------
-
 ## Comoros (COM) - 0 Regions, 1 Cities
 {: #km }
 
@@ -9936,9 +8973,6 @@ Moroni  {: .city #moroni } <br>
 
 
  
-
----------------------------------------
-
 ## Congo (CGO) - 0 Regions, 1 Cities
 {: #cg }
 
@@ -9949,15 +8983,30 @@ Moroni  {: .city #moroni } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Brazzaville  {: .city #brazzaville } <br>
+Brazzaville  _pop (1)_{:.pop} {: .city #brazzaville } <br>
 
 
  
-
----------------------------------------
-
-## Congo DR (COD) - 0 Regions, 1 Cities
+## Congo DR (COD) - 0 Regions, 3 Cities
 {: #cd }
+
+
+
+
+
+### Uncategorized _(3)_{:.count}
+
+
+Kinshasa  _pop (10)_{:.pop} {: .city #kinshasa } <br>
+
+Lubumbashi  _pop (1)_{:.pop} {: .city #lubumbashi } <br>
+
+Mbuji-Mayi  _pop (1)_{:.pop} {: .city #mbujimayi } <br>
+
+
+ 
+## Côte d'Ivoire (CIV) - 0 Regions, 1 Cities
+{: #ci }
 
 
 
@@ -9966,25 +9015,10 @@ Brazzaville  {: .city #brazzaville } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Kinshasa  {: .city #kinshasa } <br>
+Abidjan  _pop (4)_{:.pop} {: .city #abidjan } <br>
 
 
  
-
----------------------------------------
-
-## Côte d'Ivoire (CIV) - 0 Regions, 0 Cities
-{: #ci }
-
-
-
-
-
-
- 
-
----------------------------------------
-
 ## Djibouti (DJI) - 0 Regions, 1 Cities
 {: #dj }
 
@@ -9999,21 +9033,22 @@ Djibouti  {: .city #djibouti } <br>
 
 
  
-
----------------------------------------
-
-## Egypt (EGY) - 0 Regions, 0 Cities
+## Egypt (EGY) - 0 Regions, 2 Cities
 {: #eg }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+Al-Qāhirah [Cairo]  _pop (16)_{:.pop} {: .city #alqahirah } <br>
+
+Al-Iskandarīyah [Alexandria]  _pop (4)_{:.pop} {: .city #aliskandariyah } <br>
+
 
  
-
----------------------------------------
-
 ## Equatorial Guinea (EQG) - 0 Regions, 1 Cities
 {: #gq }
 
@@ -10028,9 +9063,6 @@ Malabo  {: .city #malabo } <br>
 
 
  
-
----------------------------------------
-
 ## Eritrea (ERI) - 0 Regions, 1 Cities
 {: #er }
 
@@ -10045,21 +9077,20 @@ Asmara  {: .city #asmara } <br>
 
 
  
-
----------------------------------------
-
-## Ethiopia (ETH) - 0 Regions, 0 Cities
+## Ethiopia (ETH) - 0 Regions, 1 Cities
 {: #et }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Adis Abeba [Addis Ababa]  _pop (3)_{:.pop} {: .city #adisabeba } <br>
+
 
  
-
----------------------------------------
-
 ## Gabon (GAB) - 0 Regions, 0 Cities
 {: #ga }
 
@@ -10069,9 +9100,6 @@ Asmara  {: .city #asmara } <br>
 
 
  
-
----------------------------------------
-
 ## Gambia (GAM) - 0 Regions, 0 Cities
 {: #gm }
 
@@ -10081,21 +9109,22 @@ Asmara  {: .city #asmara } <br>
 
 
  
-
----------------------------------------
-
-## Ghana (GHA) - 0 Regions, 0 Cities
+## Ghana (GHA) - 0 Regions, 2 Cities
 {: #gh }
 
 
 
 
 
+### Uncategorized _(2)_{:.count}
+
+
+Accra  _pop (4)_{:.pop} {: .city #accra } <br>
+
+Kumasi  _pop (2)_{:.pop} {: .city #kumasi } <br>
+
 
  
-
----------------------------------------
-
 ## Guinea (GUI) - 0 Regions, 1 Cities
 {: #gn }
 
@@ -10106,13 +9135,10 @@ Asmara  {: .city #asmara } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Conakry  {: .city #conakry } <br>
+Conakry  _pop (1)_{:.pop} {: .city #conakry } <br>
 
 
  
-
----------------------------------------
-
 ## Guinea-Bissau (GNB) - 0 Regions, 1 Cities
 {: #gw }
 
@@ -10127,26 +9153,22 @@ Bissau  {: .city #bissau } <br>
 
 
  
-
----------------------------------------
-
-## Kenya (KEN) - 0 Regions, 1 Cities
+## Kenya (KEN) - 0 Regions, 2 Cities
 {: #ke }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
-Nairobi  {: .city #nairobi } <br>
+Nairobi  _pop (4)_{:.pop} {: .city #nairobi } <br>
+
+Mombasa  _pop (1)_{:.pop} {: .city #mombasa } <br>
 
 
  
-
----------------------------------------
-
 ## Lesotho (LES) - 0 Regions, 1 Cities
 {: #ls }
 
@@ -10161,9 +9183,6 @@ Maseru  {: .city #maseru } <br>
 
 
  
-
----------------------------------------
-
 ## Liberia (LBR) - 0 Regions, 1 Cities
 {: #lr }
 
@@ -10174,25 +9193,24 @@ Maseru  {: .city #maseru } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Monrovia  {: .city #monrovia } <br>
+Monrovia  _pop (1)_{:.pop} {: .city #monrovia } <br>
 
 
  
-
----------------------------------------
-
-## Libya (LBY) - 0 Regions, 0 Cities
+## Libya (LBY) - 0 Regions, 1 Cities
 {: #ly }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Ṭarābulus [Tripoli]  _pop (1)_{:.pop} {: .city #tarabulus } <br>
+
 
  
-
----------------------------------------
-
 ## Madagascar (MAD) - 0 Regions, 1 Cities
 {: #mg }
 
@@ -10203,13 +9221,10 @@ Monrovia  {: .city #monrovia } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Antananarivo  {: .city #antananarivo } <br>
+Antananarivo [Tananarive]  _pop (2)_{:.pop} {: .city #antananarivo } <br>
 
 
  
-
----------------------------------------
-
 ## Malawi (MWI) - 0 Regions, 1 Cities
 {: #mw }
 
@@ -10224,9 +9239,6 @@ Lilongwe  {: .city #lilongwe } <br>
 
 
  
-
----------------------------------------
-
 ## Mali (MLI) - 0 Regions, 1 Cities
 {: #ml }
 
@@ -10237,13 +9249,10 @@ Lilongwe  {: .city #lilongwe } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Bamako  {: .city #bamako } <br>
+Bamako  _pop (2)_{:.pop} {: .city #bamako } <br>
 
 
  
-
----------------------------------------
-
 ## Mauritania (MTN) - 0 Regions, 0 Cities
 {: #mr }
 
@@ -10253,9 +9262,6 @@ Bamako  {: .city #bamako } <br>
 
 
  
-
----------------------------------------
-
 ## Mauritius (MRI) - 0 Regions, 0 Cities
 {: #mu }
 
@@ -10265,21 +9271,46 @@ Bamako  {: .city #bamako } <br>
 
 
  
+## Mayotte (MYT) - 0 Regions, 1 Cities
+{: #yt }
 
----------------------------------------
 
-## Morocco (MAR) - 0 Regions, 0 Cities
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Mamoudzou  {: .city #mamoudzou } <br>
+
+
+ 
+## Morocco (MAR) - 0 Regions, 7 Cities
 {: #ma }
 
 
 
 
 
+### Uncategorized _(7)_{:.count}
+
+
+Casablanca  _pop (4)_{:.pop} {: .city #casablanca } <br>
+
+Rabat  _pop (2)_{:.pop} {: .city #rabat } <br>
+
+Fès [Fes]  _pop (1)_{:.pop} {: .city #fes } <br>
+
+Marrakech [Marrakesh]  _pop 909.000 (1)_{:.pop} {: .city #marrakech } <br>
+
+Agadir  _pop 615.229_{:.pop} {: .city #agadir } <br>
+
+Meknes  {: .city #meknes } <br>
+
+Tangier  {: .city #tangier } <br>
+
 
  
-
----------------------------------------
-
 ## Mozambique (MOZ) - 0 Regions, 1 Cities
 {: #mz }
 
@@ -10290,13 +9321,10 @@ Bamako  {: .city #bamako } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Maputo  {: .city #maputo } <br>
+Maputo  _pop (2)_{:.pop} {: .city #maputo } <br>
 
 
  
-
----------------------------------------
-
 ## Namibia (NAM) - 0 Regions, 1 Cities
 {: #na }
 
@@ -10311,9 +9339,6 @@ Windhoek  {: .city #windhoek } <br>
 
 
  
-
----------------------------------------
-
 ## Niger (NIG) - 0 Regions, 1 Cities
 {: #ne }
 
@@ -10324,25 +9349,38 @@ Windhoek  {: .city #windhoek } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Niamey  {: .city #niamey } <br>
+Niamey  _pop (1)_{:.pop} {: .city #niamey } <br>
 
 
  
-
----------------------------------------
-
-## Nigeria (NGA) - 0 Regions, 0 Cities
+## Nigeria (NGA) - 0 Regions, 8 Cities
 {: #ng }
 
 
 
 
 
+### Uncategorized _(8)_{:.count}
+
+
+Lagos  _pop (13)_{:.pop} {: .city #lagos } <br>
+
+Kano  _pop (3)_{:.pop} {: .city #kano } <br>
+
+Ibadan  _pop (2)_{:.pop} {: .city #ibadan } <br>
+
+Port Harcourt  _pop (1)_{:.pop} {: .city #portharcourt } <br>
+
+Kaduna  _pop (1)_{:.pop} {: .city #kaduna } <br>
+
+Abuja  _pop (1)_{:.pop} {: .city #abuja } <br>
+
+Benin City  _pop (1)_{:.pop} {: .city #benincity } <br>
+
+Maiduguri  _pop (1)_{:.pop} {: .city #maiduguri } <br>
+
 
  
-
----------------------------------------
-
 ## Rwanda (RWA) - 0 Regions, 1 Cities
 {: #rw }
 
@@ -10353,13 +9391,19 @@ Niamey  {: .city #niamey } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Kigali  {: .city #kigali } <br>
+Kigali  _pop (1)_{:.pop} {: .city #kigali } <br>
 
 
  
+## Réunion (REU) - 0 Regions, 0 Cities
+{: #re }
 
----------------------------------------
 
+
+
+
+
+ 
 ## Senegal (SEN) - 0 Regions, 1 Cities
 {: #sn }
 
@@ -10370,13 +9414,10 @@ Kigali  {: .city #kigali } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Dakar  {: .city #dakar } <br>
+Dakar  _pop (2)_{:.pop} {: .city #dakar } <br>
 
 
  
-
----------------------------------------
-
 ## Seychelles (SEY) - 0 Regions, 0 Cities
 {: #yc }
 
@@ -10386,9 +9427,6 @@ Dakar  {: .city #dakar } <br>
 
 
  
-
----------------------------------------
-
 ## Sierra Leone (SLE) - 0 Regions, 1 Cities
 {: #sl }
 
@@ -10399,42 +9437,58 @@ Dakar  {: .city #dakar } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Freetown  {: .city #freetown } <br>
+Freetown  _pop (1)_{:.pop} {: .city #freetown } <br>
 
 
  
-
----------------------------------------
-
-## Somalia (SOM) - 0 Regions, 1 Cities
+## Somalia (SOM) - 0 Regions, 2 Cities
 {: #so }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Mogadishu  {: .city #mogadishu } <br>
 
+Muqdisho [Mogadishu]  _pop (1)_{:.pop} {: .city #muqdisho } <br>
+
 
  
-
----------------------------------------
-
-## South Africa (RSA) - 0 Regions, 0 Cities
+## South Africa (RSA) - 0 Regions, 10 Cities
 {: #za }
 
 
 
 
 
+### Uncategorized _(10)_{:.count}
+
+
+Johannesburg  _pop 957.441 (4.434.827)_{:.pop} {: .city #johannesburg } <br>
+
+Pretoria  _pop 741.651_{:.pop} {: .city #pretoria } <br>
+
+Kaapstad [Cape Town]  _pop (3.740.026)_{:.pop} {: .city #kaapstad } <br>
+
+Durban  _pop 595.061_{:.pop} {: .city #durban } <br>
+
+Port Elizabeth  _pop 312.392 (1)_{:.pop} {: .city #portelizabeth } <br>
+
+Polokwane  _pop 130.028_{:.pop} {: .city #polokwane } <br>
+
+Nelspruit  _pop 58.672_{:.pop} {: .city #nelspruit } <br>
+
+Bloemfontein  _pop 256.185_{:.pop} {: .city #bloemfontein } <br>
+
+Rustenburg  _pop 104.612_{:.pop} {: .city #rustenburg } <br>
+
+Vereeniging  _pop (1)_{:.pop} {: .city #vereeniging } <br>
+
 
  
-
----------------------------------------
-
 ## South Sudan (SSD) - 0 Regions, 1 Cities
 {: #ss }
 
@@ -10449,26 +9503,22 @@ Juba  {: .city #juba } <br>
 
 
  
-
----------------------------------------
-
-## Sudan (SDN) - 0 Regions, 1 Cities
+## Sudan (SDN) - 0 Regions, 2 Cities
 {: #sd }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Khartoum  {: .city #khartoum } <br>
 
+Al-Kharṭūm [Khartoum]  _pop (5)_{:.pop} {: .city #alkhartum } <br>
+
 
  
-
----------------------------------------
-
 ## Swaziland (SWZ) - 0 Regions, 1 Cities
 {: #sz }
 
@@ -10483,9 +9533,6 @@ Lobamba  {: .city #lobamba } <br>
 
 
  
-
----------------------------------------
-
 ## São Tomé and Príncipe (STP) - 0 Regions, 1 Cities
 {: #st }
 
@@ -10500,26 +9547,22 @@ São Tomé  {: .city #saotome } <br>
 
 
  
-
----------------------------------------
-
-## Tanzania (TAN) - 0 Regions, 1 Cities
+## Tanzania (TAN) - 0 Regions, 2 Cities
 {: #tz }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Dodoma  {: .city #dodoma } <br>
 
+Dar es Salaam  _pop (4)_{:.pop} {: .city #daressalaam } <br>
+
 
  
-
----------------------------------------
-
 ## Togo (TOG) - 0 Regions, 1 Cities
 {: #tg }
 
@@ -10530,25 +9573,24 @@ Dodoma  {: .city #dodoma } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Lomé  {: .city #lome } <br>
+Lomé  _pop (1)_{:.pop} {: .city #lome } <br>
 
 
  
-
----------------------------------------
-
-## Tunisia (TUN) - 0 Regions, 0 Cities
+## Tunisia (TUN) - 0 Regions, 1 Cities
 {: #tn }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Tūnis [Tunis]  _pop (2)_{:.pop} {: .city #tunis } <br>
+
 
  
-
----------------------------------------
-
 ## Uganda (UGA) - 0 Regions, 1 Cities
 {: #ug }
 
@@ -10559,13 +9601,10 @@ Lomé  {: .city #lome } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Kampala  {: .city #kampala } <br>
+Kampala  _pop (2)_{:.pop} {: .city #kampala } <br>
 
 
  
-
----------------------------------------
-
 ## Zambia (ZAM) - 0 Regions, 1 Cities
 {: #zm }
 
@@ -10576,13 +9615,10 @@ Kampala  {: .city #kampala } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Lusaka  {: .city #lusaka } <br>
+Lusaka  _pop (2)_{:.pop} {: .city #lusaka } <br>
 
 
  
-
----------------------------------------
-
 ## Zimbabwe (ZIM) - 0 Regions, 1 Cities
 {: #zw }
 
@@ -10593,64 +9629,90 @@ Lusaka  {: .city #lusaka } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Harare  {: .city #harare } <br>
+Harare  _pop (2)_{:.pop} {: .city #harare } <br>
 
 
  
-
----------------------------------------
-
-## Bahrain (BHR) - 0 Regions, 1 Cities
+## Bahrain (BHR) - 0 Regions, 2 Cities
 {: #bh }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Manama  {: .city #manama } <br>
 
+Al-Manāmah [Manama]  _pop (1)_{:.pop} {: .city #almanamah } <br>
+
 
  
-
----------------------------------------
-
-## Iran (IRN) - 0 Regions, 1 Cities
+## Iran (IRN) - 0 Regions, 7 Cities
 {: #ir }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(7)_{:.count}
 
 
-Tehran  {: .city #tehran } <br>
+Tehrān [Tehran]  _pop (13)_{:.pop} {: .city #tehran } <br>
+
+Mashhad [Meshed]  _pop (2)_{:.pop} {: .city #mashhad } <br>
+
+Eṣfahān [Isfahan]  _pop (2)_{:.pop} {: .city #esfahan } <br>
+
+Shīrāz [Shiraz]  _pop (1)_{:.pop} {: .city #shiraz } <br>
+
+Tabrīz [Tabriz]  _pop (1)_{:.pop} {: .city #tabriz } <br>
+
+Ahvāz [Ahvaz]  _pop (1)_{:.pop} {: .city #ahvaz } <br>
+
+Qom  _pop (1)_{:.pop} {: .city #qom } <br>
 
 
  
-
----------------------------------------
-
-## Iraq (IRQ) - 0 Regions, 1 Cities
+## Iraq (IRQ) - 0 Regions, 5 Cities
 {: #iq }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(5)_{:.count}
 
 
-Baghdad  {: .city #baghdad } <br>
+Baghdād [Baghdad]  _pop (6)_{:.pop} {: .city #baghdad } <br>
+
+Al-Mawṣil [Mosul]  _pop (1)_{:.pop} {: .city #almawsil } <br>
+
+Al-Baṣrah [Basra]  _pop (1)_{:.pop} {: .city #albasrah } <br>
+
+Arbīl     [Erbil]  _pop (1)_{:.pop} {: .city #arbil } <br>
+
+Kirkūk    [Kirkuk]  _pop (1)_{:.pop} {: .city #kirkuk } <br>
 
 
  
+## Israel (ISR) - 0 Regions, 2 Cities
+{: #il }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+Tel Aviv  {: .city #telaviv } <br>
+
+Yafo [Jaffa]  {: .city #yafo } <br>
+
+
+ 
 ## Jordan (JOR) - 0 Regions, 1 Cities
 {: #jo }
 
@@ -10661,47 +9723,42 @@ Baghdad  {: .city #baghdad } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Amman  {: .city #amman } <br>
+'Ammān [Amman]  _pop (3)_{:.pop} {: .city #amman } <br>
 
 
  
-
----------------------------------------
-
-## Kuwait (KUW) - 0 Regions, 1 Cities
+## Kuwait (KUW) - 0 Regions, 2 Cities
 {: #kw }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Kuwait City  {: .city #kuwaitcity } <br>
 
+Al-Kuwayt [Kuwait City]  _pop (3)_{:.pop} {: .city #alkuwayt } <br>
+
 
  
-
----------------------------------------
-
-## Lebanon (LIB) - 0 Regions, 1 Cities
+## Lebanon (LIB) - 0 Regions, 2 Cities
 {: #lb }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Beirut  {: .city #beirut } <br>
 
+Bayrūt [Beirut]  _pop (1)_{:.pop} {: .city #bayrut } <br>
+
 
  
-
----------------------------------------
-
 ## Oman (OMA) - 0 Regions, 1 Cities
 {: #om }
 
@@ -10716,118 +9773,813 @@ Muscat  {: .city #muscat } <br>
 
 
  
-
----------------------------------------
-
-## Palestine (PLE) - 0 Regions, 0 Cities
+## Palestine (PLE) - 0 Regions, 1 Cities
 {: #ps }
 
 
 
 
 
+### Uncategorized _(1)_{:.count}
+
+
+Ghazzah [Gaza]  _pop (1)_{:.pop} {: .city #ghazzah } <br>
+
 
  
-
----------------------------------------
-
-## Qatar (QAT) - 0 Regions, 1 Cities
+## Qatar (QAT) - 0 Regions, 2 Cities
 {: #qa }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Doha  {: .city #doha } <br>
 
+Ad-Dawḥah [Doha]  _pop (1)_{:.pop} {: .city #addawhah } <br>
+
 
  
-
----------------------------------------
-
-## Saudi Arabia (KSA) - 0 Regions, 0 Cities
+## Saudi Arabia (KSA) - 0 Regions, 9 Cities
 {: #sa }
 
 
 
 
 
+### Uncategorized _(9)_{:.count}
+
+
+Ar-Riyād [Riyadh]  _pop 4.205.961 (6)_{:.pop} {: .city #arriyad } <br>
+
+Jiddah  _pop 2.867.446 (4)_{:.pop} {: .city #jiddah } <br>
+
+Makkah [Mecca]  _pop 1.323.624 (1)_{:.pop} {: .city #makkah } <br>
+
+Al-Madīnah [Medina]  _pop 1.300.000_{:.pop} {: .city #almadinah } <br>
+
+Ad-Dammām [Dammam]  _pop 768.602 (2)_{:.pop} {: .city #addammam } <br>
+
+Aṭ-Ṭā’if [Taif]  _pop 987.914_{:.pop} {: .city #attaif } <br>
+
+Ḫamīs Mušayṭ [Khamis Mushait  _pop 630.000_{:.pop} {: .city #hamismusaytkhamismushait } <br>
+
+Burayda [Buraydah  _pop 614.093_{:.pop} {: .city #buraydaburaydah } <br>
+
+Al-Khubar [Al Khubar  _pop 578_{:.pop} {: .city #alkhubaralkhubar } <br>
+
 
  
-
----------------------------------------
-
-## Syria (SYR) - 0 Regions, 1 Cities
+## Syria (SYR) - 0 Regions, 3 Cities
 {: #sy }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(3)_{:.count}
 
 
 Damascus  {: .city #damascus } <br>
 
+Dimashq [Damascus]  _pop (3)_{:.pop} {: .city #dimashq } <br>
+
+Ḥalab [Aleppo]  _pop (3)_{:.pop} {: .city #halab } <br>
+
 
  
-
----------------------------------------
-
-## United Arab Emirates (UAE) - 0 Regions, 1 Cities
+## United Arab Emirates (UAE) - 0 Regions, 3 Cities
 {: #ae }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(3)_{:.count}
 
 
 Abu Dhabi  {: .city #abudhabi } <br>
 
+Dubayy [Dubai]  _pop (1)_{:.pop} {: .city #dubayy } <br>
+
+Ash-Shāriqah [Sharjah]  _pop (1)_{:.pop} {: .city #ashshariqah } <br>
+
 
  
-
----------------------------------------
-
-## Yemen (YEM) - 0 Regions, 1 Cities
+## Yemen (YEM) - 0 Regions, 2 Cities
 {: #ye }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Sana'a  {: .city #sanaa } <br>
 
+Ṣan'ā' [Sana'a]  _pop (2)_{:.pop} {: .city #sana } <br>
+
 
  
-
----------------------------------------
-
-## Afghanistan (AFG) - 0 Regions, 1 Cities
+## Afghanistan (AFG) - 0 Regions, 2 Cities
 {: #af }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Kabul  {: .city #kabul } <br>
 
+Kābol [Kabul]  _pop (3)_{:.pop} {: .city #kabol } <br>
+
 
  
+## Bangladesh (BAN) - 0 Regions, 3 Cities
+{: #bd }
 
----------------------------------------
 
+
+
+
+### Uncategorized _(3)_{:.count}
+
+
+Dhaka [Dacca]  _pop (16)_{:.pop} {: .city #dhaka } <br>
+
+Chittagong  _pop (4)_{:.pop} {: .city #chittagong } <br>
+
+Khulna  _pop (1)_{:.pop} {: .city #khulna } <br>
+
+
+ 
+## Bhutan (BHU) - 0 Regions, 1 Cities
+{: #bt }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Thimphu  {: .city #thimphu } <br>
+
+
+ 
+## British Indian Ocean Territory (IOT) - 0 Regions, 1 Cities
+{: #io }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Diego Garcia  {: .city #diegogarcia } <br>
+
+
+ 
+## Brunei (BRU) - 0 Regions, 1 Cities
+{: #bn }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Bandar Seri Begawan  {: .city #bandarseribegawan } <br>
+
+
+ 
+## Cambodia (CAM) - 0 Regions, 2 Cities
+{: #kh }
+
+
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+Phnom Penh  {: .city #phnompenh } <br>
+
+Phnum Pénh [Phnom Penh]  _pop (1)_{:.pop} {: .city #phnumpenh } <br>
+
+
+ 
+## China (CHN) - 0 Regions, 24 Cities
+{: #cn }
+
+
+
+
+
+### Uncategorized _(24)_{:.count}
+
+
+Guangzhou  _pop (31)_{:.pop} {: .city #guangzhou } <br>
+
+Shanghai  _pop (28)_{:.pop} {: .city #shanghai } <br>
+
+Beijing  _pop (19)_{:.pop} {: .city #beijing } <br>
+
+Shenzhen  _pop (11)_{:.pop} {: .city #shenzhen } <br>
+
+Tianjin  _pop (10)_{:.pop} {: .city #tianjin } <br>
+
+Chengdu  _pop (8)_{:.pop} {: .city #chengdu } <br>
+
+Shenyang  _pop (7)_{:.pop} {: .city #shenyang } <br>
+
+Hangzhou  _pop (7)_{:.pop} {: .city #hangzhou } <br>
+
+Hong Kong  _pop (7)_{:.pop} {: .city #hongkong } <br>
+
+Wuhan  _pop (7)_{:.pop} {: .city #wuhan } <br>
+
+Chongqing  _pop (6)_{:.pop} {: .city #chongqing } <br>
+
+Xi'an  _pop (6)_{:.pop} {: .city #xian } <br>
+
+Nanjing  _pop (6)_{:.pop} {: .city #nanjing } <br>
+
+Shantou  _pop (5)_{:.pop} {: .city #shantou } <br>
+
+Harbin  _pop (4)_{:.pop} {: .city #harbin } <br>
+
+Xiamen  _pop (4)_{:.pop} {: .city #xiamen } <br>
+
+Wenzhou  _pop (4)_{:.pop} {: .city #wenzhou } <br>
+
+Zhengzhou  _pop (4)_{:.pop} {: .city #zhengzhou } <br>
+
+Qingdao  _pop (4)_{:.pop} {: .city #qingdao } <br>
+
+Dalian  _pop (4)_{:.pop} {: .city #dalian } <br>
+
+Hefei  _pop (4)_{:.pop} {: .city #hefei } <br>
+
+Changsha  _pop (4)_{:.pop} {: .city #changsha } <br>
+
+Quanzhou  _pop (4)_{:.pop} {: .city #quanzhou } <br>
+
+Taiyuan  _pop (4)_{:.pop} {: .city #taiyuan } <br>
+
+
+ 
+## Christmas Island (CXR) - 0 Regions, 1 Cities
+{: #cx }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Flying Fish Cove  {: .city #flyingfishcove } <br>
+
+
+ 
+## Cocos (Keeling) Islands (CCK) - 0 Regions, 1 Cities
+{: #cc }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+West Island  {: .city #westisland } <br>
+
+
+ 
+## Hong Kong (HKG) - 0 Regions, 0 Cities
+{: #hk }
+
+
+
+
+
+
+ 
+## India (IND) - 0 Regions, 18 Cities
+{: #in }
+
+
+
+
+
+### Uncategorized _(18)_{:.count}
+
+
+Delhi  _pop 10.927.986 (24)_{:.pop} {: .city #delhi } <br>
+
+Mumbai [Bombay]  _pop 12.691.836 (21)_{:.pop} {: .city #mumbai } <br>
+
+Kolkata [Calcutta]  _pop 4.631.392 (16)_{:.pop} {: .city #kolkata } <br>
+
+Bengaluru [Bangalore]  _pop 5.104.047 (9)_{:.pop} {: .city #bengaluru } <br>
+
+Chennai [Madras]  _pop 4.328.063 (9)_{:.pop} {: .city #chennai } <br>
+
+Ahmadābād [Ahmedabad]  _pop (7)_{:.pop} {: .city #ahmadabad } <br>
+
+Pune [Poona]  _pop 2.935.744 (5)_{:.pop} {: .city #pune } <br>
+
+Sūrat [Surat]  _pop 2.894.504 (5)_{:.pop} {: .city #surat } <br>
+
+Kānpur [Kanpur]  _pop 2.823.249 (3)_{:.pop} {: .city #kanpur } <br>
+
+Jaipur  _pop (3)_{:.pop} {: .city #jaipur } <br>
+
+Lucknow  _pop (3)_{:.pop} {: .city #lucknow } <br>
+
+Nāgpur [Nagpur]  _pop (2)_{:.pop} {: .city #nagpur } <br>
+
+Indore  _pop (2)_{:.pop} {: .city #indore } <br>
+
+Coimbatore  _pop (2)_{:.pop} {: .city #coimbatore } <br>
+
+Bhilai  _pop (2)_{:.pop} {: .city #bhilai } <br>
+
+Patna  _pop (2)_{:.pop} {: .city #patna } <br>
+
+Bhopāl [Bhopal]  _pop (2)_{:.pop} {: .city #bhopal } <br>
+
+Vadodara  _pop (2)_{:.pop} {: .city #vadodara } <br>
+
+
+ 
+## Indonesia (IDN) - 0 Regions, 15 Cities
+{: #id }
+
+
+
+
+
+### Uncategorized _(15)_{:.count}
+
+
+Jakarta  _pop (26)_{:.pop} {: .city #jakarta } <br>
+
+Bandung  _pop (5)_{:.pop} {: .city #bandung } <br>
+
+Surabaya  _pop (4)_{:.pop} {: .city #surabaya } <br>
+
+Medan  _pop (3)_{:.pop} {: .city #medan } <br>
+
+Semarang  _pop (2)_{:.pop} {: .city #semarang } <br>
+
+Makassar  _pop (1)_{:.pop} {: .city #makassar } <br>
+
+Palembang  _pop (1)_{:.pop} {: .city #palembang } <br>
+
+Denpasar  _pop (1)_{:.pop} {: .city #denpasar } <br>
+
+Malang  _pop (1)_{:.pop} {: .city #malang } <br>
+
+Yogyakarta  _pop (1)_{:.pop} {: .city #yogyakarta } <br>
+
+Surakarta  _pop (1)_{:.pop} {: .city #surakarta } <br>
+
+Pekanbaru  _pop (1)_{:.pop} {: .city #pekanbaru } <br>
+
+Batam  _pop (1)_{:.pop} {: .city #batam } <br>
+
+Bandar Lampung  _pop (1)_{:.pop} {: .city #bandarlampung } <br>
+
+Serang  _pop (1)_{:.pop} {: .city #serang } <br>
+
+
+ 
+## Japan (JPN) - 0 Regions, 17 Cities
+{: #jp }
+
+
+
+
+
+### Uncategorized _(17)_{:.count}
+
+
+Tōkyō [Tokyo]  _pop 8.336.599 (34)_{:.pop} {: .city #tokyo } <br>
+
+Yokohama  _pop 3.574.443_{:.pop} {: .city #yokohama } <br>
+
+Ōsaka [Osaka]  _pop 2.592.413 (16)_{:.pop} {: .city #osaka } <br>
+
+Nagoya  _pop 2.191.279 (8)_{:.pop} {: .city #nagoya } <br>
+
+Sapporo  _pop 1.883.027 (2)_{:.pop} {: .city #sapporo } <br>
+
+Kobe  _pop 1.528.478_{:.pop} {: .city #kobe } <br>
+
+Kyoto  _pop 1.459.640_{:.pop} {: .city #kyoto } <br>
+
+Fukuoka  _pop 1.392.289 (2)_{:.pop} {: .city #fukuoka } <br>
+
+Kawasaki  _pop 1.306.785_{:.pop} {: .city #kawasaki } <br>
+
+Hiroshima  _pop (1)_{:.pop} {: .city #hiroshima } <br>
+
+Sendai  _pop (1)_{:.pop} {: .city #sendai } <br>
+
+Kitakyūshū [Kitakyushu]  _pop (1)_{:.pop} {: .city #kitakyushu } <br>
+
+Okayama  _pop (1)_{:.pop} {: .city #okayama } <br>
+
+Naha  _pop (1)_{:.pop} {: .city #naha } <br>
+
+Himeji  _pop (1)_{:.pop} {: .city #himeji } <br>
+
+Kumamoto  _pop (1)_{:.pop} {: .city #kumamoto } <br>
+
+Hamamatsu  _pop (1)_{:.pop} {: .city #hamamatsu } <br>
+
+
+ 
+## Kazakhstan (KAZ) - 0 Regions, 1 Cities
+{: #kz }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Almaty [Alma-Ata]  _pop (1)_{:.pop} {: .city #almaty } <br>
+
+
+ 
+## Kyrgyzstan (KGZ) - 0 Regions, 1 Cities
+{: #kg }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Bishkek  {: .city #bishkek } <br>
+
+
+ 
+## Laos (LAO) - 0 Regions, 1 Cities
+{: #la }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Vientiane  {: .city #vientiane } <br>
+
+
+ 
+## Macau (MAC) - 0 Regions, 0 Cities
+{: #mo }
+
+
+
+
+
+
+ 
+## Malaysia (MAS) - 0 Regions, 2 Cities
+{: #my }
+
+
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+George Town  _pop (1)_{:.pop} {: .city #georgetown } <br>
+
+Kuala Lumpur  _pop (6)_{:.pop} {: .city #kualalumpur } <br>
+
+
+ 
+## Maldives (MDV) - 0 Regions, 1 Cities
+{: #mv }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Malé  {: .city #male } <br>
+
+
+ 
+## Mongolia (MGL) - 0 Regions, 2 Cities
+{: #mn }
+
+
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+Ulan Bator  {: .city #ulanbator } <br>
+
+Ulaanbaatar [Ulan Bator]  _pop (1)_{:.pop} {: .city #ulaanbaatar } <br>
+
+
+ 
+## Myanmar (MYA) - 0 Regions, 3 Cities
+{: #mm }
+
+
+
+
+
+### Uncategorized _(3)_{:.count}
+
+
+Naypyidaw  {: .city #naypyidaw } <br>
+
+Yangon [Rangoon]  _pop (5)_{:.pop} {: .city #yangon } <br>
+
+Mandalay  _pop (1)_{:.pop} {: .city #mandalay } <br>
+
+
+ 
+## Nepal (NEP) - 0 Regions, 1 Cities
+{: #np }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Kāṭhmāḍaũ [Kathmandu]  _pop (2)_{:.pop} {: .city #kathmadau } <br>
+
+
+ 
+## North Korea (PRK) - 0 Regions, 1 Cities
+{: #kp }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+P'yŏngyang [Pyongyang]  _pop (2)_{:.pop} {: .city #pyongyang } <br>
+
+
+ 
+## Pakistan (PAK) - 0 Regions, 10 Cities
+{: #pk }
+
+
+
+
+
+### Uncategorized _(10)_{:.count}
+
+
+Hyderābād [Hyderabad]  _pop 1.386.330 (2)_{:.pop} {: .city #hyderabad } <br>
+
+Karāchi [Karachi]  _pop 11.624.219 (22)_{:.pop} {: .city #karachi } <br>
+
+Lahore  _pop 6.310.888 (9)_{:.pop} {: .city #lahore } <br>
+
+Faisalabad  _pop 2.506.595 (3)_{:.pop} {: .city #faisalabad } <br>
+
+Rawalpindi  _pop 1.743.101_{:.pop} {: .city #rawalpindi } <br>
+
+Multān [Multan]  _pop 1.437.230 (2)_{:.pop} {: .city #multan } <br>
+
+Gujrānwāla [Gujranwala]  _pop 1.384.471 (2)_{:.pop} {: .city #gujranwala } <br>
+
+Pex̌awar  _pop 1.218.773 (1)_{:.pop} {: .city #pexawar } <br>
+
+Quetta  _pop (1)_{:.pop} {: .city #quetta } <br>
+
+Islām ābād [Islamabad]  {: .city #islamabad } <br>
+
+
+ 
+## Philippines (PHI) - 0 Regions, 4 Cities
+{: #ph }
+
+
+
+
+
+### Uncategorized _(4)_{:.count}
+
+
+Manila  _pop (22)_{:.pop} {: .city #manila } <br>
+
+Cebu  _pop (2)_{:.pop} {: .city #cebu } <br>
+
+Davao  _pop (1)_{:.pop} {: .city #davao } <br>
+
+Angeles  _pop (1)_{:.pop} {: .city #angeles } <br>
+
+
+ 
+## Singapore (SIN) - 0 Regions, 1 Cities
+{: #sg }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Singapore  _pop (6)_{:.pop} {: .city #singapore } <br>
+
+
+ 
+## South Korea (KOR) - 0 Regions, 8 Cities
+{: #kr }
+
+
+
+
+
+### Uncategorized _(8)_{:.count}
+
+
+Seoul  _pop 10.349.312 (25)_{:.pop} {: .city #seoul } <br>
+
+Busan [Pusan]  _pop 3.678.555 (3)_{:.pop} {: .city #busan } <br>
+
+Incheon  _pop 2.628.000_{:.pop} {: .city #incheon } <br>
+
+Daegu [Taegu]  _pop 2.566.540 (2)_{:.pop} {: .city #daegu } <br>
+
+Gwangju [Kwangju]  _pop (1)_{:.pop} {: .city #gwangju } <br>
+
+Daejeon [Taejon]  _pop (1)_{:.pop} {: .city #daejeon } <br>
+
+Ulsan  _pop (1)_{:.pop} {: .city #ulsan } <br>
+
+Changwon  _pop (1)_{:.pop} {: .city #changwon } <br>
+
+
+ 
+## Sri Lanka (SRI) - 0 Regions, 1 Cities
+{: #lk }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Colombo  _pop (4)_{:.pop} {: .city #colombo } <br>
+
+
+ 
+## Taiwan (TPE) - 0 Regions, 4 Cities
+{: #tw }
+
+
+
+
+
+### Uncategorized _(4)_{:.count}
+
+
+Taibei [Taipei]  _pop (9)_{:.pop} {: .city #taibei } <br>
+
+Gaoxiong [Kaohsiung]  _pop (2)_{:.pop} {: .city #gaoxiong } <br>
+
+Taizhong [Taichung]  _pop (2)_{:.pop} {: .city #taizhong } <br>
+
+Tainan  _pop (1)_{:.pop} {: .city #tainan } <br>
+
+
+ 
+## Tajikistan (TJK) - 0 Regions, 1 Cities
+{: #tj }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Dushanbe  {: .city #dushanbe } <br>
+
+
+ 
+## Thailand (THA) - 0 Regions, 1 Cities
+{: #th }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Krung Thep [Bangkok]  _pop (14)_{:.pop} {: .city #krungthep } <br>
+
+
+ 
+## Timor-Leste [East Timor] (TLS) - 0 Regions, 1 Cities
+{: #tl }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Dili  {: .city #dili } <br>
+
+
+ 
+## Turkmenistan (TKM) - 0 Regions, 2 Cities
+{: #tm }
+
+
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+Ashgabat  {: .city #ashgabat } <br>
+
+Aşgabat [Ashgabat]  _pop (1)_{:.pop} {: .city #asgabat } <br>
+
+
+ 
+## Uzbekistan (UZB) - 0 Regions, 2 Cities
+{: #uz }
+
+
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+Tashkent  {: .city #tashkent } <br>
+
+Toshkent [Tashkent]  _pop (2)_{:.pop} {: .city #toshkent } <br>
+
+
+ 
+## Vietnam (VIE) - 0 Regions, 2 Cities
+{: #vn }
+
+
+
+
+
+### Uncategorized _(2)_{:.count}
+
+
+Thành Phố Hồ Chí Minh [Saigon]  _pop (8)_{:.pop} {: .city #thanhphohochiminh } <br>
+
+Hà Nội [Hanoi]  _pop (2)_{:.pop} {: .city #hanoi } <br>
+
+
+ 
+## American Samoa (ASM) - 0 Regions, 0 Cities
+{: #as }
+
+
+
+
+
+
+ 
 ## Australia (AUS) - 8 Regions, 22 Cities
 {: #au }
 
@@ -10985,11 +10737,8 @@ Darwin  _pop 75.908 (129.062)_{:.pop} {: .city #darwin } <br>
 
 
  
-
----------------------------------------
-
-## Bangladesh (BAN) - 0 Regions, 0 Cities
-{: #bd }
+## Cook Islands (COK) - 0 Regions, 0 Cities
+{: #ck }
 
 
 
@@ -10997,405 +10746,6 @@ Darwin  _pop 75.908 (129.062)_{:.pop} {: .city #darwin } <br>
 
 
  
-
----------------------------------------
-
-## Bhutan (BHU) - 0 Regions, 1 Cities
-{: #bt }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Thimphu  {: .city #thimphu } <br>
-
-
- 
-
----------------------------------------
-
-## Brunei (BRU) - 0 Regions, 1 Cities
-{: #bn }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Bandar Seri Begawan  {: .city #bandarseribegawan } <br>
-
-
- 
-
----------------------------------------
-
-## Cambodia (CAM) - 0 Regions, 1 Cities
-{: #kh }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Phnom Penh  {: .city #phnompenh } <br>
-
-
- 
-
----------------------------------------
-
-## China (CHN) - 0 Regions, 0 Cities
-{: #cn }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Hong Kong (HKG) - 0 Regions, 0 Cities
-{: #hk }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## India (IND) - 0 Regions, 0 Cities
-{: #in }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Indonesia (IDN) - 0 Regions, 0 Cities
-{: #id }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Japan (JPN) - 0 Regions, 0 Cities
-{: #jp }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Kyrgyzstan (KGZ) - 0 Regions, 1 Cities
-{: #kg }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Bishkek  {: .city #bishkek } <br>
-
-
- 
-
----------------------------------------
-
-## Laos (LAO) - 0 Regions, 1 Cities
-{: #la }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Vientiane  {: .city #vientiane } <br>
-
-
- 
-
----------------------------------------
-
-## Malaysia (MAS) - 0 Regions, 0 Cities
-{: #my }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Maldives (MDV) - 0 Regions, 1 Cities
-{: #mv }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Malé  {: .city #male } <br>
-
-
- 
-
----------------------------------------
-
-## Mongolia (MGL) - 0 Regions, 1 Cities
-{: #mn }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Ulan Bator  {: .city #ulanbator } <br>
-
-
- 
-
----------------------------------------
-
-## Myanmar (MYA) - 0 Regions, 1 Cities
-{: #mm }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Naypyidaw  {: .city #naypyidaw } <br>
-
-
- 
-
----------------------------------------
-
-## Nepal (NEP) - 0 Regions, 0 Cities
-{: #np }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## North Korea (PRK) - 0 Regions, 0 Cities
-{: #kp }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Pakistan (PAK) - 0 Regions, 0 Cities
-{: #pk }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Philippines (PHI) - 0 Regions, 0 Cities
-{: #ph }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Singapore (SIN) - 0 Regions, 0 Cities
-{: #sg }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## South Korea (KOR) - 0 Regions, 0 Cities
-{: #kr }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Sri Lanka (SRI) - 0 Regions, 0 Cities
-{: #lk }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Taiwan (TPE) - 0 Regions, 0 Cities
-{: #tw }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Tajikistan (TJK) - 0 Regions, 1 Cities
-{: #tj }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Dushanbe  {: .city #dushanbe } <br>
-
-
- 
-
----------------------------------------
-
-## Thailand (THA) - 0 Regions, 0 Cities
-{: #th }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Timor-Leste [East Timor] (TLS) - 0 Regions, 1 Cities
-{: #tl }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Dili  {: .city #dili } <br>
-
-
- 
-
----------------------------------------
-
-## Turkmenistan (TKM) - 0 Regions, 1 Cities
-{: #tm }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Ashgabat  {: .city #ashgabat } <br>
-
-
- 
-
----------------------------------------
-
-## Uzbekistan (UZB) - 0 Regions, 1 Cities
-{: #uz }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Tashkent  {: .city #tashkent } <br>
-
-
- 
-
----------------------------------------
-
-## Vietnam (VIE) - 0 Regions, 0 Cities
-{: #vn }
-
-
-
-
-
-
- 
-
----------------------------------------
-
 ## Fiji (FIJ) - 0 Regions, 1 Cities
 {: #fj }
 
@@ -11410,9 +10760,15 @@ Suva  {: .city #suva } <br>
 
 
  
+## Guam (GUM) - 0 Regions, 0 Cities
+{: #gu }
 
----------------------------------------
 
+
+
+
+
+ 
 ## Kiribati (KIR) - 0 Regions, 1 Cities
 {: #ki }
 
@@ -11427,231 +10783,6 @@ Tarawa  {: .city #tarawa } <br>
 
 
  
-
----------------------------------------
-
-## New Zealand (NZL) - 0 Regions, 0 Cities
-{: #nz }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Palau (PLW) - 0 Regions, 1 Cities
-{: #pw }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Ngerulmud  {: .city #ngerulmud } <br>
-
-
- 
-
----------------------------------------
-
-## Papua New Guinea (PNG) - 0 Regions, 0 Cities
-{: #pg }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Samoa (SAM) - 0 Regions, 1 Cities
-{: #ws }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Apia  {: .city #apia } <br>
-
-
- 
-
----------------------------------------
-
-## Solomon Islands (SOL) - 0 Regions, 1 Cities
-{: #sb }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Honiara  {: .city #honiara } <br>
-
-
- 
-
----------------------------------------
-
-## Tahiti (TAH) - 0 Regions, 0 Cities
-{: #pf }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Tonga (TGA) - 0 Regions, 1 Cities
-{: #to }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Nuku'alofa  {: .city #nukualofa } <br>
-
-
- 
-
----------------------------------------
-
-## Tuvalu (TUV) - 0 Regions, 1 Cities
-{: #tv }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Funafuti  {: .city #funafuti } <br>
-
-
- 
-
----------------------------------------
-
-## Vanuatu (VAN) - 0 Regions, 1 Cities
-{: #vu }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Port Vila  {: .city #portvila } <br>
-
-
- 
-
----------------------------------------
-
-## European Union (EUR) - 0 Regions, 0 Cities
-{: #eu }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Gibraltar (GIB) - 0 Regions, 0 Cities
-{: #gi }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Great Britain (GBR) - 0 Regions, 0 Cities
-{: #gb }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Greenland (GRL) - 0 Regions, 0 Cities
-{: #gl }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Guernsey (GGY) - 0 Regions, 0 Cities
-{: #gg }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Isle of Man (IMN) - 0 Regions, 0 Cities
-{: #im }
-
-
-
-
-
-
- 
-
----------------------------------------
-
-## Jersey (JEY) - 0 Regions, 0 Cities
-{: #je }
-
-
-
-
-
-
- 
-
----------------------------------------
-
 ## Marshall Islands (MHL) - 0 Regions, 1 Cities
 {: #mh }
 
@@ -11666,9 +10797,6 @@ Majuro  {: .city #majuro } <br>
 
 
  
-
----------------------------------------
-
 ## Micronesia (FSM) - 0 Regions, 1 Cities
 {: #fm }
 
@@ -11683,26 +10811,6 @@ Palikir  {: .city #palikir } <br>
 
 
  
-
----------------------------------------
-
-## Monaco (MCO) - 0 Regions, 1 Cities
-{: #mc }
-
-
-
-
-
-### Uncategorized _(1)_{:.count}
-
-
-Monaco  {: .city #monaco } <br>
-
-
- 
-
----------------------------------------
-
 ## Nauru (NRU) - 0 Regions, 1 Cities
 {: #nr }
 
@@ -11717,11 +10825,8 @@ Yaren  {: .city #yaren } <br>
 
 
  
-
----------------------------------------
-
-## Vatican City (VAT) - 0 Regions, 1 Cities
-{: #va }
+## New Caledonia (NCL) - 0 Regions, 1 Cities
+{: #nc }
 
 
 
@@ -11730,7 +10835,197 @@ Yaren  {: .city #yaren } <br>
 ### Uncategorized _(1)_{:.count}
 
 
-Vatican City  {: .city #vaticancity } <br>
+Nouméa  {: .city #noumea } <br>
+
+
+ 
+## New Zealand (NZL) - 0 Regions, 1 Cities
+{: #nz }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Auckland  _pop (1)_{:.pop} {: .city #auckland } <br>
+
+
+ 
+## Niue (NIU) - 0 Regions, 1 Cities
+{: #nu }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Alofi  {: .city #alofi } <br>
+
+
+ 
+## Norfolk Island (NFK) - 0 Regions, 0 Cities
+{: #nf }
+
+
+
+
+
+
+ 
+## Northern Mariana Islands (MNP) - 0 Regions, 1 Cities
+{: #mp }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Saipan  {: .city #saipan } <br>
+
+
+ 
+## Palau (PLW) - 0 Regions, 1 Cities
+{: #pw }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Ngerulmud  {: .city #ngerulmud } <br>
+
+
+ 
+## Papua New Guinea (PNG) - 0 Regions, 0 Cities
+{: #pg }
+
+
+
+
+
+
+ 
+## Pitcairn Islands (PCN) - 0 Regions, 1 Cities
+{: #pn }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Adamstown  {: .city #adamstown } <br>
+
+
+ 
+## Samoa (SAM) - 0 Regions, 1 Cities
+{: #ws }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Apia  {: .city #apia } <br>
+
+
+ 
+## Solomon Islands (SOL) - 0 Regions, 1 Cities
+{: #sb }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Honiara  {: .city #honiara } <br>
+
+
+ 
+## Tahiti (TAH) - 0 Regions, 0 Cities
+{: #pf }
+
+
+
+
+
+
+ 
+## Tokelau (TKL) - 0 Regions, 1 Cities
+{: #tk }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Fakaofo  {: .city #fakaofo } <br>
+
+
+ 
+## Tonga (TGA) - 0 Regions, 1 Cities
+{: #to }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Nuku'alofa  {: .city #nukualofa } <br>
+
+
+ 
+## Tuvalu (TUV) - 0 Regions, 1 Cities
+{: #tv }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Funafuti  {: .city #funafuti } <br>
+
+
+ 
+## Vanuatu (VAN) - 0 Regions, 1 Cities
+{: #vu }
+
+
+
+
+
+### Uncategorized _(1)_{:.count}
+
+
+Port Vila  {: .city #portvila } <br>
+
+
+ 
+## Wallis and Futuna (WLF) - 0 Regions, 0 Cities
+{: #wf }
+
+
+
+
 
 
  

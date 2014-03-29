@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Finland (FIN)
+layout: book
+title: Finland (FIN)
 permalink: /fi.html
 ---
 

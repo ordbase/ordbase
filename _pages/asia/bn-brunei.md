@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Brunei (BRU)
+layout: book
+title: Brunei (BRU)
 permalink: /bn.html
 ---
 

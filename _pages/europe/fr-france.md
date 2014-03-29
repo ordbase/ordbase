@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     France (FRA)
+layout: book
+title: France (FRA)
 permalink: /fr.html
 ---
 
@@ -8,7 +8,7 @@ permalink: /fr.html
 {: #fr }
 
 
-[Ile-de-France](#fr-if) _(1)_{:.count} • [Champagne-Ardenne](#fr-ca) _(2)_{:.count} • [Picardie](#fr-pd) _(0)_{:.count} • [Haute-Normandie](#fr-hn) _(0)_{:.count} • [Centre](#fr-ct) _(0)_{:.count} • [Basse-Normandie](#fr-bn) _(0)_{:.count} • [Bourgogne](#fr-bg) _(0)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(2)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(2)_{:.count} • [Alsace](#fr-al) _(1)_{:.count} • [Franche-Comté](#fr-fc) _(1)_{:.count} • [Pays de la Loire](#fr-pl) _(1)_{:.count} • [Bretagne [Brittany]](#fr-br) _(3)_{:.count} • [Poitou-Charentes](#fr-pc) _(0)_{:.count} • [Aquitaine](#fr-aq) _(1)_{:.count} • [Midi-Pyrénées](#fr-mp) _(1)_{:.count} • [Limousin](#fr-lm) _(0)_{:.count} • [Rhône-Alpes](#fr-ra) _(3)_{:.count} • [Auvergne](#fr-av) _(0)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(2)_{:.count} • [Corse](#fr-cr) _(2)_{:.count}
+[Ile-de-France](#fr-if) _(1)_{:.count} • [Champagne-Ardenne](#fr-ca) _(1)_{:.count} • [Picardie [Picardy]](#fr-pd) _(1)_{:.count} • [Haute-Normandie [Upper Normandy]](#fr-hn) _(1)_{:.count} • [Centre](#fr-ct) _(1)_{:.count} • [Basse-Normandie [Lower Normandy]](#fr-bn) _(1)_{:.count} • [Bourgogne [Burgundy]](#fr-bg) _(1)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(1)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(2)_{:.count} • [Alsace](#fr-al) _(1)_{:.count} • [Franche-Comté](#fr-fc) _(1)_{:.count} • [Pays de la Loire](#fr-pl) _(1)_{:.count} • [Bretagne [Brittany]](#fr-br) _(1)_{:.count} • [Poitou-Charentes](#fr-pc) _(1)_{:.count} • [Aquitaine](#fr-aq) _(1)_{:.count} • [Midi-Pyrénées](#fr-mp) _(1)_{:.count} • [Limousin](#fr-lm) _(1)_{:.count} • [Rhône-Alpes](#fr-ra) _(1)_{:.count} • [Auvergne](#fr-av) _(1)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(1)_{:.count} • [Corse [Corsica]](#fr-cr) _(1)_{:.count}
 
 
 
@@ -22,30 +22,28 @@ permalink: /fr.html
 <div class='columns2' markdown='1'>
 
 
-Paris  _pop 2.234.105 (10.755.000)_{:.pop} {: .city #paris } <br>
+Paris  {: .city #paris } <br>
 
 </div>
 
 
 
-### Champagne-Ardenne _(2)_{:.count}
+### Champagne-Ardenne _(1)_{:.count}
 {: #fr-ca }
 
 
-[Reims](#reims) • [Troyes](#troyes)
+
 
 <div class='columns2' markdown='1'>
 
 
-Reims  {: .city #reims } <br>
-
-Troyes  {: .city #troyes } <br>
+Châlons-en-Champagne  {: .city #chalonsenchampagne } <br>
 
 </div>
 
 
 
-### Picardie _(0)_{:.count}
+### Picardie [Picardy] _(1)_{:.count}
 {: #fr-pd }
 
 
@@ -54,11 +52,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Amiens  {: .city #amiens } <br>
+
 </div>
 
 
 
-### Haute-Normandie _(0)_{:.count}
+### Haute-Normandie [Upper Normandy] _(1)_{:.count}
 {: #fr-hn }
 
 
@@ -67,11 +67,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Rouen  {: .city #rouen } <br>
+
 </div>
 
 
 
-### Centre _(0)_{:.count}
+### Centre _(1)_{:.count}
 {: #fr-ct }
 
 
@@ -80,11 +82,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Orléans  {: .city #orleans } <br>
+
 </div>
 
 
 
-### Basse-Normandie _(0)_{:.count}
+### Basse-Normandie [Lower Normandy] _(1)_{:.count}
 {: #fr-bn }
 
 
@@ -93,11 +97,13 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Caen  {: .city #caen } <br>
+
 </div>
 
 
 
-### Bourgogne _(0)_{:.count}
+### Bourgogne [Burgundy] _(1)_{:.count}
 {: #fr-bg }
 
 
@@ -106,22 +112,22 @@ Troyes  {: .city #troyes } <br>
 <div class='columns2' markdown='1'>
 
 
+Dijon  {: .city #dijon } <br>
+
 </div>
 
 
 
-### Nord-Pas-de-Calais _(2)_{:.count}
+### Nord-Pas-de-Calais _(1)_{:.count}
 {: #fr-nc }
 
 
-[Lille](#lille) • [Valenciennes](#valenciennes)
+
 
 <div class='columns2' markdown='1'>
 
 
-Lille  _pop 226.827 (1.050.000)_{:.pop} {: .city #lille } <br>
-
-Valenciennes  {: .city #valenciennes } <br>
+Lille  {: .city #lille } <br>
 
 </div>
 
@@ -131,14 +137,14 @@ Valenciennes  {: .city #valenciennes } <br>
 {: #fr-lr }
 
 
-[Montpellier](#montpellier) • [Nancy](#nancy)
+[Metz](#metz) • [Montpellier](#montpellier)
 
 <div class='columns2' markdown='1'>
 
 
-Montpellier  _pop 255.080_{:.pop} {: .city #montpellier } <br>
+Metz  {: .city #metz } <br>
 
-Nancy  {: .city #nancy } <br>
+Montpellier  {: .city #montpellier } <br>
 
 </div>
 
@@ -153,7 +159,7 @@ Nancy  {: .city #nancy } <br>
 <div class='columns2' markdown='1'>
 
 
-Strasbourg  _pop 271.708_{:.pop} {: .city #strasbourg } <br>
+Strasbourg  {: .city #strasbourg } <br>
 
 </div>
 
@@ -168,7 +174,7 @@ Strasbourg  _pop 271.708_{:.pop} {: .city #strasbourg } <br>
 <div class='columns2' markdown='1'>
 
 
-Sochaux  {: .city #sochaux } <br>
+Besançon  {: .city #besancon } <br>
 
 </div>
 
@@ -183,32 +189,28 @@ Sochaux  {: .city #sochaux } <br>
 <div class='columns2' markdown='1'>
 
 
-Nantes  _pop 282.047_{:.pop} {: .city #nantes } <br>
+Nantes  {: .city #nantes } <br>
 
 </div>
 
 
 
-### Bretagne [Brittany] _(3)_{:.count}
+### Bretagne [Brittany] _(1)_{:.count}
 {: #fr-br }
 
 
-[Brest](#brest) • [Lorient](#lorient) • [Rennes](#rennes)
+
 
 <div class='columns2' markdown='1'>
 
 
-Brest  {: .city #brest } <br>
-
-Lorient  {: .city #lorient } <br>
-
-Rennes  _pop 206.604_{:.pop} {: .city #rennes } <br>
+Rennes  {: .city #rennes } <br>
 
 </div>
 
 
 
-### Poitou-Charentes _(0)_{:.count}
+### Poitou-Charentes _(1)_{:.count}
 {: #fr-pc }
 
 
@@ -216,6 +218,8 @@ Rennes  _pop 206.604_{:.pop} {: .city #rennes } <br>
 
 <div class='columns2' markdown='1'>
 
+
+Poitiers  {: .city #poitiers } <br>
 
 </div>
 
@@ -230,7 +234,7 @@ Rennes  _pop 206.604_{:.pop} {: .city #rennes } <br>
 <div class='columns2' markdown='1'>
 
 
-Bordeaux  _pop 236.725 (845.000)_{:.pop} {: .city #bordeaux } <br>
+Bordeaux  {: .city #bordeaux } <br>
 
 </div>
 
@@ -245,13 +249,13 @@ Bordeaux  _pop 236.725 (845.000)_{:.pop} {: .city #bordeaux } <br>
 <div class='columns2' markdown='1'>
 
 
-Toulouse  _pop 440.204 (880.000)_{:.pop} {: .city #toulouse } <br>
+Toulouse  {: .city #toulouse } <br>
 
 </div>
 
 
 
-### Limousin _(0)_{:.count}
+### Limousin _(1)_{:.count}
 {: #fr-lm }
 
 
@@ -260,30 +264,28 @@ Toulouse  _pop 440.204 (880.000)_{:.pop} {: .city #toulouse } <br>
 <div class='columns2' markdown='1'>
 
 
+Limoges  {: .city #limoges } <br>
+
 </div>
 
 
 
-### Rhône-Alpes _(3)_{:.count}
+### Rhône-Alpes _(1)_{:.count}
 {: #fr-ra }
 
 
-[Lyon](#lyon) • [Saint-Étienne](#saintetienne) • [Thonon-les-Bains](#thononlesbains)
+
 
 <div class='columns2' markdown='1'>
 
 
-Lyon  _pop 479.803 (1.542.000)_{:.pop} {: .city #lyon } <br>
-
-Saint-Étienne  {: .city #saintetienne } <br>
-
-Thonon-les-Bains  {: .city #thononlesbains } <br>
+Lyon  {: .city #lyon } <br>
 
 </div>
 
 
 
-### Auvergne _(0)_{:.count}
+### Auvergne _(1)_{:.count}
 {: #fr-av }
 
 
@@ -292,39 +294,37 @@ Thonon-les-Bains  {: .city #thononlesbains } <br>
 <div class='columns2' markdown='1'>
 
 
+Clermont-Ferrand  {: .city #clermontferrand } <br>
+
 </div>
 
 
 
-### Provence-Alpes-Côte d'Azur _(2)_{:.count}
+### Provence-Alpes-Côte d'Azur _(1)_{:.count}
 {: #fr-ac }
 
 
-[Marseille](#marseille) • [Nice](#nice)
+
 
 <div class='columns2' markdown='1'>
 
 
-Marseille  _pop 850.602 (1.582.000)_{:.pop} {: .city #marseille } <br>
-
-Nice  _pop 340.735 (962.000)_{:.pop} {: .city #nice } <br>
+Marseille  {: .city #marseille } <br>
 
 </div>
 
 
 
-### Corse _(2)_{:.count}
+### Corse [Corsica] _(1)_{:.count}
 {: #fr-cr }
 
 
-[Ajaccio](#ajaccio) • [Bastia](#bastia)
+
 
 <div class='columns2' markdown='1'>
 
 
 Ajaccio  {: .city #ajaccio } <br>
-
-Bastia  {: .city #bastia } <br>
 
 </div>
 

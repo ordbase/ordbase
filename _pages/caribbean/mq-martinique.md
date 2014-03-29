@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Martinique (MTQ)
+layout: book
+title: Martinique (MTQ)
 permalink: /mq.html
 ---
 

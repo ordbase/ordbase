@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Haiti (HAI)
+layout: book
+title: Haiti (HAI)
 permalink: /ht.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /ht.html
 ### Uncategorized _(1)_{:.count}
 
 
-Port-au-Prince  {: .city #portauprince } <br>
+Port-au-Prince  _pop 1.234.742 (2)_{:.pop} {: .city #portauprince } <br>
 
 
  

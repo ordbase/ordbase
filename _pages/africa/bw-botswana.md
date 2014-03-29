@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Botswana (BOT)
+layout: book
+title: Botswana (BOT)
 permalink: /bw.html
 ---
 

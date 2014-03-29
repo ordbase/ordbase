@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Guadeloupe (GPE)
+layout: book
+title: Guadeloupe (GPE)
 permalink: /gp.html
 ---
 

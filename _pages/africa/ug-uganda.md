@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Uganda (UGA)
+layout: book
+title: Uganda (UGA)
 permalink: /ug.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /ug.html
 ### Uncategorized _(1)_{:.count}
 
 
-Kampala  {: .city #kampala } <br>
+Kampala  _pop (2)_{:.pop} {: .city #kampala } <br>
 
 
  

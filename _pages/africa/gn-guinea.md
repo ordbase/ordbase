@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Guinea (GUI)
+layout: book
+title: Guinea (GUI)
 permalink: /gn.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /gn.html
 ### Uncategorized _(1)_{:.count}
 
 
-Conakry  {: .city #conakry } <br>
+Conakry  _pop (1)_{:.pop} {: .city #conakry } <br>
 
 
  

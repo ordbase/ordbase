@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Malawi (MWI)
+layout: book
+title: Malawi (MWI)
 permalink: /mw.html
 ---
 

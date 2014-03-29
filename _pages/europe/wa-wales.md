@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Wales (WAL)
+layout: book
+title: Wales (WAL)
 permalink: /wa.html
 ---
 

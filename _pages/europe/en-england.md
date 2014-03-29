@@ -1,14 +1,14 @@
 ---
-layout:    book
-title:     England (ENG)
+layout: book
+title: England (ENG)
 permalink: /en.html
 ---
 
-## England (ENG) - 9 Regions, 19 Cities
+## England (ENG) - 9 Regions, 17 Cities
 {: #en }
 
 
-[North East England](#en-ne) _(1)_{:.count} • [North West England](#en-nw) _(3)_{:.count} • [Yorkshire and the Humber](#en-yh) _(5)_{:.count} • [East Midlands](#en-em) _(1)_{:.count} • [West Midlands](#en-wm) _(4)_{:.count} • [East of England](#en-ee) _(1)_{:.count} • [Greater London](#en-gl) _(1)_{:.count} • [South East England](#en-se) _(2)_{:.count} • [South West England](#en-sw) _(1)_{:.count}
+[North East England](#en-ne) _(1)_{:.count} • [North West England](#en-nw) _(3)_{:.count} • [Yorkshire and the Humber](#en-yh) _(4)_{:.count} • [East Midlands](#en-em) _(1)_{:.count} • [West Midlands](#en-wm) _(4)_{:.count} • [East of England](#en-ee) _(1)_{:.count} • [Greater London](#en-gl) _(0)_{:.count} • [South East England](#en-se) _(2)_{:.count} • [South West England](#en-sw) _(1)_{:.count}
 
 
 
@@ -47,18 +47,16 @@ Wigan  _pop 81.203_{:.pop} {: .city #wigan } <br>
 
 
 
-### Yorkshire and the Humber _(5)_{:.count}
+### Yorkshire and the Humber _(4)_{:.count}
 {: #en-yh }
 
 
-[Bradford](#bradford) • [Kingston](#kingston) • [Leeds](#leeds) • [Leeds-Bradford](#leedsbradford) • [Sheffield](#sheffield)
+[Bradford](#bradford) • [Leeds](#leeds) • [Leeds-Bradford](#leedsbradford) • [Sheffield](#sheffield)
 
 <div class='columns2' markdown='1'>
 
 
 Bradford  _pop 293.717_{:.pop} {: .city #bradford } <br>
-
-Kingston  _pop 301.416_{:.pop} {: .city #kingston } <br>
 
 Leeds  _pop 443.247_{:.pop} {: .city #leeds } <br>
 
@@ -121,7 +119,7 @@ Norwich  _pop 140.200_{:.pop} {: .city #norwich } <br>
 
 
 
-### Greater London _(1)_{:.count}
+### Greater London _(0)_{:.count}
 {: #en-gl }
 
 
@@ -129,8 +127,6 @@ Norwich  _pop 140.200_{:.pop} {: .city #norwich } <br>
 
 <div class='columns2' markdown='1'>
 
-
-London  _pop 7.619.800 (8.586.000)_{:.pop} {: .city #london } <br>
 
 </div>
 

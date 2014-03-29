@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Djibouti (DJI)
+layout: book
+title: Djibouti (DJI)
 permalink: /dj.html
 ---
 

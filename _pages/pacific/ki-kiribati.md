@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Kiribati (KIR)
+layout: book
+title: Kiribati (KIR)
 permalink: /ki.html
 ---
 

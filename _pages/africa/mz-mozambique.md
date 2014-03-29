@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Mozambique (MOZ)
+layout: book
+title: Mozambique (MOZ)
 permalink: /mz.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /mz.html
 ### Uncategorized _(1)_{:.count}
 
 
-Maputo  {: .city #maputo } <br>
+Maputo  _pop (2)_{:.pop} {: .city #maputo } <br>
 
 
  

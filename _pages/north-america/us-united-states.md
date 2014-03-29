@@ -1,14 +1,14 @@
 ---
-layout:    book
-title:     United States (USA)
+layout: book
+title: United States (USA)
 permalink: /us.html
 ---
 
-## United States (USA) - 51 Regions, 82 Cities
+## United States (USA) - 51 Regions, 81 Cities
 {: #us }
 
 
-[Maine](#us-me) _(1)_{:.count} • [New Hampshire](#us-nh) _(1)_{:.count} • [Vermont](#us-vt) _(1)_{:.count} • [Massachusetts](#us-ma) _(1)_{:.count} • [Rhode Island](#us-ri) _(1)_{:.count} • [Connecticut](#us-ct) _(1)_{:.count} • [New York](#us-ny) _(3)_{:.count} • [Pennsylvania](#us-pa) _(3)_{:.count} • [New Jersey](#us-nj) _(2)_{:.count} • [Wisconsin](#us-wi) _(2)_{:.count} • [Michigan](#us-mi) _(2)_{:.count} • [Illinois](#us-il) _(2)_{:.count} • [Indiana](#us-in) _(1)_{:.count} • [Ohio](#us-oh) _(3)_{:.count} • [Missouri](#us-mo) _(3)_{:.count} • [North Dakota](#us-nd) _(1)_{:.count} • [South Dakota](#us-sd) _(1)_{:.count} • [Nebraska](#us-ne) _(1)_{:.count} • [Kansas](#us-ks) _(1)_{:.count} • [Minnesota](#us-mn) _(3)_{:.count} • [Iowa](#us-ia) _(1)_{:.count} • [Delaware](#us-de) _(1)_{:.count} • [Maryland](#us-md) _(2)_{:.count} • [District of Columbia](#us-dc) _(2)_{:.count} • [Virginia](#us-va) _(1)_{:.count} • [West Virginia](#us-wv) _(1)_{:.count} • [North Carolina](#us-nc) _(2)_{:.count} • [South Carolina](#us-sc) _(1)_{:.count} • [Georgia](#us-ga) _(1)_{:.count} • [Florida](#us-fl) _(4)_{:.count} • [Kentucky](#us-ky) _(1)_{:.count} • [Tennessee](#us-tn) _(1)_{:.count} • [Mississippi](#us-ms) _(1)_{:.count} • [Alabama](#us-al) _(1)_{:.count} • [Oklahoma](#us-ok) _(1)_{:.count} • [Texas](#us-tx) _(4)_{:.count} • [Arkansas](#us-ar) _(1)_{:.count} • [Louisiana](#us-la) _(2)_{:.count} • [Idaho](#us-id) _(1)_{:.count} • [Montana](#us-mt) _(1)_{:.count} • [Wyoming](#us-wy) _(1)_{:.count} • [Nevada](#us-nv) _(1)_{:.count} • [Utah](#us-ut) _(1)_{:.count} • [Colorado](#us-co) _(1)_{:.count} • [Arizona](#us-az) _(1)_{:.count} • [New Mexico](#us-nm) _(1)_{:.count} • [Alaska](#us-ak) _(1)_{:.count} • [Washington](#us-wa) _(2)_{:.count} • [Oregon](#us-or) _(1)_{:.count} • [California](#us-ca) _(7)_{:.count} • [Hawaii](#us-hi) _(1)_{:.count}
+[Maine](#us-me) _(1)_{:.count} • [New Hampshire](#us-nh) _(1)_{:.count} • [Vermont](#us-vt) _(1)_{:.count} • [Massachusetts](#us-ma) _(1)_{:.count} • [Rhode Island](#us-ri) _(1)_{:.count} • [Connecticut](#us-ct) _(1)_{:.count} • [New York](#us-ny) _(3)_{:.count} • [Pennsylvania](#us-pa) _(3)_{:.count} • [New Jersey](#us-nj) _(2)_{:.count} • [Wisconsin](#us-wi) _(2)_{:.count} • [Michigan](#us-mi) _(2)_{:.count} • [Illinois](#us-il) _(2)_{:.count} • [Indiana](#us-in) _(1)_{:.count} • [Ohio](#us-oh) _(3)_{:.count} • [Missouri](#us-mo) _(3)_{:.count} • [North Dakota](#us-nd) _(1)_{:.count} • [South Dakota](#us-sd) _(1)_{:.count} • [Nebraska](#us-ne) _(1)_{:.count} • [Kansas](#us-ks) _(1)_{:.count} • [Minnesota](#us-mn) _(3)_{:.count} • [Iowa](#us-ia) _(1)_{:.count} • [Delaware](#us-de) _(1)_{:.count} • [Maryland](#us-md) _(2)_{:.count} • [District of Columbia](#us-dc) _(2)_{:.count} • [Virginia](#us-va) _(1)_{:.count} • [West Virginia](#us-wv) _(1)_{:.count} • [North Carolina](#us-nc) _(2)_{:.count} • [South Carolina](#us-sc) _(1)_{:.count} • [Georgia](#us-ga) _(1)_{:.count} • [Florida](#us-fl) _(4)_{:.count} • [Kentucky](#us-ky) _(1)_{:.count} • [Tennessee](#us-tn) _(1)_{:.count} • [Mississippi](#us-ms) _(1)_{:.count} • [Alabama](#us-al) _(1)_{:.count} • [Oklahoma](#us-ok) _(1)_{:.count} • [Texas](#us-tx) _(4)_{:.count} • [Arkansas](#us-ar) _(1)_{:.count} • [Louisiana](#us-la) _(2)_{:.count} • [Idaho](#us-id) _(1)_{:.count} • [Montana](#us-mt) _(1)_{:.count} • [Wyoming](#us-wy) _(1)_{:.count} • [Nevada](#us-nv) _(1)_{:.count} • [Utah](#us-ut) _(1)_{:.count} • [Colorado](#us-co) _(1)_{:.count} • [Arizona](#us-az) _(1)_{:.count} • [New Mexico](#us-nm) _(0)_{:.count} • [Alaska](#us-ak) _(1)_{:.count} • [Washington](#us-wa) _(2)_{:.count} • [Oregon](#us-or) _(1)_{:.count} • [California](#us-ca) _(7)_{:.count} • [Hawaii](#us-hi) _(1)_{:.count}
 
 
 
@@ -736,7 +736,7 @@ Phoenix  _pop 1.445.632_{:.pop} {: .city #phoenix } <br>
 
 
 
-### New Mexico _(1)_{:.count}
+### New Mexico _(0)_{:.count}
 {: #us-nm }
 
 
@@ -744,8 +744,6 @@ Phoenix  _pop 1.445.632_{:.pop} {: .city #phoenix } <br>
 
 <div class='columns2' markdown='1'>
 
-
-Santa Fe  {: .city #santafe } <br>
 
 </div>
 
@@ -819,7 +817,7 @@ San Diego  _pop 1.307.402_{:.pop} {: .city #sandiego } <br>
 
 San Francisco  _pop 805.235_{:.pop} {: .city #sanfrancisco } <br>
 
-San Jose  _pop 945.942_{:.pop} {: .city #sanjose } <br>
+San Jose  _pop 945.942 (1)_{:.pop} {: .city #sanjose } <br>
 
 </div>
 

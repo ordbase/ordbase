@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Bulgaria (BUL)
+layout: book
+title: Bulgaria (BUL)
 permalink: /bg.html
 ---
 
@@ -22,7 +22,7 @@ permalink: /bg.html
 <div class='columns2' markdown='1'>
 
 
-Sofija [Sofia]  _pop 1.204.685 (1.291.591)_{:.pop} {: .city #sofija } <br>
+Sofija [Sofia]  _pop 1.204.685 (1)_{:.pop} {: .city #sofija } <br>
 
 </div>
 

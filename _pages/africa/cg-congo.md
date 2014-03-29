@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Congo (CGO)
+layout: book
+title: Congo (CGO)
 permalink: /cg.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /cg.html
 ### Uncategorized _(1)_{:.count}
 
 
-Brazzaville  {: .city #brazzaville } <br>
+Brazzaville  _pop (1)_{:.pop} {: .city #brazzaville } <br>
 
 
  

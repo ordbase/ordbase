@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Liechtenstein (LIE)
+layout: book
+title: Liechtenstein (LIE)
 permalink: /li.html
 ---
 

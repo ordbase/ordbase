@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Namibia (NAM)
+layout: book
+title: Namibia (NAM)
 permalink: /na.html
 ---
 

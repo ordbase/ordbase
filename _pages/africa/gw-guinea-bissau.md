@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Guinea-Bissau (GNB)
+layout: book
+title: Guinea-Bissau (GNB)
 permalink: /gw.html
 ---
 

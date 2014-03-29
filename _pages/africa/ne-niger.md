@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Niger (NIG)
+layout: book
+title: Niger (NIG)
 permalink: /ne.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /ne.html
 ### Uncategorized _(1)_{:.count}
 
 
-Niamey  {: .city #niamey } <br>
+Niamey  _pop (1)_{:.pop} {: .city #niamey } <br>
 
 
  

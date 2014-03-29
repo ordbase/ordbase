@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Fiji (FIJ)
+layout: book
+title: Fiji (FIJ)
 permalink: /fj.html
 ---
 

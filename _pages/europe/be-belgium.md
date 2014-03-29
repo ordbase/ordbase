@@ -1,14 +1,14 @@
 ---
-layout:    book
-title:     Belgium (BEL)
+layout: book
+title: Belgium (BEL)
 permalink: /be.html
 ---
 
-## Belgium (BEL) - 11 Regions, 14 Cities
+## Belgium (BEL) - 11 Regions, 13 Cities
 {: #be }
 
 
-[Bruxelles•Brussel [Brussels (Capital Region)]](#be-bru) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-van) _(2)_{:.count} • [Limburg](#be-vli) _(1)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-vov) _(1)_{:.count} • [Vlaams-Brabant [Flemish Brabant]](#be-vbr) _(1)_{:.count} • [West-Vlaanderen [West Flanders]](#be-vwv) _(2)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-wbr) _(1)_{:.count} • [Hainaut](#be-wht) _(2)_{:.count} • [Liège](#be-wlg) _(1)_{:.count} • [Luxembourg](#be-wlx) _(1)_{:.count} • [Namur](#be-wna) _(1)_{:.count}
+[Bruxelles•Brussel [Brussels (Capital Region)]](#be-bru) _(1)_{:.count} • [Antwerpen [Antwerp]](#be-van) _(2)_{:.count} • [Limburg](#be-vli) _(1)_{:.count} • [Oost-Vlaanderen [East Flanders]](#be-vov) _(1)_{:.count} • [Vlaams-Brabant [Flemish Brabant]](#be-vbr) _(1)_{:.count} • [West-Vlaanderen [West Flanders]](#be-vwv) _(1)_{:.count} • [Brabant Wallon [Walloon Brabant]](#be-wbr) _(1)_{:.count} • [Hainaut](#be-wht) _(2)_{:.count} • [Liège](#be-wlg) _(1)_{:.count} • [Luxembourg](#be-wlx) _(1)_{:.count} • [Namur](#be-wna) _(1)_{:.count}
 
 
 
@@ -22,7 +22,7 @@ permalink: /be.html
 <div class='columns2' markdown='1'>
 
 
-Brussel  _pop 1.048.491 (1.929.000)_{:.pop} {: .city #brussel } <br>
+Brussel[nl]  _pop 1.048.491 (1.929.000)_{:.pop} {: .city #brussel } <br>
 
 </div>
 
@@ -32,14 +32,14 @@ Brussel  _pop 1.048.491 (1.929.000)_{:.pop} {: .city #brussel } <br>
 {: #be-van }
 
 
-[Antwerpen](#antwerpen) • [Mechelen](#mechelen)
+[Antwerpen[nl]](#antwerpen) • [Mechelen[nl]](#mechelen)
 
 <div class='columns2' markdown='1'>
 
 
-Antwerpen  _pop 466.203 (960.000)_{:.pop} {: .city #antwerpen } <br>
+Antwerpen[nl]  _pop 466.203 (960.000)_{:.pop} {: .city #antwerpen } <br>
 
-Mechelen  _pop 78.900_{:.pop} {: .city #mechelen } <br>
+Mechelen[nl]  _pop 78.900_{:.pop} {: .city #mechelen } <br>
 
 </div>
 
@@ -69,7 +69,7 @@ Hasselt  {: .city #hasselt } <br>
 <div class='columns2' markdown='1'>
 
 
-Gent  _pop 235.143_{:.pop} {: .city #gent } <br>
+Gent[nl]  _pop 235.143_{:.pop} {: .city #gent } <br>
 
 </div>
 
@@ -84,24 +84,22 @@ Gent  _pop 235.143_{:.pop} {: .city #gent } <br>
 <div class='columns2' markdown='1'>
 
 
-Leuven  _pop 91.942_{:.pop} {: .city #leuven } <br>
+Leuven[nl]  _pop 91.942_{:.pop} {: .city #leuven } <br>
 
 </div>
 
 
 
-### West-Vlaanderen [West Flanders] _(2)_{:.count}
+### West-Vlaanderen [West Flanders] _(1)_{:.count}
 {: #be-vwv }
 
 
-[Bruges](#bruges) • [Brugge](#brugge)
+
 
 <div class='columns2' markdown='1'>
 
 
-Bruges  _pop 116.982_{:.pop} {: .city #bruges } <br>
-
-Brugge  {: .city #brugge } <br>
+Brugge[nl]  _pop 116.982_{:.pop} {: .city #brugge } <br>
 
 </div>
 
@@ -126,14 +124,14 @@ Wavre  {: .city #wavre } <br>
 {: #be-wht }
 
 
-[Charleroi](#charleroi) • [Mons](#mons)
+[Charleroi[fr]](#charleroi) • [Mons[fr]](#mons)
 
 <div class='columns2' markdown='1'>
 
 
-Charleroi  _pop 201.550_{:.pop} {: .city #charleroi } <br>
+Charleroi[fr]  _pop 201.550_{:.pop} {: .city #charleroi } <br>
 
-Mons  _pop 91.196_{:.pop} {: .city #mons } <br>
+Mons[fr]  _pop 91.196_{:.pop} {: .city #mons } <br>
 
 </div>
 
@@ -148,7 +146,7 @@ Mons  _pop 91.196_{:.pop} {: .city #mons } <br>
 <div class='columns2' markdown='1'>
 
 
-Liège  _pop 188.907_{:.pop} {: .city #liege } <br>
+Liège[fr]  _pop 188.907_{:.pop} {: .city #liege } <br>
 
 </div>
 
@@ -178,7 +176,7 @@ Arlon  {: .city #arlon } <br>
 <div class='columns2' markdown='1'>
 
 
-Namur  _pop 107.653_{:.pop} {: .city #namur } <br>
+Namur[fr]  _pop 107.653_{:.pop} {: .city #namur } <br>
 
 </div>
 

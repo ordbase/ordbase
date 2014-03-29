@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Papua New Guinea (PNG)
+layout: book
+title: Papua New Guinea (PNG)
 permalink: /pg.html
 ---
 

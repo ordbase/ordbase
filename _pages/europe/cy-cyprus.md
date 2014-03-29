@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Cyprus (CYP)
+layout: book
+title: Cyprus (CYP)
 permalink: /cy.html
 ---
 

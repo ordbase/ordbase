@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Northern Ireland (NIR)
+layout: book
+title: Northern Ireland (NIR)
 permalink: /nd.html
 ---
 

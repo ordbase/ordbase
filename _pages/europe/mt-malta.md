@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Malta (MLT)
+layout: book
+title: Malta (MLT)
 permalink: /mt.html
 ---
 

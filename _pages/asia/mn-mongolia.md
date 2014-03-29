@@ -1,20 +1,22 @@
 ---
-layout:    book
-title:     Mongolia (MGL)
+layout: book
+title: Mongolia (MGL)
 permalink: /mn.html
 ---
 
-## Mongolia (MGL) - 0 Regions, 1 Cities
+## Mongolia (MGL) - 0 Regions, 2 Cities
 {: #mn }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Ulan Bator  {: .city #ulanbator } <br>
+
+Ulaanbaatar [Ulan Bator]  _pop (1)_{:.pop} {: .city #ulaanbaatar } <br>
 
 
  

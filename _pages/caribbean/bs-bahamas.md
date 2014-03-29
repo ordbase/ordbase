@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Bahamas (BAH)
+layout: book
+title: Bahamas (BAH)
 permalink: /bs.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     South Sudan (SSD)
+layout: book
+title: South Sudan (SSD)
 permalink: /ss.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Chad (CHA)
+layout: book
+title: Chad (CHA)
 permalink: /td.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /td.html
 ### Uncategorized _(1)_{:.count}
 
 
-N'Djamena  {: .city #ndjamena } <br>
+Ndjamena  _pop (1)_{:.pop} {: .city #ndjamena } <br>
 
 
  

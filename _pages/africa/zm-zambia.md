@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Zambia (ZAM)
+layout: book
+title: Zambia (ZAM)
 permalink: /zm.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /zm.html
 ### Uncategorized _(1)_{:.count}
 
 
-Lusaka  {: .city #lusaka } <br>
+Lusaka  _pop (2)_{:.pop} {: .city #lusaka } <br>
 
 
  

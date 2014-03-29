@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Zimbabwe (ZIM)
+layout: book
+title: Zimbabwe (ZIM)
 permalink: /zw.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /zw.html
 ### Uncategorized _(1)_{:.count}
 
 
-Harare  {: .city #harare } <br>
+Harare  _pop (2)_{:.pop} {: .city #harare } <br>
 
 
  

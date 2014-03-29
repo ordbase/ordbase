@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Swaziland (SWZ)
+layout: book
+title: Swaziland (SWZ)
 permalink: /sz.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Lesotho (LES)
+layout: book
+title: Lesotho (LES)
 permalink: /ls.html
 ---
 

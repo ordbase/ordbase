@@ -1,20 +1,22 @@
 ---
-layout:    book
-title:     Kenya (KEN)
+layout: book
+title: Kenya (KEN)
 permalink: /ke.html
 ---
 
-## Kenya (KEN) - 0 Regions, 1 Cities
+## Kenya (KEN) - 0 Regions, 2 Cities
 {: #ke }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
-Nairobi  {: .city #nairobi } <br>
+Nairobi  _pop (4)_{:.pop} {: .city #nairobi } <br>
+
+Mombasa  _pop (1)_{:.pop} {: .city #mombasa } <br>
 
 
  

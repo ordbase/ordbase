@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Maldives (MDV)
+layout: book
+title: Maldives (MDV)
 permalink: /mv.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Australia (AUS)
+layout: book
+title: Australia (AUS)
 permalink: /au.html
 ---
 

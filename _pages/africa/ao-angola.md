@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Angola (ANG)
+layout: book
+title: Angola (ANG)
 permalink: /ao.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /ao.html
 ### Uncategorized _(1)_{:.count}
 
 
-Luanda  {: .city #luanda } <br>
+Luanda  _pop (6)_{:.pop} {: .city #luanda } <br>
 
 
  

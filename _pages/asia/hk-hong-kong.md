@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Hong Kong (HKG)
+layout: book
+title: Hong Kong (HKG)
 permalink: /hk.html
 ---
 

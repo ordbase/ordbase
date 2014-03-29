@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Macedonia (MKD)
+layout: book
+title: Macedonia (MKD)
 permalink: /mk.html
 ---
 

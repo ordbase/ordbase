@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Italy (ITA)
+layout: book
+title: Italy (ITA)
 permalink: /it.html
 ---
 

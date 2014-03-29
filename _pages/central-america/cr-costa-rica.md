@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Costa Rica (CRC)
+layout: book
+title: Costa Rica (CRC)
 permalink: /cr.html
 ---
 

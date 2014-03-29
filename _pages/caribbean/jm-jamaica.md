@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Jamaica (JAM)
+layout: book
+title: Jamaica (JAM)
 permalink: /jm.html
 ---
 

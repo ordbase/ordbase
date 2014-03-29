@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Hungary (HUN)
+layout: book
+title: Hungary (HUN)
 permalink: /hu.html
 ---
 

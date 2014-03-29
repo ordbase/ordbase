@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     San Marino (SMR)
+layout: book
+title: San Marino (SMR)
 permalink: /sm.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Greece (GRE)
+layout: book
+title: Greece (GRE)
 permalink: /gr.html
 ---
 

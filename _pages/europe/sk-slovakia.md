@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Slovakia (SVK)
+layout: book
+title: Slovakia (SVK)
 permalink: /sk.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Burundi (BDI)
+layout: book
+title: Burundi (BDI)
 permalink: /bi.html
 ---
 

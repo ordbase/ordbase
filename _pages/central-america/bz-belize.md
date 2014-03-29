@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Belize (BLZ)
+layout: book
+title: Belize (BLZ)
 permalink: /bz.html
 ---
 

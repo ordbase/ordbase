@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Grenada (GRN)
+layout: book
+title: Grenada (GRN)
 permalink: /gd.html
 ---
 

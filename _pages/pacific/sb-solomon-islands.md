@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Solomon Islands (SOL)
+layout: book
+title: Solomon Islands (SOL)
 permalink: /sb.html
 ---
 

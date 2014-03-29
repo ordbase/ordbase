@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Irland (IRL)
+layout: book
+title: Irland (IRL)
 permalink: /ie.html
 ---
 

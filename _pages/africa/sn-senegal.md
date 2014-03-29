@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Senegal (SEN)
+layout: book
+title: Senegal (SEN)
 permalink: /sn.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /sn.html
 ### Uncategorized _(1)_{:.count}
 
 
-Dakar  {: .city #dakar } <br>
+Dakar  _pop (2)_{:.pop} {: .city #dakar } <br>
 
 
  

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Mali (MLI)
+layout: book
+title: Mali (MLI)
 permalink: /ml.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /ml.html
 ### Uncategorized _(1)_{:.count}
 
 
-Bamako  {: .city #bamako } <br>
+Bamako  _pop (2)_{:.pop} {: .city #bamako } <br>
 
 
  

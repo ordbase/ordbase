@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Faroe Islands (FRO)
+layout: book
+title: Faroe Islands (FRO)
 permalink: /fo.html
 ---
 

@@ -1,14 +1,14 @@
 ---
-layout:    book
-title:     Argentina (ARG)
+layout: book
+title: Argentina (ARG)
 permalink: /ar.html
 ---
 
-## Argentina (ARG) - 24 Regions, 25 Cities
+## Argentina (ARG) - 24 Regions, 26 Cities
 {: #ar }
 
 
-[Ciudad de Buenos Aires](#ar-c) _(1)_{:.count} • [Provincia de Buenos Aires](#ar-b) _(1)_{:.count} • [Catamarca](#ar-k) _(1)_{:.count} • [Chaco](#ar-h) _(1)_{:.count} • [Chubut](#ar-u) _(1)_{:.count} • [Córdoba](#ar-x) _(1)_{:.count} • [Corrientes](#ar-w) _(1)_{:.count} • [Entre Ríos](#ar-e) _(1)_{:.count} • [Formosa](#ar-p) _(1)_{:.count} • [Jujuy](#ar-y) _(1)_{:.count} • [La Pampa](#ar-l) _(1)_{:.count} • [La Rioja](#ar-f) _(1)_{:.count} • [Mendoza](#ar-m) _(1)_{:.count} • [Misiones](#ar-n) _(1)_{:.count} • [Neuquén](#ar-q) _(1)_{:.count} • [Río Negro](#ar-r) _(1)_{:.count} • [Salta](#ar-a) _(1)_{:.count} • [San Juan](#ar-j) _(1)_{:.count} • [San Luis](#ar-d) _(1)_{:.count} • [Santa Cruz](#ar-z) _(1)_{:.count} • [Santa Fe](#ar-s) _(2)_{:.count} • [Santiago del Estero](#ar-g) _(1)_{:.count} • [Tierra del Fuego (Antártida e Islas del Atlántico Sur)](#ar-v) _(1)_{:.count} • [Tucumán](#ar-t) _(1)_{:.count}
+[Ciudad de Buenos Aires](#ar-c) _(1)_{:.count} • [Provincia de Buenos Aires](#ar-b) _(1)_{:.count} • [Catamarca](#ar-k) _(1)_{:.count} • [Chaco](#ar-h) _(1)_{:.count} • [Chubut](#ar-u) _(1)_{:.count} • [Córdoba](#ar-x) _(1)_{:.count} • [Corrientes](#ar-w) _(1)_{:.count} • [Entre Ríos](#ar-e) _(1)_{:.count} • [Formosa](#ar-p) _(1)_{:.count} • [Jujuy](#ar-y) _(1)_{:.count} • [La Pampa](#ar-l) _(1)_{:.count} • [La Rioja](#ar-f) _(1)_{:.count} • [Mendoza](#ar-m) _(1)_{:.count} • [Misiones](#ar-n) _(1)_{:.count} • [Neuquén](#ar-q) _(1)_{:.count} • [Río Negro](#ar-r) _(1)_{:.count} • [Salta](#ar-a) _(1)_{:.count} • [San Juan](#ar-j) _(1)_{:.count} • [San Luis](#ar-d) _(1)_{:.count} • [Santa Cruz](#ar-z) _(1)_{:.count} • [Santa Fe](#ar-s) _(3)_{:.count} • [Santiago del Estero](#ar-g) _(1)_{:.count} • [Tierra del Fuego (Antártida e Islas del Atlántico Sur)](#ar-v) _(1)_{:.count} • [Tucumán](#ar-t) _(1)_{:.count}
 
 
 
@@ -22,7 +22,7 @@ permalink: /ar.html
 <div class='columns2' markdown='1'>
 
 
-Buenos Aires  {: .city #buenosaires } <br>
+Buenos Aires  _pop (14)_{:.pop} {: .city #buenosaires } <br>
 
 </div>
 
@@ -97,7 +97,7 @@ Rawson  {: .city #rawson } <br>
 <div class='columns2' markdown='1'>
 
 
-Córdoba  {: .city #cordoba } <br>
+Córdoba  _pop (1)_{:.pop} {: .city #cordoba } <br>
 
 </div>
 
@@ -277,7 +277,7 @@ Salta  {: .city #salta } <br>
 <div class='columns2' markdown='1'>
 
 
-San Juan  {: .city #sanjuan } <br>
+San Juan  _pop 418.140 (2)_{:.pop} {: .city #sanjuan } <br>
 
 </div>
 
@@ -313,18 +313,20 @@ Río Gallegos  {: .city #riogallegos } <br>
 
 
 
-### Santa Fe _(2)_{:.count}
+### Santa Fe _(3)_{:.count}
 {: #ar-s }
 
 
-[Rafaela](#rafaela) • [Rosario](#rosario)
+[Rafaela](#rafaela) • [Rosario](#rosario) • [Santa Fe](#santafe)
 
 <div class='columns2' markdown='1'>
 
 
 Rafaela  {: .city #rafaela } <br>
 
-Rosario  {: .city #rosario } <br>
+Rosario  _pop (1)_{:.pop} {: .city #rosario } <br>
+
+Santa Fe  {: .city #santafe } <br>
 
 </div>
 

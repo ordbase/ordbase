@@ -1,20 +1,22 @@
 ---
-layout:    book
-title:     Yemen (YEM)
+layout: book
+title: Yemen (YEM)
 permalink: /ye.html
 ---
 
-## Yemen (YEM) - 0 Regions, 1 Cities
+## Yemen (YEM) - 0 Regions, 2 Cities
 {: #ye }
 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+### Uncategorized _(2)_{:.count}
 
 
 Sana'a  {: .city #sanaa } <br>
+
+Ṣan'ā' [Sana'a]  _pop (2)_{:.pop} {: .city #sana } <br>
 
 
  

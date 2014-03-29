@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Mauritius (MRI)
+layout: book
+title: Mauritius (MRI)
 permalink: /mu.html
 ---
 

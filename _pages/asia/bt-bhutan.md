@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Bhutan (BHU)
+layout: book
+title: Bhutan (BHU)
 permalink: /bt.html
 ---
 

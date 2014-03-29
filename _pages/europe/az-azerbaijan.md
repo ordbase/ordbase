@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Azerbaijan (AZE)
+layout: book
+title: Azerbaijan (AZE)
 permalink: /az.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /az.html
 ### Uncategorized _(1)_{:.count}
 
 
-Baku  {: .city #baku } <br>
+Bakı [Baku]  _pop (2)_{:.pop} {: .city #baku } <br>
 
 
  

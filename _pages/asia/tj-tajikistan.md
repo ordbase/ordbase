@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Tajikistan (TJK)
+layout: book
+title: Tajikistan (TJK)
 permalink: /tj.html
 ---
 

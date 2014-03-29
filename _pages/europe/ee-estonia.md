@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Estonia (EST)
+layout: book
+title: Estonia (EST)
 permalink: /ee.html
 ---
 

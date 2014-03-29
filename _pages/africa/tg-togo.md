@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Togo (TOG)
+layout: book
+title: Togo (TOG)
 permalink: /tg.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /tg.html
 ### Uncategorized _(1)_{:.count}
 
 
-Lomé  {: .city #lome } <br>
+Lomé  _pop (1)_{:.pop} {: .city #lome } <br>
 
 
  

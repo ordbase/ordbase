@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Burkina Faso (BFA)
+layout: book
+title: Burkina Faso (BFA)
 permalink: /bf.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /bf.html
 ### Uncategorized _(1)_{:.count}
 
 
-Ouagadougou  {: .city #ouagadougou } <br>
+Ouagadougou  _pop (2)_{:.pop} {: .city #ouagadougou } <br>
 
 
  

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Croatia (CRO)
+layout: book
+title: Croatia (CRO)
 permalink: /hr.html
 ---
 

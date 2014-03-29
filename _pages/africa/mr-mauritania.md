@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Mauritania (MTN)
+layout: book
+title: Mauritania (MTN)
 permalink: /mr.html
 ---
 

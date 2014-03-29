@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Brazil (BRA)
+layout: book
+title: Brazil (BRA)
 permalink: /br.html
 ---
 

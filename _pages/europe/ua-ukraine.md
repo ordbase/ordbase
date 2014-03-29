@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Ukraine (UKR)
+layout: book
+title: Ukraine (UKR)
 permalink: /ua.html
 ---
 
@@ -14,15 +14,15 @@ permalink: /ua.html
 ### Uncategorized _(5)_{:.count}
 
 
-Kiev  _pop 2.785.100 (2.812.000)_{:.pop} {: .city #kiev } <br>
+Kyiv  _pop 2.785.100 (2.812.000)_{:.pop} {: .city #kyiv } <br>
 
-Kharkov  _pop 1.470.000 (1.449.000)_{:.pop} {: .city #kharkov } <br>
+Kharkiv  _pop 1.470.000 (1)_{:.pop} {: .city #kharkiv } <br>
 
-Donetsk  _pop (963.000)_{:.pop} {: .city #donetsk } <br>
+Donets’k  _pop (1)_{:.pop} {: .city #donetsk } <br>
 
-Dnepropetrovsk  _pop 1.007.200 (1.000.000)_{:.pop} {: .city #dnepropetrovsk } <br>
+Dnipropetrovsk  _pop 1.007.200 (1)_{:.pop} {: .city #dnipropetrovsk } <br>
 
-Odessa  _pop 1.003.705 (1.010.000)_{:.pop} {: .city #odessa } <br>
+Odessa  _pop 1.003.705 (1)_{:.pop} {: .city #odessa } <br>
 
 
  

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Sierra Leone (SLE)
+layout: book
+title: Sierra Leone (SLE)
 permalink: /sl.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /sl.html
 ### Uncategorized _(1)_{:.count}
 
 
-Freetown  {: .city #freetown } <br>
+Freetown  _pop (1)_{:.pop} {: .city #freetown } <br>
 
 
  

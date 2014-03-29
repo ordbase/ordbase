@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Central African Republic (CTA)
+layout: book
+title: Central African Republic (CTA)
 permalink: /cf.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /cf.html
 ### Uncategorized _(1)_{:.count}
 
 
-Bangui  {: .city #bangui } <br>
+Bangui  _pop (1)_{:.pop} {: .city #bangui } <br>
 
 
  

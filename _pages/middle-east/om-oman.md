@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Oman (OMA)
+layout: book
+title: Oman (OMA)
 permalink: /om.html
 ---
 

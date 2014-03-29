@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Laos (LAO)
+layout: book
+title: Laos (LAO)
 permalink: /la.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Lithuania (LTU)
+layout: book
+title: Lithuania (LTU)
 permalink: /lt.html
 ---
 

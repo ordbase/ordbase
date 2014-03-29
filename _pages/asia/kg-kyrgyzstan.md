@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Kyrgyzstan (KGZ)
+layout: book
+title: Kyrgyzstan (KGZ)
 permalink: /kg.html
 ---
 

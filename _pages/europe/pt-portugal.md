@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Portugal (POR)
+layout: book
+title: Portugal (POR)
 permalink: /pt.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /pt.html
 ### Uncategorized _(3)_{:.count}
 
 
-Lissabon  _pop (3.051.000)_{:.pop} {: .city #lisboa } <br>
+Lisboa [Lisbon]  _pop (3.051.000)_{:.pop} {: .city #lisboa } <br>
 
 Porto  _pop (1.491.000)_{:.pop} {: .city #porto } <br>
 

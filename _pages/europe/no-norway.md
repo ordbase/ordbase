@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Norway (NOR)
+layout: book
+title: Norway (NOR)
 permalink: /no.html
 ---
 

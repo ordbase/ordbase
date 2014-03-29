@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Rwanda (RWA)
+layout: book
+title: Rwanda (RWA)
 permalink: /rw.html
 ---
 
@@ -14,7 +14,7 @@ permalink: /rw.html
 ### Uncategorized _(1)_{:.count}
 
 
-Kigali  {: .city #kigali } <br>
+Kigali  _pop (1)_{:.pop} {: .city #kigali } <br>
 
 
  

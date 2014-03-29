@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Samoa (SAM)
+layout: book
+title: Samoa (SAM)
 permalink: /ws.html
 ---
 

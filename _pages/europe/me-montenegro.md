@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Montenegro (MNE)
+layout: book
+title: Montenegro (MNE)
 permalink: /me.html
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Seychelles (SEY)
+layout: book
+title: Seychelles (SEY)
 permalink: /yc.html
 ---
 

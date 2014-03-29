@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Gambia (GAM)
+layout: book
+title: Gambia (GAM)
 permalink: /gm.html
 ---
 

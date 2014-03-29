@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Tonga (TGA)
+layout: book
+title: Tonga (TGA)
 permalink: /to.html
 ---
 

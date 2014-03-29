@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Comoros (COM)
+layout: book
+title: Comoros (COM)
 permalink: /km.html
 ---
 

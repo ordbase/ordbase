@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Tahiti (TAH)
+layout: book
+title: Tahiti (TAH)
 permalink: /pf.html
 ---
 

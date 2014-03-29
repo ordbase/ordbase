@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Albania (ALB)
+layout: book
+title: Albania (ALB)
 permalink: /al.html
 ---
 

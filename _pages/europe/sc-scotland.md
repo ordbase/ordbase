@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Scotland (SCO)
+layout: book
+title: Scotland (SCO)
 permalink: /sc.html
 ---
 

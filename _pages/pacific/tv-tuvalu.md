@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Tuvalu (TUV)
+layout: book
+title: Tuvalu (TUV)
 permalink: /tv.html
 ---
 

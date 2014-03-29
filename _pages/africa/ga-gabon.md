@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Gabon (GAB)
+layout: book
+title: Gabon (GAB)
 permalink: /ga.html
 ---
 

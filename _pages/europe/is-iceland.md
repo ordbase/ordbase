@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Iceland (ISL)
+layout: book
+title: Iceland (ISL)
 permalink: /is.html
 ---
 

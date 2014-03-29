@@ -1,6 +1,6 @@
 ---
-layout:    book
-title:     Luxembourg (LUX)
+layout: book
+title: Luxembourg (LUX)
 permalink: /lu.html
 ---
 
