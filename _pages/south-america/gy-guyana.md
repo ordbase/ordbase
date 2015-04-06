@@ -1,15 +1,26 @@
 ---
-layout: book
+layout: default
 title: Guyana (GUY)
 permalink: /gy.html
 ---
 
-## Guyana (GUY) - 0 Regions, 0 Cities
+
+## Guyana   ++
+(GUY)  ++
+-                     ++
+0 Regions, ++
+0 Cities
 {: #gy }
 
+.. 
 
 
 
 
+.. 
+.. 
 
+
+
+.. 
  

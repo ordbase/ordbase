@@ -1,379 +1,374 @@
 ---
-layout: book
+layout: default
 title: Argentina (ARG)
 permalink: /ar.html
 ---
 
-## Argentina (ARG) - 24 Regions, 26 Cities
+
+## Argentina   ++
+(ARG)  ++
+-                     ++
+24 Regions, ++
+26 Cities
 {: #ar }
 
+.. 
 
 [Ciudad de Buenos Aires](#ar-c) _(1)_{:.count} • [Provincia de Buenos Aires](#ar-b) _(1)_{:.count} • [Catamarca](#ar-k) _(1)_{:.count} • [Chaco](#ar-h) _(1)_{:.count} • [Chubut](#ar-u) _(1)_{:.count} • [Córdoba](#ar-x) _(1)_{:.count} • [Corrientes](#ar-w) _(1)_{:.count} • [Entre Ríos](#ar-e) _(1)_{:.count} • [Formosa](#ar-p) _(1)_{:.count} • [Jujuy](#ar-y) _(1)_{:.count} • [La Pampa](#ar-l) _(1)_{:.count} • [La Rioja](#ar-f) _(1)_{:.count} • [Mendoza](#ar-m) _(1)_{:.count} • [Misiones](#ar-n) _(1)_{:.count} • [Neuquén](#ar-q) _(1)_{:.count} • [Río Negro](#ar-r) _(1)_{:.count} • [Salta](#ar-a) _(1)_{:.count} • [San Juan](#ar-j) _(1)_{:.count} • [San Luis](#ar-d) _(1)_{:.count} • [Santa Cruz](#ar-z) _(1)_{:.count} • [Santa Fe](#ar-s) _(3)_{:.count} • [Santiago del Estero](#ar-g) _(1)_{:.count} • [Tierra del Fuego (Antártida e Islas del Atlántico Sur)](#ar-v) _(1)_{:.count} • [Tucumán](#ar-t) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### Ciudad de Buenos Aires _(1)_{:.count}
+
+.. 
+
+
+### _(c)_{:.key} Ciudad de Buenos Aires  ++
+_(1)_{:.count}    200 km2   pop
 {: #ar-c }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Buenos Aires  _pop (14)_{:.pop} {: .city #buenosaires } <br>
-
-</div>
+..
+..
+Buenos Aires  ++
+ _pop (14)_{:.pop} ++
+•
 
 
 
-### Provincia de Buenos Aires _(1)_{:.count}
+
+### _(b)_{:.key} Provincia de Buenos Aires  ++
+_(1)_{:.count}    307571 km2   pop
 {: #ar-b }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-La Plata  {: .city #laplata } <br>
-
-</div>
+..
+..
+La Plata  ++
+ ++
+•
 
 
 
-### Catamarca _(1)_{:.count}
+
+### _(k)_{:.key} Catamarca  ++
+_(1)_{:.count}    102602 km2   pop
 {: #ar-k }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Fernando del Valle de Catamarca  {: .city #sanfernandodelvalledecatamarca } <br>
-
-</div>
+..
+..
+San Fernando del Valle de Catamarca  ++
+ ++
+•
 
 
 
-### Chaco _(1)_{:.count}
+
+### _(h)_{:.key} Chaco  ++
+_(1)_{:.count}    99633 km2   pop
 {: #ar-h }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Resistencia  {: .city #resistencia } <br>
-
-</div>
+..
+..
+Resistencia  ++
+ ++
+•
 
 
 
-### Chubut _(1)_{:.count}
+
+### _(u)_{:.key} Chubut  ++
+_(1)_{:.count}    224686 km2   pop
 {: #ar-u }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Rawson  {: .city #rawson } <br>
-
-</div>
+..
+..
+Rawson  ++
+ ++
+•
 
 
 
-### Córdoba _(1)_{:.count}
+
+### _(x)_{:.key} Córdoba  ++
+_(1)_{:.count}    165321 km2   pop
 {: #ar-x }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Córdoba  _pop (1)_{:.pop} {: .city #cordoba } <br>
-
-</div>
+..
+..
+Córdoba  ++
+ _pop (1)_{:.pop} ++
+•
 
 
 
-### Corrientes _(1)_{:.count}
+
+### _(w)_{:.key} Corrientes  ++
+_(1)_{:.count}    88199 km2   pop
 {: #ar-w }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Corrientes  {: .city #corrientes } <br>
-
-</div>
+..
+..
+Corrientes  ++
+ ++
+•
 
 
 
-### Entre Ríos _(1)_{:.count}
+
+### _(e)_{:.key} Entre Ríos  ++
+_(1)_{:.count}    78781 km2   pop
 {: #ar-e }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Paraná  {: .city #parana } <br>
-
-</div>
+..
+..
+Paraná  ++
+ ++
+•
 
 
 
-### Formosa _(1)_{:.count}
+
+### _(p)_{:.key} Formosa  ++
+_(1)_{:.count}    72066 km2   pop
 {: #ar-p }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Formosa  {: .city #formosa } <br>
-
-</div>
+..
+..
+Formosa  ++
+ ++
+•
 
 
 
-### Jujuy _(1)_{:.count}
+
+### _(y)_{:.key} Jujuy  ++
+_(1)_{:.count}    53219 km2   pop
 {: #ar-y }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Salvador de Jujuy  {: .city #sansalvadordejujuy } <br>
-
-</div>
+..
+..
+San Salvador de Jujuy  ++
+ ++
+•
 
 
 
-### La Pampa _(1)_{:.count}
+
+### _(l)_{:.key} La Pampa  ++
+_(1)_{:.count}    143440 km2   pop
 {: #ar-l }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Santa Rosa  {: .city #santarosa } <br>
-
-</div>
+..
+..
+Santa Rosa  ++
+ ++
+•
 
 
 
-### La Rioja _(1)_{:.count}
+
+### _(f)_{:.key} La Rioja  ++
+_(1)_{:.count}    89680 km2   pop
 {: #ar-f }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-La Rioja  {: .city #larioja } <br>
-
-</div>
+..
+..
+La Rioja  ++
+ ++
+•
 
 
 
-### Mendoza _(1)_{:.count}
+
+### _(m)_{:.key} Mendoza  ++
+_(1)_{:.count}    148827 km2   pop
 {: #ar-m }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Mendoza  {: .city #mendoza } <br>
-
-</div>
+..
+..
+Mendoza  ++
+ ++
+•
 
 
 
-### Misiones _(1)_{:.count}
+
+### _(n)_{:.key} Misiones  ++
+_(1)_{:.count}    29801 km2   pop
 {: #ar-n }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Posadas  {: .city #posadas } <br>
-
-</div>
+..
+..
+Posadas  ++
+ ++
+•
 
 
 
-### Neuquén _(1)_{:.count}
+
+### _(q)_{:.key} Neuquén  ++
+_(1)_{:.count}    94078 km2   pop
 {: #ar-q }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Neuquén  {: .city #neuquen } <br>
-
-</div>
+..
+..
+Neuquén  ++
+ ++
+•
 
 
 
-### Río Negro _(1)_{:.count}
+
+### _(r)_{:.key} Río Negro  ++
+_(1)_{:.count}    203013 km2   pop
 {: #ar-r }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Viedma  {: .city #viedma } <br>
-
-</div>
+..
+..
+Viedma  ++
+ ++
+•
 
 
 
-### Salta _(1)_{:.count}
+
+### _(a)_{:.key} Salta  ++
+_(1)_{:.count}    155488 km2   pop
 {: #ar-a }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Salta  {: .city #salta } <br>
-
-</div>
+..
+..
+Salta  ++
+ ++
+•
 
 
 
-### San Juan _(1)_{:.count}
+
+### _(j)_{:.key} San Juan  ++
+_(1)_{:.count}    89651 km2   pop
 {: #ar-j }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Juan  _pop 418.140 (2)_{:.pop} {: .city #sanjuan } <br>
-
-</div>
+..
+..
+San Juan  ++
+ _pop 418.140 (2)_{:.pop} ++
+•
 
 
 
-### San Luis _(1)_{:.count}
+
+### _(d)_{:.key} San Luis  ++
+_(1)_{:.count}    76748 km2   pop
 {: #ar-d }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Luis  {: .city #sanluis } <br>
-
-</div>
+..
+..
+San Luis  ++
+ ++
+•
 
 
 
-### Santa Cruz _(1)_{:.count}
+
+### _(z)_{:.key} Santa Cruz  ++
+_(1)_{:.count}    243943 km2   pop
 {: #ar-z }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Río Gallegos  {: .city #riogallegos } <br>
-
-</div>
+..
+..
+Río Gallegos  ++
+ ++
+•
 
 
 
-### Santa Fe _(3)_{:.count}
+
+### _(s)_{:.key} Santa Fe  ++
+_(3)_{:.count}    133007 km2   pop
 {: #ar-s }
 
 
-[Rafaela](#rafaela) • [Rosario](#rosario) • [Santa Fe](#santafe)
+..
+..
+Rafaela  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Rosario  ++
+ _pop (1)_{:.pop} ++
+•
+
+..
+..
+Santa Fe  ++
+ ++
+•
 
 
-Rafaela  {: .city #rafaela } <br>
-
-Rosario  _pop (1)_{:.pop} {: .city #rosario } <br>
-
-Santa Fe  {: .city #santafe } <br>
-
-</div>
 
 
-
-### Santiago del Estero _(1)_{:.count}
+### _(g)_{:.key} Santiago del Estero  ++
+_(1)_{:.count}    136351 km2   pop
 {: #ar-g }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Santiago del Estero  {: .city #santiagodelestero } <br>
-
-</div>
+..
+..
+Santiago del Estero  ++
+ ++
+•
 
 
 
-### Tierra del Fuego (Antártida e Islas del Atlántico Sur) _(1)_{:.count}
+
+### _(v)_{:.key} Tierra del Fuego (Antártida e Islas del Atlántico Sur)  ++
+_(1)_{:.count}    215712 km2   pop
 {: #ar-v }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ushuaia  {: .city #ushuaia } <br>
-
-</div>
+..
+..
+Ushuaia  ++
+ ++
+•
 
 
 
-### Tucumán _(1)_{:.count}
+
+### _(t)_{:.key} Tucumán  ++
+_(1)_{:.count}    22524 km2   pop
 {: #ar-t }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Miguel de Tucumán  {: .city #sanmigueldetucuman } <br>
-
-</div>
+..
+..
+San Miguel de Tucumán  ++
+ ++
+•
 
 
  

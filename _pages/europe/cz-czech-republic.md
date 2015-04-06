@@ -1,235 +1,252 @@
 ---
-layout: book
+layout: default
 title: Czech Republic (CZE)
 permalink: /cz.html
 ---
 
-## Czech Republic (CZE) - 14 Regions, 19 Cities
+
+## Czech Republic   ++
+(CZE)  ++
+-                     ++
+14 Regions, ++
+19 Cities
 {: #cz }
 
+.. 
 
 [Praha [Prague]](#cz-pr) _(1)_{:.count} • [Střední Čechy [Central Bohemia]](#cz-st) _(1)_{:.count} • [Jižní Čechy [South Bohemia]](#cz-jc) _(5)_{:.count} • [Plzeň](#cz-pl) _(1)_{:.count} • [Karlovy Vary [Carlsbad]](#cz-ka) _(1)_{:.count} • [Ústí nad Labem](#cz-us) _(1)_{:.count} • [Liberec](#cz-li) _(1)_{:.count} • [Hradec Králové](#cz-kr) _(1)_{:.count} • [Pardubice](#cz-pa) _(1)_{:.count} • [Jižní Morava [South Moravia]](#cz-jm) _(2)_{:.count} • [Vysočina](#cz-vy) _(1)_{:.count} • [Olomouc](#cz-ol) _(1)_{:.count} • [Zlín](#cz-zl) _(1)_{:.count} • [Moravskoslezsko [Moravia-Silesia]](#cz-mo) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### Praha [Prague] | Prag[de] _(1)_{:.count}
+
+.. 
+
+
+### _(pr)_{:.key} Praha [Prague] | Prag[de]  ++
+_(1)_{:.count}    496 km2  1272690 pop
 {: #cz-pr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Praha [Prague]  _pop 1.290.846 (1.265.000)_{:.pop} {: .city #praha } <br>
-
-</div>
+..
+..
+Praha [Prague]  ++
+ _pop 1.290.846 (1.265.000)_{:.pop} ++
+•
 
 
 
-### Střední Čechy [Central Bohemia] | Mittelböhmen[de] _(1)_{:.count}
+
+### _(st)_{:.key} Střední Čechy [Central Bohemia] | Mittelböhmen[de]  ++
+_(1)_{:.count}    11015 km2  1274633 pop
 {: #cz-st }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Kutná Hora  _pop 20.839_{:.pop} {: .city #kutnahora } <br>
-
-</div>
+..
+..
+Kutná Hora  ++
+ _pop 20.839_{:.pop} ++
+•
 
 
 
-### Jižní Čechy [South Bohemia] | Südböhmen[de] _(5)_{:.count}
+
+### _(jc)_{:.key} Jižní Čechy [South Bohemia] | Südböhmen[de]  ++
+_(5)_{:.count}    10057 km2  637460 pop
 {: #cz-jc }
 
 
-[Budějovice](#budejovice) • [Krumlov](#krumlov) • [Tábor](#tabor) • [Třeboň](#trebon) • [České Budějovice](#ceskebudejovice)
+..
+..
+Budějovice | České Budějovice | Budweis[de]  ++
+ _pop 93.883_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Krumlov | Český Krumlov  ++
+ _pop 13.752_{:.pop} ++
+•
+
+..
+..
+Tábor  ++
+ _pop 35.769_{:.pop} ++
+•
+
+..
+..
+Třeboň  ++
+ _pop 8.840_{:.pop} ++
+•
+
+..
+..
+České Budějovice  ++
+ ++
+•
 
 
-Budějovice  _pop 93.883_{:.pop} {: .city #budejovice } <br>
-
-Krumlov  _pop 13.752_{:.pop} {: .city #krumlov } <br>
-
-Tábor  _pop 35.769_{:.pop} {: .city #tabor } <br>
-
-Třeboň  _pop 8.840_{:.pop} {: .city #trebon } <br>
-
-České Budějovice  {: .city #ceskebudejovice } <br>
-
-</div>
 
 
-
-### Plzeň | Pilsen[de] _(1)_{:.count}
+### _(pl)_{:.key} Plzeň | Pilsen[de]  ++
+_(1)_{:.count}    7561 km2  574694 pop
 {: #cz-pl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Plzeň  _pop 169.688_{:.pop} {: .city #plzen } <br>
-
-</div>
+..
+..
+Plzeň | Pilsen[de]  ++
+ _pop 169.688_{:.pop} ++
+•
 
 
 
-### Karlovy Vary [Carlsbad] | Karlsbad[de] _(1)_{:.count}
+
+### _(ka)_{:.key} Karlovy Vary [Carlsbad] | Karlsbad[de]  ++
+_(1)_{:.count}    3314 km2  310245 pop
 {: #cz-ka }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Karlovy Vary [Carlsbad]  _pop 53.737_{:.pop} {: .city #karlovyvary } <br>
-
-</div>
+..
+..
+Karlovy Vary [Carlsbad]  ++
+ _pop 53.737_{:.pop} ++
+•
 
 
 
-### Ústí nad Labem | Aussig[de] _(1)_{:.count}
+
+### _(us)_{:.key} Ústí nad Labem | Aussig[de]  ++
+_(1)_{:.count}    5335 km2  830371 pop
 {: #cz-us }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ústí nad Labem  _pop 95.003_{:.pop} {: .city #ustinadlabem } <br>
-
-</div>
+..
+..
+Ústí nad Labem  ++
+ _pop 95.003_{:.pop} ++
+•
 
 
 
-### Liberec | Reichenberg[de] _(1)_{:.count}
+
+### _(li)_{:.key} Liberec | Reichenberg[de]  ++
+_(1)_{:.count}    3163 km2  439262 pop
 {: #cz-li }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Liberec  _pop 102.247_{:.pop} {: .city #liberec } <br>
-
-</div>
+..
+..
+Liberec  ++
+ _pop 102.247_{:.pop} ++
+•
 
 
 
-### Hradec Králové | Königgrätz[de] _(1)_{:.count}
+
+### _(kr)_{:.key} Hradec Králové | Königgrätz[de]  ++
+_(1)_{:.count}    4758 km2  555683 pop
 {: #cz-kr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Hradec Králové  _pop 94.242_{:.pop} {: .city #hradeckralove } <br>
-
-</div>
+..
+..
+Hradec Králové  ++
+ _pop 94.242_{:.pop} ++
+•
 
 
 
-### Pardubice | Pardubitz[de] _(1)_{:.count}
+
+### _(pa)_{:.key} Pardubice | Pardubitz[de]  ++
+_(1)_{:.count}    4519 km2  505285 pop
 {: #cz-pa }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pardubice  _pop 91.073_{:.pop} {: .city #pardubice } <br>
-
-</div>
+..
+..
+Pardubice  ++
+ _pop 91.073_{:.pop} ++
+•
 
 
 
-### Jižní Morava [South Moravia] | Südmähren[de] _(2)_{:.count}
+
+### _(jm)_{:.key} Jižní Morava [South Moravia] | Südmähren[de]  ++
+_(2)_{:.count}    7067 km2  1169788 pop
 {: #cz-jm }
 
 
-[Brno](#brno) • [Mikulov](#mikulov)
+..
+..
+Brno  ++
+ _pop 384.277_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Brno  _pop 384.277_{:.pop} {: .city #brno } <br>
-
-Mikulov  _pop 7.624_{:.pop} {: .city #mikulov } <br>
-
-</div>
+..
+..
+Mikulov  ++
+ _pop 7.624_{:.pop} ++
+•
 
 
 
-### Vysočina | Hochland[de] _(1)_{:.count}
+
+### _(vy)_{:.key} Vysočina | Hochland[de]  ++
+_(1)_{:.count}    6926 km2  512727 pop
 {: #cz-vy }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Jihlava  {: .city #jihlava } <br>
-
-</div>
+..
+..
+Jihlava  ++
+ ++
+•
 
 
 
-### Olomouc | Olmütz[de] _(1)_{:.count}
+
+### _(ol)_{:.key} Olomouc | Olmütz[de]  ++
+_(1)_{:.count}    5159 km2  639946 pop
 {: #cz-ol }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Olomouc  _pop 100.043_{:.pop} {: .city #olomouc } <br>
-
-</div>
+..
+..
+Olomouc  ++
+ _pop 100.043_{:.pop} ++
+•
 
 
 
-### Zlín | Zlin[de] _(1)_{:.count}
+
+### _(zl)_{:.key} Zlín | Zlin[de]  ++
+_(1)_{:.count}    3964 km2  590459 pop
 {: #cz-zl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Zlín  {: .city #zlin } <br>
-
-</div>
+..
+..
+Zlín  ++
+ ++
+•
 
 
 
-### Moravskoslezsko [Moravia-Silesia] | Mähren-Schlesien[de] _(1)_{:.count}
+
+### _(mo)_{:.key} Moravskoslezsko [Moravia-Silesia] | Mähren-Schlesien[de]  ++
+_(1)_{:.count}    5535 km2  1236028 pop
 {: #cz-mo }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ostrava  _pop 302.456_{:.pop} {: .city #ostrava } <br>
-
-</div>
+..
+..
+Ostrava  ++
+ _pop 302.456_{:.pop} ++
+•
 
 
  

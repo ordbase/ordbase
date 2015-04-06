@@ -1,840 +1,920 @@
 ---
-layout: book
+layout: default
 title: United States (USA)
 permalink: /us.html
 ---
 
-## United States (USA) - 51 Regions, 81 Cities
+
+## United States   ++
+(USA)  ++
+-                     ++
+51 Regions, ++
+81 Cities
 {: #us }
 
+.. 
 
 [Maine](#us-me) _(1)_{:.count} • [New Hampshire](#us-nh) _(1)_{:.count} • [Vermont](#us-vt) _(1)_{:.count} • [Massachusetts](#us-ma) _(1)_{:.count} • [Rhode Island](#us-ri) _(1)_{:.count} • [Connecticut](#us-ct) _(1)_{:.count} • [New York](#us-ny) _(3)_{:.count} • [Pennsylvania](#us-pa) _(3)_{:.count} • [New Jersey](#us-nj) _(2)_{:.count} • [Wisconsin](#us-wi) _(2)_{:.count} • [Michigan](#us-mi) _(2)_{:.count} • [Illinois](#us-il) _(2)_{:.count} • [Indiana](#us-in) _(1)_{:.count} • [Ohio](#us-oh) _(3)_{:.count} • [Missouri](#us-mo) _(3)_{:.count} • [North Dakota](#us-nd) _(1)_{:.count} • [South Dakota](#us-sd) _(1)_{:.count} • [Nebraska](#us-ne) _(1)_{:.count} • [Kansas](#us-ks) _(1)_{:.count} • [Minnesota](#us-mn) _(3)_{:.count} • [Iowa](#us-ia) _(1)_{:.count} • [Delaware](#us-de) _(1)_{:.count} • [Maryland](#us-md) _(2)_{:.count} • [District of Columbia](#us-dc) _(2)_{:.count} • [Virginia](#us-va) _(1)_{:.count} • [West Virginia](#us-wv) _(1)_{:.count} • [North Carolina](#us-nc) _(2)_{:.count} • [South Carolina](#us-sc) _(1)_{:.count} • [Georgia](#us-ga) _(1)_{:.count} • [Florida](#us-fl) _(4)_{:.count} • [Kentucky](#us-ky) _(1)_{:.count} • [Tennessee](#us-tn) _(1)_{:.count} • [Mississippi](#us-ms) _(1)_{:.count} • [Alabama](#us-al) _(1)_{:.count} • [Oklahoma](#us-ok) _(1)_{:.count} • [Texas](#us-tx) _(4)_{:.count} • [Arkansas](#us-ar) _(1)_{:.count} • [Louisiana](#us-la) _(2)_{:.count} • [Idaho](#us-id) _(1)_{:.count} • [Montana](#us-mt) _(1)_{:.count} • [Wyoming](#us-wy) _(1)_{:.count} • [Nevada](#us-nv) _(1)_{:.count} • [Utah](#us-ut) _(1)_{:.count} • [Colorado](#us-co) _(1)_{:.count} • [Arizona](#us-az) _(1)_{:.count} • [New Mexico](#us-nm) _(0)_{:.count} • [Alaska](#us-ak) _(1)_{:.count} • [Washington](#us-wa) _(2)_{:.count} • [Oregon](#us-or) _(1)_{:.count} • [California](#us-ca) _(7)_{:.count} • [Hawaii](#us-hi) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### Maine _(1)_{:.count}
+
+.. 
+
+
+### _(me)_{:.key} Maine  ++
+_(1)_{:.count}    79924 km2   pop
 {: #us-me }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Augusta  {: .city #augusta } <br>
-
-</div>
+..
+..
+Augusta  ++
+ ++
+•
 
 
 
-### New Hampshire _(1)_{:.count}
+
+### _(nh)_{:.key} New Hampshire  ++
+_(1)_{:.count}    23225 km2   pop
 {: #us-nh }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Concord  {: .city #concord } <br>
-
-</div>
+..
+..
+Concord  ++
+ ++
+•
 
 
 
-### Vermont _(1)_{:.count}
+
+### _(vt)_{:.key} Vermont  ++
+_(1)_{:.count}    23954 km2   pop
 {: #us-vt }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Montpelier  {: .city #montpelier } <br>
-
-</div>
+..
+..
+Montpelier  ++
+ ++
+•
 
 
 
-### Massachusetts _(1)_{:.count}
+
+### _(ma)_{:.key} Massachusetts  ++
+_(1)_{:.count}    20304 km2   pop
 {: #us-ma }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Boston  _pop 617.594_{:.pop} {: .city #boston } <br>
-
-</div>
+..
+..
+Boston  ++
+ _pop 617.594_{:.pop} ++
+•
 
 
 
-### Rhode Island _(1)_{:.count}
+
+### _(ri)_{:.key} Rhode Island  ++
+_(1)_{:.count}    2706 km2   pop
 {: #us-ri }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Providence  {: .city #providence } <br>
-
-</div>
+..
+..
+Providence  ++
+ ++
+•
 
 
 
-### Connecticut _(1)_{:.count}
+
+### _(ct)_{:.key} Connecticut  ++
+_(1)_{:.count}    12547 km2   pop
 {: #us-ct }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Hartford  {: .city #hartford } <br>
-
-</div>
+..
+..
+Hartford  ++
+ ++
+•
 
 
 
-### New York _(3)_{:.count}
+
+### _(ny)_{:.key} New York  ++
+_(3)_{:.count}    122272 km2   pop
 {: #us-ny }
 
 
-[Albany](#albany) • [Buffalo](#buffalo) • [New York](#newyork)
+..
+..
+Albany  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Buffalo  ++
+ _pop 261.310_{:.pop} ++
+•
+
+..
+..
+New York  ++
+ _pop 8.175.133_{:.pop} ++
+•
 
 
-Albany  {: .city #albany } <br>
-
-Buffalo  _pop 261.310_{:.pop} {: .city #buffalo } <br>
-
-New York  _pop 8.175.133_{:.pop} {: .city #newyork } <br>
-
-</div>
 
 
-
-### Pennsylvania _(3)_{:.count}
+### _(pa)_{:.key} Pennsylvania  ++
+_(3)_{:.count}    116064 km2   pop
 {: #us-pa }
 
 
-[Harrisburg](#harrisburg) • [Philadelphia](#philadelphia) • [Pittsburgh](#pittsburgh)
+..
+..
+Harrisburg  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Philadelphia  ++
+ _pop 1.526.006_{:.pop} ++
+•
+
+..
+..
+Pittsburgh  ++
+ _pop 305.704_{:.pop} ++
+•
 
 
-Harrisburg  {: .city #harrisburg } <br>
-
-Philadelphia  _pop 1.526.006_{:.pop} {: .city #philadelphia } <br>
-
-Pittsburgh  _pop 305.704_{:.pop} {: .city #pittsburgh } <br>
-
-</div>
 
 
-
-### New Jersey _(2)_{:.count}
+### _(nj)_{:.key} New Jersey  ++
+_(2)_{:.count}    19209 km2   pop
 {: #us-nj }
 
 
-[Newark](#newark) • [Trenton](#trenton)
+..
+..
+Newark  ++
+ _pop 277.140_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Newark  _pop 277.140_{:.pop} {: .city #newark } <br>
-
-Trenton  {: .city #trenton } <br>
-
-</div>
+..
+..
+Trenton  ++
+ ++
+•
 
 
 
-### Wisconsin _(2)_{:.count}
+
+### _(wi)_{:.key} Wisconsin  ++
+_(2)_{:.count}    140649 km2   pop
 {: #us-wi }
 
 
-[Green Bay](#greenbay) • [Madison](#madison)
+..
+..
+Green Bay  ++
+ _pop 104.057_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Green Bay  _pop 104.057_{:.pop} {: .city #greenbay } <br>
-
-Madison  {: .city #madison } <br>
-
-</div>
+..
+..
+Madison  ++
+ ++
+•
 
 
 
-### Michigan _(2)_{:.count}
+
+### _(mi)_{:.key} Michigan  ++
+_(2)_{:.count}    147108 km2   pop
 {: #us-mi }
 
 
-[Detroit](#detroit) • [Lansing](#lansing)
+..
+..
+Detroit  ++
+ _pop 713.777_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Detroit  _pop 713.777_{:.pop} {: .city #detroit } <br>
-
-Lansing  {: .city #lansing } <br>
-
-</div>
+..
+..
+Lansing  ++
+ ++
+•
 
 
 
-### Illinois _(2)_{:.count}
+
+### _(il)_{:.key} Illinois  ++
+_(2)_{:.count}    143947 km2   pop
 {: #us-il }
 
 
-[Chicago](#chicago) • [Springfield](#springfield)
+..
+..
+Chicago  ++
+ _pop 2.695.598_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Chicago  _pop 2.695.598_{:.pop} {: .city #chicago } <br>
-
-Springfield  {: .city #springfield } <br>
-
-</div>
+..
+..
+Springfield  ++
+ ++
+•
 
 
 
-### Indiana _(1)_{:.count}
+
+### _(in)_{:.key} Indiana  ++
+_(1)_{:.count}    92886 km2   pop
 {: #us-in }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Indianapolis  _pop 820.445_{:.pop} {: .city #indianapolis } <br>
-
-</div>
+..
+..
+Indianapolis  ++
+ _pop 820.445_{:.pop} ++
+•
 
 
 
-### Ohio _(3)_{:.count}
+
+### _(oh)_{:.key} Ohio  ++
+_(3)_{:.count}    106046 km2   pop
 {: #us-oh }
 
 
-[Cincinnati](#cincinnati) • [Cleveland](#cleveland) • [Columbus](#columbus)
+..
+..
+Cincinnati  ++
+ _pop 296.943_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Cleveland  ++
+ _pop 396.815_{:.pop} ++
+•
+
+..
+..
+Columbus  ++
+ _pop 787.033_{:.pop} ++
+•
 
 
-Cincinnati  _pop 296.943_{:.pop} {: .city #cincinnati } <br>
-
-Cleveland  _pop 396.815_{:.pop} {: .city #cleveland } <br>
-
-Columbus  _pop 787.033_{:.pop} {: .city #columbus } <br>
-
-</div>
 
 
-
-### Missouri _(3)_{:.count}
+### _(mo)_{:.key} Missouri  ++
+_(3)_{:.count}    178397 km2   pop
 {: #us-mo }
 
 
-[Jefferson City](#jeffersoncity) • [Kansas City](#kansascity) • [St. Louis](#stlouis)
+..
+..
+Jefferson City  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Kansas City  ++
+ _pop 459.787_{:.pop} ++
+•
+
+..
+..
+St. Louis  ++
+ _pop 319.294_{:.pop} ++
+•
 
 
-Jefferson City  {: .city #jeffersoncity } <br>
-
-Kansas City  _pop 459.787_{:.pop} {: .city #kansascity } <br>
-
-St. Louis  _pop 319.294_{:.pop} {: .city #stlouis } <br>
-
-</div>
 
 
-
-### North Dakota _(1)_{:.count}
+### _(nd)_{:.key} North Dakota  ++
+_(1)_{:.count}    178630 km2   pop
 {: #us-nd }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Bismarck  {: .city #bismarck } <br>
-
-</div>
+..
+..
+Bismarck  ++
+ ++
+•
 
 
 
-### South Dakota _(1)_{:.count}
+
+### _(sd)_{:.key} South Dakota  ++
+_(1)_{:.count}    196522 km2   pop
 {: #us-sd }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pierre  {: .city #pierre } <br>
-
-</div>
+..
+..
+Pierre  ++
+ ++
+•
 
 
 
-### Nebraska _(1)_{:.count}
+
+### _(ne)_{:.key} Nebraska  ++
+_(1)_{:.count}    199080 km2   pop
 {: #us-ne }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Lincoln  {: .city #lincoln } <br>
-
-</div>
+..
+..
+Lincoln  ++
+ ++
+•
 
 
 
-### Kansas _(1)_{:.count}
+
+### _(ks)_{:.key} Kansas  ++
+_(1)_{:.count}    211880 km2   pop
 {: #us-ks }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Topeka  {: .city #topeka } <br>
-
-</div>
+..
+..
+Topeka  ++
+ ++
+•
 
 
 
-### Minnesota _(3)_{:.count}
+
+### _(mn)_{:.key} Minnesota  ++
+_(3)_{:.count}    206170 km2   pop
 {: #us-mn }
 
 
-[Minneapolis](#minneapolis) • [Saint Paul](#saintpaul) • [St. Paul](#stpaul)
+..
+..
+Minneapolis  ++
+ _pop 382.578_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Saint Paul  ++
+ ++
+•
+
+..
+..
+St. Paul  ++
+ _pop 285.068_{:.pop} ++
+•
 
 
-Minneapolis  _pop 382.578_{:.pop} {: .city #minneapolis } <br>
-
-Saint Paul  {: .city #saintpaul } <br>
-
-St. Paul  _pop 285.068_{:.pop} {: .city #stpaul } <br>
-
-</div>
 
 
-
-### Iowa _(1)_{:.count}
+### _(ia)_{:.key} Iowa  ++
+_(1)_{:.count}    144688 km2   pop
 {: #us-ia }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Des Moines  {: .city #desmoines } <br>
-
-</div>
+..
+..
+Des Moines  ++
+ ++
+•
 
 
 
-### Delaware _(1)_{:.count}
+
+### _(de)_{:.key} Delaware  ++
+_(1)_{:.count}    5059 km2   pop
 {: #us-de }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Dover  {: .city #dover } <br>
-
-</div>
+..
+..
+Dover  ++
+ ++
+•
 
 
 
-### Maryland _(2)_{:.count}
+
+### _(md)_{:.key} Maryland  ++
+_(2)_{:.count}    25312 km2   pop
 {: #us-md }
 
 
-[Annapolis](#annapolis) • [Baltimore](#baltimore)
+..
+..
+Annapolis  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Annapolis  {: .city #annapolis } <br>
-
-Baltimore  _pop 620.961_{:.pop} {: .city #baltimore } <br>
-
-</div>
+..
+..
+Baltimore  ++
+ _pop 620.961_{:.pop} ++
+•
 
 
 
-### District of Columbia _(2)_{:.count}
+
+### _(dc)_{:.key} District of Columbia  ++
+_(2)_{:.count}    159 km2   pop
 {: #us-dc }
 
 
-[Washingtion](#washingtion) • [Washington](#washington)
+..
+..
+Washingtion  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Washingtion  {: .city #washingtion } <br>
-
-Washington  _pop 601.723_{:.pop} {: .city #washington } <br>
-
-</div>
+..
+..
+Washington  ++
+ _pop 601.723_{:.pop} ++
+•
 
 
 
-### Virginia _(1)_{:.count}
+
+### _(va)_{:.key} Virginia  ++
+_(1)_{:.count}    102539 km2   pop
 {: #us-va }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Richmond  {: .city #richmond } <br>
-
-</div>
+..
+..
+Richmond  ++
+ ++
+•
 
 
 
-### West Virginia _(1)_{:.count}
+
+### _(wv)_{:.key} West Virginia  ++
+_(1)_{:.count}    62355 km2   pop
 {: #us-wv }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Charleston  {: .city #charleston } <br>
-
-</div>
+..
+..
+Charleston  ++
+ ++
+•
 
 
 
-### North Carolina _(2)_{:.count}
+
+### _(nc)_{:.key} North Carolina  ++
+_(2)_{:.count}    126149 km2   pop
 {: #us-nc }
 
 
-[Charlotte](#charlotte) • [Raleigh](#raleigh)
+..
+..
+Charlotte  ++
+ _pop 731.424_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Charlotte  _pop 731.424_{:.pop} {: .city #charlotte } <br>
-
-Raleigh  _pop 403.892_{:.pop} {: .city #raleigh } <br>
-
-</div>
+..
+..
+Raleigh  ++
+ _pop 403.892_{:.pop} ++
+•
 
 
 
-### South Carolina _(1)_{:.count}
+
+### _(sc)_{:.key} South Carolina  ++
+_(1)_{:.count}    77976 km2   pop
 {: #us-sc }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Columbia  {: .city #columbia } <br>
-
-</div>
+..
+..
+Columbia  ++
+ ++
+•
 
 
 
-### Georgia _(1)_{:.count}
+
+### _(ga)_{:.key} Georgia  ++
+_(1)_{:.count}    149962 km2   pop
 {: #us-ga }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Atlanta  _pop 420.003_{:.pop} {: .city #atlanta } <br>
-
-</div>
+..
+..
+Atlanta  ++
+ _pop 420.003_{:.pop} ++
+•
 
 
 
-### Florida _(4)_{:.count}
+
+### _(fl)_{:.key} Florida  ++
+_(4)_{:.count}    139657 km2   pop
 {: #us-fl }
 
 
-[Jacksonville](#jacksonville) • [Miami](#miami) • [Tallahassee](#tallahassee) • [Tampa](#tampa)
+..
+..
+Jacksonville  ++
+ _pop 821.784_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Miami  ++
+ _pop 399.457_{:.pop} ++
+•
+
+..
+..
+Tallahassee  ++
+ ++
+•
+
+..
+..
+Tampa  ++
+ _pop 335.709_{:.pop} ++
+•
 
 
-Jacksonville  _pop 821.784_{:.pop} {: .city #jacksonville } <br>
-
-Miami  _pop 399.457_{:.pop} {: .city #miami } <br>
-
-Tallahassee  {: .city #tallahassee } <br>
-
-Tampa  _pop 335.709_{:.pop} {: .city #tampa } <br>
-
-</div>
 
 
-
-### Kentucky _(1)_{:.count}
+### _(ky)_{:.key} Kentucky  ++
+_(1)_{:.count}    102886 km2   pop
 {: #us-ky }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Frankfort  {: .city #frankfort } <br>
-
-</div>
+..
+..
+Frankfort  ++
+ ++
+•
 
 
 
-### Tennessee _(1)_{:.count}
+
+### _(tn)_{:.key} Tennessee  ++
+_(1)_{:.count}    106742 km2   pop
 {: #us-tn }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Nashville  _pop 601.222_{:.pop} {: .city #nashville } <br>
-
-</div>
+..
+..
+Nashville  ++
+ _pop 601.222_{:.pop} ++
+•
 
 
 
-### Mississippi _(1)_{:.count}
+
+### _(ms)_{:.key} Mississippi  ++
+_(1)_{:.count}    121477 km2   pop
 {: #us-ms }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Jackson  {: .city #jackson } <br>
-
-</div>
+..
+..
+Jackson  ++
+ ++
+•
 
 
 
-### Alabama _(1)_{:.count}
+
+### _(al)_{:.key} Alabama  ++
+_(1)_{:.count}    131414 km2   pop
 {: #us-al }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Montgomery  {: .city #montgomery } <br>
-
-</div>
+..
+..
+Montgomery  ++
+ ++
+•
 
 
 
-### Oklahoma _(1)_{:.count}
+
+### _(ok)_{:.key} Oklahoma  ++
+_(1)_{:.count}    177830 km2   pop
 {: #us-ok }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Oklahoma City  {: .city #oklahomacity } <br>
-
-</div>
+..
+..
+Oklahoma City  ++
+ ++
+•
 
 
 
-### Texas _(4)_{:.count}
+
+### _(tx)_{:.key} Texas  ++
+_(4)_{:.count}    677989 km2   pop
 {: #us-tx }
 
 
-[Austin](#austin) • [Dallas](#dallas) • [Houston](#houston) • [San Antonio](#sanantonio)
+..
+..
+Austin  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Dallas  ++
+ _pop 1.197.816_{:.pop} ++
+•
+
+..
+..
+Houston  ++
+ _pop 2.099.451_{:.pop} ++
+•
+
+..
+..
+San Antonio  ++
+ _pop 1.327.407_{:.pop} ++
+•
 
 
-Austin  {: .city #austin } <br>
-
-Dallas  _pop 1.197.816_{:.pop} {: .city #dallas } <br>
-
-Houston  _pop 2.099.451_{:.pop} {: .city #houston } <br>
-
-San Antonio  _pop 1.327.407_{:.pop} {: .city #sanantonio } <br>
-
-</div>
 
 
-
-### Arkansas _(1)_{:.count}
+### _(ar)_{:.key} Arkansas  ++
+_(1)_{:.count}    134843 km2   pop
 {: #us-ar }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Little Rock  {: .city #littlerock } <br>
-
-</div>
+..
+..
+Little Rock  ++
+ ++
+•
 
 
 
-### Louisiana _(2)_{:.count}
+
+### _(la)_{:.key} Louisiana  ++
+_(2)_{:.count}    112814 km2   pop
 {: #us-la }
 
 
-[Baton Rouge](#batonrouge) • [New Orleans](#neworleans)
+..
+..
+Baton Rouge  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Baton Rouge  {: .city #batonrouge } <br>
-
-New Orleans  _pop 343.829_{:.pop} {: .city #neworleans } <br>
-
-</div>
+..
+..
+New Orleans  ++
+ _pop 343.829_{:.pop} ++
+•
 
 
 
-### Idaho _(1)_{:.count}
+
+### _(id)_{:.key} Idaho  ++
+_(1)_{:.count}    214294 km2   pop
 {: #us-id }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Boise  {: .city #boise } <br>
-
-</div>
+..
+..
+Boise  ++
+ ++
+•
 
 
 
-### Montana _(1)_{:.count}
+
+### _(mt)_{:.key} Montana  ++
+_(1)_{:.count}    376944 km2   pop
 {: #us-mt }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Helena  {: .city #helena } <br>
-
-</div>
+..
+..
+Helena  ++
+ ++
+•
 
 
 
-### Wyoming _(1)_{:.count}
+
+### _(wy)_{:.key} Wyoming  ++
+_(1)_{:.count}    251466 km2   pop
 {: #us-wy }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Cheyenne  {: .city #cheyenne } <br>
-
-</div>
+..
+..
+Cheyenne  ++
+ ++
+•
 
 
 
-### Nevada _(1)_{:.count}
+
+### _(nv)_{:.key} Nevada  ++
+_(1)_{:.count}    284422 km2   pop
 {: #us-nv }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Carson City  {: .city #carsoncity } <br>
-
-</div>
+..
+..
+Carson City  ++
+ ++
+•
 
 
 
-### Utah _(1)_{:.count}
+
+### _(ut)_{:.key} Utah  ++
+_(1)_{:.count}    212731 km2   pop
 {: #us-ut }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Salt Lake City  {: .city #saltlakecity } <br>
-
-</div>
+..
+..
+Salt Lake City  ++
+ ++
+•
 
 
 
-### Colorado _(1)_{:.count}
+
+### _(co)_{:.key} Colorado  ++
+_(1)_{:.count}    268602 km2   pop
 {: #us-co }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Denver  _pop 600.158_{:.pop} {: .city #denver } <br>
-
-</div>
+..
+..
+Denver  ++
+ _pop 600.158_{:.pop} ++
+•
 
 
 
-### Arizona _(1)_{:.count}
+
+### _(az)_{:.key} Arizona  ++
+_(1)_{:.count}    294285 km2   pop
 {: #us-az }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Phoenix  _pop 1.445.632_{:.pop} {: .city #phoenix } <br>
-
-</div>
+..
+..
+Phoenix  ++
+ _pop 1.445.632_{:.pop} ++
+•
 
 
 
-### New Mexico _(0)_{:.count}
+
+### _(nm)_{:.key} New Mexico  ++
+_(0)_{:.count}    314280 km2   pop
 {: #us-nm }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Alaska _(1)_{:.count}
+### _(ak)_{:.key} Alaska  ++
+_(1)_{:.count}    1481210 km2   pop
 {: #us-ak }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Juneau  {: .city #juneau } <br>
-
-</div>
+..
+..
+Juneau  ++
+ ++
+•
 
 
 
-### Washington _(2)_{:.count}
+
+### _(wa)_{:.key} Washington  ++
+_(2)_{:.count}    172332 km2   pop
 {: #us-wa }
 
 
-[Olympia](#olympia) • [Seattle](#seattle)
+..
+..
+Olympia  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Olympia  {: .city #olympia } <br>
-
-Seattle  _pop 608.660_{:.pop} {: .city #seattle } <br>
-
-</div>
+..
+..
+Seattle  ++
+ _pop 608.660_{:.pop} ++
+•
 
 
 
-### Oregon _(1)_{:.count}
+
+### _(or)_{:.key} Oregon  ++
+_(1)_{:.count}    248607 km2   pop
 {: #us-or }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Salem  {: .city #salem } <br>
-
-</div>
+..
+..
+Salem  ++
+ ++
+•
 
 
 
-### California _(7)_{:.count}
+
+### _(ca)_{:.key} California  ++
+_(7)_{:.count}    403895 km2   pop
 {: #us-ca }
 
 
-[Anaheim](#anaheim) • [Los Angeles](#losangeles) • [Oakland](#oakland) • [Sacramento](#sacramento) • [San Diego](#sandiego) • [San Francisco](#sanfrancisco) • [San Jose](#sanjose)
+..
+..
+Anaheim  ++
+ _pop 336.265_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Los Angeles  ++
+ _pop 3.792.621_{:.pop} ++
+•
+
+..
+..
+Oakland  ++
+ _pop 390.724_{:.pop} ++
+•
+
+..
+..
+Sacramento  ++
+ ++
+•
+
+..
+..
+San Diego  ++
+ _pop 1.307.402_{:.pop} ++
+•
+
+..
+..
+San Francisco  ++
+ _pop 805.235_{:.pop} ++
+•
+
+..
+..
+San Jose  ++
+ _pop 945.942 (1)_{:.pop} ++
+•
 
 
-Anaheim  _pop 336.265_{:.pop} {: .city #anaheim } <br>
-
-Los Angeles  _pop 3.792.621_{:.pop} {: .city #losangeles } <br>
-
-Oakland  _pop 390.724_{:.pop} {: .city #oakland } <br>
-
-Sacramento  {: .city #sacramento } <br>
-
-San Diego  _pop 1.307.402_{:.pop} {: .city #sandiego } <br>
-
-San Francisco  _pop 805.235_{:.pop} {: .city #sanfrancisco } <br>
-
-San Jose  _pop 945.942 (1)_{:.pop} {: .city #sanjose } <br>
-
-</div>
 
 
-
-### Hawaii _(1)_{:.count}
+### _(hi)_{:.key} Hawaii  ++
+_(1)_{:.count}    16633 km2   pop
 {: #us-hi }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Honolulu  {: .city #honolulu } <br>
-
-</div>
+..
+..
+Honolulu  ++
+ ++
+•
 
 
  

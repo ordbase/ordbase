@@ -1,20 +1,43 @@
 ---
-layout: book
+layout: default
 title: Cyprus (CYP)
 permalink: /cy.html
 ---
 
-## Cyprus (CYP) - 0 Regions, 1 Cities
+
+## Cyprus   ++
+(CYP)  ++
+-                     ++
+0 Regions, ++
+2 Cities
 {: #cy }
 
+.. 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+.. 
+.. 
 
 
-Nikosia  {: .city #nikosia } <br>
+### Uncategorized _(2)_{:.count}
 
 
+..
+..
+Nicosia  ++
+ ++
+•
+
+..
+..
+Nikosia | Nicosia  ++
+ ++
+•
+
+
+
+
+.. 
  

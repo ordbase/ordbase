@@ -9,17 +9,8 @@ markdown: kramdown
 # Note: let's store all our markdown sources, that is, book pages in the pages folder
 include: ['_pages']
 
-
 # Note: dotfiles are excluded by default (e.g. .gitignore)
-exclude: ['README.md', 'BUILD.md']
-
-
-
-# In Jekyll v1.0, we introduced absolute permalinks for pages in subdirectories.
-# Until v2.0, it is opt-in. Starting with v2.0, however, absolute permalinks will become opt-out,
-#  meaning Jekyll will default to using absolute permalinks instead of relative permalinks.
-
-relative_permalinks: false
+exclude: ['README.md']
 
 
 #################################################################

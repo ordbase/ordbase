@@ -1,635 +1,614 @@
 ---
-layout: book
+layout: default
 title: Romania (ROU)
 permalink: /ro.html
 ---
 
-## Romania (ROU) - 42 Regions, 37 Cities
+
+## Romania   ++
+(ROU)  ++
+-                     ++
+42 Regions, ++
+42 Cities
 {: #ro }
 
+.. 
 
-[Bihor](#ro-bh) _(1)_{:.count} • [Bistrița-Năsăud](#ro-bn) _(0)_{:.count} • [Cluj](#ro-cj) _(2)_{:.count} • [Maramureș](#ro-mm) _(1)_{:.count} • [Satu Mare](#ro-sm) _(1)_{:.count} • [Sălaj](#ro-sj) _(1)_{:.count} • [Alba](#ro-ab) _(1)_{:.count} • [Brașov](#ro-bv) _(1)_{:.count} • [Covasna](#ro-cv) _(1)_{:.count} • [Harghita](#ro-hr) _(1)_{:.count} • [Mureș](#ro-ms) _(1)_{:.count} • [Sibiu](#ro-sb) _(1)_{:.count} • [Bacău](#ro-bc) _(1)_{:.count} • [Botoșani](#ro-bt) _(1)_{:.count} • [Iași](#ro-is) _(1)_{:.count} • [Neamț](#ro-nt) _(0)_{:.count} • [Suceava](#ro-sv) _(1)_{:.count} • [Vaslui](#ro-vs) _(1)_{:.count} • [Brăila](#ro-br) _(1)_{:.count} • [Buzău](#ro-bz) _(1)_{:.count} • [Constanța](#ro-ct) _(0)_{:.count} • [Galați](#ro-gl) _(0)_{:.count} • [Tulcea](#ro-tl) _(1)_{:.count} • [Vrancea](#ro-vn) _(1)_{:.count} • [Argeș](#ro-ag) _(1)_{:.count} • [Călărași](#ro-cl) _(1)_{:.count} • [Dâmbovița](#ro-db) _(1)_{:.count} • [Giurgiu](#ro-gr) _(1)_{:.count} • [Ialomița](#ro-il) _(1)_{:.count} • [Prahova](#ro-ph) _(1)_{:.count} • [Teleorman](#ro-tr) _(1)_{:.count} • [București](#ro-bb) _(1)_{:.count} • [Ilfov](#ro-if) _(0)_{:.count} • [Dolj](#ro-dj) _(1)_{:.count} • [Gorj](#ro-gj) _(1)_{:.count} • [Mehedinți](#ro-mh) _(1)_{:.count} • [Olt](#ro-ot) _(1)_{:.count} • [Vâlcea](#ro-vl) _(1)_{:.count} • [Arad](#ro-ar) _(1)_{:.count} • [Caraș-Severin](#ro-cs) _(0)_{:.count} • [Hunedoara](#ro-hd) _(1)_{:.count} • [Timiș](#ro-tm) _(1)_{:.count}
+[Bihor](#ro-bh) _(1)_{:.count} • [Bistrița-Năsăud](#ro-bn) _(1)_{:.count} • [Cluj](#ro-cj) _(2)_{:.count} • [Maramureș](#ro-mm) _(1)_{:.count} • [Satu Mare](#ro-sm) _(1)_{:.count} • [Sălaj](#ro-sj) _(1)_{:.count} • [Alba](#ro-ab) _(1)_{:.count} • [Brașov](#ro-bv) _(1)_{:.count} • [Covasna](#ro-cv) _(1)_{:.count} • [Harghita](#ro-hr) _(1)_{:.count} • [Mureș](#ro-ms) _(1)_{:.count} • [Sibiu](#ro-sb) _(1)_{:.count} • [Bacău](#ro-bc) _(1)_{:.count} • [Botoșani](#ro-bt) _(1)_{:.count} • [Iași](#ro-is) _(1)_{:.count} • [Neamț](#ro-nt) _(1)_{:.count} • [Suceava](#ro-sv) _(1)_{:.count} • [Vaslui](#ro-vs) _(1)_{:.count} • [Brăila](#ro-br) _(1)_{:.count} • [Buzău](#ro-bz) _(1)_{:.count} • [Constanța](#ro-ct) _(1)_{:.count} • [Galați](#ro-gl) _(1)_{:.count} • [Tulcea](#ro-tl) _(1)_{:.count} • [Vrancea](#ro-vn) _(1)_{:.count} • [Argeș](#ro-ag) _(1)_{:.count} • [Călărași](#ro-cl) _(1)_{:.count} • [Dâmbovița](#ro-db) _(1)_{:.count} • [Giurgiu](#ro-gr) _(1)_{:.count} • [Ialomița](#ro-il) _(1)_{:.count} • [Prahova](#ro-ph) _(1)_{:.count} • [Teleorman](#ro-tr) _(1)_{:.count} • [București](#ro-b) _(1)_{:.count} • [Ilfov](#ro-if) _(0)_{:.count} • [Dolj](#ro-dj) _(1)_{:.count} • [Gorj](#ro-gj) _(1)_{:.count} • [Mehedinți](#ro-mh) _(1)_{:.count} • [Olt](#ro-ot) _(1)_{:.count} • [Vâlcea](#ro-vl) _(1)_{:.count} • [Arad](#ro-ar) _(1)_{:.count} • [Caraș-Severin](#ro-cs) _(1)_{:.count} • [Hunedoara](#ro-hd) _(1)_{:.count} • [Timiș](#ro-tm) _(1)_{:.count}
+
+
+.. 
+.. 
 
 
 
+.. 
 
-### Bihor _(1)_{:.count}
+
+### _(bh)_{:.key} Bihor  ++
+_(1)_{:.count}    7544 km2   pop
 {: #ro-bh }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Oradea  {: .city #oradea } <br>
-
-</div>
+..
+..
+Oradea  ++
+ ++
+•
 
 
 
-### Bistrița-Năsăud _(0)_{:.count}
+
+### _(bn)_{:.key} Bistrița-Năsăud  ++
+_(1)_{:.count}    5355 km2   pop
 {: #ro-bn }
 
 
+..
+..
+Bistrița  ++
+ ++
+•
 
 
-<div class='columns2' markdown='1'>
 
 
-</div>
-
-
-
-### Cluj _(2)_{:.count}
+### _(cj)_{:.key} Cluj  ++
+_(2)_{:.count}    6674 km2   pop
 {: #ro-cj }
 
 
-[Cluj](#cluj) • [Cluj-Napoca](#clujnapoca)
+..
+..
+Cluj  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Cluj  {: .city #cluj } <br>
-
-Cluj-Napoca  {: .city #clujnapoca } <br>
-
-</div>
+..
+..
+Cluj-Napoca  ++
+ ++
+•
 
 
 
-### Maramureș _(1)_{:.count}
+
+### _(mm)_{:.key} Maramureș  ++
+_(1)_{:.count}    6304 km2   pop
 {: #ro-mm }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Baia Mare  {: .city #baiamare } <br>
-
-</div>
+..
+..
+Baia Mare  ++
+ ++
+•
 
 
 
-### Satu Mare _(1)_{:.count}
+
+### _(sm)_{:.key} Satu Mare  ++
+_(1)_{:.count}    4418 km2   pop
 {: #ro-sm }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Satu Mare  {: .city #satumare } <br>
-
-</div>
+..
+..
+Satu Mare  ++
+ ++
+•
 
 
 
-### Sălaj _(1)_{:.count}
+
+### _(sj)_{:.key} Sălaj  ++
+_(1)_{:.count}    3864 km2   pop
 {: #ro-sj }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Zalău  {: .city #zalau } <br>
-
-</div>
+..
+..
+Zalău  ++
+ ++
+•
 
 
 
-### Alba _(1)_{:.count}
+
+### _(ab)_{:.key} Alba  ++
+_(1)_{:.count}    6242 km2   pop
 {: #ro-ab }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Alba Iulia  {: .city #albaiulia } <br>
-
-</div>
+..
+..
+Alba Iulia  ++
+ ++
+•
 
 
 
-### Brașov _(1)_{:.count}
+
+### _(bv)_{:.key} Brașov  ++
+_(1)_{:.count}    5363 km2   pop
 {: #ro-bv }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Brașov  {: .city #brasov } <br>
-
-</div>
+..
+..
+Brașov  ++
+ ++
+•
 
 
 
-### Covasna _(1)_{:.count}
+
+### _(cv)_{:.key} Covasna  ++
+_(1)_{:.count}    3710 km2   pop
 {: #ro-cv }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Sfântu Gheorghe  {: .city #sfantugheorghe } <br>
-
-</div>
+..
+..
+Sfântu Gheorghe  ++
+ ++
+•
 
 
 
-### Harghita _(1)_{:.count}
+
+### _(hr)_{:.key} Harghita  ++
+_(1)_{:.count}    6639 km2   pop
 {: #ro-hr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Miercurea-Ciuc  {: .city #miercureaciuc } <br>
-
-</div>
+..
+..
+Miercurea-Ciuc  ++
+ ++
+•
 
 
 
-### Mureș _(1)_{:.count}
+
+### _(ms)_{:.key} Mureș  ++
+_(1)_{:.count}    6714 km2   pop
 {: #ro-ms }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Târgu Mureș  {: .city #targumures } <br>
-
-</div>
+..
+..
+Târgu Mureș  ++
+ ++
+•
 
 
 
-### Sibiu _(1)_{:.count}
+
+### _(sb)_{:.key} Sibiu  ++
+_(1)_{:.count}    5432 km2   pop
 {: #ro-sb }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Sibiu  {: .city #sibiu } <br>
-
-</div>
+..
+..
+Sibiu  ++
+ ++
+•
 
 
 
-### Bacău _(1)_{:.count}
+
+### _(bc)_{:.key} Bacău  ++
+_(1)_{:.count}    6621 km2   pop
 {: #ro-bc }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Bacău  {: .city #bacau } <br>
-
-</div>
+..
+..
+Bacău  ++
+ ++
+•
 
 
 
-### Botoșani _(1)_{:.count}
+
+### _(bt)_{:.key} Botoșani  ++
+_(1)_{:.count}    4986 km2   pop
 {: #ro-bt }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Botoșani  {: .city #botosani } <br>
-
-</div>
+..
+..
+Botoșani  ++
+ ++
+•
 
 
 
-### Iași _(1)_{:.count}
+
+### _(is)_{:.key} Iași  ++
+_(1)_{:.count}    5476 km2   pop
 {: #ro-is }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Iași  {: .city #iasi } <br>
-
-</div>
+..
+..
+Iași  ++
+ ++
+•
 
 
 
-### Neamț _(0)_{:.count}
+
+### _(nt)_{:.key} Neamț  ++
+_(1)_{:.count}    5896 km2   pop
 {: #ro-nt }
 
 
+..
+..
+Piatra-Neamț  ++
+ ++
+•
 
 
-<div class='columns2' markdown='1'>
 
 
-</div>
-
-
-
-### Suceava _(1)_{:.count}
+### _(sv)_{:.key} Suceava  ++
+_(1)_{:.count}    8553 km2   pop
 {: #ro-sv }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Suceava  {: .city #suceava } <br>
-
-</div>
+..
+..
+Suceava  ++
+ ++
+•
 
 
 
-### Vaslui _(1)_{:.count}
+
+### _(vs)_{:.key} Vaslui  ++
+_(1)_{:.count}    5318 km2   pop
 {: #ro-vs }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Vaslui  {: .city #vaslui } <br>
-
-</div>
+..
+..
+Vaslui  ++
+ ++
+•
 
 
 
-### Brăila _(1)_{:.count}
+
+### _(br)_{:.key} Brăila  ++
+_(1)_{:.count}    4766 km2   pop
 {: #ro-br }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Brăila  {: .city #braila } <br>
-
-</div>
+..
+..
+Brăila  ++
+ ++
+•
 
 
 
-### Buzău _(1)_{:.count}
+
+### _(bz)_{:.key} Buzău  ++
+_(1)_{:.count}    6103 km2   pop
 {: #ro-bz }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Buzău  {: .city #buzau } <br>
-
-</div>
+..
+..
+Buzău  ++
+ ++
+•
 
 
 
-### Constanța _(0)_{:.count}
+
+### _(ct)_{:.key} Constanța  ++
+_(1)_{:.count}    7071 km2   pop
 {: #ro-ct }
 
 
+..
+..
+Constanța  ++
+ ++
+•
 
 
-<div class='columns2' markdown='1'>
 
 
-</div>
-
-
-
-### Galați _(0)_{:.count}
+### _(gl)_{:.key} Galați  ++
+_(1)_{:.count}    4466 km2   pop
 {: #ro-gl }
 
 
+..
+..
+Galați  ++
+ ++
+•
 
 
-<div class='columns2' markdown='1'>
 
 
-</div>
-
-
-
-### Tulcea _(1)_{:.count}
+### _(tl)_{:.key} Tulcea  ++
+_(1)_{:.count}    8499 km2   pop
 {: #ro-tl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Tulcea  {: .city #tulcea } <br>
-
-</div>
+..
+..
+Tulcea  ++
+ ++
+•
 
 
 
-### Vrancea _(1)_{:.count}
+
+### _(vn)_{:.key} Vrancea  ++
+_(1)_{:.count}    4857 km2   pop
 {: #ro-vn }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Focșani  {: .city #focsani } <br>
-
-</div>
+..
+..
+Focșani  ++
+ ++
+•
 
 
 
-### Argeș _(1)_{:.count}
+
+### _(ag)_{:.key} Argeș  ++
+_(1)_{:.count}    6826 km2   pop
 {: #ro-ag }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pitești  {: .city #pitesti } <br>
-
-</div>
+..
+..
+Pitești  ++
+ ++
+•
 
 
 
-### Călărași _(1)_{:.count}
+
+### _(cl)_{:.key} Călărași  ++
+_(1)_{:.count}    5088 km2   pop
 {: #ro-cl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Călărași  {: .city #calarasi } <br>
-
-</div>
+..
+..
+Călărași  ++
+ ++
+•
 
 
 
-### Dâmbovița _(1)_{:.count}
+
+### _(db)_{:.key} Dâmbovița  ++
+_(1)_{:.count}    4054 km2   pop
 {: #ro-db }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Târgoviște  {: .city #targoviste } <br>
-
-</div>
+..
+..
+Târgoviște  ++
+ ++
+•
 
 
 
-### Giurgiu _(1)_{:.count}
+
+### _(gr)_{:.key} Giurgiu  ++
+_(1)_{:.count}    3526 km2   pop
 {: #ro-gr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Giurgiu  {: .city #giurgiu } <br>
-
-</div>
+..
+..
+Giurgiu  ++
+ ++
+•
 
 
 
-### Ialomița _(1)_{:.count}
+
+### _(il)_{:.key} Ialomița  ++
+_(1)_{:.count}    4453 km2   pop
 {: #ro-il }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Slobozia  {: .city #slobozia } <br>
-
-</div>
+..
+..
+Slobozia  ++
+ ++
+•
 
 
 
-### Prahova _(1)_{:.count}
+
+### _(ph)_{:.key} Prahova  ++
+_(1)_{:.count}    4716 km2   pop
 {: #ro-ph }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ploiești  {: .city #ploiesti } <br>
-
-</div>
+..
+..
+Ploiești  ++
+ ++
+•
 
 
 
-### Teleorman _(1)_{:.count}
+
+### _(tr)_{:.key} Teleorman  ++
+_(1)_{:.count}    5790 km2   pop
 {: #ro-tr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Alexandria  {: .city #alexandria } <br>
-
-</div>
-
-
-
-### București _(1)_{:.count}
-{: #ro-bb }
+..
+..
+Alexandria  ++
+ ++
+•
 
 
 
 
-<div class='columns2' markdown='1'>
+### _(b)_{:.key} București  ++
+_(1)_{:.count}    238 km2   pop
+{: #ro-b }
 
 
-București [Bucharest]  _pop 1.677.985 (1.931.000)_{:.pop} {: .city #bucuresti } <br>
+..
+..
+București [Bucharest]  ++
+ _pop 1.677.985 (1.931.000)_{:.pop} ++
+•
 
-</div>
 
 
 
-### Ilfov _(0)_{:.count}
+### _(if)_{:.key} Ilfov  ++
+_(0)_{:.count}    1583 km2   pop
 {: #ro-if }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Dolj _(1)_{:.count}
+### _(dj)_{:.key} Dolj  ++
+_(1)_{:.count}    7414 km2   pop
 {: #ro-dj }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Craiova  {: .city #craiova } <br>
-
-</div>
+..
+..
+Craiova  ++
+ ++
+•
 
 
 
-### Gorj _(1)_{:.count}
+
+### _(gj)_{:.key} Gorj  ++
+_(1)_{:.count}    5602 km2   pop
 {: #ro-gj }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Târgu Jiu  {: .city #targujiu } <br>
-
-</div>
+..
+..
+Târgu Jiu  ++
+ ++
+•
 
 
 
-### Mehedinți _(1)_{:.count}
+
+### _(mh)_{:.key} Mehedinți  ++
+_(1)_{:.count}    4933 km2   pop
 {: #ro-mh }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Drobeta-Turnu Severin  {: .city #drobetaturnuseverin } <br>
-
-</div>
+..
+..
+Drobeta-Turnu Severin  ++
+ ++
+•
 
 
 
-### Olt _(1)_{:.count}
+
+### _(ot)_{:.key} Olt  ++
+_(1)_{:.count}    5498 km2   pop
 {: #ro-ot }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Slatina  {: .city #slatina } <br>
-
-</div>
+..
+..
+Slatina  ++
+ ++
+•
 
 
 
-### Vâlcea _(1)_{:.count}
+
+### _(vl)_{:.key} Vâlcea  ++
+_(1)_{:.count}    5765 km2   pop
 {: #ro-vl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Râmnicu Vâlcea  {: .city #ramnicuvalcea } <br>
-
-</div>
+..
+..
+Râmnicu Vâlcea  ++
+ ++
+•
 
 
 
-### Arad _(1)_{:.count}
+
+### _(ar)_{:.key} Arad  ++
+_(1)_{:.count}    7754 km2   pop
 {: #ro-ar }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Arad  {: .city #arad } <br>
-
-</div>
+..
+..
+Arad  ++
+ ++
+•
 
 
 
-### Caraș-Severin _(0)_{:.count}
+
+### _(cs)_{:.key} Caraș-Severin  ++
+_(1)_{:.count}    8520 km2   pop
 {: #ro-cs }
 
 
+..
+..
+Reșița  ++
+ ++
+•
 
 
-<div class='columns2' markdown='1'>
 
 
-</div>
-
-
-
-### Hunedoara _(1)_{:.count}
+### _(hd)_{:.key} Hunedoara  ++
+_(1)_{:.count}    7063 km2   pop
 {: #ro-hd }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Deva  {: .city #deva } <br>
-
-</div>
+..
+..
+Deva  ++
+ ++
+•
 
 
 
-### Timiș _(1)_{:.count}
+
+### _(tm)_{:.key} Timiș  ++
+_(1)_{:.count}    8697 km2   pop
 {: #ro-tm }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Timișoara  {: .city #timisoara } <br>
-
-</div>
+..
+..
+Timișoara  ++
+ ++
+•
 
 
  

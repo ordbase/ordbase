@@ -1,38 +1,91 @@
 ---
-layout: book
+layout: default
 title: South Africa (RSA)
 permalink: /za.html
 ---
 
-## South Africa (RSA) - 0 Regions, 10 Cities
+
+## South Africa   ++
+(RSA)  ++
+-                     ++
+0 Regions, ++
+10 Cities
 {: #za }
 
+.. 
 
 
+
+
+.. 
+.. 
 
 
 ### Uncategorized _(10)_{:.count}
 
 
-Johannesburg  _pop 957.441 (4.434.827)_{:.pop} {: .city #johannesburg } <br>
+..
+..
+Johannesburg  ++
+ _pop 957.441 (4.434.827)_{:.pop} ++
+•
 
-Pretoria  _pop 741.651_{:.pop} {: .city #pretoria } <br>
+..
+..
+Pretoria  ++
+ _pop 741.651_{:.pop} ++
+•
 
-Kaapstad [Cape Town]  _pop (3.740.026)_{:.pop} {: .city #kaapstad } <br>
+..
+..
+Kaapstad [Cape Town]  ++
+ _pop (3.740.026)_{:.pop} ++
+•
 
-Durban  _pop 595.061_{:.pop} {: .city #durban } <br>
+..
+..
+Durban  ++
+ _pop 595.061_{:.pop} ++
+•
 
-Port Elizabeth  _pop 312.392 (1)_{:.pop} {: .city #portelizabeth } <br>
+..
+..
+Port Elizabeth  ++
+ _pop 312.392 (1)_{:.pop} ++
+•
 
-Polokwane  _pop 130.028_{:.pop} {: .city #polokwane } <br>
+..
+..
+Polokwane | Pietersburg  ++
+ _pop 130.028_{:.pop} ++
+•
 
-Nelspruit  _pop 58.672_{:.pop} {: .city #nelspruit } <br>
+..
+..
+Nelspruit | Mbombela  ++
+ _pop 58.672_{:.pop} ++
+•
 
-Bloemfontein  _pop 256.185_{:.pop} {: .city #bloemfontein } <br>
+..
+..
+Bloemfontein  ++
+ _pop 256.185_{:.pop} ++
+•
 
-Rustenburg  _pop 104.612_{:.pop} {: .city #rustenburg } <br>
+..
+..
+Rustenburg  ++
+ _pop 104.612_{:.pop} ++
+•
 
-Vereeniging  _pop (1)_{:.pop} {: .city #vereeniging } <br>
+..
+..
+Vereeniging  ++
+ _pop (1)_{:.pop} ++
+•
 
 
+
+
+.. 
  

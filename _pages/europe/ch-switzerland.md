@@ -1,423 +1,444 @@
 ---
-layout: book
+layout: default
 title: Switzerland (SUI)
 permalink: /ch.html
 ---
 
-## Switzerland (SUI) - 26 Regions, 35 Cities
+
+## Switzerland   ++
+(SUI)  ++
+-                     ++
+26 Regions, ++
+35 Cities
 {: #ch }
 
+.. 
 
 [Glarus](#ch-gl) _(1)_{:.count} • [Schaffhausen](#ch-sh) _(1)_{:.count} • [Appenzell Ausserrhoden](#ch-ar) _(1)_{:.count} • [Appenzell Innerrhoden](#ch-ai) _(1)_{:.count} • [St. Gallen](#ch-sg) _(2)_{:.count} • [Graubünden](#ch-gr) _(1)_{:.count} • [Thurgau](#ch-tg) _(1)_{:.count} • [Zürich](#ch-zh) _(2)_{:.count} • [Luzern](#ch-lu) _(1)_{:.count} • [Uri](#ch-ur) _(1)_{:.count} • [Schwyz](#ch-sz) _(1)_{:.count} • [Obwalden](#ch-ow) _(1)_{:.count} • [Nidwalden](#ch-nw) _(1)_{:.count} • [Zug](#ch-zg) _(1)_{:.count} • [Basel-Stadt](#ch-bs) _(1)_{:.count} • [Basel-Landschaft](#ch-bl) _(1)_{:.count} • [Aargau](#ch-ag) _(2)_{:.count} • [Bern](#ch-be) _(3)_{:.count} • [Fribourg](#ch-fr) _(1)_{:.count} • [Solothurn](#ch-so) _(1)_{:.count} • [Neuchâtel](#ch-ne) _(1)_{:.count} • [Jura](#ch-ju) _(1)_{:.count} • [Vaud](#ch-vd) _(1)_{:.count} • [Valais](#ch-vs) _(2)_{:.count} • [Genève](#ch-ge) _(1)_{:.count} • [Ticino](#ch-ti) _(4)_{:.count}
 
 
+.. 
+.. 
 
 
-### Glarus _(1)_{:.count}
+
+.. 
+
+
+### _(gl)_{:.key} Glarus  ++
+_(1)_{:.count}    685 km2   pop
 {: #ch-gl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Glarus  {: .city #glarus } <br>
-
-</div>
+..
+..
+Glarus  ++
+ ++
+•
 
 
 
-### Schaffhausen _(1)_{:.count}
+
+### _(sh)_{:.key} Schaffhausen  ++
+_(1)_{:.count}    298 km2   pop
 {: #ch-sh }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Schaffhausen  {: .city #schaffhausen } <br>
-
-</div>
+..
+..
+Schaffhausen  ++
+ ++
+•
 
 
 
-### Appenzell Ausserrhoden | Ap. Ausserrhoden _(1)_{:.count}
+
+### _(ar)_{:.key} Appenzell Ausserrhoden | Ap. Ausserrhoden  ++
+_(1)_{:.count}    243 km2   pop
 {: #ch-ar }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Herisau  {: .city #herisau } <br>
-
-</div>
+..
+..
+Herisau  ++
+ ++
+•
 
 
 
-### Appenzell Innerrhoden | Ap. Innerrhoden _(1)_{:.count}
+
+### _(ai)_{:.key} Appenzell Innerrhoden | Ap. Innerrhoden  ++
+_(1)_{:.count}    173 km2   pop
 {: #ch-ai }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Appenzell  {: .city #appenzell } <br>
-
-</div>
+..
+..
+Appenzell  ++
+ ++
+•
 
 
 
-### St. Gallen _(2)_{:.count}
+
+### _(sg)_{:.key} St. Gallen  ++
+_(2)_{:.count}    2026 km2   pop
 {: #ch-sg }
 
 
-[St. Gallen](#stgallen) • [Wil](#wil)
+..
+..
+St. Gallen  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-St. Gallen  {: .city #stgallen } <br>
-
-Wil  {: .city #wil } <br>
-
-</div>
+..
+..
+Wil  ++
+ ++
+•
 
 
 
-### Graubünden _(1)_{:.count}
+
+### _(gr)_{:.key} Graubünden  ++
+_(1)_{:.count}    7105 km2   pop
 {: #ch-gr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Chur  {: .city #chur } <br>
-
-</div>
+..
+..
+Chur  ++
+ ++
+•
 
 
 
-### Thurgau _(1)_{:.count}
+
+### _(tg)_{:.key} Thurgau  ++
+_(1)_{:.count}    991 km2   pop
 {: #ch-tg }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Frauenfeld  {: .city #frauenfeld } <br>
-
-</div>
+..
+..
+Frauenfeld  ++
+ ++
+•
 
 
 
-### Zürich _(2)_{:.count}
+
+### _(zh)_{:.key} Zürich  ++
+_(2)_{:.count}    1729 km2   pop
 {: #ch-zh }
 
 
-[Winterthur](#winterthur) • [Zürich](#zuerich)
+..
+..
+Winterthur  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Winterthur  {: .city #winterthur } <br>
-
-Zürich  _pop (742.000)_{:.pop} {: .city #zuerich } <br>
-
-</div>
+..
+..
+Zürich  ++
+ _pop (742.000)_{:.pop} ++
+•
 
 
 
-### Luzern _(1)_{:.count}
+
+### _(lu)_{:.key} Luzern  ++
+_(1)_{:.count}    1493 km2   pop
 {: #ch-lu }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Luzern  {: .city #luzern } <br>
-
-</div>
+..
+..
+Luzern  ++
+ ++
+•
 
 
 
-### Uri _(1)_{:.count}
+
+### _(ur)_{:.key} Uri  ++
+_(1)_{:.count}    1077 km2   pop
 {: #ch-ur }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Altdorf  {: .city #altdorf } <br>
-
-</div>
+..
+..
+Altdorf  ++
+ ++
+•
 
 
 
-### Schwyz _(1)_{:.count}
+
+### _(sz)_{:.key} Schwyz  ++
+_(1)_{:.count}    908 km2   pop
 {: #ch-sz }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Schwyz  {: .city #schwyz } <br>
-
-</div>
+..
+..
+Schwyz  ++
+ ++
+•
 
 
 
-### Obwalden _(1)_{:.count}
+
+### _(ow)_{:.key} Obwalden  ++
+_(1)_{:.count}    491 km2   pop
 {: #ch-ow }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Sarnen  {: .city #sarnen } <br>
-
-</div>
+..
+..
+Sarnen  ++
+ ++
+•
 
 
 
-### Nidwalden _(1)_{:.count}
+
+### _(nw)_{:.key} Nidwalden  ++
+_(1)_{:.count}    276 km2   pop
 {: #ch-nw }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Stans  {: .city #stans } <br>
-
-</div>
+..
+..
+Stans  ++
+ ++
+•
 
 
 
-### Zug _(1)_{:.count}
+
+### _(zg)_{:.key} Zug  ++
+_(1)_{:.count}    239 km2   pop
 {: #ch-zg }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Zug  {: .city #zug } <br>
-
-</div>
+..
+..
+Zug  ++
+ ++
+•
 
 
 
-### Basel-Stadt _(1)_{:.count}
+
+### _(bs)_{:.key} Basel-Stadt  ++
+_(1)_{:.count}    37 km2   pop
 {: #ch-bs }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Basel  {: .city #basel } <br>
-
-</div>
+..
+..
+Basel  ++
+ ++
+•
 
 
 
-### Basel-Landschaft _(1)_{:.count}
+
+### _(bl)_{:.key} Basel-Landschaft  ++
+_(1)_{:.count}    518 km2   pop
 {: #ch-bl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Liestal  {: .city #liestal } <br>
-
-</div>
+..
+..
+Liestal  ++
+ ++
+•
 
 
 
-### Aargau _(2)_{:.count}
+
+### _(ag)_{:.key} Aargau  ++
+_(2)_{:.count}    1404 km2   pop
 {: #ch-ag }
 
 
-[Aarau](#aarau) • [Wohlen](#wohlen)
+..
+..
+Aarau  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Aarau  {: .city #aarau } <br>
-
-Wohlen  {: .city #wohlen } <br>
-
-</div>
+..
+..
+Wohlen  ++
+ ++
+•
 
 
 
-### Bern _(3)_{:.count}
+
+### _(be)_{:.key} Bern  ++
+_(3)_{:.count}    5959 km2   pop
 {: #ch-be }
 
 
-[Bern](#bern) • [Biel-Bienne](#biel) • [Thun](#thun)
+..
+..
+Bern  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Biel-Bienne  ++
+ ++
+•
+
+..
+..
+Thun  ++
+ ++
+•
 
 
-Bern  {: .city #bern } <br>
-
-Biel-Bienne  {: .city #biel } <br>
-
-Thun  {: .city #thun } <br>
-
-</div>
 
 
-
-### Fribourg | Freiburg _(1)_{:.count}
+### _(fr)_{:.key} Fribourg | Freiburg  ++
+_(1)_{:.count}    1671 km2   pop
 {: #ch-fr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Fribourg  {: .city #fribourg } <br>
-
-</div>
+..
+..
+Fribourg  ++
+ ++
+•
 
 
 
-### Solothurn _(1)_{:.count}
+
+### _(so)_{:.key} Solothurn  ++
+_(1)_{:.count}    791 km2   pop
 {: #ch-so }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Solothurn  {: .city #solothurn } <br>
-
-</div>
+..
+..
+Solothurn  ++
+ ++
+•
 
 
 
-### Neuchâtel | Neuenburg _(1)_{:.count}
+
+### _(ne)_{:.key} Neuchâtel | Neuenburg  ++
+_(1)_{:.count}    803 km2   pop
 {: #ch-ne }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Neuchâtel  {: .city #neuchatel } <br>
-
-</div>
+..
+..
+Neuchâtel  ++
+ ++
+•
 
 
 
-### Jura _(1)_{:.count}
+
+### _(ju)_{:.key} Jura  ++
+_(1)_{:.count}    838 km2   pop
 {: #ch-ju }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Delsberg  {: .city #delsberg } <br>
-
-</div>
+..
+..
+Delsberg  ++
+ ++
+•
 
 
 
-### Vaud | Waadt _(1)_{:.count}
+
+### _(vd)_{:.key} Vaud | Waadt  ++
+_(1)_{:.count}    3212 km2   pop
 {: #ch-vd }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Lausanne  {: .city #lausanne } <br>
-
-</div>
+..
+..
+Lausanne  ++
+ ++
+•
 
 
 
-### Valais | Wallis _(2)_{:.count}
+
+### _(vs)_{:.key} Valais | Wallis  ++
+_(2)_{:.count}    5224 km2   pop
 {: #ch-vs }
 
 
-[Sion](#sion) • [Sitten](#sitten)
+..
+..
+Sion  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Sion  {: .city #sion } <br>
-
-Sitten  {: .city #sitten } <br>
-
-</div>
+..
+..
+Sitten  ++
+ ++
+•
 
 
 
-### Genève | Genf _(1)_{:.count}
+
+### _(ge)_{:.key} Genève | Genf  ++
+_(1)_{:.count}    282 km2   pop
 {: #ch-ge }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Genève  {: .city #geneve } <br>
-
-</div>
+..
+..
+Genève  ++
+ ++
+•
 
 
 
-### Ticino | Tessin _(4)_{:.count}
+
+### _(ti)_{:.key} Ticino | Tessin  ++
+_(4)_{:.count}    2812 km2   pop
 {: #ch-ti }
 
 
-[Bellinzona](#bellinzona) • [Chiasso](#chiasso) • [Locarno](#locarno) • [Lugano](#lugano)
+..
+..
+Bellinzona  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Chiasso  ++
+ ++
+•
 
+..
+..
+Locarno  ++
+ ++
+•
 
-Bellinzona  {: .city #bellinzona } <br>
-
-Chiasso  {: .city #chiasso } <br>
-
-Locarno  {: .city #locarno } <br>
-
-Lugano  {: .city #lugano } <br>
-
-</div>
+..
+..
+Lugano  ++
+ ++
+•
 
 
  

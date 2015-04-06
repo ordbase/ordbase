@@ -1,425 +1,388 @@
 ---
-layout: book
+layout: default
 title: Bulgaria (BUL)
 permalink: /bg.html
 ---
 
-## Bulgaria (BUL) - 28 Regions, 23 Cities
+
+## Bulgaria   ++
+(BUL)  ++
+-                     ++
+28 Regions, ++
+23 Cities
 {: #bg }
 
+.. 
 
 [Sofija City](#bg-so) _(1)_{:.count} • [Sofija Province](#bg-sf) _(0)_{:.count} • [Blagoevgrad](#bg-bl) _(1)_{:.count} • [Pernik](#bg-pe) _(1)_{:.count} • [Kyustendil](#bg-ky) _(1)_{:.count} • [Plovdiv](#bg-pv) _(2)_{:.count} • [Haskovo](#bg-ha) _(1)_{:.count} • [Pazardzhik](#bg-pa) _(1)_{:.count} • [Smolyan](#bg-sm) _(0)_{:.count} • [Kardzhali](#bg-ka) _(1)_{:.count} • [Vidin](#bg-vi) _(1)_{:.count} • [Montana](#bg-mo) _(1)_{:.count} • [Vratsa](#bg-vr) _(1)_{:.count} • [Pleven](#bg-pl) _(1)_{:.count} • [Lovech](#bg-lo) _(0)_{:.count} • [Veliko Tarnovo](#bg-ve) _(1)_{:.count} • [Gabrovo](#bg-ga) _(1)_{:.count} • [Ruse](#bg-ru) _(1)_{:.count} • [Razgrad](#bg-ra) _(0)_{:.count} • [Silistra](#bg-si) _(0)_{:.count} • [Varna](#bg-va) _(1)_{:.count} • [Dobrich](#bg-do) _(1)_{:.count} • [Shumen](#bg-sh) _(1)_{:.count} • [Targovishte](#bg-ta) _(0)_{:.count} • [Burgas](#bg-bu) _(1)_{:.count} • [Sliven](#bg-sl) _(1)_{:.count} • [Yambol](#bg-ya) _(1)_{:.count} • [Stara Zagora](#bg-sz) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### Sofija City _(1)_{:.count}
+
+.. 
+
+
+### _(so)_{:.key} Sofija City  ++
+_(1)_{:.count}    1349 km2   pop
 {: #bg-so }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Sofija [Sofia]  _pop 1.204.685 (1)_{:.pop} {: .city #sofija } <br>
-
-</div>
+..
+..
+Sofija [Sofia]  ++
+ _pop 1.204.685 (1)_{:.pop} ++
+•
 
 
 
-### Sofija Province _(0)_{:.count}
+
+### _(sf)_{:.key} Sofija Province  ++
+_(0)_{:.count}    7277 km2   pop
 {: #bg-sf }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Blagoevgrad _(1)_{:.count}
+### _(bl)_{:.key} Blagoevgrad  ++
+_(1)_{:.count}    6478 km2   pop
 {: #bg-bl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Blagoevgrad  _pop 70.881_{:.pop} {: .city #blagoevgrad } <br>
-
-</div>
+..
+..
+Blagoevgrad  ++
+ _pop 70.881_{:.pop} ++
+•
 
 
 
-### Pernik _(1)_{:.count}
+
+### _(pe)_{:.key} Pernik  ++
+_(1)_{:.count}    2377 km2   pop
 {: #bg-pe }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pernik  _pop 80.191_{:.pop} {: .city #pernik } <br>
-
-</div>
+..
+..
+Pernik  ++
+ _pop 80.191_{:.pop} ++
+•
 
 
 
-### Kyustendil _(1)_{:.count}
+
+### _(ky)_{:.key} Kyustendil  ++
+_(1)_{:.count}    3027 km2   pop
 {: #bg-ky }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Kyustendil  {: .city #kyustendil } <br>
-
-</div>
+..
+..
+Kyustendil  ++
+ ++
+•
 
 
 
-### Plovdiv _(2)_{:.count}
+
+### _(pv)_{:.key} Plovdiv  ++
+_(2)_{:.count}    5973 km2   pop
 {: #bg-pv }
 
 
-[Asenovgrad](#asenovgrad) • [Plovdiv](#plovdiv)
+..
+..
+Asenovgrad  ++
+ _pop 50.846_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Asenovgrad  _pop 50.846_{:.pop} {: .city #asenovgrad } <br>
-
-Plovdiv  _pop 338.153 (403.153)_{:.pop} {: .city #plovdiv } <br>
-
-</div>
+..
+..
+Plovdiv  ++
+ _pop 338.153 (403.153)_{:.pop} ++
+•
 
 
 
-### Haskovo _(1)_{:.count}
+
+### _(ha)_{:.key} Haskovo  ++
+_(1)_{:.count}    4033 km2   pop
 {: #bg-ha }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Haskovo  _pop 76.397_{:.pop} {: .city #haskovo } <br>
-
-</div>
+..
+..
+Haskovo  ++
+ _pop 76.397_{:.pop} ++
+•
 
 
 
-### Pazardzhik _(1)_{:.count}
+
+### _(pa)_{:.key} Pazardzhik  ++
+_(1)_{:.count}    4393 km2   pop
 {: #bg-pa }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pazardzhik  _pop 71.979_{:.pop} {: .city #pazardzhik } <br>
-
-</div>
+..
+..
+Pazardzhik  ++
+ _pop 71.979_{:.pop} ++
+•
 
 
 
-### Smolyan _(0)_{:.count}
+
+### _(sm)_{:.key} Smolyan  ++
+_(0)_{:.count}    3532 km2   pop
 {: #bg-sm }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Kardzhali _(1)_{:.count}
+### _(ka)_{:.key} Kardzhali  ++
+_(1)_{:.count}    4032 km2   pop
 {: #bg-ka }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Kardzhali  {: .city #kardzhali } <br>
-
-</div>
+..
+..
+Kardzhali  ++
+ ++
+•
 
 
 
-### Vidin _(1)_{:.count}
+
+### _(vi)_{:.key} Vidin  ++
+_(1)_{:.count}    3071 km2   pop
 {: #bg-vi }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Vidin  {: .city #vidin } <br>
-
-</div>
+..
+..
+Vidin  ++
+ ++
+•
 
 
 
-### Montana _(1)_{:.count}
+
+### _(mo)_{:.key} Montana  ++
+_(1)_{:.count}    3595 km2   pop
 {: #bg-mo }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Montana  {: .city #montana } <br>
-
-</div>
+..
+..
+Montana  ++
+ ++
+•
 
 
 
-### Vratsa _(1)_{:.count}
+
+### _(vr)_{:.key} Vratsa  ++
+_(1)_{:.count}    4098 km2   pop
 {: #bg-vr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Vratsa  _pop 60.692_{:.pop} {: .city #vratsa } <br>
-
-</div>
+..
+..
+Vratsa  ++
+ _pop 60.692_{:.pop} ++
+•
 
 
 
-### Pleven _(1)_{:.count}
+
+### _(pl)_{:.key} Pleven  ++
+_(1)_{:.count}    4216 km2   pop
 {: #bg-pl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pleven  _pop 106.954_{:.pop} {: .city #pleven } <br>
-
-</div>
+..
+..
+Pleven  ++
+ _pop 106.954_{:.pop} ++
+•
 
 
 
-### Lovech _(0)_{:.count}
+
+### _(lo)_{:.key} Lovech  ++
+_(0)_{:.count}    4134 km2   pop
 {: #bg-lo }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Veliko Tarnovo _(1)_{:.count}
+### _(ve)_{:.key} Veliko Tarnovo  ++
+_(1)_{:.count}    4684 km2   pop
 {: #bg-ve }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Veliko Tarnovo  _pop 68.783_{:.pop} {: .city #velikotarnovo } <br>
-
-</div>
+..
+..
+Veliko Tarnovo  ++
+ _pop 68.783_{:.pop} ++
+•
 
 
 
-### Gabrovo _(1)_{:.count}
+
+### _(ga)_{:.key} Gabrovo  ++
+_(1)_{:.count}    2053 km2   pop
 {: #bg-ga }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Gabrovo  _pop 58.930_{:.pop} {: .city #gabrovo } <br>
-
-</div>
+..
+..
+Gabrovo  ++
+ _pop 58.930_{:.pop} ++
+•
 
 
 
-### Ruse _(1)_{:.count}
+
+### _(ru)_{:.key} Ruse  ++
+_(1)_{:.count}    2616 km2   pop
 {: #bg-ru }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ruse  _pop 149.642_{:.pop} {: .city #ruse } <br>
-
-</div>
+..
+..
+Ruse  ++
+ _pop 149.642_{:.pop} ++
+•
 
 
 
-### Razgrad _(0)_{:.count}
+
+### _(ra)_{:.key} Razgrad  ++
+_(0)_{:.count}    2648 km2   pop
 {: #bg-ra }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Silistra _(0)_{:.count}
+### _(si)_{:.key} Silistra  ++
+_(0)_{:.count}    2862 km2   pop
 {: #bg-si }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Varna _(1)_{:.count}
+### _(va)_{:.key} Varna  ++
+_(1)_{:.count}    3819 km2   pop
 {: #bg-va }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Varna  _pop 334.870 (343.643)_{:.pop} {: .city #varna } <br>
-
-</div>
+..
+..
+Varna  ++
+ _pop 334.870 (343.643)_{:.pop} ++
+•
 
 
 
-### Dobrich _(1)_{:.count}
+
+### _(do)_{:.key} Dobrich  ++
+_(1)_{:.count}    4700 km2   pop
 {: #bg-do }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Dobrich  _pop 91.030_{:.pop} {: .city #dobrich } <br>
-
-</div>
+..
+..
+Dobrich  ++
+ _pop 91.030_{:.pop} ++
+•
 
 
 
-### Shumen _(1)_{:.count}
+
+### _(sh)_{:.key} Shumen  ++
+_(1)_{:.count}    3365 km2   pop
 {: #bg-sh }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Shumen  _pop 80.855_{:.pop} {: .city #shumen } <br>
-
-</div>
+..
+..
+Shumen  ++
+ _pop 80.855_{:.pop} ++
+•
 
 
 
-### Targovishte _(0)_{:.count}
+
+### _(ta)_{:.key} Targovishte  ++
+_(0)_{:.count}    2735 km2   pop
 {: #bg-ta }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Burgas _(1)_{:.count}
+### _(bu)_{:.key} Burgas  ++
+_(1)_{:.count}    7618 km2   pop
 {: #bg-bu }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Burgas  _pop 200.271 (212.902)_{:.pop} {: .city #burgas } <br>
-
-</div>
+..
+..
+Burgas  ++
+ _pop 200.271 (212.902)_{:.pop} ++
+•
 
 
 
-### Sliven _(1)_{:.count}
+
+### _(sl)_{:.key} Sliven  ++
+_(1)_{:.count}    3646 km2   pop
 {: #bg-sl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Sliven  _pop 91.620_{:.pop} {: .city #sliven } <br>
-
-</div>
+..
+..
+Sliven  ++
+ _pop 91.620_{:.pop} ++
+•
 
 
 
-### Yambol _(1)_{:.count}
+
+### _(ya)_{:.key} Yambol  ++
+_(1)_{:.count}    4209 km2   pop
 {: #bg-ya }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Yambol  _pop 74.132_{:.pop} {: .city #yambol } <br>
-
-</div>
+..
+..
+Yambol  ++
+ _pop 74.132_{:.pop} ++
+•
 
 
 
-### Stara Zagora _(1)_{:.count}
+
+### _(sz)_{:.key} Stara Zagora  ++
+_(1)_{:.count}    4959 km2   pop
 {: #bg-sz }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Stara Zagora  _pop 138.272_{:.pop} {: .city #starazagora } <br>
-
-</div>
+..
+..
+Stara Zagora  ++
+ _pop 138.272_{:.pop} ++
+•
 
 
  

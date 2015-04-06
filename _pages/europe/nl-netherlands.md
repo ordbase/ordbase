@@ -1,202 +1,211 @@
 ---
-layout: book
+layout: default
 title: Netherlands (NED)
 permalink: /nl.html
 ---
 
-## Netherlands (NED) - 12 Regions, 14 Cities
+
+## Netherlands   ++
+(NED)  ++
+-                     ++
+12 Regions, ++
+14 Cities
 {: #nl }
 
+.. 
 
 [Groningen](#nl-gr) _(1)_{:.count} • [Fryslân [Friesland]](#nl-fr) _(1)_{:.count} • [Drenthe](#nl-dr) _(1)_{:.count} • [Overijssel](#nl-ov) _(1)_{:.count} • [Gelderland](#nl-ge) _(1)_{:.count} • [Flevoland](#nl-fl) _(1)_{:.count} • [Utrecht](#nl-ut) _(0)_{:.count} • [Noord-Holland [North Holland]](#nl-nh) _(1)_{:.count} • [Zuid-Holland [South Holland]](#nl-zh) _(0)_{:.count} • [Zeeland](#nl-ze) _(0)_{:.count} • [Noord-Brabant [North Brabant]](#nl-nb) _(1)_{:.count} • [Limburg](#nl-li) _(1)_{:.count} • **Uncategorized** _(5)_{:.count}
+
+
+.. 
+.. 
 
 
 ### Uncategorized _(5)_{:.count}
 
 
-Rotterdam-Den Haag [Rotterdam-The Hague]  _pop (2.113.000)_{:.pop} {: .city #rotterdamdenhaag } <br>
+..
+..
+Rotterdam-Den Haag [Rotterdam-The Hague]  ++
+ _pop (2.113.000)_{:.pop} ++
+•
 
-Amsterdam  _pop (1.050.000)_{:.pop} {: .city #amsterdam } <br>
+..
+..
+Amsterdam  ++
+ _pop (1.050.000)_{:.pop} ++
+•
 
-Rotterdam  {: .city #rotterdam } <br>
+..
+..
+Rotterdam  ++
+ ++
+•
 
-Den Haag  {: .city #denhaag } <br>
+..
+..
+Den Haag | 's-Gravenhage [The Hague]  ++
+ ++
+•
 
-Alkmaar  {: .city #alkmaar } <br>
+..
+..
+Alkmaar  ++
+ ++
+•
 
 
 
-### Groningen _(1)_{:.count}
+
+.. 
+
+
+### _(gr)_{:.key} Groningen  ++
+_(1)_{:.count}    2333 km2  576668 pop
 {: #nl-gr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Groningen  {: .city #groningen } <br>
-
-</div>
+..
+..
+Groningen  ++
+ ++
+•
 
 
 
-### Fryslân [Friesland] _(1)_{:.count}
+
+### _(fr)_{:.key} Fryslân [Friesland]  ++
+_(1)_{:.count}    3341 km2  646305 pop
 {: #nl-fr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Leeuwarden  {: .city #leeuwarden } <br>
-
-</div>
+..
+..
+Leeuwarden  ++
+ ++
+•
 
 
 
-### Drenthe _(1)_{:.count}
+
+### _(dr)_{:.key} Drenthe  ++
+_(1)_{:.count}    2641 km2  490981 pop
 {: #nl-dr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Assen  {: .city #assen } <br>
-
-</div>
+..
+..
+Assen  ++
+ ++
+•
 
 
 
-### Overijssel _(1)_{:.count}
+
+### _(ov)_{:.key} Overijssel  ++
+_(1)_{:.count}    3325 km2  1130345 pop
 {: #nl-ov }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Zwolle  {: .city #zwolle } <br>
-
-</div>
+..
+..
+Zwolle  ++
+ ++
+•
 
 
 
-### Gelderland _(1)_{:.count}
+
+### _(ge)_{:.key} Gelderland  ++
+_(1)_{:.count}    4971 km2  1998936 pop
 {: #nl-ge }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Arnhem  {: .city #arnhem } <br>
-
-</div>
+..
+..
+Arnhem  ++
+ ++
+•
 
 
 
-### Flevoland _(1)_{:.count}
+
+### _(fl)_{:.key} Flevoland  ++
+_(1)_{:.count}    1417 km2  387881 pop
 {: #nl-fl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Lelystad  {: .city #lelystad } <br>
-
-</div>
+..
+..
+Lelystad  ++
+ ++
+•
 
 
 
-### Utrecht _(0)_{:.count}
+
+### _(ut)_{:.key} Utrecht  ++
+_(0)_{:.count}     km2   pop
 {: #nl-ut }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Noord-Holland [North Holland] _(1)_{:.count}
+### _(nh)_{:.key} Noord-Holland [North Holland]  ++
+_(1)_{:.count}    2671 km2  2669084 pop
 {: #nl-nh }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Haarlem  {: .city #haarlem } <br>
-
-</div>
+..
+..
+Haarlem  ++
+ ++
+•
 
 
 
-### Zuid-Holland [South Holland] _(0)_{:.count}
+
+### _(zh)_{:.key} Zuid-Holland [South Holland]  ++
+_(0)_{:.count}     km2   pop
 {: #nl-zh }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Zeeland _(0)_{:.count}
+### _(ze)_{:.key} Zeeland  ++
+_(0)_{:.count}     km2   pop
 {: #nl-ze }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Noord-Brabant [North Brabant] _(1)_{:.count}
+### _(nb)_{:.key} Noord-Brabant [North Brabant]  ++
+_(1)_{:.count}    4916 km2  2444158 pop
 {: #nl-nb }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-'s-Hertogenbosch  {: .city #shertogenbosch } <br>
-
-</div>
+..
+..
+'s-Hertogenbosch  ++
+ ++
+•
 
 
 
-### Limburg _(1)_{:.count}
+
+### _(li)_{:.key} Limburg  ++
+_(1)_{:.count}    2150 km2  1122701 pop
 {: #nl-li }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Maastricht  {: .city #maastricht } <br>
-
-</div>
+..
+..
+Maastricht  ++
+ ++
+•
 
 
  

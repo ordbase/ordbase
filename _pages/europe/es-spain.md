@@ -1,304 +1,304 @@
 ---
-layout: book
+layout: default
 title: Spain (ESP)
 permalink: /es.html
 ---
 
-## Spain (ESP) - 19 Regions, 21 Cities
+
+## Spain   ++
+(ESP)  ++
+-                     ++
+19 Regions, ++
+21 Cities
 {: #es }
 
+.. 
 
 [Andalucía [Andalusia]](#es-an) _(3)_{:.count} • [Aragón](#es-ar) _(1)_{:.count} • [Asturias](#es-as) _(1)_{:.count} • [Illes Balears [Balearic Islands]](#es-ib) _(1)_{:.count} • [Pais Vasco [Basque Country]](#es-pv) _(2)_{:.count} • [Canarias [Canary Islands]](#es-cn) _(1)_{:.count} • [Cantábria](#es-cb) _(1)_{:.count} • [Castilla y León](#es-cl) _(1)_{:.count} • [Castilla-La Mancha](#es-cm) _(1)_{:.count} • [Cataluña [Catalonia]](#es-ct) _(0)_{:.count} • [Extremadura](#es-ex) _(0)_{:.count} • [Galicia](#es-ga) _(3)_{:.count} • [La Rioja](#es-ri) _(1)_{:.count} • [Madrid](#es-md) _(1)_{:.count} • [Murcia](#es-mc) _(1)_{:.count} • [Navarra](#es-na) _(1)_{:.count} • [Valencia](#es-vc) _(0)_{:.count} • [Ceuta](#es-ce) _(1)_{:.count} • [Melilla](#es-ml) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### Andalucía [Andalusia] _(3)_{:.count}
+
+.. 
+
+
+### _(an)_{:.key} Andalucía [Andalusia]  ++
+_(3)_{:.count}    87598 km2   pop
 {: #es-an }
 
 
-[Granada](#granada) • [Málaga](#malaga) • [Sevilla [Seville]](#sevilla)
+..
+..
+Granada  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Málaga  ++
+ _pop 568.030_{:.pop} ++
+•
+
+..
+..
+Sevilla [Seville]  ++
+ _pop 703.021 (750.000)_{:.pop} ++
+•
 
 
-Granada  {: .city #granada } <br>
-
-Málaga  _pop 568.030_{:.pop} {: .city #malaga } <br>
-
-Sevilla [Seville]  _pop 703.021 (750.000)_{:.pop} {: .city #sevilla } <br>
-
-</div>
 
 
-
-### Aragón _(1)_{:.count}
+### _(ar)_{:.key} Aragón  ++
+_(1)_{:.count}    47720 km2   pop
 {: #es-ar }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Zaragoza  _pop 674.725_{:.pop} {: .city #zaragoza } <br>
-
-</div>
+..
+..
+Zaragoza  ++
+ _pop 674.725_{:.pop} ++
+•
 
 
 
-### Asturias _(1)_{:.count}
+
+### _(as)_{:.key} Asturias  ++
+_(1)_{:.count}    10604 km2   pop
 {: #es-as }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Oviedo  {: .city #oviedo } <br>
-
-</div>
+..
+..
+Oviedo  ++
+ ++
+•
 
 
 
-### Illes Balears [Balearic Islands] _(1)_{:.count}
+
+### _(ib)_{:.key} Illes Balears [Balearic Islands]  ++
+_(1)_{:.count}    4992 km2   pop
 {: #es-ib }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Palma (de Mallorca)  _pop 405.318_{:.pop} {: .city #palma } <br>
-
-</div>
+..
+..
+Palma (de Mallorca)  ++
+ _pop 405.318_{:.pop} ++
+•
 
 
 
-### Pais Vasco [Basque Country] _(2)_{:.count}
+
+### _(pv)_{:.key} Pais Vasco [Basque Country]  ++
+_(2)_{:.count}    7235 km2   pop
 {: #es-pv }
 
 
-[Bilbao](#bilbao) • [San Sebastián](#sansebastian)
+..
+..
+Bilbao  ++
+ _pop 352.700 (750.000)_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Bilbao  _pop 352.700 (750.000)_{:.pop} {: .city #bilbao } <br>
-
-San Sebastián  {: .city #sansebastian } <br>
-
-</div>
+..
+..
+San Sebastián  ++
+ ++
+•
 
 
 
-### Canarias [Canary Islands] _(1)_{:.count}
+
+### _(cn)_{:.key} Canarias [Canary Islands]  ++
+_(1)_{:.count}    7447 km2   pop
 {: #es-cn }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Las Palmas (de Gran Canaria)  _pop 383.343_{:.pop} {: .city #laspalmas } <br>
-
-</div>
+..
+..
+Las Palmas (de Gran Canaria)  ++
+ _pop 383.343_{:.pop} ++
+•
 
 
 
-### Cantábria _(1)_{:.count}
+
+### _(cb)_{:.key} Cantábria  ++
+_(1)_{:.count}    5321 km2   pop
 {: #es-cb }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Santander  {: .city #santander } <br>
-
-</div>
+..
+..
+Santander  ++
+ ++
+•
 
 
 
-### Castilla y León _(1)_{:.count}
+
+### _(cl)_{:.key} Castilla y León  ++
+_(1)_{:.count}    94225 km2   pop
 {: #es-cl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Valladolid  {: .city #valladolid } <br>
-
-</div>
+..
+..
+Valladolid  ++
+ ++
+•
 
 
 
-### Castilla-La Mancha _(1)_{:.count}
+
+### _(cm)_{:.key} Castilla-La Mancha  ++
+_(1)_{:.count}    79462 km2   pop
 {: #es-cm }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Toledo  {: .city #toledo } <br>
-
-</div>
+..
+..
+Toledo  ++
+ ++
+•
 
 
 
-### Cataluña [Catalonia] _(0)_{:.count}
+
+### _(ct)_{:.key} Cataluña [Catalonia]  ++
+_(0)_{:.count}    32113 km2   pop
 {: #es-ct }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Extremadura _(0)_{:.count}
+### _(ex)_{:.key} Extremadura  ++
+_(0)_{:.count}    41635 km2   pop
 {: #es-ex }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Galicia _(3)_{:.count}
+### _(ga)_{:.key} Galicia  ++
+_(3)_{:.count}    29574 km2   pop
 {: #es-ga }
 
 
-[A Coruña](#acoruna) • [Santiago de Compostela](#santiagodecompostela) • [Vigo](#vigo)
+..
+..
+A Coruña  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Santiago de Compostela  ++
+ ++
+•
+
+..
+..
+Vigo  ++
+ ++
+•
 
 
-A Coruña  {: .city #acoruna } <br>
-
-Santiago de Compostela  {: .city #santiagodecompostela } <br>
-
-Vigo  {: .city #vigo } <br>
-
-</div>
 
 
-
-### La Rioja _(1)_{:.count}
+### _(ri)_{:.key} La Rioja  ++
+_(1)_{:.count}    5045 km2   pop
 {: #es-ri }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Logroño  {: .city #logrono } <br>
-
-</div>
+..
+..
+Logroño  ++
+ ++
+•
 
 
 
-### Madrid _(1)_{:.count}
+
+### _(md)_{:.key} Madrid  ++
+_(1)_{:.count}    8028 km2   pop
 {: #es-md }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Madrid  _pop 3.265.038 (5.427.000)_{:.pop} {: .city #madrid } <br>
-
-</div>
+..
+..
+Madrid  ++
+ _pop 3.265.038 (5.427.000)_{:.pop} ++
+•
 
 
 
-### Murcia _(1)_{:.count}
+
+### _(mc)_{:.key} Murcia  ++
+_(1)_{:.count}    11313 km2   pop
 {: #es-mc }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Murcia  _pop 442.203_{:.pop} {: .city #murcia } <br>
-
-</div>
+..
+..
+Murcia  ++
+ _pop 442.203_{:.pop} ++
+•
 
 
 
-### Navarra _(1)_{:.count}
+
+### _(na)_{:.key} Navarra  ++
+_(1)_{:.count}    10390 km2   pop
 {: #es-na }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pamplona  {: .city #pamplona } <br>
-
-</div>
+..
+..
+Pamplona  ++
+ ++
+•
 
 
 
-### Valencia _(0)_{:.count}
+
+### _(vc)_{:.key} Valencia  ++
+_(0)_{:.count}    23255 km2   pop
 {: #es-vc }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-</div>
-
-
-
-### Ceuta _(1)_{:.count}
+### _(ce)_{:.key} Ceuta  ++
+_(1)_{:.count}    19 km2   pop
 {: #es-ce }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ceuta  {: .city #ceuta } <br>
-
-</div>
+..
+..
+Ceuta  ++
+ ++
+•
 
 
 
-### Melilla _(1)_{:.count}
+
+### _(ml)_{:.key} Melilla  ++
+_(1)_{:.count}    13 km2   pop
 {: #es-ml }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Melilla  {: .city #melilla } <br>
-
-</div>
+..
+..
+Melilla  ++
+ ++
+•
 
 
  

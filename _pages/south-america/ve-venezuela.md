@@ -1,375 +1,362 @@
 ---
-layout: book
+layout: default
 title: Venezuela (VEN)
 permalink: /ve.html
 ---
 
-## Venezuela (VEN) - 24 Regions, 24 Cities
+
+## Venezuela   ++
+(VEN)  ++
+-                     ++
+24 Regions, ++
+24 Cities
 {: #ve }
 
+.. 
 
 [Amazonas](#ve-am) _(1)_{:.count} • [Bolívar](#ve-bo) _(1)_{:.count} • [Delta Amacuro](#ve-da) _(1)_{:.count} • [Anzoátegui](#ve-an) _(1)_{:.count} • [Monagas](#ve-mo) _(1)_{:.count} • [Sucre](#ve-su) _(1)_{:.count} • [Apure](#ve-ap) _(1)_{:.count} • [Guárico](#ve-gu) _(1)_{:.count} • [Carabobo](#ve-ca) _(1)_{:.count} • [Cojedes](#ve-co) _(1)_{:.count} • [Aragua](#ve-ar) _(1)_{:.count} • [Miranda](#ve-mi) _(1)_{:.count} • [Vargas](#ve-va) _(1)_{:.count} • [Distrito Capital](#ve-dc) _(1)_{:.count} • [Falcón](#ve-fa) _(1)_{:.count} • [Lara](#ve-la) _(1)_{:.count} • [Portuguesa](#ve-po) _(1)_{:.count} • [Yaracuy](#ve-ya) _(1)_{:.count} • [Barinas](#ve-ba) _(1)_{:.count} • [Mérida](#ve-me) _(1)_{:.count} • [Táchira](#ve-ta) _(1)_{:.count} • [Trujillo](#ve-tr) _(1)_{:.count} • [Nueva Esparta](#ve-ne) _(1)_{:.count} • [Zulia](#ve-zu) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### Amazonas _(1)_{:.count}
+
+.. 
+
+
+### _(am)_{:.key} Amazonas  ++
+_(1)_{:.count}    180145 km2   pop
 {: #ve-am }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Puerto Ayacucho  {: .city #puertoayacucho } <br>
-
-</div>
+..
+..
+Puerto Ayacucho  ++
+ ++
+•
 
 
 
-### Bolívar _(1)_{:.count}
+
+### _(bo)_{:.key} Bolívar  ++
+_(1)_{:.count}    238000 km2   pop
 {: #ve-bo }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ciudad Bolívar  {: .city #ciudadbolivar } <br>
-
-</div>
+..
+..
+Ciudad Bolívar  ++
+ ++
+•
 
 
 
-### Delta Amacuro _(1)_{:.count}
+
+### _(da)_{:.key} Delta Amacuro  ++
+_(1)_{:.count}    40200 km2   pop
 {: #ve-da }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Tucupita  {: .city #tucupita } <br>
-
-</div>
+..
+..
+Tucupita  ++
+ ++
+•
 
 
 
-### Anzoátegui _(1)_{:.count}
+
+### _(an)_{:.key} Anzoátegui  ++
+_(1)_{:.count}    43300 km2   pop
 {: #ve-an }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Barcelona  _pop 1.615.448 (4.223.000)_{:.pop} {: .city #barcelona } <br>
-
-</div>
+..
+..
+Barcelona  ++
+ _pop 1.615.448 (4.223.000)_{:.pop} ++
+•
 
 
 
-### Monagas _(1)_{:.count}
+
+### _(mo)_{:.key} Monagas  ++
+_(1)_{:.count}    28930 km2   pop
 {: #ve-mo }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Maturín  {: .city #maturin } <br>
-
-</div>
+..
+..
+Maturín  ++
+ ++
+•
 
 
 
-### Sucre _(1)_{:.count}
+
+### _(su)_{:.key} Sucre  ++
+_(1)_{:.count}    11800 km2   pop
 {: #ve-su }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Cumaná  {: .city #cumana } <br>
-
-</div>
+..
+..
+Cumaná  ++
+ ++
+•
 
 
 
-### Apure _(1)_{:.count}
+
+### _(ap)_{:.key} Apure  ++
+_(1)_{:.count}    76500 km2   pop
 {: #ve-ap }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Fernando de Apure  {: .city #sanfernandodeapure } <br>
-
-</div>
+..
+..
+San Fernando de Apure  ++
+ ++
+•
 
 
 
-### Guárico _(1)_{:.count}
+
+### _(gu)_{:.key} Guárico  ++
+_(1)_{:.count}    64986 km2   pop
 {: #ve-gu }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Juan De Los Morros  {: .city #sanjuandelosmorros } <br>
-
-</div>
+..
+..
+San Juan De Los Morros  ++
+ ++
+•
 
 
 
-### Carabobo _(1)_{:.count}
+
+### _(ca)_{:.key} Carabobo  ++
+_(1)_{:.count}    4650 km2   pop
 {: #ve-ca }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Valencia  _pop 798.033 (1)_{:.pop} {: .city #valencia } <br>
-
-</div>
+..
+..
+Valencia  ++
+ _pop 798.033 (1)_{:.pop} ++
+•
 
 
 
-### Cojedes _(1)_{:.count}
+
+### _(co)_{:.key} Cojedes  ++
+_(1)_{:.count}    14800 km2   pop
 {: #ve-co }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Carlos  {: .city #sancarlos } <br>
-
-</div>
+..
+..
+San Carlos  ++
+ ++
+•
 
 
 
-### Aragua _(1)_{:.count}
+
+### _(ar)_{:.key} Aragua  ++
+_(1)_{:.count}    7014 km2   pop
 {: #ve-ar }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Maracay  _pop (1)_{:.pop} {: .city #maracay } <br>
-
-</div>
+..
+..
+Maracay  ++
+ _pop (1)_{:.pop} ++
+•
 
 
 
-### Miranda _(1)_{:.count}
+
+### _(mi)_{:.key} Miranda  ++
+_(1)_{:.count}    7950 km2   pop
 {: #ve-mi }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Los Teques  {: .city #losteques } <br>
-
-</div>
+..
+..
+Los Teques  ++
+ ++
+•
 
 
 
-### Vargas _(1)_{:.count}
+
+### _(va)_{:.key} Vargas  ++
+_(1)_{:.count}    1496 km2   pop
 {: #ve-va }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-La Güaira  {: .city #lagueaira } <br>
-
-</div>
+..
+..
+La Güaira  ++
+ ++
+•
 
 
 
-### Distrito Capital _(1)_{:.count}
+
+### _(dc)_{:.key} Distrito Capital  ++
+_(1)_{:.count}    433 km2   pop
 {: #ve-dc }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Caracas  _pop (3)_{:.pop} {: .city #caracas } <br>
-
-</div>
+..
+..
+Caracas  ++
+ _pop (3)_{:.pop} ++
+•
 
 
 
-### Falcón _(1)_{:.count}
+
+### _(fa)_{:.key} Falcón  ++
+_(1)_{:.count}    24800 km2   pop
 {: #ve-fa }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Coro  {: .city #coro } <br>
-
-</div>
+..
+..
+Coro  ++
+ ++
+•
 
 
 
-### Lara _(1)_{:.count}
+
+### _(la)_{:.key} Lara  ++
+_(1)_{:.count}    19800 km2   pop
 {: #ve-la }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Barquisimeto  _pop (1)_{:.pop} {: .city #barquisimeto } <br>
-
-</div>
+..
+..
+Barquisimeto  ++
+ _pop (1)_{:.pop} ++
+•
 
 
 
-### Portuguesa _(1)_{:.count}
+
+### _(po)_{:.key} Portuguesa  ++
+_(1)_{:.count}    15200 km2   pop
 {: #ve-po }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Guanare  {: .city #guanare } <br>
-
-</div>
+..
+..
+Guanare  ++
+ ++
+•
 
 
 
-### Yaracuy _(1)_{:.count}
+
+### _(ya)_{:.key} Yaracuy  ++
+_(1)_{:.count}    7100 km2   pop
 {: #ve-ya }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Felipe  {: .city #sanfelipe } <br>
-
-</div>
+..
+..
+San Felipe  ++
+ ++
+•
 
 
 
-### Barinas _(1)_{:.count}
+
+### _(ba)_{:.key} Barinas  ++
+_(1)_{:.count}    35200 km2   pop
 {: #ve-ba }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Barinas  {: .city #barinas } <br>
-
-</div>
+..
+..
+Barinas  ++
+ ++
+•
 
 
 
-### Mérida _(1)_{:.count}
+
+### _(me)_{:.key} Mérida  ++
+_(1)_{:.count}    11300 km2   pop
 {: #ve-me }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Mérida  _pop (973.046)_{:.pop} {: .city #merida } <br>
-
-</div>
+..
+..
+Mérida  ++
+ _pop (973.046)_{:.pop} ++
+•
 
 
 
-### Táchira _(1)_{:.count}
+
+### _(ta)_{:.key} Táchira  ++
+_(1)_{:.count}    11100 km2   pop
 {: #ve-ta }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Cristóbal  {: .city #sancristobal } <br>
-
-</div>
+..
+..
+San Cristóbal  ++
+ ++
+•
 
 
 
-### Trujillo _(1)_{:.count}
+
+### _(tr)_{:.key} Trujillo  ++
+_(1)_{:.count}    7400 km2   pop
 {: #ve-tr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Trujillo  {: .city #trujillo } <br>
-
-</div>
+..
+..
+Trujillo  ++
+ ++
+•
 
 
 
-### Nueva Esparta _(1)_{:.count}
+
+### _(ne)_{:.key} Nueva Esparta  ++
+_(1)_{:.count}    1150 km2   pop
 {: #ve-ne }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-La Asunción  {: .city #laasuncion } <br>
-
-</div>
+..
+..
+La Asunción  ++
+ ++
+•
 
 
 
-### Zulia _(1)_{:.count}
+
+### _(zu)_{:.key} Zulia  ++
+_(1)_{:.count}    63100 km2   pop
 {: #ve-zu }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Maracaibo  _pop (2)_{:.pop} {: .city #maracaibo } <br>
-
-</div>
+..
+..
+Maracaibo  ++
+ _pop (2)_{:.pop} ++
+•
 
 
  

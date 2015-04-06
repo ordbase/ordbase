@@ -1,20 +1,43 @@
 ---
-layout: book
+layout: default
 title: Nepal (NEP)
 permalink: /np.html
 ---
 
-## Nepal (NEP) - 0 Regions, 1 Cities
+
+## Nepal   ++
+(NEP)  ++
+-                     ++
+0 Regions, ++
+2 Cities
 {: #np }
 
+.. 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+.. 
+.. 
 
 
-Kāṭhmāḍaũ [Kathmandu]  _pop (2)_{:.pop} {: .city #kathmadau } <br>
+### Uncategorized _(2)_{:.count}
 
 
+..
+..
+Kathmandu  ++
+ ++
+•
+
+..
+..
+Kāṭhmāḍaũ [Kathmandu]  ++
+ _pop (2)_{:.pop} ++
+•
+
+
+
+
+.. 
  

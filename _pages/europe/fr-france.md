@@ -1,332 +1,326 @@
 ---
-layout: book
+layout: default
 title: France (FRA)
 permalink: /fr.html
 ---
 
-## France (FRA) - 21 Regions, 22 Cities
+
+## France   ++
+(FRA)  ++
+-                     ++
+21 Regions, ++
+22 Cities
 {: #fr }
 
+.. 
 
 [Ile-de-France](#fr-if) _(1)_{:.count} • [Champagne-Ardenne](#fr-ca) _(1)_{:.count} • [Picardie [Picardy]](#fr-pd) _(1)_{:.count} • [Haute-Normandie [Upper Normandy]](#fr-hn) _(1)_{:.count} • [Centre](#fr-ct) _(1)_{:.count} • [Basse-Normandie [Lower Normandy]](#fr-bn) _(1)_{:.count} • [Bourgogne [Burgundy]](#fr-bg) _(1)_{:.count} • [Nord-Pas-de-Calais](#fr-nc) _(1)_{:.count} • [Languedoc-Roussillon](#fr-lr) _(2)_{:.count} • [Alsace](#fr-al) _(1)_{:.count} • [Franche-Comté](#fr-fc) _(1)_{:.count} • [Pays de la Loire](#fr-pl) _(1)_{:.count} • [Bretagne [Brittany]](#fr-br) _(1)_{:.count} • [Poitou-Charentes](#fr-pc) _(1)_{:.count} • [Aquitaine](#fr-aq) _(1)_{:.count} • [Midi-Pyrénées](#fr-mp) _(1)_{:.count} • [Limousin](#fr-lm) _(1)_{:.count} • [Rhône-Alpes](#fr-ra) _(1)_{:.count} • [Auvergne](#fr-av) _(1)_{:.count} • [Provence-Alpes-Côte d'Azur](#fr-ac) _(1)_{:.count} • [Corse [Corsica]](#fr-cr) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### Ile-de-France _(1)_{:.count}
+
+.. 
+
+
+### _(if)_{:.key} Ile-de-France  ++
+_(1)_{:.count}    12012 km2   pop
 {: #fr-if }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Paris  {: .city #paris } <br>
-
-</div>
+..
+..
+Paris  ++
+ ++
+•
 
 
 
-### Champagne-Ardenne _(1)_{:.count}
+
+### _(ca)_{:.key} Champagne-Ardenne  ++
+_(1)_{:.count}    25606 km2   pop
 {: #fr-ca }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Châlons-en-Champagne  {: .city #chalonsenchampagne } <br>
-
-</div>
+..
+..
+Châlons-en-Champagne  ++
+ ++
+•
 
 
 
-### Picardie [Picardy] _(1)_{:.count}
+
+### _(pd)_{:.key} Picardie [Picardy]  ++
+_(1)_{:.count}    19399 km2   pop
 {: #fr-pd }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Amiens  {: .city #amiens } <br>
-
-</div>
+..
+..
+Amiens  ++
+ ++
+•
 
 
 
-### Haute-Normandie [Upper Normandy] _(1)_{:.count}
+
+### _(hn)_{:.key} Haute-Normandie [Upper Normandy]  ++
+_(1)_{:.count}    12317 km2   pop
 {: #fr-hn }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Rouen  {: .city #rouen } <br>
-
-</div>
+..
+..
+Rouen  ++
+ ++
+•
 
 
 
-### Centre _(1)_{:.count}
+
+### _(ct)_{:.key} Centre  ++
+_(1)_{:.count}    39151 km2   pop
 {: #fr-ct }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Orléans  {: .city #orleans } <br>
-
-</div>
+..
+..
+Orléans  ++
+ ++
+•
 
 
 
-### Basse-Normandie [Lower Normandy] _(1)_{:.count}
+
+### _(bn)_{:.key} Basse-Normandie [Lower Normandy]  ++
+_(1)_{:.count}    17589 km2   pop
 {: #fr-bn }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Caen  {: .city #caen } <br>
-
-</div>
+..
+..
+Caen  ++
+ ++
+•
 
 
 
-### Bourgogne [Burgundy] _(1)_{:.count}
+
+### _(bg)_{:.key} Bourgogne [Burgundy]  ++
+_(1)_{:.count}    31582 km2   pop
 {: #fr-bg }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Dijon  {: .city #dijon } <br>
-
-</div>
+..
+..
+Dijon  ++
+ ++
+•
 
 
 
-### Nord-Pas-de-Calais _(1)_{:.count}
+
+### _(nc)_{:.key} Nord-Pas-de-Calais  ++
+_(1)_{:.count}    12414 km2   pop
 {: #fr-nc }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Lille  {: .city #lille } <br>
-
-</div>
+..
+..
+Lille  ++
+ ++
+•
 
 
 
-### Languedoc-Roussillon _(2)_{:.count}
+
+### _(lr)_{:.key} Languedoc-Roussillon  ++
+_(2)_{:.count}    27376 km2   pop
 {: #fr-lr }
 
 
-[Metz](#metz) • [Montpellier](#montpellier)
+..
+..
+Metz  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Metz  {: .city #metz } <br>
-
-Montpellier  {: .city #montpellier } <br>
-
-</div>
+..
+..
+Montpellier  ++
+ ++
+•
 
 
 
-### Alsace _(1)_{:.count}
+
+### _(al)_{:.key} Alsace  ++
+_(1)_{:.count}    8280 km2   pop
 {: #fr-al }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Strasbourg  {: .city #strasbourg } <br>
-
-</div>
+..
+..
+Strasbourg  ++
+ ++
+•
 
 
 
-### Franche-Comté _(1)_{:.count}
+
+### _(fc)_{:.key} Franche-Comté  ++
+_(1)_{:.count}    16202 km2   pop
 {: #fr-fc }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Besançon  {: .city #besancon } <br>
-
-</div>
+..
+..
+Besançon  ++
+ ++
+•
 
 
 
-### Pays de la Loire _(1)_{:.count}
+
+### _(pl)_{:.key} Pays de la Loire  ++
+_(1)_{:.count}    32082 km2   pop
 {: #fr-pl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Nantes  {: .city #nantes } <br>
-
-</div>
+..
+..
+Nantes  ++
+ ++
+•
 
 
 
-### Bretagne [Brittany] _(1)_{:.count}
+
+### _(br)_{:.key} Bretagne [Brittany]  ++
+_(1)_{:.count}    27208 km2   pop
 {: #fr-br }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Rennes  {: .city #rennes } <br>
-
-</div>
+..
+..
+Rennes  ++
+ ++
+•
 
 
 
-### Poitou-Charentes _(1)_{:.count}
+
+### _(pc)_{:.key} Poitou-Charentes  ++
+_(1)_{:.count}    25810 km2   pop
 {: #fr-pc }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Poitiers  {: .city #poitiers } <br>
-
-</div>
+..
+..
+Poitiers  ++
+ ++
+•
 
 
 
-### Aquitaine _(1)_{:.count}
+
+### _(aq)_{:.key} Aquitaine  ++
+_(1)_{:.count}    41308 km2   pop
 {: #fr-aq }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Bordeaux  {: .city #bordeaux } <br>
-
-</div>
+..
+..
+Bordeaux  ++
+ ++
+•
 
 
 
-### Midi-Pyrénées _(1)_{:.count}
+
+### _(mp)_{:.key} Midi-Pyrénées  ++
+_(1)_{:.count}    45348 km2   pop
 {: #fr-mp }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Toulouse  {: .city #toulouse } <br>
-
-</div>
+..
+..
+Toulouse  ++
+ ++
+•
 
 
 
-### Limousin _(1)_{:.count}
+
+### _(lm)_{:.key} Limousin  ++
+_(1)_{:.count}    16942 km2   pop
 {: #fr-lm }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Limoges  {: .city #limoges } <br>
-
-</div>
+..
+..
+Limoges  ++
+ ++
+•
 
 
 
-### Rhône-Alpes _(1)_{:.count}
+
+### _(ra)_{:.key} Rhône-Alpes  ++
+_(1)_{:.count}    43698 km2   pop
 {: #fr-ra }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Lyon  {: .city #lyon } <br>
-
-</div>
+..
+..
+Lyon  ++
+ ++
+•
 
 
 
-### Auvergne _(1)_{:.count}
+
+### _(av)_{:.key} Auvergne  ++
+_(1)_{:.count}    26013 km2   pop
 {: #fr-av }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Clermont-Ferrand  {: .city #clermontferrand } <br>
-
-</div>
+..
+..
+Clermont-Ferrand  ++
+ ++
+•
 
 
 
-### Provence-Alpes-Côte d'Azur _(1)_{:.count}
+
+### _(ac)_{:.key} Provence-Alpes-Côte d'Azur  ++
+_(1)_{:.count}    31400 km2   pop
 {: #fr-ac }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Marseille  {: .city #marseille } <br>
-
-</div>
+..
+..
+Marseille  ++
+ ++
+•
 
 
 
-### Corse [Corsica] _(1)_{:.count}
+
+### _(cr)_{:.key} Corse [Corsica]  ++
+_(1)_{:.count}    8680 km2   pop
 {: #fr-cr }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ajaccio  {: .city #ajaccio } <br>
-
-</div>
+..
+..
+Ajaccio  ++
+ ++
+•
 
 
  

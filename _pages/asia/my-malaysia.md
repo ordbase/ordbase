@@ -1,22 +1,43 @@
 ---
-layout: book
+layout: default
 title: Malaysia (MAS)
 permalink: /my.html
 ---
 
-## Malaysia (MAS) - 0 Regions, 2 Cities
+
+## Malaysia   ++
+(MAS)  ++
+-                     ++
+0 Regions, ++
+2 Cities
 {: #my }
 
+.. 
 
 
+
+
+.. 
+.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-George Town  _pop (1)_{:.pop} {: .city #georgetown } <br>
+..
+..
+Kuala Lumpur  ++
+ _pop (6)_{:.pop} ++
+•
 
-Kuala Lumpur  _pop (6)_{:.pop} {: .city #kualalumpur } <br>
+..
+..
+George Town  ++
+ _pop (1)_{:.pop} ++
+•
 
 
+
+
+.. 
  

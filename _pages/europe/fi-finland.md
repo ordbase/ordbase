@@ -1,20 +1,43 @@
 ---
-layout: book
+layout: default
 title: Finland (FIN)
 permalink: /fi.html
 ---
 
-## Finland (FIN) - 0 Regions, 1 Cities
+
+## Finland   ++
+(FIN)  ++
+-                     ++
+0 Regions, ++
+2 Cities
 {: #fi }
 
+.. 
 
 
 
 
-### Uncategorized _(1)_{:.count}
+.. 
+.. 
 
 
-Helsingfors [Helsinki]  _pop (1.131.000)_{:.pop} {: .city #helsingfors } <br>
+### Uncategorized _(2)_{:.count}
 
 
+..
+..
+Helsinki  ++
+ ++
+•
+
+..
+..
+Helsingfors [Helsinki]  ++
+ _pop (1.131.000)_{:.pop} ++
+•
+
+
+
+
+.. 
  

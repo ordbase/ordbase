@@ -1,97 +1,113 @@
 ---
-layout: book
+layout: default
 title: Denmark (DEN)
 permalink: /dk.html
 ---
 
-## Denmark (DEN) - 5 Regions, 7 Cities
+
+## Denmark   ++
+(DEN)  ++
+-                     ++
+5 Regions, ++
+7 Cities
 {: #dk }
 
+.. 
 
 [Hovedstaden [Greater Copenhagen](#dk-h) _(1)_{:.count} • [Sjælland [Zealand]](#dk-sj) _(1)_{:.count} • [Nordjylland [North Denmark](#dk-n) _(1)_{:.count} • [Midtjylland [Central Denmark](#dk-m) _(1)_{:.count} • [Syddanmark  [South Denmark]](#dk-s) _(1)_{:.count} • **Uncategorized** _(2)_{:.count}
+
+
+.. 
+.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-København [Copenhagen]  _pop (1)_{:.pop} {: .city #kobenhavn } <br>
+..
+..
+København [Copenhagen]  ++
+ _pop (1)_{:.pop} ++
+•
 
-Farum  {: .city #farum } <br>
+..
+..
+Farum  ++
+ ++
+•
 
 
 
-### Hovedstaden [Greater Copenhagen | Capital Region] _(1)_{:.count}
+
+.. 
+
+
+### _(h)_{:.key} Hovedstaden [Greater Copenhagen | Capital Region]  ++
+_(1)_{:.count}    2561 km2  1714486 pop
 {: #dk-h }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Hillerød  {: .city #hillerod } <br>
-
-</div>
+..
+..
+Hillerød  ++
+ ++
+•
 
 
 
-### Sjælland [Zealand] _(1)_{:.count}
+
+### _(sj)_{:.key} Sjælland [Zealand]  ++
+_(1)_{:.count}    7273 km2  817907 pop
 {: #dk-sj }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Sorø  {: .city #soro } <br>
-
-</div>
+..
+..
+Sorø  ++
+ ++
+•
 
 
 
-### Nordjylland [North Denmark | North Jutland] _(1)_{:.count}
+
+### _(n)_{:.key} Nordjylland [North Denmark | North Jutland]  ++
+_(1)_{:.count}    8020 km2  579996 pop
 {: #dk-n }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Aalborg  {: .city #aalborg } <br>
-
-</div>
+..
+..
+Aalborg  ++
+ ++
+•
 
 
 
-### Midtjylland [Central Denmark | Central Jutland] _(1)_{:.count}
+
+### _(m)_{:.key} Midtjylland [Central Denmark | Central Jutland]  ++
+_(1)_{:.count}    13053 km2  1266682 pop
 {: #dk-m }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Viborg  {: .city #viborg } <br>
-
-</div>
+..
+..
+Viborg  ++
+ ++
+•
 
 
 
-### Syddanmark  [South Denmark] _(1)_{:.count}
+
+### _(s)_{:.key} Syddanmark  [South Denmark]  ++
+_(1)_{:.count}    12191 km2  1201342 pop
 {: #dk-s }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Vejle  {: .city #vejle } <br>
-
-</div>
+..
+..
+Vejle  ++
+ ++
+•
 
 
  

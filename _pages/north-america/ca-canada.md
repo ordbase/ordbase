@@ -1,256 +1,346 @@
 ---
-layout: book
+layout: default
 title: Canada (CAN)
 permalink: /ca.html
 ---
 
-## Canada (CAN) - 13 Regions, 36 Cities
+
+## Canada   ++
+(CAN)  ++
+-                     ++
+13 Regions, ++
+36 Cities
 {: #ca }
 
+.. 
 
 [British Columbia](#ca-bc) _(4)_{:.count} • [Alberta](#ca-ab) _(2)_{:.count} • [Manitoba](#ca-mb) _(1)_{:.count} • [Saskatchewan](#ca-sk) _(2)_{:.count} • [New Brunswick](#ca-nb) _(3)_{:.count} • [Nova Scotia](#ca-ns) _(1)_{:.count} • [Prince Edward Island](#ca-pe) _(1)_{:.count} • [Newfoundland and Labrador](#ca-nl) _(1)_{:.count} • [Ontario](#ca-on) _(12)_{:.count} • [Québec](#ca-qc) _(6)_{:.count} • [Northwest Territories](#ca-nt) _(1)_{:.count} • [Yukon](#ca-yt) _(1)_{:.count} • [Nunavut](#ca-nu) _(1)_{:.count}
 
 
+.. 
+.. 
 
 
-### British Columbia _(4)_{:.count}
+
+.. 
+
+
+### _(bc)_{:.key} British Columbia  ++
+_(4)_{:.count}    922509 km2   pop
 {: #ca-bc }
 
 
-[Abbotsford](#abbotsford) • [Kelowna](#kelowna) • [Vancouver](#vancouver) • [Victoria](#victoria)
+..
+..
+Abbotsford  ++
+ _pop 136.000_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Kelowna  ++
+ _pop 137.000_{:.pop} ++
+•
+
+..
+..
+Vancouver  ++
+ _pop 2.313.328_{:.pop} ++
+•
+
+..
+..
+Victoria  ++
+ _pop 304.000_{:.pop} ++
+•
 
 
-Abbotsford  _pop 136.000_{:.pop} {: .city #abbotsford } <br>
-
-Kelowna  _pop 137.000_{:.pop} {: .city #kelowna } <br>
-
-Vancouver  _pop 2.313.328_{:.pop} {: .city #vancouver } <br>
-
-Victoria  _pop 304.000_{:.pop} {: .city #victoria } <br>
-
-</div>
 
 
-
-### Alberta _(2)_{:.count}
+### _(ab)_{:.key} Alberta  ++
+_(2)_{:.count}    640082 km2   pop
 {: #ca-ab }
 
 
-[Calgary](#calgary) • [Edmonton](#edmonton)
+..
+..
+Calgary  ++
+ _pop 1.214.839_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Calgary  _pop 1.214.839_{:.pop} {: .city #calgary } <br>
-
-Edmonton  _pop 1.159.869_{:.pop} {: .city #edmonton } <br>
-
-</div>
+..
+..
+Edmonton  ++
+ _pop 1.159.869_{:.pop} ++
+•
 
 
 
-### Manitoba _(1)_{:.count}
+
+### _(mb)_{:.key} Manitoba  ++
+_(1)_{:.count}    552330 km2   pop
 {: #ca-mb }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Winnipeg  _pop 730.018_{:.pop} {: .city #winnipeg } <br>
-
-</div>
+..
+..
+Winnipeg  ++
+ _pop 730.018_{:.pop} ++
+•
 
 
 
-### Saskatchewan _(2)_{:.count}
+
+### _(sk)_{:.key} Saskatchewan  ++
+_(2)_{:.count}    588239 km2   pop
 {: #ca-sk }
 
 
-[Regina](#regina) • [Saskatoon](#saskatoon)
+..
+..
+Regina  ++
+ _pop 194.000_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Regina  _pop 194.000_{:.pop} {: .city #regina } <br>
-
-Saskatoon  _pop 219.000_{:.pop} {: .city #saskatoon } <br>
-
-</div>
+..
+..
+Saskatoon  ++
+ _pop 219.000_{:.pop} ++
+•
 
 
 
-### New Brunswick _(3)_{:.count}
+
+### _(nb)_{:.key} New Brunswick  ++
+_(3)_{:.count}    71377 km2   pop
 {: #ca-nb }
 
 
-[Frederiction](#frederiction) • [Fredericton](#fredericton) • [Saint John](#saintjohn)
+..
+..
+Frederiction  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Fredericton  ++
+ ++
+•
+
+..
+..
+Saint John  ++
+ _pop 126.000_{:.pop} ++
+•
 
 
-Frederiction  {: .city #frederiction } <br>
-
-Fredericton  {: .city #fredericton } <br>
-
-Saint John  _pop 126.000_{:.pop} {: .city #saintjohn } <br>
-
-</div>
 
 
-
-### Nova Scotia _(1)_{:.count}
+### _(ns)_{:.key} Nova Scotia  ++
+_(1)_{:.count}    52939 km2   pop
 {: #ca-ns }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Halifax  _pop 333.000_{:.pop} {: .city #halifax } <br>
-
-</div>
+..
+..
+Halifax  ++
+ _pop 333.000_{:.pop} ++
+•
 
 
 
-### Prince Edward Island _(1)_{:.count}
+
+### _(pe)_{:.key} Prince Edward Island  ++
+_(1)_{:.count}    5686 km2   pop
 {: #ca-pe }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Charlottetown  {: .city #charlottetown } <br>
-
-</div>
+..
+..
+Charlottetown  ++
+ ++
+•
 
 
 
-### Newfoundland and Labrador _(1)_{:.count}
+
+### _(nl)_{:.key} Newfoundland and Labrador  ++
+_(1)_{:.count}    370511 km2   pop
 {: #ca-nl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-St John's  _pop 174.000_{:.pop} {: .city #stjohns } <br>
-
-</div>
+..
+..
+St John's  ++
+ _pop 174.000_{:.pop} ++
+•
 
 
 
-### Ontario _(12)_{:.count}
+
+### _(on)_{:.key} Ontario  ++
+_(12)_{:.count}    908608 km2   pop
 {: #ca-on }
 
 
-[Barrie](#barrie) • [Hamilton](#hamilton) • [Kingston](#kingston) • [Kitchener](#kitchener) • [London](#london) • [Oshawa](#oshawa) • [Ottawa](#ottawa) • [St Catharines-Niagara](#stcatharinesniagara) • [Sudbury](#sudbury) • [Thunder Bay](#thunderbay) • [Toronto](#toronto) • [Windsor](#windsor)
+..
+..
+Barrie  ++
+ _pop 119.000_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Hamilton  ++
+ _pop 721.053_{:.pop} ++
+•
+
+..
+..
+Kingston  ++
+ _pop 143.000_{:.pop} ++
+•
+
+..
+..
+Kitchener  ++
+ _pop 477.160_{:.pop} ++
+•
+
+..
+..
+London  ++
+ _pop 474.786_{:.pop} ++
+•
+
+..
+..
+Oshawa  ++
+ _pop 269.000_{:.pop} ++
+•
+
+..
+..
+Ottawa  ++
+ _pop 1.236.324_{:.pop} ++
+•
+
+..
+..
+St Catharines-Niagara  ++
+ _pop 372.000_{:.pop} ++
+•
+
+..
+..
+Sudbury  ++
+ _pop 160.000_{:.pop} ++
+•
+
+..
+..
+Thunder Bay  ++
+ _pop 126.000_{:.pop} ++
+•
+
+..
+..
+Toronto  ++
+ _pop 5.583.064_{:.pop} ++
+•
+
+..
+..
+Windsor  ++
+ _pop 279.000_{:.pop} ++
+•
 
 
-Barrie  _pop 119.000_{:.pop} {: .city #barrie } <br>
-
-Hamilton  _pop 721.053_{:.pop} {: .city #hamilton } <br>
-
-Kingston  _pop 143.000_{:.pop} {: .city #kingston } <br>
-
-Kitchener  _pop 477.160_{:.pop} {: .city #kitchener } <br>
-
-London  _pop 474.786 (8.586.000)_{:.pop} {: .city #london } <br>
-
-Oshawa  _pop 269.000_{:.pop} {: .city #oshawa } <br>
-
-Ottawa  _pop 1.236.324_{:.pop} {: .city #ottawa } <br>
-
-St Catharines-Niagara  _pop 372.000_{:.pop} {: .city #stcatharinesniagara } <br>
-
-Sudbury  _pop 160.000_{:.pop} {: .city #sudbury } <br>
-
-Thunder Bay  _pop 126.000_{:.pop} {: .city #thunderbay } <br>
-
-Toronto  _pop 5.583.064_{:.pop} {: .city #toronto } <br>
-
-Windsor  _pop 279.000_{:.pop} {: .city #windsor } <br>
-
-</div>
 
 
-
-### Québec _(6)_{:.count}
+### _(qc)_{:.key} Québec  ++
+_(6)_{:.count}    1356547 km2   pop
 {: #ca-qc }
 
 
-[Chicoutimi](#chicoutimi) • [Montréal](#montreal) • [Quebec City](#quebeccity) • [Québec](#quebec) • [Sherbrooke](#sherbrooke) • [Trois-Rivières](#troisrivieres)
+..
+..
+Chicoutimi  ++
+ _pop 160.000_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Montréal | Montreal  ++
+ _pop 3.824.221_{:.pop} ++
+•
+
+..
+..
+Quebec City  ++
+ ++
+•
+
+..
+..
+Québec  ++
+ _pop 765.706_{:.pop} ++
+•
+
+..
+..
+Sherbrooke  ++
+ _pop 147.000_{:.pop} ++
+•
+
+..
+..
+Trois-Rivières  ++
+ _pop 140.000_{:.pop} ++
+•
 
 
-Chicoutimi  _pop 160.000_{:.pop} {: .city #chicoutimi } <br>
-
-Montréal  _pop 3.824.221_{:.pop} {: .city #montreal } <br>
-
-Quebec City  {: .city #quebeccity } <br>
-
-Québec  _pop 765.706_{:.pop} {: .city #quebec } <br>
-
-Sherbrooke  _pop 147.000_{:.pop} {: .city #sherbrooke } <br>
-
-Trois-Rivières  _pop 140.000_{:.pop} {: .city #troisrivieres } <br>
-
-</div>
 
 
-
-### Northwest Territories _(1)_{:.count}
+### _(nt)_{:.key} Northwest Territories  ++
+_(1)_{:.count}    1143793 km2   pop
 {: #ca-nt }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Yellowknife  {: .city #yellowknife } <br>
-
-</div>
+..
+..
+Yellowknife  ++
+ ++
+•
 
 
 
-### Yukon _(1)_{:.count}
+
+### _(yt)_{:.key} Yukon  ++
+_(1)_{:.count}    474713 km2   pop
 {: #ca-yt }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Whitehorse  {: .city #whitehorse } <br>
-
-</div>
+..
+..
+Whitehorse  ++
+ ++
+•
 
 
 
-### Nunavut _(1)_{:.count}
+
+### _(nu)_{:.key} Nunavut  ++
+_(1)_{:.count}    1877788 km2   pop
 {: #ca-nu }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Iqaluit  {: .city #iqaluit } <br>
-
-</div>
+..
+..
+Iqaluit  ++
+ ++
+•
 
 
  

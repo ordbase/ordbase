@@ -1,15 +1,26 @@
 ---
-layout: book
+layout: default
 title: Réunion (REU)
 permalink: /re.html
 ---
 
-## Réunion (REU) - 0 Regions, 0 Cities
+
+## Réunion   ++
+(REU)  ++
+-                     ++
+0 Regions, ++
+0 Cities
 {: #re }
 
+.. 
 
 
 
 
+.. 
+.. 
 
+
+
+.. 
  

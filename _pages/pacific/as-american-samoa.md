@@ -1,15 +1,26 @@
 ---
-layout: book
+layout: default
 title: American Samoa (ASM)
 permalink: /as.html
 ---
 
-## American Samoa (ASM) - 0 Regions, 0 Cities
+
+## American Samoa   ++
+(ASM)  ++
+-                     ++
+0 Regions, ++
+0 Cities
 {: #as }
 
+.. 
 
 
 
 
+.. 
+.. 
 
+
+
+.. 
  

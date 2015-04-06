@@ -1,22 +1,43 @@
 ---
-layout: book
+layout: default
 title: Qatar (QAT)
 permalink: /qa.html
 ---
 
-## Qatar (QAT) - 0 Regions, 2 Cities
+
+## Qatar   ++
+(QAT)  ++
+-                     ++
+0 Regions, ++
+2 Cities
 {: #qa }
 
+.. 
 
 
+
+
+.. 
+.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-Doha  {: .city #doha } <br>
+..
+..
+Doha  ++
+ ++
+•
 
-Ad-Dawḥah [Doha]  _pop (1)_{:.pop} {: .city #addawhah } <br>
+..
+..
+Ad-Dawḥah [Doha]  ++
+ _pop (1)_{:.pop} ++
+•
 
 
+
+
+.. 
  

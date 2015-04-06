@@ -1,22 +1,49 @@
 ---
-layout: book
+layout: default
 title: Israel (ISR)
 permalink: /il.html
 ---
 
-## Israel (ISR) - 0 Regions, 2 Cities
+
+## Israel   ++
+(ISR)  ++
+-                     ++
+0 Regions, ++
+3 Cities
 {: #il }
 
+.. 
 
 
 
 
-### Uncategorized _(2)_{:.count}
+.. 
+.. 
 
 
-Tel Aviv  {: .city #telaviv } <br>
-
-Yafo [Jaffa]  {: .city #yafo } <br>
+### Uncategorized _(3)_{:.count}
 
 
+..
+..
+Jerusalem  ++
+ ++
+•
+
+..
+..
+Tel Aviv  ++
+ ++
+•
+
+..
+..
+Yafo [Jaffa]  ++
+ ++
+•
+
+
+
+
+.. 
  

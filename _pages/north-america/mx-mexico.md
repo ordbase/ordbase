@@ -1,534 +1,581 @@
 ---
-layout:    book
-title:     México [Mexico] (MEX)
+layout: default
+title: México [Mexico] (MEX)
 permalink: /mx.html
 ---
 
-## México [Mexico] (MEX) - 32 Regions, 50 Cities
+
+## México [Mexico]   ++
+(MEX)  ++
+-                     ++
+32 Regions, ++
+48 Cities
 {: #mx }
 
+.. 
 
-[Aguascalientes](#mx-ag) _(1)_{:.count} • [Baja California](#mx-bc) _(3)_{:.count} • [Baja California Sur](#mx-bs) _(7)_{:.count} • [Campeche](#mx-cm) _(1)_{:.count} • [Chiapas](#mx-cs) _(1)_{:.count} • [Chihuahua](#mx-ch) _(2)_{:.count} • [Coahuila](#mx-co) _(2)_{:.count} • [Colima](#mx-cl) _(1)_{:.count} • [Distrito Federal](#mx-df) _(1)_{:.count} • [Durango](#mx-dg) _(1)_{:.count} • [Guanajuato](#mx-gt) _(2)_{:.count} • [Guerrero](#mx-gr) _(2)_{:.count} • [Hidalgo](#mx-hg) _(1)_{:.count} • [Jalisco](#mx-ja) _(1)_{:.count} • [México](#mx-me) _(1)_{:.count} • [Michoacán](#mx-mi) _(1)_{:.count} • [Morelos](#mx-mo) _(1)_{:.count} • [Nayarit](#mx-na) _(1)_{:.count} • [Nuevo León](#mx-nl) _(2)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(1)_{:.count} • [Querétaro](#mx-qe) _(1)_{:.count} • [Quintana Roo](#mx-qr) _(2)_{:.count} • [San Luis Potosí](#mx-sl) _(1)_{:.count} • [Sinaloa](#mx-si) _(2)_{:.count} • [Sonora](#mx-so) _(2)_{:.count} • [Tabasco](#mx-tb) _(1)_{:.count} • [Tamaulipas](#mx-tm) _(1)_{:.count} • [Tlaxcala](#mx-tl) _(1)_{:.count} • [Veracruz](#mx-ve) _(1)_{:.count} • [Yucatán](#mx-yu) _(1)_{:.count} • [Zacatecas](#mx-za) _(1)_{:.count} • **Uncategorized** _(1)_{:.count}
+[Aguascalientes](#mx-ag) _(1)_{:.count} • [Baja California](#mx-bc) _(3)_{:.count} • [Baja California Sur](#mx-bs) _(7)_{:.count} • [Campeche](#mx-cm) _(1)_{:.count} • [Chiapas](#mx-cs) _(1)_{:.count} • [Chihuahua](#mx-ch) _(2)_{:.count} • [Coahuila](#mx-co) _(2)_{:.count} • [Colima](#mx-cl) _(1)_{:.count} • [Distrito Federal](#mx-df) _(1)_{:.count} • [Durango](#mx-dg) _(1)_{:.count} • [Guanajuato](#mx-gt) _(2)_{:.count} • [Guerrero](#mx-gr) _(2)_{:.count} • [Hidalgo](#mx-hg) _(1)_{:.count} • [Jalisco](#mx-ja) _(1)_{:.count} • [México](#mx-me) _(1)_{:.count} • [Michoacán](#mx-mi) _(1)_{:.count} • [Morelos](#mx-mo) _(1)_{:.count} • [Nayarit](#mx-na) _(1)_{:.count} • [Nuevo León](#mx-nl) _(2)_{:.count} • [Oaxaca](#mx-oa) _(2)_{:.count} • [Puebla](#mx-pb) _(1)_{:.count} • [Querétaro](#mx-qe) _(1)_{:.count} • [Quintana Roo](#mx-qr) _(2)_{:.count} • [San Luis Potosí](#mx-sl) _(1)_{:.count} • [Sinaloa](#mx-si) _(2)_{:.count} • [Sonora](#mx-so) _(2)_{:.count} • [Tabasco](#mx-tb) _(1)_{:.count} • [Tamaulipas](#mx-tm) _(1)_{:.count} • [Tlaxcala](#mx-tl) _(1)_{:.count} • [Veracruz](#mx-ve) _(1)_{:.count} • [Yucatán](#mx-yu) _(0)_{:.count} • [Zacatecas](#mx-za) _(1)_{:.count} • **Uncategorized** _(1)_{:.count}
+
+
+.. 
+.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-Puerto Vallarta  {: .city #puertovallarta } <br>
+..
+..
+Puerto Vallarta | Pto. Vallarta  ++
+ ++
+•
 
 
 
-### Aguascalientes _(1)_{:.count}
+
+.. 
+
+
+### _(ag)_{:.key} Aguascalientes  ++
+_(1)_{:.count}    5471 km2   pop
 {: #mx-ag }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Aguascalientes  {: .city #aguascalientes } <br>
-
-</div>
+..
+..
+Aguascalientes | Ags.  ++
+ ++
+•
 
 
 
-### Baja California _(3)_{:.count}
+
+### _(bc)_{:.key} Baja California  ++
+_(3)_{:.count}    69921 km2   pop
 {: #mx-bc }
 
 
-[Ensenada](#ensenada) • [Mexicali](#mexicali) • [Tijuana](#tijuana)
+..
+..
+Ensenada  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Mexicali  ++
+ ++
+•
+
+..
+..
+Tijuana  ++
+ _pop (1.751.302)_{:.pop} ++
+•
 
 
-Ensenada  {: .city #ensenada } <br>
-
-Mexicali  {: .city #mexicali } <br>
-
-Tijuana  _pop (1.751.302)_{:.pop} {: .city #tijuana } <br>
-
-</div>
 
 
-
-### Baja California Sur _(7)_{:.count}
+### _(bs)_{:.key} Baja California Sur  ++
+_(7)_{:.count}    73475 km2   pop
 {: #mx-bs }
 
 
-[Cabo San Lucas](#cabosanlucas) • [Guerrero Negro](#guerreronegro) • [La Paz](#lapaz) • [Mulegé](#mulege) • [San Ignacio](#sanignacio) • [San José del Cabo](#sanjosedelcabo) • [Santa Rosalia](#santarosalia)
+..
+..
+Cabo San Lucas  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
+..
+..
+Guerrero Negro  ++
+ ++
+•
+
+..
+..
+La Paz  ++
+ _pop (2)_{:.pop} ++
+•
+
+..
+..
+Mulegé  ++
+ ++
+•
+
+..
+..
+San Ignacio  ++
+ ++
+•
+
+..
+..
+San José del Cabo  ++
+ ++
+•
+
+..
+..
+Santa Rosalia  ++
+ ++
+•
 
 
-Cabo San Lucas  {: .city #cabosanlucas } <br>
-
-Guerrero Negro  {: .city #guerreronegro } <br>
-
-La Paz  {: .city #lapaz } <br>
-
-Mulegé  {: .city #mulege } <br>
-
-San Ignacio  {: .city #sanignacio } <br>
-
-San José del Cabo  {: .city #sanjosedelcabo } <br>
-
-Santa Rosalia  {: .city #santarosalia } <br>
-
-</div>
 
 
-
-### Campeche _(1)_{:.count}
+### _(cm)_{:.key} Campeche  ++
+_(1)_{:.count}    50812 km2   pop
 {: #mx-cm }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-(San Francisco de) Campeche  {: .city #campeche } <br>
-
-</div>
+..
+..
+(San Francisco de) Campeche  ++
+ ++
+•
 
 
 
-### Chiapas _(1)_{:.count}
+
+### _(cs)_{:.key} Chiapas  ++
+_(1)_{:.count}    74211 km2   pop
 {: #mx-cs }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Tuxtla (Gutiérrez)  _pop (503.320)_{:.pop} {: .city #tuxtla } <br>
-
-</div>
+..
+..
+Tuxtla (Gutiérrez)  ++
+ _pop (503.320)_{:.pop} ++
+•
 
 
 
-### Chihuahua _(2)_{:.count}
+
+### _(ch)_{:.key} Chihuahua  ++
+_(2)_{:.count}    247938 km2   pop
 {: #mx-ch }
 
 
-[(Ciudad) Juárez](#juarez) • [Chihuahua](#chihuahua)
+..
+..
+(Ciudad) Juárez | Cd. Juárez  ++
+ _pop (1.495.094)_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-(Ciudad) Juárez  _pop (1.495.094)_{:.pop} {: .city #juarez } <br>
-
-Chihuahua  _pop (809.232)_{:.pop} {: .city #chihuahua } <br>
-
-</div>
+..
+..
+Chihuahua  ++
+ _pop (809.232)_{:.pop} ++
+•
 
 
 
-### Coahuila _(2)_{:.count}
+
+### _(co)_{:.key} Coahuila  ++
+_(2)_{:.count}    151571 km2   pop
 {: #mx-co }
 
 
-[Saltillo](#saltillo) • [Torreón](#torreon)
+..
+..
+Saltillo  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Saltillo  {: .city #saltillo } <br>
-
-Torreón  _pop (1.275.993)_{:.pop} {: .city #torreon } <br>
-
-</div>
+..
+..
+Torreón  ++
+ _pop (1.275.993)_{:.pop} ++
+•
 
 
 
-### Colima _(1)_{:.count}
+
+### _(cl)_{:.key} Colima  ++
+_(1)_{:.count}    5191 km2   pop
 {: #mx-cl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Colima  {: .city #colima } <br>
-
-</div>
+..
+..
+Colima  ++
+ ++
+•
 
 
 
-### Distrito Federal _(1)_{:.count}
+
+### _(df)_{:.key} Distrito Federal  ++
+_(1)_{:.count}    1479 km2   pop
 {: #mx-df }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-México  _pop (20.137.152)_{:.pop} {: .city #mexico } <br>
-
-</div>
+..
+..
+México | Distrito Federal | D.F. | DF  ++
+ _pop (20.137.152)_{:.pop} ++
+•
 
 
 
-### Durango _(1)_{:.count}
+
+### _(dg)_{:.key} Durango  ++
+_(1)_{:.count}    123181 km2   pop
 {: #mx-dg }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-(Victoria de) Durango  {: .city #durango } <br>
-
-</div>
+..
+..
+(Victoria de) Durango  ++
+ ++
+•
 
 
 
-### Guanajuato _(2)_{:.count}
+
+### _(gt)_{:.key} Guanajuato  ++
+_(2)_{:.count}    30491 km2   pop
 {: #mx-gt }
 
 
-[Guanajuato](#guanajuato) • [León](#leon)
+..
+..
+Guanajuato | Gto.  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Guanajuato  {: .city #guanajuato } <br>
-
-León  _pop (1.609.717)_{:.pop} {: .city #leon } <br>
-
-</div>
+..
+..
+León  ++
+ _pop (1.609.717)_{:.pop} ++
+•
 
 
 
-### Guerrero _(2)_{:.count}
+
+### _(gr)_{:.key} Guerrero  ++
+_(2)_{:.count}    64281 km2   pop
 {: #mx-gr }
 
 
-[Acapulco (de Juárez)](#acapulco) • [Chilpancingo (de los Bravo)](#chilpancingo)
+..
+..
+Acapulco (de Juárez)  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Acapulco (de Juárez)  {: .city #acapulco } <br>
-
-Chilpancingo (de los Bravo)  {: .city #chilpancingo } <br>
-
-</div>
+..
+..
+Chilpancingo (de los Bravo)  ++
+ ++
+•
 
 
 
-### Hidalgo _(1)_{:.count}
+
+### _(hg)_{:.key} Hidalgo  ++
+_(1)_{:.count}    20813 km2   pop
 {: #mx-hg }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Pachuca  _pop 275.578_{:.pop} {: .city #pachuca } <br>
-
-</div>
+..
+..
+Pachuca  ++
+ _pop 275.578_{:.pop} ++
+•
 
 
 
-### Jalisco _(1)_{:.count}
+
+### _(ja)_{:.key} Jalisco  ++
+_(1)_{:.count}    80386 km2   pop
 {: #mx-ja }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Guadalajara  _pop (4.434.252)_{:.pop} {: .city #guadalajara } <br>
-
-</div>
+..
+..
+Guadalajara | Gdl.  ++
+ _pop (4.434.252)_{:.pop} ++
+•
 
 
 
-### México _(1)_{:.count}
+
+### _(me)_{:.key} México  ++
+_(1)_{:.count}    21355 km2   pop
 {: #mx-me }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Toluca (de Lerdo)  _pop (1.846.602)_{:.pop} {: .city #toluca } <br>
-
-</div>
+..
+..
+Toluca (de Lerdo)  ++
+ _pop (1.846.602)_{:.pop} ++
+•
 
 
 
-### Michoacán _(1)_{:.count}
+
+### _(mi)_{:.key} Michoacán  ++
+_(1)_{:.count}    59928 km2   pop
 {: #mx-mi }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Morelia  _pop (729.757)_{:.pop} {: .city #morelia } <br>
-
-</div>
+..
+..
+Morelia  ++
+ _pop (729.757)_{:.pop} ++
+•
 
 
 
-### Morelos _(1)_{:.count}
+
+### _(mo)_{:.key} Morelos  ++
+_(1)_{:.count}    4950 km2   pop
 {: #mx-mo }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Cuernavaca  {: .city #cuernavaca } <br>
-
-</div>
+..
+..
+Cuernavaca  ++
+ ++
+•
 
 
 
-### Nayarit _(1)_{:.count}
+
+### _(na)_{:.key} Nayarit  ++
+_(1)_{:.count}    26979 km2   pop
 {: #mx-na }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Tepic  {: .city #tepic } <br>
-
-</div>
+..
+..
+Tepic  ++
+ ++
+•
 
 
 
-### Nuevo León _(2)_{:.count}
+
+### _(nl)_{:.key} Nuevo León  ++
+_(2)_{:.count}    64924 km2   pop
 {: #mx-nl }
 
 
-[Monterrey](#monterrey) • [San Nicolás de los Garza](#sannicolasdelosgarza)
+..
+..
+Monterrey  ++
+ _pop (4.080.329)_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Monterrey  _pop (4.080.329)_{:.pop} {: .city #monterrey } <br>
-
-San Nicolás de los Garza  _pop 476.761_{:.pop} {: .city #sannicolasdelosgarza } <br>
-
-</div>
+..
+..
+San Nicolás de los Garza  ++
+ _pop 476.761_{:.pop} ++
+•
 
 
 
-### Oaxaca _(2)_{:.count}
+
+### _(oa)_{:.key} Oaxaca  ++
+_(2)_{:.count}    93952 km2   pop
 {: #mx-oa }
 
 
-[(Santa María) Huatulco](#huatulco) • [Oaxaca](#oaxaca)
+..
+..
+(Santa María) Huatulco  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-(Santa María) Huatulco  {: .city #huatulco } <br>
-
-Oaxaca  {: .city #oaxaca } <br>
-
-</div>
+..
+..
+Oaxaca  ++
+ ++
+•
 
 
 
-### Puebla _(1)_{:.count}
+
+### _(pb)_{:.key} Puebla  ++
+_(1)_{:.count}    33902 km2   pop
 {: #mx-pb }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Puebla  _pop (2.668.347)_{:.pop} {: .city #puebla } <br>
-
-</div>
+..
+..
+Puebla  ++
+ _pop (2.668.347)_{:.pop} ++
+•
 
 
 
-### Querétaro _(1)_{:.count}
+
+### _(qe)_{:.key} Querétaro  ++
+_(1)_{:.count}    11499 km2   pop
 {: #mx-qe }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Querétaro  _pop (1.097.028)_{:.pop} {: .city #queretaro } <br>
-
-</div>
+..
+..
+Querétaro  ++
+ _pop (1.097.028)_{:.pop} ++
+•
 
 
 
-### Quintana Roo _(2)_{:.count}
+
+### _(qr)_{:.key} Quintana Roo  ++
+_(2)_{:.count}    50212 km2   pop
 {: #mx-qr }
 
 
-[Cancún](#cancun) • [Chetumal](#chetumal)
+..
+..
+Cancún  ++
+ _pop (628.306)_{:.pop} ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Cancún  _pop (628.306)_{:.pop} {: .city #cancun } <br>
-
-Chetumal  {: .city #chetumal } <br>
-
-</div>
+..
+..
+Chetumal  ++
+ ++
+•
 
 
 
-### San Luis Potosí _(1)_{:.count}
+
+### _(sl)_{:.key} San Luis Potosí  ++
+_(1)_{:.count}    63068 km2   pop
 {: #mx-sl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-San Luis Potosì  _pop (1.040.822)_{:.pop} {: .city #sanluispotosi } <br>
-
-</div>
+..
+..
+San Luis Potosì | S.L.P.  ++
+ _pop (1.040.822)_{:.pop} ++
+•
 
 
 
-### Sinaloa _(2)_{:.count}
+
+### _(si)_{:.key} Sinaloa  ++
+_(2)_{:.count}    58328 km2   pop
 {: #mx-si }
 
 
-[Culiacán (Rosales)](#culiacan) • [Los Mochis](#losmochis)
+..
+..
+Culiacán (Rosales)  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Culiacán (Rosales)  {: .city #culiacan } <br>
-
-Los Mochis  {: .city #losmochis } <br>
-
-</div>
+..
+..
+Los Mochis  ++
+ ++
+•
 
 
 
-### Sonora _(2)_{:.count}
+
+### _(so)_{:.key} Sonora  ++
+_(2)_{:.count}    182052 km2   pop
 {: #mx-so }
 
 
-[Ciudad Obregón](#ciudadobregon) • [Hermosillo](#hermosillo)
+..
+..
+Ciudad Obregón  ++
+ ++
+•
 
-<div class='columns2' markdown='1'>
-
-
-Ciudad Obregón  {: .city #ciudadobregon } <br>
-
-Hermosillo  {: .city #hermosillo } <br>
-
-</div>
+..
+..
+Hermosillo  ++
+ ++
+•
 
 
 
-### Tabasco _(1)_{:.count}
+
+### _(tb)_{:.key} Tabasco  ++
+_(1)_{:.count}    25267 km2   pop
 {: #mx-tb }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Villahermosa  {: .city #villahermosa } <br>
-
-</div>
+..
+..
+Villahermosa  ++
+ ++
+•
 
 
 
-### Tamaulipas _(1)_{:.count}
+
+### _(tm)_{:.key} Tamaulipas  ++
+_(1)_{:.count}    79384 km2   pop
 {: #mx-tm }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Ciudad Victoria  {: .city #ciudadvictoria } <br>
-
-</div>
+..
+..
+Ciudad Victoria | Cd. Victoria  ++
+ ++
+•
 
 
 
-### Tlaxcala _(1)_{:.count}
+
+### _(tl)_{:.key} Tlaxcala  ++
+_(1)_{:.count}    4016 km2   pop
 {: #mx-tl }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Tlaxcala  {: .city #tlaxcala } <br>
-
-</div>
+..
+..
+Tlaxcala  ++
+ ++
+•
 
 
 
-### Veracruz _(1)_{:.count}
+
+### _(ve)_{:.key} Veracruz  ++
+_(1)_{:.count}    71699 km2   pop
 {: #mx-ve }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Xalapa(-Enríquez)  {: .city #xalapa } <br>
-
-</div>
+..
+..
+Xalapa(-Enríquez) | Jalapa  ++
+ ++
+•
 
 
 
-### Yucatán _(1)_{:.count}
+
+### _(yu)_{:.key} Yucatán  ++
+_(0)_{:.count}    38402 km2   pop
 {: #mx-yu }
 
 
 
 
-<div class='columns2' markdown='1'>
 
-
-Mérida  _pop (973.046)_{:.pop} {: .city #merida } <br>
-
-</div>
-
-
-
-### Zacatecas _(1)_{:.count}
+### _(za)_{:.key} Zacatecas  ++
+_(1)_{:.count}    73252 km2   pop
 {: #mx-za }
 
 
-
-
-<div class='columns2' markdown='1'>
-
-
-Zacatecas  {: .city #zacatecas } <br>
-
-</div>
+..
+..
+Zacatecas  ++
+ ++
+•
 
 
  

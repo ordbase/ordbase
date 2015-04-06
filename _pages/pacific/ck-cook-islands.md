@@ -1,15 +1,26 @@
 ---
-layout: book
+layout: default
 title: Cook Islands (COK)
 permalink: /ck.html
 ---
 
-## Cook Islands (COK) - 0 Regions, 0 Cities
+
+## Cook Islands   ++
+(COK)  ++
+-                     ++
+0 Regions, ++
+0 Cities
 {: #ck }
 
+.. 
 
 
 
 
+.. 
+.. 
 
+
+
+.. 
  

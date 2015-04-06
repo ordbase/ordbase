@@ -1,66 +1,175 @@
 ---
-layout: book
+layout: default
 title: China (CHN)
 permalink: /cn.html
 ---
 
-## China (CHN) - 0 Regions, 24 Cities
+
+## China   ++
+(CHN)  ++
+-                     ++
+0 Regions, ++
+24 Cities
 {: #cn }
 
+.. 
 
 
+
+
+.. 
+.. 
 
 
 ### Uncategorized _(24)_{:.count}
 
 
-Guangzhou  _pop (31)_{:.pop} {: .city #guangzhou } <br>
+..
+..
+Beijing | Peking  ++
+ _pop (19)_{:.pop} ++
+•
 
-Shanghai  _pop (28)_{:.pop} {: .city #shanghai } <br>
+..
+..
+Guangzhou | Canton  ++
+ _pop (31)_{:.pop} ++
+•
 
-Beijing  _pop (19)_{:.pop} {: .city #beijing } <br>
+..
+..
+Shanghai  ++
+ _pop (28)_{:.pop} ++
+•
 
-Shenzhen  _pop (11)_{:.pop} {: .city #shenzhen } <br>
+..
+..
+Shenzhen  ++
+ _pop (11)_{:.pop} ++
+•
 
-Tianjin  _pop (10)_{:.pop} {: .city #tianjin } <br>
+..
+..
+Tianjin | Tientsin  ++
+ _pop (10)_{:.pop} ++
+•
 
-Chengdu  _pop (8)_{:.pop} {: .city #chengdu } <br>
+..
+..
+Chengdu | Chengtu  ++
+ _pop (8)_{:.pop} ++
+•
 
-Shenyang  _pop (7)_{:.pop} {: .city #shenyang } <br>
+..
+..
+Shenyang  ++
+ _pop (7)_{:.pop} ++
+•
 
-Hangzhou  _pop (7)_{:.pop} {: .city #hangzhou } <br>
+..
+..
+Hangzhou | Hangchou  ++
+ _pop (7)_{:.pop} ++
+•
 
-Hong Kong  _pop (7)_{:.pop} {: .city #hongkong } <br>
+..
+..
+Hong Kong  ++
+ _pop (7)_{:.pop} ++
+•
 
-Wuhan  _pop (7)_{:.pop} {: .city #wuhan } <br>
+..
+..
+Wuhan  ++
+ _pop (7)_{:.pop} ++
+•
 
-Chongqing  _pop (6)_{:.pop} {: .city #chongqing } <br>
+..
+..
+Chongqing | Chungking  ++
+ _pop (6)_{:.pop} ++
+•
 
-Xi'an  _pop (6)_{:.pop} {: .city #xian } <br>
+..
+..
+Xi'an | Sian  ++
+ _pop (6)_{:.pop} ++
+•
 
-Nanjing  _pop (6)_{:.pop} {: .city #nanjing } <br>
+..
+..
+Nanjing | Nanking  ++
+ _pop (6)_{:.pop} ++
+•
 
-Shantou  _pop (5)_{:.pop} {: .city #shantou } <br>
+..
+..
+Shantou | Swatow | Suátao  ++
+ _pop (5)_{:.pop} ++
+•
 
-Harbin  _pop (4)_{:.pop} {: .city #harbin } <br>
+..
+..
+Harbin  ++
+ _pop (4)_{:.pop} ++
+•
 
-Xiamen  _pop (4)_{:.pop} {: .city #xiamen } <br>
+..
+..
+Xiamen  ++
+ _pop (4)_{:.pop} ++
+•
 
-Wenzhou  _pop (4)_{:.pop} {: .city #wenzhou } <br>
+..
+..
+Wenzhou  ++
+ _pop (4)_{:.pop} ++
+•
 
-Zhengzhou  _pop (4)_{:.pop} {: .city #zhengzhou } <br>
+..
+..
+Zhengzhou  ++
+ _pop (4)_{:.pop} ++
+•
 
-Qingdao  _pop (4)_{:.pop} {: .city #qingdao } <br>
+..
+..
+Qingdao | Tsingtao  ++
+ _pop (4)_{:.pop} ++
+•
 
-Dalian  _pop (4)_{:.pop} {: .city #dalian } <br>
+..
+..
+Dalian | Dairen  ++
+ _pop (4)_{:.pop} ++
+•
 
-Hefei  _pop (4)_{:.pop} {: .city #hefei } <br>
+..
+..
+Hefei | Hofei  ++
+ _pop (4)_{:.pop} ++
+•
 
-Changsha  _pop (4)_{:.pop} {: .city #changsha } <br>
+..
+..
+Changsha  ++
+ _pop (4)_{:.pop} ++
+•
 
-Quanzhou  _pop (4)_{:.pop} {: .city #quanzhou } <br>
+..
+..
+Quanzhou  ++
+ _pop (4)_{:.pop} ++
+•
 
-Taiyuan  _pop (4)_{:.pop} {: .city #taiyuan } <br>
+..
+..
+Taiyuan  ++
+ _pop (4)_{:.pop} ++
+•
 
 
+
+
+.. 
  
