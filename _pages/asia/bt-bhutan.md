@@ -5,33 +5,17 @@ permalink: /bt.html
 ---
 
 
-## Bhutan   ++
-(BHU)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Bhutan (BHU) - 0 Regions, 1 Cities
 {: #bt }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Thimphu  ++
- ++
-•
+Thimphu  •
 
 
-
-
-.. 
  

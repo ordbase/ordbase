@@ -5,45 +5,21 @@ permalink: /il.html
 ---
 
 
-## Israel   ++
-(ISR)  ++
--                     ++
-0 Regions, ++
-3 Cities
+## Israel (ISR) - 0 Regions, 3 Cities
 {: #il }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(3)_{:.count}
 
 
-..
-..
-Jerusalem  ++
- ++
-•
+Jerusalem  •
 
-..
-..
-Tel Aviv  ++
- ++
-•
+Tel Aviv  •
 
-..
-..
-Yafo [Jaffa]  ++
- ++
-•
+Yafo [Jaffa]  •
 
 
-
-
-.. 
  

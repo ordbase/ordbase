@@ -5,33 +5,17 @@ permalink: /gw.html
 ---
 
 
-## Guinea-Bissau   ++
-(GNB)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Guinea-Bissau (GNB) - 0 Regions, 1 Cities
 {: #gw }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Bissau  ++
- ++
-•
+Bissau  •
 
 
-
-
-.. 
  

@@ -5,22 +5,12 @@ permalink: /gy.html
 ---
 
 
-## Guyana   ++
-(GUY)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Guyana (GUY) - 0 Regions, 0 Cities
 {: #gy }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

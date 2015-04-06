@@ -5,33 +5,17 @@ permalink: /lc.html
 ---
 
 
-## Saint Lucia   ++
-(LCA)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Saint Lucia (LCA) - 0 Regions, 1 Cities
 {: #lc }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Castries  ++
- ++
-•
+Castries  •
 
 
-
-
-.. 
  

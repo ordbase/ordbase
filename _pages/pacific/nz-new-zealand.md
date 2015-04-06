@@ -5,39 +5,19 @@ permalink: /nz.html
 ---
 
 
-## New Zealand   ++
-(NZL)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## New Zealand (NZL) - 0 Regions, 2 Cities
 {: #nz }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Wellington  ++
- ++
-•
+Wellington  •
 
-..
-..
-Auckland  ++
- _pop (1)_{:.pop} ++
-•
+Auckland  _pop (1)_{:.pop} •
 
 
-
-
-.. 
  

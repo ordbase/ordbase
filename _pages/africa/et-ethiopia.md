@@ -5,39 +5,19 @@ permalink: /et.html
 ---
 
 
-## Ethiopia   ++
-(ETH)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Ethiopia (ETH) - 0 Regions, 2 Cities
 {: #et }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Addis Ababa  ++
- ++
-•
+Addis Ababa  •
 
-..
-..
-Adis Abeba [Addis Ababa]  ++
- _pop (3)_{:.pop} ++
-•
+Adis Abeba [Addis Ababa]  _pop (3)_{:.pop} •
 
 
-
-
-.. 
  

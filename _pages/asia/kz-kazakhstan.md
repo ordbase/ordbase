@@ -5,39 +5,19 @@ permalink: /kz.html
 ---
 
 
-## Kazakhstan   ++
-(KAZ)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Kazakhstan (KAZ) - 0 Regions, 2 Cities
 {: #kz }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Astana  ++
- ++
-•
+Astana  •
 
-..
-..
-Almaty [Alma-Ata]  ++
- _pop (1)_{:.pop} ++
-•
+Almaty [Alma-Ata]  _pop (1)_{:.pop} •
 
 
-
-
-.. 
  

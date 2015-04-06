@@ -5,22 +5,12 @@ permalink: /bm.html
 ---
 
 
-## Bermuda   ++
-(BMU)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Bermuda (BMU) - 0 Regions, 0 Cities
 {: #bm }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

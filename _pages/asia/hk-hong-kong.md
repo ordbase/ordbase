@@ -5,22 +5,12 @@ permalink: /hk.html
 ---
 
 
-## Hong Kong   ++
-(HKG)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Hong Kong (HKG) - 0 Regions, 0 Cities
 {: #hk }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

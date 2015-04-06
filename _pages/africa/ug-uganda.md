@@ -5,33 +5,17 @@ permalink: /ug.html
 ---
 
 
-## Uganda   ++
-(UGA)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Uganda (UGA) - 0 Regions, 1 Cities
 {: #ug }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Kampala  ++
- _pop (2)_{:.pop} ++
-•
+Kampala  _pop (2)_{:.pop} •
 
 
-
-
-.. 
  

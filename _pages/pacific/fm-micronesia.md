@@ -5,33 +5,17 @@ permalink: /fm.html
 ---
 
 
-## Micronesia   ++
-(FSM)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Micronesia (FSM) - 0 Regions, 1 Cities
 {: #fm }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Palikir  ++
- ++
-•
+Palikir  •
 
 
-
-
-.. 
  

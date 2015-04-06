@@ -5,39 +5,19 @@ permalink: /lb.html
 ---
 
 
-## Lebanon   ++
-(LIB)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Lebanon (LIB) - 0 Regions, 2 Cities
 {: #lb }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Beirut  ++
- ++
-•
+Beirut  •
 
-..
-..
-Bayrūt [Beirut]  ++
- _pop (1)_{:.pop} ++
-•
+Bayrūt [Beirut]  _pop (1)_{:.pop} •
 
 
-
-
-.. 
  

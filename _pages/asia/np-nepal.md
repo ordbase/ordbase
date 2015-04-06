@@ -5,39 +5,19 @@ permalink: /np.html
 ---
 
 
-## Nepal   ++
-(NEP)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Nepal (NEP) - 0 Regions, 2 Cities
 {: #np }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Kathmandu  ++
- ++
-•
+Kathmandu  •
 
-..
-..
-Kāṭhmāḍaũ [Kathmandu]  ++
- _pop (2)_{:.pop} ++
-•
+Kāṭhmāḍaũ [Kathmandu]  _pop (2)_{:.pop} •
 
 
-
-
-.. 
  

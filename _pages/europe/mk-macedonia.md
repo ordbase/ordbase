@@ -5,22 +5,12 @@ permalink: /mk.html
 ---
 
 
-## Macedonia   ++
-(MKD)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Macedonia (MKD) - 0 Regions, 0 Cities
 {: #mk }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

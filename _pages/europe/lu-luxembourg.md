@@ -5,22 +5,12 @@ permalink: /lu.html
 ---
 
 
-## Luxembourg   ++
-(LUX)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Luxembourg (LUX) - 0 Regions, 0 Cities
 {: #lu }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

@@ -5,22 +5,12 @@ permalink: /eng.html
 ---
 
 
-## England   ++
-(ENG)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## England (ENG) - 0 Regions, 0 Cities
 {: #eng }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

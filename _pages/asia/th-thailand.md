@@ -5,39 +5,19 @@ permalink: /th.html
 ---
 
 
-## Thailand   ++
-(THA)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Thailand (THA) - 0 Regions, 2 Cities
 {: #th }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Bangkok  ++
- ++
-•
+Bangkok  •
 
-..
-..
-Krung Thep [Bangkok]  ++
- _pop (14)_{:.pop} ++
-•
+Krung Thep [Bangkok]  _pop (14)_{:.pop} •
 
 
-
-
-.. 
  

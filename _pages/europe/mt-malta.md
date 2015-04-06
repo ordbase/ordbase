@@ -5,22 +5,12 @@ permalink: /mt.html
 ---
 
 
-## Malta   ++
-(MLT)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Malta (MLT) - 0 Regions, 0 Cities
 {: #mt }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

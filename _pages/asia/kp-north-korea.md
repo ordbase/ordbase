@@ -5,33 +5,17 @@ permalink: /kp.html
 ---
 
 
-## North Korea   ++
-(PRK)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## North Korea (PRK) - 0 Regions, 1 Cities
 {: #kp }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-P'yŏngyang [Pyongyang]  ++
- _pop (2)_{:.pop} ++
-•
+P'yŏngyang [Pyongyang]  _pop (2)_{:.pop} •
 
 
-
-
-.. 
  

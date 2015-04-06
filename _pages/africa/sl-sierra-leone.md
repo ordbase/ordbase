@@ -5,33 +5,17 @@ permalink: /sl.html
 ---
 
 
-## Sierra Leone   ++
-(SLE)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Sierra Leone (SLE) - 0 Regions, 1 Cities
 {: #sl }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Freetown  ++
- _pop (1)_{:.pop} ++
-•
+Freetown  _pop (1)_{:.pop} •
 
 
-
-
-.. 
  

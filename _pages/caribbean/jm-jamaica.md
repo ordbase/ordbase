@@ -5,22 +5,12 @@ permalink: /jm.html
 ---
 
 
-## Jamaica   ++
-(JAM)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Jamaica (JAM) - 0 Regions, 0 Cities
 {: #jm }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

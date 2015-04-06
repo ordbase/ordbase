@@ -5,39 +5,19 @@ permalink: /fi.html
 ---
 
 
-## Finland   ++
-(FIN)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Finland (FIN) - 0 Regions, 2 Cities
 {: #fi }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Helsinki  ++
- ++
-•
+Helsinki  •
 
-..
-..
-Helsingfors [Helsinki]  ++
- _pop (1.131.000)_{:.pop} ++
-•
+Helsingfors [Helsinki]  _pop (1.131.000)_{:.pop} •
 
 
-
-
-.. 
  

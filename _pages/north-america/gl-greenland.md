@@ -5,22 +5,12 @@ permalink: /gl.html
 ---
 
 
-## Greenland   ++
-(GRL)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Greenland (GRL) - 0 Regions, 0 Cities
 {: #gl }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

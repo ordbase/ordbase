@@ -5,45 +5,21 @@ permalink: /mm.html
 ---
 
 
-## Myanmar   ++
-(MYA)  ++
--                     ++
-0 Regions, ++
-3 Cities
+## Myanmar (MYA) - 0 Regions, 3 Cities
 {: #mm }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(3)_{:.count}
 
 
-..
-..
-Naypyidaw  ++
- ++
-•
+Naypyidaw  •
 
-..
-..
-Yangon [Rangoon]  ++
- _pop (5)_{:.pop} ++
-•
+Yangon [Rangoon]  _pop (5)_{:.pop} •
 
-..
-..
-Mandalay  ++
- _pop (1)_{:.pop} ++
-•
+Mandalay  _pop (1)_{:.pop} •
 
 
-
-
-.. 
  

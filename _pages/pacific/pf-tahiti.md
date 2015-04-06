@@ -5,22 +5,12 @@ permalink: /pf.html
 ---
 
 
-## Tahiti   ++
-(TAH)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Tahiti (TAH) - 0 Regions, 0 Cities
 {: #pf }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

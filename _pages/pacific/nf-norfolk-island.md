@@ -5,22 +5,12 @@ permalink: /nf.html
 ---
 
 
-## Norfolk Island   ++
-(NFK)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Norfolk Island (NFK) - 0 Regions, 0 Cities
 {: #nf }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

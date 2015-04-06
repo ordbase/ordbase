@@ -5,22 +5,12 @@ permalink: /gi.html
 ---
 
 
-## Gibraltar   ++
-(GIB)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Gibraltar (GIB) - 0 Regions, 0 Cities
 {: #gi }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

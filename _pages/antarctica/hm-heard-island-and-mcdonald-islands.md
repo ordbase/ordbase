@@ -5,22 +5,12 @@ permalink: /hm.html
 ---
 
 
-## Heard Island and McDonald Islands   ++
-(HMD)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Heard Island and McDonald Islands (HMD) - 0 Regions, 0 Cities
 {: #hm }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

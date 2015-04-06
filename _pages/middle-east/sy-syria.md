@@ -5,45 +5,21 @@ permalink: /sy.html
 ---
 
 
-## Syria   ++
-(SYR)  ++
--                     ++
-0 Regions, ++
-3 Cities
+## Syria (SYR) - 0 Regions, 3 Cities
 {: #sy }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(3)_{:.count}
 
 
-..
-..
-Damascus  ++
- ++
-•
+Damascus  •
 
-..
-..
-Dimashq [Damascus]  ++
- _pop (3)_{:.pop} ++
-•
+Dimashq [Damascus]  _pop (3)_{:.pop} •
 
-..
-..
-Ḥalab [Aleppo]  ++
- _pop (3)_{:.pop} ++
-•
+Ḥalab [Aleppo]  _pop (3)_{:.pop} •
 
 
-
-
-.. 
  

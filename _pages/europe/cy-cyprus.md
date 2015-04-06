@@ -5,39 +5,19 @@ permalink: /cy.html
 ---
 
 
-## Cyprus   ++
-(CYP)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Cyprus (CYP) - 0 Regions, 2 Cities
 {: #cy }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Nicosia  ++
- ++
-•
+Nicosia  •
 
-..
-..
-Nikosia | Nicosia  ++
- ++
-•
+Nikosia | Nicosia  •
 
 
-
-
-.. 
  

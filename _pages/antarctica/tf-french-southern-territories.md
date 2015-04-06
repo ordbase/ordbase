@@ -5,33 +5,17 @@ permalink: /tf.html
 ---
 
 
-## French Southern Territories   ++
-(ATF)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## French Southern Territories (ATF) - 0 Regions, 1 Cities
 {: #tf }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Port-aux-Français  ++
- ++
-•
+Port-aux-Français  •
 
 
-
-
-.. 
  

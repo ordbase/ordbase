@@ -5,33 +5,17 @@ permalink: /gn.html
 ---
 
 
-## Guinea   ++
-(GUI)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Guinea (GUI) - 0 Regions, 1 Cities
 {: #gn }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Conakry  ++
- _pop (1)_{:.pop} ++
-•
+Conakry  _pop (1)_{:.pop} •
 
 
-
-
-.. 
  

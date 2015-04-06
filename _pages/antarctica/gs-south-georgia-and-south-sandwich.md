@@ -5,33 +5,17 @@ permalink: /gs.html
 ---
 
 
-## South Georgia and South Sandwich   ++
-(SGS)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## South Georgia and South Sandwich (SGS) - 0 Regions, 1 Cities
 {: #gs }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-King Edward Point  ++
- ++
-•
+King Edward Point  •
 
 
-
-
-.. 
  

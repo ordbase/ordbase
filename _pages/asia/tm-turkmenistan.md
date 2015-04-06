@@ -5,39 +5,19 @@ permalink: /tm.html
 ---
 
 
-## Turkmenistan   ++
-(TKM)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Turkmenistan (TKM) - 0 Regions, 2 Cities
 {: #tm }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Ashgabat  ++
- ++
-•
+Ashgabat  •
 
-..
-..
-Aşgabat [Ashgabat]  ++
- _pop (1)_{:.pop} ++
-•
+Aşgabat [Ashgabat]  _pop (1)_{:.pop} •
 
 
-
-
-.. 
  

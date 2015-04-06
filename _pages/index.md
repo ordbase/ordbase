@@ -20,14 +20,11 @@ permalink: /index.html
 
 
 
-
-
 #### Europe
 {: #europe }
 
 
 <div class='columns2' markdown='1'>
-
 
 [Albania (ALB)](al.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [Andorra (AND)](ad.html) - _0 Regions, 0 Cities_{:.count}  <br>
@@ -90,10 +87,7 @@ permalink: /index.html
 [Wales (WAL)](wal.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Åland Islands (ALA)](ax.html) - _0 Regions, 0 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -103,7 +97,6 @@ permalink: /index.html
 
 
 <div class='columns2' markdown='1'>
-
 
 [Argentina (ARG)](ar.html) - _24 Regions, 26 Cities_{:.count}  <br>
 [Bolivia (BOL)](bo.html) - _0 Regions, 3 Cities_{:.count}  <br>
@@ -120,10 +113,7 @@ permalink: /index.html
 [Uruguay (URU)](uy.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Venezuela (VEN)](ve.html) - _24 Regions, 24 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -134,7 +124,6 @@ permalink: /index.html
 
 <div class='columns2' markdown='1'>
 
-
 [Bermuda (BMU)](bm.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [Canada (CAN)](ca.html) - _13 Regions, 36 Cities_{:.count}  <br>
 [Greenland (GRL)](gl.html) - _0 Regions, 0 Cities_{:.count}  <br>
@@ -142,10 +131,7 @@ permalink: /index.html
 [Saint Pierre and Miquelon (SPM)](pm.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [United States (USA)](us.html) - _51 Regions, 81 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -156,7 +142,6 @@ permalink: /index.html
 
 <div class='columns2' markdown='1'>
 
-
 [Belize (BLZ)](bz.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Costa Rica (CRC)](cr.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [El Salvador (SLV)](sv.html) - _0 Regions, 1 Cities_{:.count}  <br>
@@ -165,10 +150,7 @@ permalink: /index.html
 [Nicaragua (NCA)](ni.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Panamá [Panama] (PAN)](pa.html) - _0 Regions, 2 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -178,7 +160,6 @@ permalink: /index.html
 
 
 <div class='columns2' markdown='1'>
-
 
 [Anguilla (AIA)](ai.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Antigua and Barbuda (ATG)](ag.html) - _0 Regions, 1 Cities_{:.count}  <br>
@@ -208,10 +189,7 @@ permalink: /index.html
 [Turks and Caicos Islands (TCA)](tc.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [United States Virgin Islands (VIR)](vi.html) - _0 Regions, 1 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -221,7 +199,6 @@ permalink: /index.html
 
 
 <div class='columns2' markdown='1'>
-
 
 [Algeria (ALG)](dz.html) - _0 Regions, 2 Cities_{:.count}  <br>
 [Angola (ANG)](ao.html) - _0 Regions, 1 Cities_{:.count}  <br>
@@ -281,10 +258,7 @@ permalink: /index.html
 [Zambia (ZAM)](zm.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Zimbabwe (ZIM)](zw.html) - _0 Regions, 1 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -294,7 +268,6 @@ permalink: /index.html
 
 
 <div class='columns2' markdown='1'>
-
 
 [Bahrain (BHR)](bh.html) - _0 Regions, 2 Cities_{:.count}  <br>
 [Iran (IRN)](ir.html) - _0 Regions, 7 Cities_{:.count}  <br>
@@ -311,10 +284,7 @@ permalink: /index.html
 [United Arab Emirates (UAE)](ae.html) - _0 Regions, 3 Cities_{:.count}  <br>
 [Yemen (YEM)](ye.html) - _0 Regions, 2 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -324,7 +294,6 @@ permalink: /index.html
 
 
 <div class='columns2' markdown='1'>
-
 
 [Afghanistan (AFG)](af.html) - _0 Regions, 2 Cities_{:.count}  <br>
 [Bangladesh (BAN)](bd.html) - _0 Regions, 3 Cities_{:.count}  <br>
@@ -362,10 +331,7 @@ permalink: /index.html
 [Uzbekistan (UZB)](uz.html) - _0 Regions, 2 Cities_{:.count}  <br>
 [Vietnam (VIE)](vn.html) - _0 Regions, 2 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -375,7 +341,6 @@ permalink: /index.html
 
 
 <div class='columns2' markdown='1'>
-
 
 [American Samoa (ASM)](as.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [Australia (AUS)](au.html) - _8 Regions, 22 Cities_{:.count}  <br>
@@ -403,10 +368,7 @@ permalink: /index.html
 [Vanuatu (VAN)](vu.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Wallis and Futuna (WLF)](wf.html) - _0 Regions, 0 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 
@@ -417,17 +379,13 @@ permalink: /index.html
 
 <div class='columns2' markdown='1'>
 
-
 [Antarctica (ATA)](aq.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [Bouvet Island (BVT)](bv.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [French Southern Territories (ATF)](tf.html) - _0 Regions, 1 Cities_{:.count}  <br>
 [Heard Island and McDonald Islands (HMD)](hm.html) - _0 Regions, 0 Cities_{:.count}  <br>
 [South Georgia and South Sandwich (SGS)](gs.html) - _0 Regions, 1 Cities_{:.count}  <br>
 
-
 </div>
-
-
 
 
 

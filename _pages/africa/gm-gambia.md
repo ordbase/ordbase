@@ -5,22 +5,12 @@ permalink: /gm.html
 ---
 
 
-## Gambia   ++
-(GAM)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Gambia (GAM) - 0 Regions, 0 Cities
 {: #gm }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

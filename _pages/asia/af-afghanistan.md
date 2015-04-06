@@ -5,39 +5,19 @@ permalink: /af.html
 ---
 
 
-## Afghanistan   ++
-(AFG)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Afghanistan (AFG) - 0 Regions, 2 Cities
 {: #af }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Kabul  ++
- ++
-•
+Kabul  •
 
-..
-..
-Kābol [Kabul]  ++
- _pop (3)_{:.pop} ++
-•
+Kābol [Kabul]  _pop (3)_{:.pop} •
 
 
-
-
-.. 
  

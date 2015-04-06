@@ -5,33 +5,17 @@ permalink: /sz.html
 ---
 
 
-## Swaziland   ++
-(SWZ)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Swaziland (SWZ) - 0 Regions, 1 Cities
 {: #sz }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Lobamba  ++
- ++
-•
+Lobamba  •
 
 
-
-
-.. 
  

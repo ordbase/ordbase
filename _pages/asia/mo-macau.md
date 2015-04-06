@@ -5,22 +5,12 @@ permalink: /mo.html
 ---
 
 
-## Macau   ++
-(MAC)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Macau (MAC) - 0 Regions, 0 Cities
 {: #mo }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

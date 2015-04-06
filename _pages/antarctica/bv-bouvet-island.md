@@ -5,22 +5,12 @@ permalink: /bv.html
 ---
 
 
-## Bouvet Island   ++
-(BVT)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Bouvet Island (BVT) - 0 Regions, 0 Cities
 {: #bv }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  

@@ -5,39 +5,19 @@ permalink: /sd.html
 ---
 
 
-## Sudan   ++
-(SDN)  ++
--                     ++
-0 Regions, ++
-2 Cities
+## Sudan (SDN) - 0 Regions, 2 Cities
 {: #sd }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(2)_{:.count}
 
 
-..
-..
-Khartoum  ++
- ++
-•
+Khartoum  •
 
-..
-..
-Al-Kharṭūm [Khartoum]  ++
- _pop (5)_{:.pop} ++
-•
+Al-Kharṭūm [Khartoum]  _pop (5)_{:.pop} •
 
 
-
-
-.. 
  

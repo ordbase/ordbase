@@ -5,33 +5,17 @@ permalink: /nr.html
 ---
 
 
-## Nauru   ++
-(NRU)  ++
--                     ++
-0 Regions, ++
-1 Cities
+## Nauru (NRU) - 0 Regions, 1 Cities
 {: #nr }
 
-.. 
 
 
-
-
-.. 
-.. 
 
 
 ### Uncategorized _(1)_{:.count}
 
 
-..
-..
-Yaren  ++
- ++
-•
+Yaren  •
 
 
-
-
-.. 
  

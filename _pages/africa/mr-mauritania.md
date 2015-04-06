@@ -5,22 +5,12 @@ permalink: /mr.html
 ---
 
 
-## Mauritania   ++
-(MTN)  ++
--                     ++
-0 Regions, ++
-0 Cities
+## Mauritania (MTN) - 0 Regions, 0 Cities
 {: #mr }
 
-.. 
 
 
 
 
-.. 
-.. 
 
-
-
-.. 
  
