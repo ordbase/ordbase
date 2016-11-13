@@ -2,7 +2,7 @@
 
 
 - [worldbook.github.io](http://worldbook.github.io) - HTML page version
-- [worldbook.github.io/book.html](http://worldbook.github.io/book.html) - All-in-one-page HTML version
+- [worldbook.github.io/book](http://worldbook.github.io/book) - All-in-one-page HTML version
 
 
 Note, all data and scripts are dedicated to the public domain.
