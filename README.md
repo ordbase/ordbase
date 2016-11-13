@@ -1,12 +1,9 @@
-# The Free World Fact Book
+# The Free World Book / Almanac
 
 
-- [openmundi.github.io/book](http://openmundi.github.io/book) - HTML page version
-- [openmundi.github.io/book/book.html](http://openmundi.github.io/book/book.html) - All-in-one-page HTML version
+- [worldbook.github.io](http://worldbook.github.io) - HTML page version
+- [worldbook.github.io/book.html](http://worldbook.github.io/book.html) - All-in-one-page HTML version
 
-<!--
-- [openmundi.github.io/book.pdf](http://openmundi.github.io/book.pdf) - PDF booklet version
--->
 
 Note, all data and scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
