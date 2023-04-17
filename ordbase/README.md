@@ -3,8 +3,8 @@
 ordbase gem - "right-clicker" (off-chain) ordinals (pixel art) command-line tool, machinery & helpers for Bitcoin, Litcoin, Dogecoin & co.
 
 
-* home  :: [github.com/pixelartexchange/artbase](https://github.com/pixelartexchange/artbase)
-* bugs  :: [github.com/pixelartexchange/artbase/issues](https://github.com/pixelartexchange/artbase/issues)
+* home  :: [github.com/ordbase/ordbase](https://github.com/ordbase/ordbase)
+* bugs  :: [github.com/ordbase/ordbase/issues](https://github.com/ordbase/ordbase/issues)
 * gem   :: [rubygems.org/gems/ordbase](https://rubygems.org/gems/ordbase)
 * rdoc  :: [rubydoc.info/gems/ordbase](http://rubydoc.info/gems/ordbase)
 
@@ -15,13 +15,14 @@ ordbase gem - "right-clicker" (off-chain) ordinals (pixel art) command-line tool
 Let's use the 100 Ordinal Punks collection to try out the
 `ordbase` command-line tool shipping with the ordbase package.
 
-Tip: New to Ordinal Punks? For some background see [**Awesome 100 Ordinal Punks (Anno 2023) Notes - 24×24 Pixel Art on the (Bitcoin) Blockchain »**](https://github.com/cryptopunksnotdead/cryptopunks/tree/master/awesome-ordinalpunks)
+Tip: New to Ordinal Punks? For some background see [**Awesome 100 Ordinal Punks (Anno 2023) Notes - 24×24 Pixel Art on the (Bitcoin) Blockchain »**](https://github.com/ordinalpunks/awesome-ordinalpunks)
+
 
 
 ### Step 0:   Prepare A Tabular Dataset (List) Of All Ordinals w/ ID
 
 For now a manual step - prepare a list of all ordinals with id in the comma-separated values (.csv) tabular dataset format.
-Example - [ordinalpunks/ordinals.csv](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/ordinalpunks/ordinals.csv):
+Example - [ordinalpunks/ordinals.csv](https://github.com/ordbase/ordinals.sandbox/blob/master/ordinalpunks/ordinals.csv):
 
 ``` csv
 num, id
@@ -61,12 +62,12 @@ Resulting in:
      ...
 ```
 
-![](https://github.com/pixelartexchange/artbase/raw/master/ordbase/i/1.png)
-![](https://github.com/pixelartexchange/artbase/raw/master/ordbase/i/2.png)
-![](https://github.com/pixelartexchange/artbase/raw/master/ordbase/i/3.png)
-![](https://github.com/pixelartexchange/artbase/raw/master/ordbase/i/4.png)
-![](https://github.com/pixelartexchange/artbase/raw/master/ordbase/i/5.png)
-![](https://github.com/pixelartexchange/artbase/raw/master/ordbase/i/6.png)
+![](https://github.com/ordbase/ordbase/raw/master/ordbase/i/1.png)
+![](https://github.com/ordbase/ordbase/raw/master/ordbase/i/2.png)
+![](https://github.com/ordbase/ordbase/raw/master/ordbase/i/3.png)
+![](https://github.com/ordbase/ordbase/raw/master/ordbase/i/4.png)
+![](https://github.com/ordbase/ordbase/raw/master/ordbase/i/5.png)
+![](https://github.com/ordbase/ordbase/raw/master/ordbase/i/6.png)
 ...
 
 
@@ -81,7 +82,7 @@ resulting in 192×192px.
 
 Add a ["artbase-compatible"](https://github.com/pixelartexchange/artbase) collection configuration file to lists the source format(s)
 and the minimal true pixel format.
-Example - [ordinalpunks/collection.yml](https://github.com/pixelartexchange/ordinals.sandbox/blob/master/ordinalpunks/collection.yml):
+Example - [ordinalpunks/collection.yml](https://github.com/ordbase/ordinals.sandbox/blob/master/ordinalpunks/collection.yml):
 
 ``` yaml
 slug:       ordinalpunks
@@ -114,12 +115,12 @@ in the "minimal" `24x24` format:
      ...
 ```
 
-![](https://github.com/pixelartexchange/ordinals.sandbox/raw/master/ordinalpunks/24x24/1.png)
-![](https://github.com/pixelartexchange/ordinals.sandbox/raw/master/ordinalpunks/24x24/2.png)
-![](https://github.com/pixelartexchange/ordinals.sandbox/raw/master/ordinalpunks/24x24/3.png)
-![](https://github.com/pixelartexchange/ordinals.sandbox/raw/master/ordinalpunks/24x24/4.png)
-![](https://github.com/pixelartexchange/ordinals.sandbox/raw/master/ordinalpunks/24x24/5.png)
-![](https://github.com/pixelartexchange/ordinals.sandbox/raw/master/ordinalpunks/24x24/6.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/ordinalpunks/24x24/1.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/ordinalpunks/24x24/2.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/ordinalpunks/24x24/3.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/ordinalpunks/24x24/4.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/ordinalpunks/24x24/5.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/ordinalpunks/24x24/6.png)
 ...
 
 
@@ -138,7 +139,7 @@ to make an all-in-one image composite for the complete collection.
 Resulting in `/tmp/ordinalpunks.png` (~11kb).
 
 
-![](https://github.com/pixelartexchange/ordinals.sandbox/raw/master/i/ordinalpunks.png)
+![](https://github.com/ordbase/ordinals.sandbox/raw/master/i/ordinalpunks.png)
 
 
 That's it for now.
@@ -149,7 +150,7 @@ That's it for now.
 ## Bonus:  More Ordinal Pixel Art Collections
 
 
-See the [**Ordinals (Pixel Art) Sandbox (& Cache)**](https://github.com/pixelartexchange/ordinals.sandbox)
+See the [**Ordinals (Pixel Art) Sandbox (& Cache)**](https://github.com/ordbase/ordinals.sandbox)
 for more collections incl. Bitcoin Punks (24×24), Ordinal Mini Doges (24×24),
 Extra Ordinal Women (32×32), Ordinal Penguins (35×35),
 Ordinal Birds (42×42), Bitcoin Bears (48×48) and much more.

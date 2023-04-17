@@ -3,8 +3,8 @@
 ordinals gem - ordinals (inscription) api wrapper & helpers for Bitcoin, Litcoin, Dogecoin & co.
 
 
-* home  :: [github.com/pixelartexchange/artbase](https://github.com/pixelartexchange/artbase)
-* bugs  :: [github.com/pixelartexchange/artbase/issues](https://github.com/pixelartexchange/artbase/issues)
+* home  :: [github.com/ordbase/ordbase](https://github.com/ordbase/ordbase)
+* bugs  :: [github.com/ordbase/ordbase/issues](https://github.com/ordbase/ordbase/issues)
 * gem   :: [rubygems.org/gems/ordinals](https://rubygems.org/gems/ordinals)
 * rdoc  :: [rubydoc.info/gems/ordinals](http://rubydoc.info/gems/ordinals)
 
@@ -104,7 +104,7 @@ That's it for now.
 ## Bonus: Ordinal Pixel Art Collections
 
 
-See the [**Ordinals (Pixel Art) Sandbox (& Cache)**](https://github.com/pixelartexchange/ordinals.sandbox)
+See the [**Ordinals (Pixel Art) Sandbox (& Cache)**](https://github.com/ordbase/ordinals.sandbox)
 for collections incl. Ordinal Punks & Phunks (24×24), Bitcoin Punks (24×24), Ordinal Mini Doges (24×24), Ordinal Doggies (32×32),
 Extra Ordinal Women (32×32), Ordinal Penguins (35×35),
 Ordinal Birds (42×42), Bitcoin Bears (48×48) and much more.

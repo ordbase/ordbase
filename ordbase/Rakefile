@@ -10,15 +10,15 @@ end
 
 Hoe.spec 'ordbase' do
 
-  self.version = '1.0.1'
+  self.version = '1.0.2'
 
   self.summary = 'ordbase gem - "right-clicker" (off-chain) ordinals (pixel art) command-line tool, machinery & helpers for Bitcoin, Litecoin, Dogecoin & co.'
   self.description = summary
 
-  self.urls    = { home: 'https://github.com/pixelartexchange/artbase' }
+  self.urls    = { home: 'https://github.com/ordbase/ordbase' }
 
   self.author  = 'Gerald Bauer'
-  self.email   = 'wwwmake@googlegroups.com'
+  self.email   = 'gerald.bauer@gmail.com'
 
   # switch extension to .markdown for gihub formatting
   self.readme_file  = 'README.md'
