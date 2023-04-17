@@ -1,0 +1,13 @@
+#############
+# ignore all tmp directories
+
+tmp/
+tmp2/
+tmp3/
+
+
+#############
+# ignore all (sqlite) dbs for now - why? why not?
+*.db
+
+
