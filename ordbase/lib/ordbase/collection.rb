@@ -134,6 +134,7 @@ def make_composite( limit: nil )
                when   101 then   [11,  10]
                when   111 then   [11,  11]
                when   130 then   [10,  13]
+               when   150 then   [10,  15]
                when   512 then   [20,  26]
                else
                    raise ArgumentError, "sorry - unknown composite count #{composite_count} for now"
