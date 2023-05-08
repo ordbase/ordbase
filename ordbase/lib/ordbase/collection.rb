@@ -113,13 +113,8 @@ def pixelate
 end
 
 
-
-
-def make_composite( limit: nil )
-
-  composite_count =  limit ? limit : count
-
-  cols, rows = case composite_count
+def _count_to_grid( count )
+  cols, rows = case count
                when    10 then   [5,   2]
                when    12 then   [4,   3]
                when    15 then   [5,   3]
@@ -137,8 +132,17 @@ def make_composite( limit: nil )
                when   150 then   [10,  15]
                when   512 then   [20,  26]
                else
-                   raise ArgumentError, "sorry - unknown composite count #{composite_count} for now"
+                   raise ArgumentError, "sorry - unknown composite count #{count} for now"
                end
+
+  [cols,rows]
+end
+
+def make_composite( limit: nil )
+
+  composite_count =  limit ? limit : count
+
+  cols, rows = _count_to_grid( composite_count )
 
   composite = ImageComposite.new( cols, rows,
                                   width:  @width,
@@ -264,6 +268,86 @@ def download_images
       sleep( 1.0 )  ## sleep (delay_in_s)
   end
 end
+
+
+
+
+
+def fix_background
+  ## read config
+  ##  e.g.
+  ##  {"background"=>"#A5CDE6",
+  ##   "alpha"=>{"#CBE2F0"=>"#DDDDDD80"}}
+
+  config_path = "./#{@slug}/background.yml"
+  config = read_yaml( config_path )
+  pp config
+
+  use_transparent = false
+  bg_colors = []
+  bg_map    = {}
+
+  ###
+  ## note: allow multiple colors split by space/tab/comma etc.
+  if ['solid'].include?( config['background'].downcase )
+     use_transparent = true   ## assume solid color background
+  else
+    color_sep_rx = %r{[ \t\r\n,;/-]+}
+    bg_colors = config['background'].split( color_sep_rx )
+    pp bg_colors
+
+    bg_map = bg_colors.reduce({}) {|h,color| h[color] = 0x0; h }
+    pp bg_map
+  end
+
+  alpha_map = config['alpha']
+  pp alpha_map
+
+
+
+  cols, rows = _count_to_grid( count )
+
+  composite = ImageComposite.new( cols, rows,
+                                  width:  @width,
+                                  height: @height )
+
+
+  each_image do |img, num|
+    puts "==> #{num}"
+    img2 =   if use_transparent
+                img.transparent
+              else
+                img.change_colors( bg_map )
+              end
+    img2 =  img2.change_colors( alpha_map )  if alpha_map
+
+
+   ## todo: make more generic - how???
+   ## umkeku hack - if blue (change back)
+   #  img2[15,10] = 0xFFE4E2FF   if img2[15,10] == 0x0
+
+
+    composite << img2
+  end
+
+   composite.save( "./#{@slug}/tmp/#{@slug}-ii.png" )
+
+   ## change transparent to
+   ##  orange (#ffa500)   - was yelllow (#ffff00)
+   debug_bg_map = {
+     # 0x0 => 0xffa500ff
+     0x0 => 0x0000ffff
+   }
+   composite_debug = composite.change_colors( debug_bg_map )
+   ## hack - change smoke to red
+   debug_alpha_map =  {
+     0xdddddd80 => 0xff0000ff
+    }
+   composite_debug = composite_debug.change_colors( debug_alpha_map )
+   composite_debug.zoom(4).save( "./#{@slug}/tmp/#{@slug}-ii_debug@4x.png" )
+end
+
+
 
 end   # class Collection
 end   # module Ordinals

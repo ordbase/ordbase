@@ -59,6 +59,8 @@ class Tool
       do_convert_images( slug )
     elsif ['fix'].include?( command )
       do_fix_images( slug )
+    elsif ['bg', 'back', 'background'].include?( command )
+      do_fix_background( slug )
     elsif ['px','pix', 'pixelate' ].include?( command )
       do_pixelate( slug )
     elsif ['comp','composite' ].include?( command )
@@ -111,6 +113,12 @@ class Tool
     col.fix_images
   end
 
+  def self.do_fix_background( slug )
+    puts "==> fix background for collection >#{slug}<..."
+
+    col = Collection.new( slug )
+    col.fix_background
+  end
 
   def self.do_pixelate( slug )
     puts "==> downsample / pixelate images for collection >#{slug}<..."
