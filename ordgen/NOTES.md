@@ -9,8 +9,9 @@
 
 ### 10000 (?) Ordibots
 
-- ordibots <https://www.ord.io/8326719>   inscription no. 8326719
-
+- ordibots <https://www.ord.io/8326719>   1st inscription no. 8_326_719 on May 21, 2023 by Jerry Fanelli
+  - <https://ordinals.com/inscription/b7205d40f3b1b1486567f0d6e53ff2812983db4c03ad7d3606812cd150c64802i0>
+  - <https://ordinals.com/content/b7205d40f3b1b1486567f0d6e53ff2812983db4c03ad7d3606812cd150c64802i0>
 
 
 
