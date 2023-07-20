@@ -3,14 +3,14 @@ require 'hoe'
 
 ###
 # hack/ quick fix for broken intuit_values - overwrite with dummy
-class Hoe
-  def intuit_values( input ); end
-end
+# class Hoe
+#  def intuit_values( input ); end
+# end
 
 
 Hoe.spec 'ordinals' do
 
-  self.version = '1.0.3'
+  self.version = '1.1.0'
 
   self.summary = 'ordinals gem - ordinals (inscription) api wrapper & helpers for Bitcoin, Litecoin, Dogecoin & co.'
   self.description = summary

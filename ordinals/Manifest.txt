@@ -4,4 +4,6 @@ README.md
 Rakefile
 lib/ordinals.rb
 lib/ordinals/api.rb
+lib/ordinals/recursive/composite.rb
+lib/ordinals/recursive/image.rb
 lib/ordinals/stats.rb

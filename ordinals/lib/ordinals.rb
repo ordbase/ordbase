@@ -88,4 +88,11 @@ require_relative 'ordinals/api'
 require_relative 'ordinals/stats'
 
 
+### add recursive image helpers
+require_relative 'ordinals/recursive/image'
+require_relative 'ordinals/recursive/composite'
+
+## add conveniecen shortcuts/alias - why? why not?
+RcsvImage          = RecursiveImage
+RcsvImageComposite = RecursiveImageComposite
 
