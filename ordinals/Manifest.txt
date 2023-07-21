@@ -7,4 +7,5 @@ lib/ordinals/api.rb
 lib/ordinals/recursive/composite.rb
 lib/ordinals/recursive/generator.rb
 lib/ordinals/recursive/image.rb
+lib/ordinals/sandbox.rb
 lib/ordinals/stats.rb
