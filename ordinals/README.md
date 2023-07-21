@@ -100,12 +100,13 @@ pp data
 That's it.
 
 
-### Bonus - Recursive Images  - Generate .SVG Inscriptons
+### Bonus - Recursive Images  - Generate .SVG Inscriptions
 
-The ordinals gem includes helper classes for generating recursive images:
+Ordinal helper classes for generating recursive images include:
 - `RecursiveImage`
 - `RecursiveImageComposite`
 - `RecursiveGenerator`
+
 
 #### Sample No 1 - (Recursive) D.I.Y. Martians - Aliens Vol. 2
 
@@ -171,7 +172,7 @@ diymartians = RecursiveGenerator.new( 24, 24,
                                       inscribes: inscribes )
 
 
-specs = [
+[
   '41 0 39 37 23 8',
   '44 1 10 23',
   '46 3 21 15',
@@ -202,6 +203,9 @@ resulting in (hosted on ordtest - Ordinals (Recursive) Testing Sandbox):
 - <https://ordtest.github.io/diymartian9.svg> 
 
 
+Tip:  If you select "show source" in the "right-click" menu in your web browser you will see the "magic" recursive .SVG source text.
+
+
 
 #### Sample No 2 - (Recursive) D.I.Y. Maxi Biz (Punks)
 
@@ -217,7 +221,7 @@ diymaxibiz = RecursiveGenerator.new( 24, 24,
                                       inscribes: inscribes )
 
 
-specs = [
+[
    '87 6 25 41 74 59',
    '87 6 25 41 74',
    '87 6 25 41',
@@ -299,7 +303,7 @@ diypunks = RecursiveGenerator.new( 24, 24,
 composite = RecursiveImageComposite.new( 3, 3, width: 24,
                                                height: 24)
 
-specs = [
+[
   '59 0',  
   '59 1',  
   '59 2',  
