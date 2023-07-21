@@ -267,7 +267,7 @@ composite = RecursiveImageComposite.new( 10, 10, width: 96,
 data = read_json( "./ordinalpunks.json" )
 puts "  #{data['items'].size} inscribe(s)"
 
-data['items'].each_with_index do |rec|
+data['items'].each do |rec|
    id      = rec['inscription_id']
    comment = rec['name'] 
 
