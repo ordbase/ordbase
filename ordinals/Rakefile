@@ -10,7 +10,7 @@ require 'hoe'
 
 Hoe.spec 'ordinals' do
 
-  self.version = '1.1.0'
+  self.version = '1.1.1'
 
   self.summary = 'ordinals gem - ordinals (inscription) api wrapper & helpers for Bitcoin, Litecoin, Dogecoin & co.'
   self.description = summary
