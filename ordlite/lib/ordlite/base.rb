@@ -36,8 +36,11 @@ require_relative 'schema'
 require_relative 'cache'
 
 
+require_relative 'importer'  ## note: require (soft dep) ordinals gems!!!
+
+
 ###
-# og (ordgen) helpers
+# og (ordgen) helpers  -- todo/fix - move out here!!!
 require_relative 'og'
 
 
@@ -73,6 +76,15 @@ module OrdDb
       OrdDb.create
     end
   end # method auto_migrate!
+
+
+  def self.open( database='./ord.db' )   ## convenience helper for sqlite only
+      connect( adapter:  'sqlite3',
+               database: database )
+
+      ## build schema if database new/empty
+      auto_migrate!
+  end
 
 
 

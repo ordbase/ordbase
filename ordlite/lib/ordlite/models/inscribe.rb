@@ -59,6 +59,18 @@ SQL
     end
 
 
+   def self.largest
+      order( 'bytes DESC' )
+   end
+   class << self
+      alias_method :biggest, :largest
+   end
+
+   def self.content_type_counts
+       group( 'content_type' ).order( Arel.sql( 'COUNT(*) DESC, content_type')).count
+   end
+
+
 ###
 ## add support for ordinals.com api txt (headers format) 
 

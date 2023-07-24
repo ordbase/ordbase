@@ -35,11 +35,7 @@ require 'ordinals'
 require 'ordlite'
 
 
-OrdDb.connect( adapter:  'sqlite3',
-               database: './ordsub1k.db' )
-
-## build schema if database new/empty
-OrdDb.auto_migrate!
+OrdDb.open( './ordsub1k.db' )
 
 puts
 puts "  #{Inscribe.count} inscribe(s)"
@@ -48,38 +44,8 @@ puts "  #{Blob.count} blob(s)"
 #=>   0 blob(s)
 
 
-recs = read_csv( "./sub1k_inscriptions.csv" )
-puts "  #{recs.size} inscribe id(s)"
-#=>  1000 inscribe id(s) 
-
-
-recs.each_with_index do |rec,i|
-  id = rec['id']
-  puts "==> #{i} @ #{id}..."
-
-  ## check if inscription / inscribe is already in db?
-  inscribe = Inscribe.find_by( id: id )
-  if inscribe  ## already in db; dump record
-    pp inscribe
-  else         ## fetch via ordinals.com api and update db
-     data = Ordinals.inscription( id )
-     pp data
-     Inscribe.create_from_api( data )
-     sleep( 1 )   ## delay in seconds (before next request) 
-  end
-
-  ## check if (content) blob is already in db?
-  blob = Blob.find_by( id: id )
-  if blob    ## already in db; do nothing
-  else       ## fetch via ordinals.com api and update db
-     content = Ordinals.content( id )
-     puts "  content-type: #{content.type}"
-     puts "  content-length: #{content.length}"
-    
-     Blob.create( id: id, content: content.data )
-     sleep( 1 )   ## delay in seconds (before next request) 
-  end
-end
+## import listed inscripiton ids (fetch via ordinals.com api)
+OrdDb.import_csv( "./sub1k_inscriptions.csv" )
 
 puts
 puts "  #{Inscribe.count} inscribe(s)"
@@ -104,8 +70,7 @@ Let's try a test run ...
 require 'ordlite'
 
 
-OrdDb.connect( adapter:  'sqlite3',
-               database: './ordsub1k.db' )
+OrdDb.open( './ordsub1k.db' )
 
 puts
 puts "  #{Inscribe.count} inscribe(s)"
@@ -119,7 +84,7 @@ Let's query for the ten biggest (by bytes) inscriptions
 (and pretty print the result):
 
 ```ruby
-Inscribe.order( 'bytes DESC' ).limit(10).each do |rec|
+Inscribe.biggest.limit(10).each do |rec|
     print "#{number_to_human_size(rec.bytes)} (#{rec.bytes} bytes) - "
     print "Inscribe №#{rec.num} (#{rec.content_type}) - "
     print "#{rec.date} - #{rec.fee} fee in sats"
@@ -156,7 +121,7 @@ Let's query for all content types and group by count (descending) and dump the r
 
 
 ```ruby
-pp Inscribe.group( 'content_type' ).order( Arel.sql( 'COUNT(*) DESC, content_type')).count
+pp Inscribe.content_type_counts
 ```
 
 or in vanilla SQL:
