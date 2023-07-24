@@ -19,8 +19,13 @@ Use it as you please with no restrictions whatsoever.
 
 
 
+
 ## Questions? Comments?
 
-Post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
+Join us in the [Ordgen / ORC-721 discord (chat server)](https://discord.gg/dDhvHKjm2t). Yes you can.
+Your questions and commetary welcome.
+
+
+Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
 
 
