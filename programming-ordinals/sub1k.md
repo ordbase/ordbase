@@ -19,16 +19,13 @@ a single-file SQLite database (e.g. `òrdsub1k.db`) with
 the first thousand ordinal inscriptions, 
 that is, all metadata and (content) blobs, that is, images or text or audio or whatever.
 
-
-**ordinals.**
 To fetch the inscription metadata and content blobs
 let's use the ordinals.com api wrapper / client, that is,
 the [ordinals gem](https://github.com/ordbase/ordbase/tree/master/ordinals). 
 
-
-**ordlite**. To setup and build the SQL schema / tables
-and create (& update) all database records let's use
-the [ordlite gem](https://github.com/ordbase/ordbase/tree/master/ordlite).
+To setup and build the SQL schema / tables
+and insert (& update) all database records let's use
+the ordinals sqlite database helpers & machinery, that is, the [ordlite gem](https://github.com/ordbase/ordbase/tree/master/ordlite).
 
 
 Let's get started:
