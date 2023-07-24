@@ -13,7 +13,7 @@ Gems:
 Bonus:
 
 
-[**Programming (Bitcoin) Ordinals - Step-by-Step Book / Guide**}(programming-ordinals) by [Gerald Bauer](https://github.com/geraldb), et al
+[**Programming (Bitcoin) Ordinals - Step-by-Step Book / Guide**](programming-ordinals) by [Gerald Bauer](https://github.com/geraldb), et al
 
 
 
