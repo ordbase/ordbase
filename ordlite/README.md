@@ -13,7 +13,7 @@ ordlite - ordinals inscription (on bitcoin & co) database let's you query via sq
 
 ##  SQL Database Model
 
-Insribes •  Blobs
+Inscribes •  Blobs • Collections • Generatives
 
 
 Table Inscribes
@@ -62,9 +62,13 @@ OrdDb.create_all     # build table schema
 puts
 puts "  #{Inscribe.count} inscribe(s)"
 puts "  #{Blob.count} blob(s)"
+puts "  #{Collection.count} collection(s)"
+puts "  #{Generative.count} generative(s)"
 
 #=>  0 inscribe(s)
 #=>  0 blob(s)
+#=>  0 collection(s)
+#=>  0 generative(s)
 ```
 
 
@@ -135,10 +139,10 @@ puts "   #{mints.size} mint candidate(s)"
 
 
 
-### Bonus:  Import (Cached) Inscription Datafiles (& Content)
+### Bonus:  Import (Cached) Inscription Meta Datafiles (& Content Blobs)
 
 Let's import all cached 
-inscriptions metadata datafiles (& content)
+inscriptions metadata datafiles (& content blobs)
 from  [/ordinals.cache](https://github.com/ordbase/ordinals.cache)
 into an (sql) database e.g. `ord.db`: 
 

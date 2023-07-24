@@ -26,6 +26,7 @@ Hoe.spec 'ordlite' do
     ['props'],
     ['props-activerecord'],
     ['sqlite3'],
+    ['cocos'],
   ]
 
   self.licenses = ['Public Domain']

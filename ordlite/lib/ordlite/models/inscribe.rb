@@ -60,14 +60,12 @@ SQL
 
 
 ###
-## add support for ordinals.com api json 
-
+## add support for ordinals.com api txt (headers format) 
 
 
    def self.create_from_api( data ) create( _parse_api( data )); end
    class << self
      alias_method :create_from_cache, :create_from_api   ## add alias - why? why not?
-     alias_method :create_from_json,  :create_from_api   ## add alias - why? why not?
    end
 
    
@@ -76,15 +74,15 @@ SQL
     attributes = {
      id:  data['id'],
      num: _title_to_num( data['title'] ),
-     bytes: _content_length_to_bytes( data['content length'] ), 
+     bytes: _content_length_to_bytes( data['content-length'] ), 
      sat:  data['sat'].to_i(10),
-     content_type:  data['content type'],
-     block: data['genesis height'].to_i(10),
-     fee: data['genesis fee'].to_i(10),
-     tx: data['genesis transaction'],
+     content_type:  data['content-type'],
+     block: data['genesis-height'].to_i(10),
+     fee: data['genesis-fee'].to_i(10),
+     tx: data['genesis-transaction'],
      address: data['address'],
      output: data['output'],
-     value: data['output value'].to_i(10),
+     value: data['output-value'].to_i(10),
      offset: data['offset'].to_i(10),
      # "2023-06-01 05:00:57 UTC"
      date:  DateTime.strptime( data['timestamp'], 

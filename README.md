@@ -5,9 +5,15 @@ Gems:
 
 
 - [**ordinals**](ordinals)  - ordinals api wrapper / helpers for Bitcoin, Litcoin, Dogecoin, 'n' friends
+- [**ordlite**](ordlite) - ordinals inscription (on bitcoin & co) database lets you query via sql and more
+- [**ordgen**](ordgen) - ordinals (generative ORC-721) inscription (on bitcoin & co) helpers to generate (pixel art) images and much more; bonus - incl. the og command-line tool
 - [**ordbase**](ordbase) -  "right-clicker" (off-chain) ordinals (pixel art) command line tool, machinery & helpers for Bitcoin, Litcoin, Dogecoin & co.
 
 
+Bonus:
+
+
+[**Programming (Bitcoin) Ordinals - Step-by-Step Book / Guide**}(programming-ordinals) by [Gerald Bauer](https://github.com/geraldb), et al
 
 
 

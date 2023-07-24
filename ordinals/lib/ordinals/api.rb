@@ -203,6 +203,17 @@ offset: 0
         data[ k ] = v
     end
     data
+
+
+   ## post process to convert to headers format
+   ##   e.g. replace space with -
+   ##   and remove/exclude content & preview
+   h = {}
+   data.each do |k,v|
+      next if ['preview', 'content'].include?( k )
+      h[ k.gsub( ' ', '-') ] = v
+   end
+   h
   end
 
 

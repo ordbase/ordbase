@@ -1,10 +1,6 @@
 # core and stlibs
+require 'cocos'
 
-require 'pp'
-require 'fileutils'
-require 'uri'
-require 'json'
-require 'yaml'
 
 require 'logger'    # Note: use for ActiveRecord::Base.logger -- remove/replace later w/ LogUtils::Logger ???
 

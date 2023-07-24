@@ -86,6 +86,7 @@ end  # module Ordinals
 ## our own code
 require_relative 'ordinals/api'
 
+require_relative 'ordinals/cache'
 require_relative 'ordinals/sandbox'   ## (blob) "flat" content cache by inscribe id (./content)
 require_relative 'ordinals/stats'
 
