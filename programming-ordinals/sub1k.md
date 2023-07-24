@@ -8,8 +8,8 @@
 
 
 Let's explore the first thousand ordinal inscriptions 
-from [inscription  №0](6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799i0)
-to [inscription №999](48b74ff588de917d4fe4ae2310a7c5c5ec566aece16425d9bc401ed5fd00800ai0).
+from [inscription  №0](https://ordinals.com/inscription/6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799i0)
+to [inscription №999](https://ordinals.com/inscription/48b74ff588de917d4fe4ae2310a7c5c5ec566aece16425d9bc401ed5fd00800ai0).
 
 
 ## Step 0:  Let's build the sub1k (SQL) database (ordlite / sqlite)
