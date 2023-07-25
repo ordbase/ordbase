@@ -5,6 +5,49 @@ require 'nokogiri'
 
 
 
+### todo/fix:
+###   move upstream  - read_headers
+
+##
+#  note: key only supports a-z0-9 AND dash(-)
+#    no underscore(_) or dot(.)
+#
+#  follow HTTP headers and domain names format
+##
+
+HEADER_RX = /\A(?<key>[a-z][a-z0-9-]*)
+                 :
+                 [ ]*
+               (?<value>.+?)    ## non-greedy
+              \z
+             /x
+
+
+def read_headers( path )
+  txt = read_text( path )
+  h = {}
+  txt.each_line do |line|
+    line = line.strip
+    ## skip empty and comment lines
+    next if line.empty? || line.start_with?( '#' )
+
+    if m=HEADER_RX.match(line)
+      key   = m[:key]
+      value = m[:value]
+      
+      h[key] = value
+   else 
+      puts "!! ERROR - parse error - no header pattern match for:"
+      puts line
+      exit 1
+   end
+  end
+  h
+end
+
+
+
+
 
 module Ordinals
   class Configuration

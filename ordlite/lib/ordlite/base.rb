@@ -1,5 +1,5 @@
 # core and stlibs
-require 'cocos'
+require 'ordinals'  ## will pull-in cocos & friends
 
 
 require 'logger'    # Note: use for ActiveRecord::Base.logger -- remove/replace later w/ LogUtils::Logger ???

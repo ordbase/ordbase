@@ -160,6 +160,57 @@ To be continued...
 
 
 
+## Bonus - Let's export (save as ...) all inscriptions content blobs
+
+Let's export (save as ...) all inscription content blobs
+to local files with (mime) content types mapped
+to file extensions (e.g. `image/png` to `.png`, `text/plain` to `.txt`, and so on)
+and use the the inscription number as its filename 
+(for easy sorting padded with eight zeros e.g. `0` to `00000000`, `1` to `00000001`) ...
+
+
+``` ruby
+require 'ordlite'
+
+OrdDb.open( './ordsub1k.db' )
+
+Inscribe.all.each do |rec|
+  print "==> exporting no. #{rec.num} "
+  print ">#{rec.content_type}< #{number_to_human_size(rec.bytes)} (#{rec.bytes} bytes) " 
+  print "to >#{rec.export_path}<..."
+  print "\n"
+  rec.export   ## gets saved to ./tmp/<num>.<ext> by default
+end
+```
+
+resulting in:
+
+```
+==> 0 exporting no. 0 >image/png< 793 Bytes (793 bytes) to >./tmp/00000000.png<...
+==> 1 exporting no. 1 >image/png< 19.8 KB (20266 bytes) to >./tmp/00000001.png<...
+==> 2 exporting no. 2 >image/gif< 9.15 KB (9371 bytes) to >./tmp/00000002.gif<...
+==> 3 exporting no. 3 >image/png< 321 Bytes (321 bytes) to >./tmp/00000003.png<...
+==> 4 exporting no. 4 >image/png< 208 Bytes (208 bytes) to >./tmp/00000004.png<...
+==> 5 exporting no. 5 >text/plain;charset=utf-8< 185 Bytes (185 bytes) to >./tmp/00000005.txt<...
+==> 6 exporting no. 6 >image/png< 5.34 KB (5466 bytes) to >./tmp/00000006.png<...
+==> 7 exporting no. 7 >text/html;charset=utf-8< 625 Bytes (625 bytes) to >./tmp/00000007.html<...
+==> 8 exporting no. 8 >image/png< 27.8 KB (28431 bytes) to >./tmp/00000008.png<...
+==> 9 exporting no. 9 >image/webp< 33.3 KB (34140 bytes) to >./tmp/00000009.webp<...
+...
+==> exporting no. 998 >text/plain;charset=utf-8< 5 Bytes (5 bytes) to >./tmp/00000998.txt<...
+==> exporting no. 999 >image/png< 39.4 KB (40384 bytes) to >./tmp/00000999.png<...
+```
+
+
+or if you look in your directory (depending on your operating system):
+
+![](i/export-preview.png)
+
+
+
+
+
+
 ## Questions? Comments?
 
 Join us in the [Ordgen / ORC-721 discord (chat server)](https://discord.gg/dDhvHKjm2t). Yes you can.
