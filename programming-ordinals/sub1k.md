@@ -377,7 +377,7 @@ write_blob( "./bitcoin.pdf", inscribe.content )
 ```
 
 Yes, you can. Learn more about the beginnings of Bitcoin: A Peer-to-Peer Electronic Cash System:
-- [whitepaper.pdf (179 kb)](https://ordbase.github.io/ordbase/whitepaper.pdf)
+- [bitcoin.pdf (179 kb)](https://ordbase.github.io/ordbase/bitcoin.pdf)
 
 
 
