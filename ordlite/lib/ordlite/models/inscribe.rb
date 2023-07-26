@@ -84,6 +84,7 @@ SQL
                ]
            )
    end
+   def self.png() where( content_type: 'image/png' ); end
 
 ###
 ## add support for ordinals.com api txt (headers format) 

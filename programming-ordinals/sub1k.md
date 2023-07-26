@@ -369,6 +369,57 @@ Yes, you can. Play the games in your browser:
 
 
 
+Ordinals Triva - Did you know?  The Shrooms with 185 out of 210 inscriptions (plus one bonus collection metadata inscription, see [№105](https://ordinals.com/inscription/4e0ad05cbbe3cfdbedec9edb37683a8284bc60ec4ced62272703f182d67e5d70i0)) 
+is the biggest sub 1k collection.
+
+Let's save all shroom .PNGs in the collection for easy access
+using `shroom1.png`, `shroom2.png`, `shroom3.png` up to 
+`shroom210.png`.  
+
+
+``` ruby
+## read inscription №105 converted "by hand" to .csv datafile
+recs = read_csv( './shrooms.csv')  
+
+recs.each do |rec|
+   num = rec['num'].to_i(10) 
+   hash  = rec['hash']    ## sha256 content hash
+   puts "==> saving shroom #{num} with hash #{hash}..."
+
+   blob = Blob.find_by( sha256: hash )
+   write_blob( "./i/shroom#{num}.png", blob.content )
+end
+```
+
+resulting in:
+
+```
+==> saving shroom 1 with hash 343eec6884a5be860c0c4b73ae978009f6dd96f82882d56b1fd717da59f64f50...
+==> saving shroom 2 with hash 7fa93ee0c96c70d06ef0321dc1a7f313224b5faf469f74cb23faa18ca49f15ee...
+==> saving shroom 3 with hash f822a81a72c5fcd79028dd61f7c8aaf30ddb86b7557df502a498ff857dc19281...
+==> saving shroom 4 with hash 4575c7015eb5fb7cb9053c850f52efda33da45847ff0441c29d207de834cb67d...
+==> saving shroom 5 with hash 091a5c36fb5b98c42b364cd44238edd4feff3a8f08aa3548ca190a7665801fb8...
+==> saving shroom 6 with hash 7a467be1abaa2112222a3325ea7733604edabd53c10c6e914dc936d0c6d6efab...
+==> saving shroom 7 with hash 8e242644424762774966a18f587d4c7eafcafad258103615e3a66699596c3f56...
+==> saving shroom 8 with hash 92b6338f6eddd7baa668e5f49bc7dc9e3ac9a040179da943240b029965736925...
+==> saving shroom 9 with hash 5b53b6dd387f473ff7f83cf075c34aae54c6ef5de372aeeaa0146cc3482a9ee3...
+==> saving shroom 10 with hash b420dc8d802428f176c849ee4037952b1b0f30733546f21f2bdc493f170b8b9f...
+...
+```
+
+and
+
+![](i/shroom1.png)
+![](i/shroom2.png)
+![](i/shroom3.png)
+![](i/shroom4.png)
+![](i/shroom5.png)
+![](i/shroom6.png)
+
+...
+
+
+
 To be continued...
 
 
