@@ -367,6 +367,19 @@ Yes, you can. Play the games in your browser:
 - [tetris.html](https://ordbase.github.io/ordbase/tetris.html)
 
 
+Or let's query for the original bitcoin whitepaper (9 pages) 
+by Satoshi Nakamoto: 
+
+``` ruby
+## get bitcoin whitpaper (no. 54) pdf document
+inscribe = Inscribe.find_by( num: 54 )
+write_blob( "./bitcoin.pdf", inscribe.content )
+```
+
+Yes, you can. Learn more about the beginnings of Bitcoin: A Peer-to-Peer Electronic Cash System:
+- [whitepaper.pdf (179 kb)](https://ordbase.github.io/ordbase/whitepaper.pdf)
+
+
 
 
 Ordinals Triva - Did you know?  The Shrooms with 185 out of 210 inscriptions (plus one bonus collection metadata inscription, see [№105](https://ordinals.com/inscription/4e0ad05cbbe3cfdbedec9edb37683a8284bc60ec4ced62272703f182d67e5d70i0)) 
