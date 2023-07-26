@@ -4,7 +4,7 @@
 $LOAD_PATH.unshift( "../ordinals/lib" )
 $LOAD_PATH.unshift( "../ordlite/lib" )
 
-require 'ordinals'
+
 require 'ordlite'
 
 

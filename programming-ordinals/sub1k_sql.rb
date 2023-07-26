@@ -2,8 +2,7 @@ $LOAD_PATH.unshift( "../ordlite/lib" )
 require 'ordlite'
 
 
-OrdDb.connect( adapter:  'sqlite3',
-               database: './ordsub1k.db' )
+OrdDb.open( './ordsub1k.db' )
 
 
 

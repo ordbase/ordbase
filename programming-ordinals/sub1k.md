@@ -31,7 +31,6 @@ the ordinals sqlite database helpers & machinery, that is, the [ordlite gem](htt
 Let's get started:
 
 ``` ruby
-require 'ordinals'
 require 'ordlite'
 
 
@@ -208,6 +207,104 @@ or if you look in your `./tmp` directory (depending on your operating system):
 
 
 
+
+## Frequently Asked Questions (F.A.Q.s) And Answers
+
+Q: What's that vanilla SQL about? How can I use vanilla SQL?
+
+Once you have built the `ordsub1k.db` (SQLite) database (or use / download 
+a shared copy) you can query the datbase using SQLite (visual) tools (e.g. [SQLite Studio](https://sqlitestudio.pl)) or the classic (command-line) shell. Example:
+
+```
+$ sqlite3 ordsub1k.db
+SQLite version 3.42.0
+Enter ".help" for usage hints.
+sqlite>
+```
+
+Let's print out the inscribes table schema:
+
+```
+sqlite> .schema inscribes
+```
+
+resulting in:
+
+```sql
+CREATE TABLE  "inscribes" 
+("id" varchar NOT NULL PRIMARY KEY, 
+ "num" integer NOT NULL, 
+ "bytes" integer NOT NULL, 
+ "content_type" varchar NOT NULL, 
+ "date" datetime(6) NOT NULL, 
+ "sat" integer NOT NULL, 
+ "block" integer NOT NULL, 
+ "fee" integer NOT NULL, 
+ "tx" varchar NOT NULL, 
+ "offset" integer NOT NULL, 
+ "address" varchar NOT NULL, 
+ "output" varchar NOT NULL, 
+ "value" integer NOT NULL, 
+ "created_at" datetime(6) NOT NULL, 
+ "updated_at" datetime(6) NOT NULL);
+CREATE UNIQUE INDEX "inscribe_nums" ON "inscribes" ("num");
+```
+
+Let's query for the ten biggest inscribes (by bytes):
+
+```
+sqlite>     SELECT num, bytes
+   ...>       FROM inscribes
+   ...>   ORDER BY bytes DESC
+   ...>      LIMIT 10;
+```
+
+resulting in:
+
+```
+652|3915537
+978|394718
+546|394479
+833|394440
+388|389858
+291|388417
+857|386858
+538|383322
+378|375414
+288|373504
+```
+
+Let's query for all content types and group by count (descending):
+
+```
+sqlite>    SELECT content_type, COUNT(*)
+   ...>      FROM inscribes
+   ...>  GROUP BY content_type
+   ...>  ORDER BY COUNT(*) DESC, content_type;
+```
+
+resulting in:
+
+```
+image/png|475
+image/jpeg|188
+image/webp|117
+text/plain;charset=utf-8|112
+image/svg+xml|62
+text/html;charset=utf-8|18
+image/gif|11
+audio/mpeg|6
+application/pdf|2
+image/avif|2
+video/webm|2
+application/epub+zip|1
+application/pgp-signature|1
+audio/midi|1
+audio/mod|1
+video/mp4|1
+```
+
+and so on.
 
 
 

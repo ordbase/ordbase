@@ -20,7 +20,7 @@ puts "  #{Blob.count} blob(s)"
 ## try to export inscribes
 
 Inscribe.all.each do |rec|
-    print "==> exporting no. #{rec.num} "
+    print "==> exporting inscribe №#{rec.num} "
     print ">#{rec.content_type}< #{number_to_human_size(rec.bytes)} (#{rec.bytes} bytes) " 
     print "to >#{rec.export_path}<..."
     print "\n"
