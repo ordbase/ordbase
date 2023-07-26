@@ -14,5 +14,7 @@ puts
 pp inscribe.blob.content
 puts
 puts inscribe.blob.text
+puts
+puts inscribe.text
 
 puts "bye"

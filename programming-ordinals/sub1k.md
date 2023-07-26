@@ -164,7 +164,7 @@ puts "  #{inscribes.size} text inscribe(s)"
 
 inscribes.each_with_index do |rec, i|
   puts "==> [#{i+1}/#{inscribes.size}] text inscribe №#{rec.num} (#{rec.content_type} - #{rec.bytes} bytes):"
-  puts  rec.blob.text  
+  puts  rec.text  
   puts
 end
 ```
@@ -343,6 +343,29 @@ See the complete text log in [sub1k.txt](sub1k.txt).
 Ordinals Triva - Did you know?  [Inscription №824](https://ordinals.com/inscription/f1321b21e8d5605c236600a1a69fbb87343f9e9eb57bf3303fff8bd6f77ca520i0) is a text inscription with 0 bytes (yes, that is, empty) AND it's part
 of the "Rare Texts" collection (see [Inscription №891](https://ordinals.com/inscription/6b16c15179a41a94465ed99d787804520c028282332f0f725a1efbfa3195cdf6i0)) 
 and titled "Probably Nothing".
+
+
+
+
+For more fun let's query for (basic) game inscriptions 
+and save the html (& js) code / text to play in your web browser:
+
+
+```ruby
+## get snake game (no. 142) in "The Basics" series - 
+## a basic html & js game collection (no. 1147)
+inscribe = Inscribe.find_by( num: 142 )
+write_text( "./snake.html", inscribe.text )
+
+## get tetris game (no. 145) in "The Basics" series  
+inscribe = Inscribe.find_by( num: 145 )
+write_text( "./tetris.html", inscribe.text )
+```
+
+Yes, you can. Play the games in your browser:
+- [snake.html](https://ordbase.github.io/ordbase/snake.html)  - note: how-to play? length of the snake grows when eating an apple
+- [tetris.html](https://ordbase.github.io/ordbase/tetris.html)
+
 
 
 

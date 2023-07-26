@@ -23,12 +23,12 @@ buf = ''
 
 inscribes.each_with_index do |rec, i|
   puts "==> [#{i+1}/#{inscribes.size}] text inscribe №#{rec.num} (#{rec.content_type} - #{rec.bytes} bytes):"
-  puts  rec.blob.text
+  puts  rec.text
   puts
 
   ## note: add to buffer to write to disk 
   buf << "==> [#{i+1}/#{inscribes.size}] text inscribe №#{rec.num} (#{rec.content_type} - #{rec.bytes} bytes):\n"
-  buf << rec.blob.text
+  buf << rec.text
   buf << "\n\n"
 end
 

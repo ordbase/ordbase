@@ -7,12 +7,13 @@ module OrdDb
     has_one :collection    ## optional (auto-added via og/orc-721 deploy)
     has_one :generative, foreign_key: 'id'   ## optional (auto-added via og/orc-721 deploy)
 
+    ## convernience helper
+    ##  forward to blob.content
+    ##    blob.content - encoding is BINARY (ASCII-7BIT)
+    ##    blob.text    - force_encoding is UTF-8 (return a copy)
+    def content() blob.content; end
+    def text() blob.text; end
 
-    def content
-      ## convernience helper
-      ##  forward to blob.content
-       blob.content
-    end
 
     ################################
     ### scope like helpers
