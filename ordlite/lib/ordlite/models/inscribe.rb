@@ -70,6 +70,19 @@ SQL
        group( 'content_type' ).order( Arel.sql( 'COUNT(*) DESC, content_type')).count
    end
 
+   def self.text
+      ## note: for now include:
+      ##   - text/plain (all variants)
+      ##   - text/json (all variants)
+      ##   - text/markdown
+      where( content_type: 
+               ['text/plain',
+                'text/plain;charset=utf-8',
+                'text/markdown',
+                'application/json',
+               ]
+           )
+   end
 
 ###
 ## add support for ordinals.com api txt (headers format) 

@@ -154,6 +154,198 @@ resulting in:
 ```
 
 
+Let's query for all text inscribes (with content type `text/plain;charset=utf-8`) 
+and print out the text:
+
+```ruby
+inscribes = Inscribe.text 
+puts "  #{inscribes.size} text inscribe(s)"
+#=> 112 text inscribe(s)
+
+inscribes.each_with_index do |rec, i|
+  puts "==> [#{i+1}/#{inscribes.size}] text inscribe №#{rec.num} (#{rec.content_type} - #{rec.bytes} bytes):"
+  puts  rec.blob.text  
+  puts
+end
+```
+
+resulting in:
+
+```
+==> [1/112] text inscribe №5 (text/plain;charset=utf-8 - 185 bytes):
+Don't think about making art,
+just get it done.
+Let everyone else decide
+if it's good or bad,
+whether they love it
+or hate it.
+While they are deciding,
+make even more art.
+
+Andy Warhol
+
+==> [2/112] text inscribe №18 (text/plain;charset=utf-8 - 71 bytes):
+bro why the fuck
+would i buy an NFT
+that’s called a
+crypto dickbutt?
+
+==> [3/112] text inscribe №35 (text/plain;charset=utf-8 - 5245 bytes):
+                   A Cypherpunk's Manifesto
+
+                        by Eric Hughes
+
+Privacy is necessary for an open society in the electronic age.
+Privacy is not secrecy.  A private matter is something one doesn't
+want the whole world to know, but a secret matter is something one
+doesn't want anybody to know. Privacy is the power to selectively
+reveal oneself to the world.
+
+[...]
+
+The Cypherpunks are actively engaged in making the networks safer for
+privacy.  Let us proceed together apace.
+
+Onward.
+
+Eric Hughes
+<hughes@soda.berkeley.edu>
+
+9 March 1993
+
+-- cut --
+
+==> [6/112] text inscribe №50 (text/plain;charset=utf-8 - 1002 bytes):
+"Giving a little more thought to the idea of buying and selling digital cash,
+I thought of a way to present it. We're buying and setting 'cryptographic trading cards'.
+Fans of cryptography will love these fascinating examples of the cryptographic arts.
+Notice the fine way the bit patterns fit together - a mix of one-way functions
+and digital signatures, along with random blinding. What a perfect conversation piece
+to be treasured and shown to your friends and family.
+
+Plus, your friends will undoubtedly love these cryptographic trading cards just as much.
+They'll be eager to trade for them. Collect a whole set!
+They come in all kinds of varieties, from the common 1's,
+to the rarer 50's, all the way up to the seldom-seen 1000's.
+Hours of fun can be had for all..
+
+Your friendly cryptographic trading card dealer wants to join the fun, too.
+He'll be as interested in buying your trading cards back as in selling them.
+
+Try this fascinating and timely new hobby today!"
+
+HAL FINNEY, JAN 17 1993
+
+==> [7/112] text inscribe №58 (text/plain;charset=utf-8 - 8 bytes):
+satoshi
+
+==> [8/112] text inscribe №59 (text/plain;charset=utf-8 - 10 bytes):
+faketoshi
+
+==> [9/112] text inscribe №61 (text/plain;charset=utf-8 - 8 bytes):
+bitcoin
+
+==> [10/112] text inscribe №62 (text/plain;charset=utf-8 - 9 bytes):
+ordinals
+
+==> [11/112] text inscribe №67 (text/plain;charset=utf-8 - 11 bytes):
+21,000,000
+
+==> [12/112] text inscribe №68 (text/plain;charset=utf-8 - 5 bytes):
+hodl
+
+==> [13/112] text inscribe №76 (text/plain;charset=utf-8 - 52 bytes):
+"Congrats on ordinals, seriously"
+- Vitalik Buterin
+
+-- cut --
+
+==> [19/112] text inscribe №97 (text/plain;charset=utf-8 - 4 bytes):
+◉
+
+-- cut --
+
+==> [22/112] text inscribe №105 (text/plain;charset=utf-8 - 14492 bytes):
+Bitcoin Shrooms impatient for beta release
+
+1 343eec6884a5be860c0c4b73ae978009f6dd96f82882d56b1fd717da59f64f50
+2 7fa93ee0c96c70d06ef0321dc1a7f313224b5faf469f74cb23faa18ca49f15ee
+3 f822a81a72c5fcd79028dd61f7c8aaf30ddb86b7557df502a498ff857dc19281
+4 4575c7015eb5fb7cb9053c850f52efda33da45847ff0441c29d207de834cb67d
+
+5 091a5c36fb5b98c42b364cd44238edd4feff3a8f08aa3548ca190a7665801fb8
+6 7a467be1abaa2112222a3325ea7733604edabd53c10c6e914dc936d0c6d6efab
+7 8e242644424762774966a18f587d4c7eafcafad258103615e3a66699596c3f56
+8 92b6338f6eddd7baa668e5f49bc7dc9e3ac9a040179da943240b029965736925
+
+9 5b53b6dd387f473ff7f83cf075c34aae54c6ef5de372aeeaa0146cc3482a9ee3
+10 b420dc8d802428f176c849ee4037952b1b0f30733546f21f2bdc493f170b8b9f
+11 205b634a80b6ab3b161fce617fe06906ad0827f95ab3e8f60e22f9d19ac0b834
+12 7ccdf1ef1af9afac9e460f457eec362807201aa63a874eb17fc295084a565597
+
+[...]
+
+209 4843cf582cd8d354bee438268aa67f25d3974e63ccf042bf23bc32df6049120e
+210 a2c3d36478198914f8e36903bb5a4de7c65e66510a651cfbb0399b7417ac6cb5
+
+-- cut --
+
+==> [24/112] text inscribe №110 (text/plain;charset=utf-8 - 4 bytes):
+₿
+
+==> [25/112] text inscribe №111 (text/plain;charset=utf-8 - 3 bytes):
+¥
+
+==> [26/112] text inscribe №112 (text/plain;charset=utf-8 - 2 bytes):
+$
+
+==> [27/112] text inscribe №113 (text/plain;charset=utf-8 - 4 bytes):
+€
+
+-- cut --
+
+==> [42/112] text inscribe №138 (text/plain;charset=utf-8 - 5 bytes):
+🙈
+
+==> [43/112] text inscribe №139 (text/plain;charset=utf-8 - 5 bytes):
+🙉
+
+==> [44/112] text inscribe №141 (text/plain;charset=utf-8 - 5 bytes):
+🙊
+
+-- cut --
+
+==> [47/112] text inscribe №191 (text/plain;charset=utf-8 - 10497 bytes):
+BITCOIN ROCKS
+
+100% on-chain rocks. Max supply = 100.
+
+This message is for provenance.
+
+Follow @ordrocks on Twitter for details and updates.
+
+Comprehensive list of Bitcoin rocks & their inscription IDs:
+
+{
+{       "rock": "0"     "inscription":  "e8ce0fcb238b377b3a6b9921333e26fbec5c5724c5bf6e783c3dcc1129794508i0",   }
+{       "rock": "1"     "inscription":  "87b28e0ccbd2bf4e992674070daa64b8f8546e5c4cb2bf50fe57ac320535d231i0",   }
+{       "rock": "2"     "inscription":  "2a83b7d3b3626b671b39be88a6c387080df37ca97d01c401d5475cb21bf0c078i0",   }
+[...]
+{       "rock": "99"    "inscription":  "b0553e566a5e20246ac2ca464177be6d8bd192eccc300d11fa6a2b6da72aa731i0"    }
+}
+
+-- cut --
+```
+
+See the complete text log in [sub1k.txt](sub1k.txt). 
+
+
+Ordinals Triva - Did you know?  [Inscription №824](https://ordinals.com/inscription/f1321b21e8d5605c236600a1a69fbb87343f9e9eb57bf3303fff8bd6f77ca520i0) is a text inscription with 0 bytes (yes, that is, empty) AND it's part
+of the "Rare Texts" collection (see [Inscription №891](https://ordinals.com/inscription/6b16c15179a41a94465ed99d787804520c028282332f0f725a1efbfa3195cdf6i0)) 
+and titled "Probably Nothing".
+
+
+
 To be continued...
 
 
