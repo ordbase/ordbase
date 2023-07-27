@@ -382,8 +382,12 @@ Yes, you can. Learn more about the beginnings of Bitcoin: A Peer-to-Peer Electro
 
 
 
-Ordinals Triva - Did you know?  The Shrooms with 185 out of 210 inscriptions (plus one bonus collection metadata inscription, see [№105](https://ordinals.com/inscription/4e0ad05cbbe3cfdbedec9edb37683a8284bc60ec4ced62272703f182d67e5d70i0)) 
-is the biggest sub 1k collection.
+Ordinals Triva - Did you know?  The Shrooms with 208 out of 210 inscriptions¹ (plus one bonus collection metadata inscription, see [№105](https://ordinals.com/inscription/4e0ad05cbbe3cfdbedec9edb37683a8284bc60ec4ced62272703f182d67e5d70i0)) 
+is the biggest sub 1k collection. 
+
+Note 1: Shroom №186 @ [Inscription №1075](https://ordinals.com/inscription/4af5d25017a5c71d1333925ea29b79a18d36548597fc4f03e6a23f2d740547c7i0) and
+Shroom №196 @ [Inscription №1074](https://ordinals.com/inscription/2807ac74213d2e9e4b86b7fc121edf7a94c66bc11a8142f851e5d7162d357333i0).
+
 
 Let's save all shroom .PNGs in the collection for easy access
 using `shroom1.png`, `shroom2.png`, `shroom3.png` up to 
@@ -398,6 +402,9 @@ recs.each do |rec|
    num = rec['num'].to_i(10) 
    hash  = rec['hash']    ## sha256 content hash
    puts "==> saving shroom #{num} with hash #{hash}..."
+
+   ## note: skip shrooms no. 186 & 196 (inscribed as no. 1075 & no. 1074) for now
+   next if [186,196].include?(num)  
 
    blob = Blob.find_by( sha256: hash )
    write_blob( "./i/shroom#{num}.png", blob.content )
