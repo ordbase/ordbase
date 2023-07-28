@@ -15,17 +15,19 @@ OrdDb.open( './ord.db' )
 puts
 puts "  #{Inscribe.count} inscribe(s)"
 puts "  #{Blob.count} blob(s)"
-#=>   0 inscribe(s)
-#=>   0 blob(s)
+puts "  #{Collection.count} collection(s)"
+puts "  #{Factory.count} factories"
 
 
-OrdDb.import_collection( "./ordinalpunks.json" )
+OrdDb.import_collection_inscriptions( "./diypunks.json",
+                                       name: 'D.I.Y. Punks',
+                                       content: false )
 
 puts
 puts "  #{Inscribe.count} inscribe(s)"
 puts "  #{Blob.count} blob(s)"
-#=>   100 inscribe(s)
-#=>   100 blob(s)
+puts "  #{Collection.count} collection(s)"
+puts "  #{Factory.count} factories"
 
 
 puts "bye"

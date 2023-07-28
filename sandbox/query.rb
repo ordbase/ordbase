@@ -9,14 +9,15 @@ require 'ordlite'
 
 
 
-OrdDb.open( './ordpunks.db' )
+OrdDb.open( './ord.db' )
 
 
 puts
 puts "  #{Inscribe.count} inscribe(s)"
 puts "  #{Blob.count} blob(s)"
-#=>   100 inscribe(s)
-#=>   100 blob(s)
+puts "  #{Collection.count} collection(s)"
+puts "  #{Factory.count} factories"
+
 
 
 pp Inscribe.counts_by_day
