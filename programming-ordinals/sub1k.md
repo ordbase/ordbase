@@ -116,11 +116,79 @@ resulting in:
 ```
 
 
+Let's query for all inscriptions grouped by date (day) and dump the results:
+
+```ruby
+pp Inscribe.counts_by_date   ## or count_by_day
+```
+
+or in vanilla SQL:
+
+```sql
+ SELECT strftime('%Y-%m-%d', date) AS day, COUNT(*) 
+   FROM inscribes 
+  GROUP BY day 
+  ORDER BY day
+```
+
+resulting in:
+
+```
+{"2022-12-14" => 1,
+ "2022-12-17" => 1,
+ "2022-12-19" => 1,
+ "2023-01-05" => 1,
+ "2023-01-10" => 1,
+ "2023-01-12" => 1,
+ "2023-01-13" => 2,
+ "2023-01-15" => 1,
+ "2023-01-16" => 1,
+ "2023-01-19" => 5,
+ "2023-01-20" => 3,
+ "2023-01-21" => 5,
+ "2023-01-22" => 34,
+ "2023-01-23" => 23,
+ "2023-01-24" => 4,
+ "2023-01-25" => 9,
+ "2023-01-26" => 12,
+ "2023-01-27" => 19,
+ "2023-01-28" => 16,
+ "2023-01-29" => 128,
+ "2023-01-30" => 82,
+ "2023-01-31" => 98,
+ "2023-02-01" => 220,
+ "2023-02-02" => 332}
+```
+
+Let's query for all inscriptions grouped by month and dump the results:
+
+```ruby
+pp Inscribe.counts_by_month
+```
+
+or in vanilla SQL:
+
+```sql
+ SELECT strftime('%Y-%m', month) AS day, COUNT(*) 
+   FROM inscribes 
+  GROUP BY month 
+  ORDER BY month
+```
+
+resulting in:
+
+```
+{"2022-12" => 3, 
+ "2023-01" => 445, 
+ "2023-02" => 552}
+```
+
+
 Let's query for all content types and group by count (descending) and dump the results:
 
 
 ```ruby
-pp Inscribe.content_type_counts
+pp Inscribe.counts_by_content_type
 ```
 
 or in vanilla SQL:
@@ -560,7 +628,46 @@ resulting in:
 288|373504
 ```
 
-Let's query for all content types and group by count (descending):
+Let's query for all inscribes grouped by day count:
+
+```
+sqlite>  SELECT strftime('%Y-%m-%d', date) AS day, COUNT(*)
+   ...>    FROM inscribes
+   ...>   GROUP BY day
+   ...>   ORDER BY day;
+```
+
+resulting in:
+
+```
+2022-12-14|1
+2022-12-17|1
+2022-12-19|1
+2023-01-05|1
+2023-01-10|1
+2023-01-12|1
+2023-01-13|2
+2023-01-15|1
+2023-01-16|1
+2023-01-19|5
+2023-01-20|3
+2023-01-21|5
+2023-01-22|34
+2023-01-23|23
+2023-01-24|4
+2023-01-25|9
+2023-01-26|12
+2023-01-27|19
+2023-01-28|16
+2023-01-29|128
+2023-01-30|82
+2023-01-31|98
+2023-02-01|220
+2023-02-02|332
+```
+
+
+Let's query for all content types and grouped by count (descending):
 
 ```
 sqlite>    SELECT content_type, COUNT(*)

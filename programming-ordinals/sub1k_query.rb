@@ -17,6 +17,8 @@ puts "  #{Blob.count} blob(s)"
 #=>   1000 blob(s)
 
 
+
+
 ######
 ## query for ten biggest (by bytes) inscriptions 
 
@@ -30,7 +32,14 @@ end
 ######
 ##  query for all content types and group by count (descending)
 
-pp Inscribe.content_type_counts
+puts
+pp Inscribe.content_type_counts   ##  count_by_content_type
+
+puts
+pp Inscribe.date_counts  ## count_by_date/day
+
+puts
+pp Inscribe.month_counts  ## counts_by_month
 
 
 puts "bye"

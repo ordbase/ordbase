@@ -63,13 +63,32 @@ SQL
    def self.largest
       order( 'bytes DESC' )
    end
-   class << self
-      alias_method :biggest, :largest
-   end
 
    def self.content_type_counts
-       group( 'content_type' ).order( Arel.sql( 'COUNT(*) DESC, content_type')).count
+       group( 'content_type' )
+        .order( Arel.sql( 'COUNT(*) DESC, content_type')).count
    end
+
+   def self.date_counts
+       ## note: strftime is SQLite specific/only!!!
+       group( Arel.sql("strftime('%Y-%m-%d', date)"))
+        .order( Arel.sql("strftime('%Y-%m-%d', date)")).count
+   end
+
+   def self.month_counts
+      ## note: strftime is SQLite specific/only!!!
+      group( Arel.sql("strftime('%Y-%m', date)"))
+       .order( Arel.sql("strftime('%Y-%m', date)")).count
+  end
+
+   class << self
+      alias_method :biggest, :largest
+      alias_method :counts_by_content_type, :content_type_counts
+      alias_method :counts_by_date,         :date_counts
+      alias_method :counts_by_day,          :date_counts
+      alias_method :counts_by_month,        :month_counts
+   end
+
 
    def self.text
       ## note: for now include:
