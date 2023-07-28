@@ -4,7 +4,7 @@ module OrdDb
   
   class Generative < ActiveRecord::Base
     belongs_to :inscribe, foreign_key: 'id'
-    belongs_to :collection
+    belongs_to :factory
   end  # class Generative
   
     end # module Model

@@ -99,12 +99,57 @@ create_table :blobs, :id => :string do |t|
     ## t.string   :id,  null: false, index: { unique: true, name: 'blob_uuids' }
  
     t.binary     :content,   null: false
+    t.string     :sha256   ## sha256 hash
+    t.string     :md5      ## md5 hash - add why? why not?  
 
   ## timestamp last
   t.timestamps
 end
 
-create_table :collections, :id => :string do |t|
+
+=begin
+ "name": "Planetary Ordinals",
+  "inscription_icon": "98da33abe2045ec1421fcf1bc376dea5beb17ded15aa70ca5da490f50d95a6d9i0",
+  "supply": "69",
+  "slug": "planetary-ordinals",
+  "description": "",
+  "twitter_link": "https://twitter.com/ordinalswallet",
+  "discord_link": "https://discord.com/invite/ordinalswallet",
+  "website_link": ""
+=end
+
+create_table :collections do |t|
+  t.string   :name, null: false
+  t.string   :slug   
+  t.text     :desc    # description
+  t.integer  :max     # supply
+  t.string   :icon_id    ## rename to inscribe_icon_id or such - why? why not?
+  ## add twitter_link, discord_link, website_link - why? why not?
+
+  ## if on-chain and metadata inscribed - add why? why not??
+  ## t.string   :source_id,  null: false   ## foreign key reference
+
+  ## timestamp last
+  t.timestamps
+end
+
+create_table :items do |t|
+  t.integer   :collection_id, null: false
+  t.string    :inscribe_id,   null: false
+  t.integer   :pos,           null: false
+  t.string    :name
+
+  ## timestamp last
+  t.timestamps
+
+  ## todo/fix: add unique index for :pos+:collection_id !!!
+end
+
+
+
+###
+#  generative (collection) factory
+create_table :factories, :id => :string do |t|
   t.string   :name
   t.integer  :max        # max limit
   t.integer  :maxblock   # max block limit
@@ -117,14 +162,15 @@ create_table :collections, :id => :string do |t|
 end
 
 #####
-## join table (collections has_many modules)
+## join table (factory has_many modules)
 ##   rename to layer / sprites / blocks / tiles / modules / submodules / subs / mods / ...etc - why? why not?
 ##             layerlists or inscribelists or ???
+##  change/rename to factory_items or layer_items or such?
 create_table :inscriberefs, :id => false do |t|
-  t.string  :collection_id, null: false
+  t.string  :factory_id,    null: false
   t.string  :inscribe_id,   null: false
   t.integer :pos,           null: false    ## position (index) in list (starting at 0)
-  ## todo/fix: make collection_id + inscribe_id + pos unique index - why? why not?
+  ## todo/fix: make factory_id + inscribe_id + pos unique index - why? why not?
 
   ## timestamp last
   t.timestamps
@@ -132,7 +178,7 @@ end
 
 
 create_table :generatives, :id => :string do |t|
-  t.string  :collection_id, null: false
+  t.string  :factory_id,    null: false
   t.string  :g,             null: false  ##  use space separated numbers - why? why not?    
   t.binary  :content    ### optional for now - why? why not?
  
@@ -155,8 +201,8 @@ class AddGeneratives
 def up  
   ActiveRecord::Schema.define do
     create_table :generatives, :id => :string do |t|
-      t.string  :collection_id, null: false
-      t.string  :g,             null: false  ##  use space separated numbers - why? why not?    
+      t.string  :factory_id, null: false
+      t.string  :g,          null: false  ##  use space separated numbers - why? why not?    
       t.binary  :content    ### optional for now - why? why not?
      
       ## timestamp last

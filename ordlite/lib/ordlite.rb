@@ -12,6 +12,7 @@ require_relative 'ordlite/base'
 Inscribe   = OrdDb::Model::Inscribe
 Blob       = OrdDb::Model::Blob
 Collection = OrdDb::Model::Collection
+Factory    = OrdDb::Model::Factory
 Generative = OrdDb::Model::Generative
 
 

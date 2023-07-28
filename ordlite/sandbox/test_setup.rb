@@ -60,26 +60,25 @@ i3 = Inscribe.create( id: 'i3',
 
 
 
-c1 = Collection.create( id: 'punks',
+f1 = Factory.create( id: 'punks',
                         inscribe: i1,
                         max: 721,
                         name: 'Punks' )
 
-pp c1
+pp f1
 puts "inscribe:"                        
-pp c1.inscribe
+pp f1.inscribe
 puts "collection:"
-pp c1.inscribe.collection                        
+pp f1.inscribe.factory                        
 
 ## add layers via inscribrefs (note: requires pos(ition) / index - 0,1,2, etc.)
-c1.inscriberefs.create( pos: 0, inscribe: i2 )
-c1.inscriberefs.create( pos: 1, inscribe: i3 )
+f1.inscriberefs.create( pos: 0, inscribe: i2 )
+f1.inscriberefs.create( pos: 1, inscribe: i3 )
 
 puts "layers:"
-pp c1.layers
+pp f1.layers
 
 
-__END__
 
 puts i1.blob.content
 puts i1.blob.id
@@ -91,6 +90,22 @@ puts b2.inscribe.content_type
 
 
 b3 = Blob.create( id: 'id3', content: 'c99999')
+
+
+
+puts
+c1 = Collection.create( name: 'Punks', max: 100 )
+pp c1
+puts c1.items.count
+puts c1.inscribes.count
+
+c1.items.create( pos: 0, inscribe: i2, name: 'Punk #1' )
+c1.items.create( pos: 1, inscribe: i3, name: 'Punk #2' )
+puts c1.items.count
+puts c1.inscribes.count
+
+puts
+pp c1.items.first
 
 
 puts "bye"

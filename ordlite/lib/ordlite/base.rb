@@ -28,6 +28,7 @@ require_relative 'models/forward'
 require_relative 'models/inscribe'
 require_relative 'models/blob'
 require_relative 'models/collection'
+require_relative 'models/factory'
 require_relative 'models/generative'
 
 
@@ -38,10 +39,6 @@ require_relative 'cache'
 
 require_relative 'importer'  ## note: require (soft dep) ordinals gems!!!
 
-
-###
-# og (ordgen) helpers  -- todo/fix - move out here!!!
-require_relative 'og'
 
 
 
