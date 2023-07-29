@@ -40,6 +40,7 @@ puts "  #{Blob.count} blob(s)"
 puts "  #{Collection.count} collection(s)"
 #=>   0 inscribe(s)
 #=>   0 blob(s)
+#=>   0 collection(s)
 
 OrdDb.import_collection( "./meta/ordinalpunks.json" )
 

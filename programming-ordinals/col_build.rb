@@ -9,7 +9,7 @@ require 'ordlite'
 
 
 
-OrdDb.open( './ordsub1k.db' )
+OrdDb.open( './ord.db' )
 
 
 puts
