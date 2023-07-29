@@ -81,7 +81,7 @@ resulting in:
 {"image/png" => 100}
 ```
 
-Let's query for min and mix inscription numbers / no.:
+Let's query for min and max inscription numbers / no.:
 
 ``` ruby
 max = inscribes.maximum( 'num' )
@@ -275,7 +275,7 @@ resulting in:
 {"image/png" => 210}
 ```
 
-Let's query for min and mix inscription numbers / no.:
+Let's query for min and max inscription numbers / no.:
 
 ``` ruby
 max = inscribes.maximum( 'num' )
@@ -361,7 +361,7 @@ and so on.
 
 Let's try D.I.Y. Punks - (On-Chain) Generatives! 
 
-New to Geratives! Your Numbers! Youur Image!? 
+New to Geratives! Your Numbers! Your Image!? 
 For some background see [**Ordgen / ORC-721  »**](https://github.com/ordbase/generative-orc-721)
 
 
@@ -408,7 +408,7 @@ Yes, that's text (in .json). Generatives store the dna (numbers)
 NOT the image! 
 
 
-Let's query for min and mix inscription numbers / no.:
+Let's query for min and max inscription numbers / no.:
 
 ``` ruby
 max = inscribes.maximum( 'num' )
