@@ -4,7 +4,8 @@ by [Gerald Bauer](https://github.com/geraldb), et al
 
 
 
-[Sub 1k - Inside The First Thousand Ordinal Inscriptions](sub1k.md)
+- [Sub 1k - Inside The First Thousand Ordinal Inscriptions](sub1k.md)
+- [Collections, Collections, Collections - Inside Ordinal Punks, Bitcoin Shrooms, D.I.Y. Punks & More](collections.md)
 
 
 

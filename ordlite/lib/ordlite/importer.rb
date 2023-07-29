@@ -1,27 +1,37 @@
-
-
 module OrdDb
 
-def self.import_collection_csv( path,
+class Importer
+   Inscribe   =  Model::Inscribe
+   Blob       =  Model::Blob
+   Collection =  Model::Collection 
+
+
+def initialize
+   @requests   = 0   ## count number of ordinals.com api requests
+   @delay_in_s = 1   ## use 1 sec (for now)
+end
+
+
+def import_collection_csv( path,
                                 name:,
                                 content: true )
-
 ## or use
 ##  import_collection( format: 'csv') - why? why not?
-
    recs = read_csv( path )
    puts "  #{recs.size} inscribe id(s)"
 
-   col = Model::Collection.find_by( name: name )
-   if col
+   col = Collection.find_by( name: name )
+   if col && col.items.count > 0
      puts "!! WARN - collection already in db; delete first to reimport"
      return     
+   elsif col
+     ## do nothing; (re)use collection record; add items
+   else
+     col = Collection.create(
+            name:  name
+            ## max:   recs.size   ## auto-add max - why? why not?
+          )
    end
-
-   col = Model::Collection.create(
-    name:  name,
-    max:   recs.size
- )
 
  recs.each_with_index do |rec,i|
     id   = rec['id']
@@ -32,51 +42,29 @@ def self.import_collection_csv( path,
                       inscribe_id: id,
                       name: name )
 
-   ## check if inscription / inscribe is already in db?
-   inscribe = Model::Inscribe.find_by( id: id )
-   if inscribe  ## already in db; dump record
-     ## pp inscribe
-   else         ## fetch via ordinals.com api and update db
-      data = Ordinals.inscription( id )
-      pp data
-      Model::Inscribe.create_from_api( data )
-      sleep( 1 )   ## delay in seconds (before next request) 
-   end
-
-   if content
-     ## check if (content) blob is already in db?
-     blob = Model::Blob.find_by( id: id )
-     if blob    ## already in db; do nothing
-     else       ## fetch via ordinals.com api and update db
-        content = Ordinals.content( id )
-        puts "  content-type: #{content.type}"
-        puts "  content-length: #{content.length}"
-     
-        Model::Blob.create( id: id, content: content.data )
-        sleep( 1 )   ## delay in seconds (before next request) 
-     end
-   end              
+    _import( id, content: content )
  end
 end
 
 
-def self.import_collection_inscriptions( path, 
+def import_collection_inscriptions( path, 
                                          name:, 
                                          content: true )
    recs = read_json( path )
    puts "  #{recs.size} inscribe id(s)"
 
-   col = Model::Collection.find_by( name: name )
-   if col
+   col = Collection.find_by( name: name )
+   if col && col.items.count > 0
      puts "!! WARN - collection already in db; delete first to reimport"
      return     
+   elsif col
+      ## do nothing; (re)use collection record; add items
+   else
+     col = Model::Collection.create(
+        name:  name  
+        ## max:   recs.size   ## auto-add max - why? why not?
+      )
    end
-
-
-   col = Model::Collection.create(
-      name:  name,
-      max:   recs.size
-   )
 
    recs.each_with_index do |rec,i|
       id   = rec['id']
@@ -88,36 +76,12 @@ def self.import_collection_inscriptions( path,
                         inscribe_id: id,
                         name: name )
 
-     ## check if inscription / inscribe is already in db?
-     inscribe = Model::Inscribe.find_by( id: id )
-     if inscribe  ## already in db; dump record
-       ## pp inscribe
-     else         ## fetch via ordinals.com api and update db
-        data = Ordinals.inscription( id )
-        pp data
-        Model::Inscribe.create_from_api( data )
-        sleep( 1 )   ## delay in seconds (before next request) 
-     end
-
-     if content
-       ## check if (content) blob is already in db?
-       blob = Model::Blob.find_by( id: id )
-       if blob    ## already in db; do nothing
-       else       ## fetch via ordinals.com api and update db
-          content = Ordinals.content( id )
-          puts "  content-type: #{content.type}"
-          puts "  content-length: #{content.length}"
-       
-          Model::Blob.create( id: id, content: content.data )
-          sleep( 1 )   ## delay in seconds (before next request) 
-       end
-     end              
+     _import( id, content: content ) 
    end
 end
 
 
-
-def self.import_collection( path, content: true )
+def import_collection( path, content: true )
    data = read_json( path )
 
    meta =  data['collection']
@@ -125,13 +89,13 @@ def self.import_collection( path, content: true )
 
    name = meta['name']
 
-   col = Model::Collection.find_by( name: name )
+   col = Collection.find_by( name: name )
    if col
      puts "!! WARN - collection already in db; delete first to reimport"
      return     
    end
    
-   col = Model::Collection.create(
+   col = Collection.create(
       name:  name,
       desc:  meta['description'],
       max:   meta['max_supply']
@@ -148,35 +112,12 @@ def self.import_collection( path, content: true )
                         inscribe_id: id,
                         name: name )
 
-     ## check if inscription / inscribe is already in db?
-     inscribe = Model::Inscribe.find_by( id: id )
-     if inscribe  ## already in db; dump record
-       ## pp inscribe
-     else         ## fetch via ordinals.com api and update db
-        data = Ordinals.inscription( id )
-        pp data
-        Model::Inscribe.create_from_api( data )
-        sleep( 1 )   ## delay in seconds (before next request) 
-     end
-
-     if content
-       ## check if (content) blob is already in db?
-       blob = Model::Blob.find_by( id: id )
-       if blob    ## already in db; do nothing
-       else       ## fetch via ordinals.com api and update db
-          content = Ordinals.content( id )
-          puts "  content-type: #{content.type}"
-          puts "  content-length: #{content.length}"
-       
-          Model::Blob.create( id: id, content: content.data )
-          sleep( 1 )   ## delay in seconds (before next request) 
-       end
-     end              
+     _import( id, content: content )
    end
 end
 
 
-def self.import_csv( path, content: true )
+def import_csv( path, content: true )
     recs = read_csv( path )
     puts "  #{recs.size} inscribe id(s)"
     #=>  1000 inscribe id(s) 
@@ -185,30 +126,97 @@ def self.import_csv( path, content: true )
       id = rec['id']
       puts "==> #{i+1}/#{rec.size} @ #{id}..."
     
-      ## check if inscription / inscribe is already in db?
-      inscribe = Model::Inscribe.find_by( id: id )
-      if inscribe  ## already in db; dump record
-        ## pp inscribe
-      else         ## fetch via ordinals.com api and update db
-         data = Ordinals.inscription( id )
-         pp data
-         Model::Inscribe.create_from_api( data )
-         sleep( 1 )   ## delay in seconds (before next request) 
-      end
-
-      if content
-        ## check if (content) blob is already in db?
-        blob = Model::Blob.find_by( id: id )
-        if blob    ## already in db; do nothing
-        else       ## fetch via ordinals.com api and update db
-           content = Ordinals.content( id )
-           puts "  content-type: #{content.type}"
-           puts "  content-length: #{content.length}"
-        
-           Model::Blob.create( id: id, content: content.data )
-           sleep( 1 )   ## delay in seconds (before next request) 
-        end
-      end
+      _import( id, content: content )
     end  
-end # method self.import_csv
+end # method import_csv
+
+def import( id_or_ids, content: true )
+   if id_or_ids.is_a?( String )
+      id = id_or_ids
+     _import( id, content: content )
+   else  ## assume array
+      ids = id_or_ids
+      ids.each do |id|
+         _import( id, content: content )
+      end
+   end
+end 
+
+def _import( id, content: true )
+   ## check if inscription / inscribe is already in db?
+   inscribe = Inscribe.find_by( id: id )
+   if inscribe  ## already in db; dump record
+     ## pp inscribe
+   else         ## fetch via ordinals.com api and update db
+      sleep( @delay_in_s )   if @delay_in_s && @requests > 0   ## delay in seconds (before next request) 
+      data = Ordinals.inscription( id )
+      @requests += 1
+
+      pp data
+      Inscribe.create_from_api( data )
+   end
+
+   if content
+     ## check if (content) blob is already in db?
+     blob = Blob.find_by( id: id )
+     if blob    ## already in db; do nothing
+     else       ## fetch via ordinals.com api and update db
+        sleep( @delay_in_s )   if @delay_in_s && @requests > 0   ## delay in seconds (before next request) 
+        content = Ordinals.content( id )
+        @requests += 1
+
+        puts "  content-type: #{content.type}"
+        puts "  content-length: #{content.length}"
+     
+        Blob.create( id: id, content: content.data )
+     end
+   end              
+end
+
+end  # class Importer
+
+
+
+###
+## convenience helpers
+
+def self.importer   ## "default" importer
+   @importer ||= Importer.new 
+end
+
+def self.import_csv( path, content: true )
+   importer.import_csv( path, content: content )
+end
+
+
+def self.import_collection( path, content: true )
+   importer.import_collection( path, content: content )
+end
+
+def self.import_collection_inscriptions( path, 
+          name:, 
+          content: true )
+   importer.import_collection_inscriptions( path, 
+          name: name, 
+          content: content )
+end
+
+def self.import_collection_csv( path,
+          name:,
+          content: true )
+    importer.import_collection_csv( path,
+           name: name,
+           content: content )
+end
+
+
+module Model 
+class Inscribe
+   def self.import( id_or_ids, content: true )
+       OrdDb.importer.import( id_or_ids, content: content )
+   end
+end  # class Inscribe
+end # module Model 
+
+
 end  # module OrdDb

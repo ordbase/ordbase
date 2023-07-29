@@ -66,11 +66,23 @@ SQL
    def self.sub20k()  where( 'num < 20000' ); end
    def self.sub100k()  where( 'num < 100000' ); end
    def self.sub1m()  where( 'num < 1000000' ); end
+   def self.sub2m()  where( 'num < 2000000' ); end
+   def self.sub10m()  where( 'num < 10000000' ); end
+   def self.sub20m()  where( 'num < 20000000' ); end
+   def self.sub21m()  where( 'num < 21000000' ); end
  
 
    def self.largest
       order( 'bytes DESC' )
    end
+
+   def self.address_counts
+      ## todo/fix/check:
+      ##   counts NOT sorted - why? 
+      ##  works in content_type - why NOT here?
+       group( 'address' )
+        .order( Arel.sql( 'COUNT(*) DESC')).count
+   end 
 
    def self.block_counts
       group( 'block' ).count
@@ -107,6 +119,7 @@ SQL
 
    class << self
       alias_method :biggest, :largest
+      alias_method :counts_by_address,      :address_counts
       alias_method :counts_by_content_type, :content_type_counts
       alias_method :counts_by_date,         :date_counts
       alias_method :counts_by_day,          :date_counts

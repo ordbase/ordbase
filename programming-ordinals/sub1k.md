@@ -44,7 +44,7 @@ puts "  #{Blob.count} blob(s)"
 
 
 ## import listed inscripiton ids (fetch via ordinals.com api)
-OrdDb.import_csv( "./sub1k_inscriptions.csv" )
+OrdDb.import_csv( "./meta/sub1k_inscriptions.csv" )
 
 puts
 puts "  #{Inscribe.count} inscribe(s)"
