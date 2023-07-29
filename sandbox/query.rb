@@ -30,6 +30,9 @@ puts "  #{Inscribe.sub20m.count}  sub10m(s) - below 20_000_000"
 puts "  #{Inscribe.sub21m.count}  sub10m(s) - below 21_000_000"
 puts
 
+
+ActiveRecord::Base.logger = Logger.new(STDOUT)
+
 pp Inscribe.counts_by_content_type
 
 
@@ -45,6 +48,8 @@ def dump_collection( col )
 
   puts "    range no. #{min} to no. #{max}"
 
+  pp inscribes.counts_by_content_type
+
   pp inscribes.counts_by_day
   pp inscribes.counts_by_month
   pp inscribes.counts_by_hour
@@ -58,8 +63,8 @@ def dump_collection( col )
   puts
   pp inscribes.counts_by_hour
 
-  # puts
-  # pp inscribes.counts_by_address
+  puts
+  pp inscribes.counts_by_address
 end
 
 

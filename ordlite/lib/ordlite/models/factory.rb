@@ -7,7 +7,12 @@ module OrdDb
 
     belongs_to :inscribe
     
-    has_many :inscriberefs, -> { order('pos') }  ## join table (use habtm - why? why not?)
+    has_many :inscriberefs  ## join table (use habtm - why? why not?)
+    ##  -> { order('pos') }
+    ##   note: default_scope (order)
+    ##      will break all count queries and more
+    ##      thus - no "magic" - always sort if pos order required!!!
+   
     has_many :layers, :through => :inscriberefs,  
                       :source => :inscribe  
 

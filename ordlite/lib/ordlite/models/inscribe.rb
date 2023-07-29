@@ -77,30 +77,29 @@ SQL
    end
 
    def self.address_counts
-      ## todo/fix/check:
-      ##   counts NOT sorted - why? 
-      ##  works in content_type - why NOT here?
        group( 'address' )
         .order( Arel.sql( 'COUNT(*) DESC')).count
    end 
 
    def self.block_counts
-      group( 'block' ).count
+       group( 'block' )
+        .order( 'block').count
    end 
    
    def self.block_with_timestamp_counts
-      group( Arel.sql( "block || ' @ ' || date" )).count
+       group( Arel.sql( "block || ' @ ' || date" ))
+        .order( Arel.sql( "block || ' @ ' || date" ) ).count
    end
 
    def self.content_type_counts
-      group( 'content_type' )
+       group( 'content_type' )
        .order( Arel.sql( 'COUNT(*) DESC, content_type')).count
    end
 
 
    def self.date_counts
        ## note: strftime is SQLite specific/only!!!
-       group( Arel.sql("strftime('%Y-%m-%d', date)"))
+      group( Arel.sql("strftime('%Y-%m-%d', date)"))
         .order( Arel.sql("strftime('%Y-%m-%d', date)")).count
    end
 
@@ -112,7 +111,7 @@ SQL
 
    def self.hour_counts
       ## note: strftime is SQLite specific/only!!!
-      group( Arel.sql("strftime('%Y-%m-%d %Hh', date)"))
+       group( Arel.sql("strftime('%Y-%m-%d %Hh', date)"))
        .order( Arel.sql("strftime('%Y-%m-%d %Hh', date)")).count
    end
 
