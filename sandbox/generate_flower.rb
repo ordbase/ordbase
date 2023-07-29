@@ -84,4 +84,22 @@ flower = generate( background: 'autumn',
 flower.save( "./tmp/flower2.png" )
 flower.zoom( 4 ).save( "./tmp/flower2@4x.png" )
 
+
+flower = generate(  flowerpot: 'ceramics-red',
+                    rose: 'bud-red',
+                )
+
+flower.save( "./tmp/flower1a.png" )
+flower.zoom( 4 ).save( "./tmp/flower1a@4x.png" )
+
+
+flower = generate( flowerpot: 'ceramics-blue',
+                   rose: 'bud-white',
+                  )
+
+flower.save( "./tmp/flower2a.png" )
+flower.zoom( 4 ).save( "./tmp/flower2a@4x.png" )
+
+
+
 puts "bye"
