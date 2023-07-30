@@ -283,13 +283,10 @@ in 4x:
 
 
 
-For more collections to try see:
+That's it. For more collections try:
 
 - 690 Ordinals Egg (60x60)  @ [inscribe no. 10265255](https://ordinals.com/inscription/15e0a8e0a6adde4388f14d6385db7ac63d55acb1c5a5b67aa4f8de3d5ad5dacci0) - May 31st, 2023 
 - 10 000 Unemployed Artist (24x24) @ [inscribe no. 11673452](https://ordinals.com/inscription/c11e21e4ac155b88d8cc4cb7e11d8c4f66112e95cac04c4cb14e9361d93aac16i0) - June 13th, 2023 
-
-
-That's it for now.
 
 
 
