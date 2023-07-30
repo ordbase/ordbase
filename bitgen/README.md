@@ -28,7 +28,7 @@ BUT yes, [Ordgen / ORC-721](https://github.com/ordbase/generative-orc-721) may b
 Let's try some (historic) Gen BRC-721 collections...
 
 
-### Collection №1 - 1000 Ordibots (32x32px)
+#### Collection №1 - 1000 Ordibots (32x32px)
 
 _The world's first gen-brc-721_
 
@@ -213,7 +213,7 @@ resulting in:
 
 
 
-### Collection №2 - 20 000 Blooming Flower (80x80px)
+#### Collection №2 - 20 000 Blooming Flower (80x80px)
 
 Find the deploy text @ [inscription no 17707699](https://ordinals.com/inscription/1a1427e31c91566fe7fb47d7f5c1b2130bea31219a08e1de794d45512319ee61i0) - July 17, 2023.
 
