@@ -1,0 +1,30 @@
+require 'hoe'
+## require './lib/bitgen/version.rb'
+
+Hoe.spec 'bitgen' do
+
+  self.version =   '0.0.1'  ## Pixelart::Module::Bitgen::VERSION
+
+
+  self.summary = "bitgen - bitcoin generative (inscription) image machinery incl. gen-brc721 & co"
+  self.description = summary
+
+  self.urls    = { home: 'https://github.com/ordbase/ordbase' }
+
+  self.author  = 'Gerald Bauer'
+  self.email   = 'gerald.bauer@gmail.com'
+
+  # switch extension to .markdown for gihub formatting
+  self.readme_file  = 'README.md'
+  self.history_file = 'CHANGELOG.md'
+
+  self.extra_deps = [
+    ['pixelart'],
+  ]
+
+  self.licenses = ['Public Domain']
+
+  self.spec_extras = {
+    required_ruby_version: '>= 2.3'
+  }
+end
