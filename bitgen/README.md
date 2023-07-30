@@ -32,8 +32,7 @@ Let's try some (historic) Gen BRC-721 collections...
 
 _The world's first gen-brc-721_
 
-Find the deploy text @ [inscription no 8326719](https://ordinals.com/inscription/b7205d40f3b1b1486567f0d6e53ff2812983db4c03ad7d3606812cd150c64802i0) 
-- May 21, 2023 by Jerry Fanelli.
+Find the deploy text @ [inscription no 8326719](https://ordinals.com/inscription/b7205d40f3b1b1486567f0d6e53ff2812983db4c03ad7d3606812cd150c64802i0) - May 21, 2023 by Jerry Fanelli.
 
 
 Let's generate some ulta-rare never-before-seen (do-it-yourself) ordibots.
@@ -92,7 +91,7 @@ in 4x:
 
 
 If you wonder what categories and names can I use?
-Print the cheatsheet returned by `Catalog#cheat`.
+Print  the cheatsheet returned by `Catalog#cheat`.
 
 
 ``` ruby
@@ -136,13 +135,13 @@ resulting in:
     2 - square
 ```
 
-Now if you wonder what do these categories and names look like in pixels?
+Now if you wonder what do these look in pixels?
 Export all images (in 1x and 8x) using `Catalog#export` for browsing
 using your local image viewer / file explorer.
 
 ``` ruby
 catalog = Bitgen::Catalog.read( './ordibots.json' )
-puts catalog.export
+catalog.export
 ```
 
 resulting in:
@@ -216,8 +215,7 @@ resulting in:
 
 ### Collection №2 - 20 000 Blooming Flower (80x80px)
 
-Find the deploy text @ [inscription no 17707699](https://ordinals.com/inscription/1a1427e31c91566fe7fb47d7f5c1b2130bea31219a08e1de794d45512319ee61i0) 
-- July 17, 2023.
+Find the deploy text @ [inscription no 17707699](https://ordinals.com/inscription/1a1427e31c91566fe7fb47d7f5c1b2130bea31219a08e1de794d45512319ee61i0) - July 17, 2023.
 
 
 Let's generate some ulta-rare never-before-seen (do-it-yourself) blooming flowers.
@@ -228,6 +226,7 @@ require 'bitgen'
 ## step 1: read in the deploy text (incl the base64-encoded generative images)
 gen = Bitgen::Generator.read( './blooming-flower.json' )
 
+## step 2:  generate your images
 flower = gen.generate( background: 'new-moon',
                        window: 'simple-yellow',
                        table: 'metal',
