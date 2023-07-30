@@ -3,7 +3,7 @@ require 'hoe'
 
 Hoe.spec 'bitgen' do
 
-  self.version =   '0.0.1'  ## Pixelart::Module::Bitgen::VERSION
+  self.version =   '0.1.0'  ## Pixelart::Module::Bitgen::VERSION
 
 
   self.summary = "bitgen - bitcoin generative (inscription) image machinery incl. gen-brc721 & co"
