@@ -9,7 +9,7 @@ class Catalog   ## change/rename to Spritesheet / Atlas / Deploy or such - why? 
     # pp data
   
     meta = {
-       'slug' => data['slug'],
+       'slug' => data['slug'].downcase,  ## note: always downcase slug for now (e.g. OrdinalsEgg => ordinalsegg)
        'name' => data['name'],
        'dim'  => data['dim'] 
     }
