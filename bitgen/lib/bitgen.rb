@@ -15,7 +15,11 @@ class Catalog   ## change/rename to Spritesheet / Atlas / Deploy or such - why? 
     }
    
     attributes = {}
-    data['traits'].each do |category_name, h|
+
+    ## note: use/access via trait_types array
+    ##         for (restoring  insertion) order!!!
+    data['trait_types'].each do |category_name|
+      h = data['traits'][category_name]
       puts "==> #{category_name} - #{h.size} record(s)..."
   
       h.each_with_index do |(name, h), i|

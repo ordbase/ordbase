@@ -108,15 +108,7 @@ resulting in:
     0 - antenna
     1 - none
     2 - rainbow
-2 - face (7)
-    0 - happy
-    1 - neutral
-    2 - surprised
-    3 - unimpressed
-    4 - angry
-    5 - bored-green
-    6 - bored-red
-3 - body (9)
+2 - body (9)
     0 - standard-triangular
     1 - standard-square
     2 - standard-oval
@@ -126,10 +118,18 @@ resulting in:
     6 - black-and-white-triangular
     7 - gold-square
     8 - gold-triangular
-4 - belly (3)
+3 - belly (3)
     0 - empty
     1 - chess
     2 - square
+4 - face (7)
+    0 - happy
+    1 - neutral
+    2 - surprised
+    3 - unimpressed
+    4 - angry
+    5 - bored-green
+    6 - bored-red
 ```
 
 Now if you wonder what do these look in pixels?
@@ -147,71 +147,45 @@ resulting in:
 /ordibots
  +---0_background
  |       0_blue.png
- |       0_blue@8x.png
  |       1_bitcoin-orange.png
- |       1_bitcoin-orange@8x.png
  |       2_brown.png
- |       2_brown@8x.png
  |       3_purple.png
- |       3_purple@8x.png
  |
  +---1_accessories
  |       0_antenna.png
- |       0_antenna@8x.png
  |       1_none.png
- |       1_none@8x.png
  |       2_rainbow.png
- |       2_rainbow@8x.png
  |
- +---2_face
- |       0_happy.png
- |       0_happy@8x.png
- |       1_neutral.png
- |       1_neutral@8x.png
- |       2_surprised.png
- |       2_surprised@8x.png
- |       3_unimpressed.png
- |       3_unimpressed@8x.png
- |       4_angry.png
- |       4_angry@8x.png
- |       5_bored-green.png
- |       5_bored-green@8x.png
- |       6_bored-red.png
- |       6_bored-red@8x.png
- |
- +---3_body
+ +---2_body
  |       0_standard-triangular.png
- |       0_standard-triangular@8x.png
  |       1_standard-square.png
- |       1_standard-square@8x.png
  |       2_standard-oval.png
- |       2_standard-oval@8x.png
  |       3_gold-oval.png
- |       3_gold-oval@8x.png
  |       4_black-and-white-square.png
- |       4_black-and-white-square@8x.png
  |       5_black-and-white-oval.png
- |       5_black-and-white-oval@8x.png
  |       6_black-and-white-triangular.png
- |       6_black-and-white-triangular@8x.png
  |       7_gold-square.png
- |       7_gold-square@8x.png
  |       8_gold-triangular.png
- |       8_gold-triangular@8x.png
  |
- \---4_belly
-         0_empty.png
-         0_empty@8x.png
-         1_chess.png
-         1_chess@8x.png
-         2_square.png
-         2_square@8x.png
+ +---3_belly
+ |       0_empty.png
+ |       1_chess.png
+ |       2_square.png
+ |
+ \---4_face
+         0_happy.png
+         1_neutral.png
+         2_surprised.png
+         3_unimpressed.png
+         4_angry.png
+         5_bored-green.png
+         6_bored-red.png
 ```
 
 
-#### Collection №2 - 400 Satoshi's Pets (45×45px@14x = 630×630px)
+#### Collection №2 - 400 Satoshi's Pets (630×630px = 45×45px@14X)
 
-_The world's second gen-brc-721_
+_The world's second (?) gen-brc-721_
 
 Find the deploy text @ [inscription no 9324087](https://ordinals.com/inscription/5a3488d19fec02c6629255a43f0615bfc1f4461d5087d6671a2222803966c871i0) - May 27, 2023 by Miek Brantovskii.
 

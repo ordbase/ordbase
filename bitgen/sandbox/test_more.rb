@@ -14,8 +14,9 @@ require 'bitgen'
 
 
 deploys = [
-  'ordinalsegg',
-  'unemployedartist',
+  'gbrc721bitpunks',
+  # 'ordinalsegg',
+  # 'unemployedartist',
   # 'satoshipets',  
 ]
 
