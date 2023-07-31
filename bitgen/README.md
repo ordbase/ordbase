@@ -212,8 +212,63 @@ resulting in:
 ```
 
 
+#### Collection №2 - 400 Satoshi's Pets (630x630px)
 
-#### Collection №2 - 20 000 Blooming Flower (80x80px)
+_The world's second gen-brc-721_
+
+Find the deploy text @ [inscription no 9324087](https://ordinals.com/inscription/5a3488d19fec02c6629255a43f0615bfc1f4461d5087d6671a2222803966c871i0) - May 27, 2023 by Miek Brantovskii.
+
+
+Let's generate some ulta-rare never-before-seen (do-it-yourself) satoshi's pets (cat, dog, mouse, rabbit, monkey).
+
+``` ruby
+require 'bitgen'
+
+## step 1: read in the deploy text (incl the base64-encoded generative images)
+gen = Bitgen::Generator.read( './satoshipets.json' )
+
+pet = gen.generate( background: 'aube',
+                    pets: 'monkey',
+                    stuff: 'star',
+                    eyes: 'normal'
+                )
+
+pet.save( "./pet1.png" )
+
+
+pet = gen.generate( background: 'twilight',
+                    pets: 'rabbit',
+                    stuff: 'rainbow',
+                    eyes: 'mask'
+                  )
+
+pet.save( "./pet2.png" )
+
+
+pet = gen.generate( pets: 'monkey',
+                    eyes: 'normal'
+                )
+
+pet.save( "./pet1a.png" )
+
+
+pet = gen.generate( pets: 'rabbit',
+                    eyes: 'mask'
+                  )
+
+pet.save( "./pet2a.png" )
+```
+
+resulting in:
+
+![](i/pet1.png)
+![](i/pet2.png)
+![](i/pet1a.png)
+![](i/pet2a.png)
+
+
+
+#### Collection №3 - 20 000 Blooming Flower (80x80px)
 
 Find the deploy text @ [inscription no 17707699](https://ordinals.com/inscription/1a1427e31c91566fe7fb47d7f5c1b2130bea31219a08e1de794d45512319ee61i0) - July 17, 2023.
 

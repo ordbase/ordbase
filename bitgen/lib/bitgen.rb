@@ -71,7 +71,9 @@ class Catalog   ## change/rename to Spritesheet / Atlas / Deploy or such - why? 
         puts path
 
         img.save( path+".png" )
-        img.zoom(8).save( path+"@8x.png" )
+        ## note - only auto-add zoom  if  width < 100px
+        ##  e.g. sathoshi's pet is 630px
+        img.zoom(8).save( path+"@8x.png" )  if img.width < 100
       end
     end
   end # method export
