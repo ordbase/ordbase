@@ -28,7 +28,7 @@ BUT yes, [Ordgen / ORC-721](https://github.com/ordbase/generative-orc-721) may b
 Let's try some (historic) Gen BRC-721 collections...
 
 
-#### Collection №1 - 1000 Ordibots (32x32px)
+#### Collection №1 - 1000 Ordibots (32×32px)
 
 _The world's first gen-brc-721_
 
@@ -48,11 +48,10 @@ gen = Bitgen::Generator.read( './ordibots.json' )
 bot = gen.generate( accessories: 'antenna',
                     body: 'gold-oval',
                     belly: 'chess',
-                    face: 'happy',
+                    face: 'happy'
                   )
 
 bot.save( "./bot1.png" )
-bot.zoom( 4 ).save( "./bot1@4x.png" )
 
 
 bot = gen.generate( background: 'bitcoin-orange',
@@ -63,7 +62,6 @@ bot = gen.generate( background: 'bitcoin-orange',
                   )
 
 bot.save( "./bot2.png" )
-bot.zoom( 4 ).save( "./bot2@4x.png" )
 
 
 bot = gen.generate( background: 'bitcoin-orange',
@@ -74,7 +72,6 @@ bot = gen.generate( background: 'bitcoin-orange',
                   )
 
 bot.save( "./bot3.png" )
-bot.zoom( 4 ).save( "./bot3@4x.png" )
 ```
 
 resulting in:
@@ -212,7 +209,7 @@ resulting in:
 ```
 
 
-#### Collection №2 - 400 Satoshi's Pets (630x630px)
+#### Collection №2 - 400 Satoshi's Pets (45×45px@14x = 630×630px)
 
 _The world's second gen-brc-721_
 
@@ -227,11 +224,12 @@ require 'bitgen'
 ## step 1: read in the deploy text (incl the base64-encoded generative images)
 gen = Bitgen::Generator.read( './satoshipets.json' )
 
+## step 2:  generate your images
 pet = gen.generate( background: 'aube',
                     pets: 'monkey',
                     stuff: 'star',
                     eyes: 'normal'
-                )
+                  )
 
 pet.save( "./pet1.png" )
 
@@ -266,9 +264,16 @@ resulting in:
 ![](i/pet1a.png)
 ![](i/pet2a.png)
 
+4x
+
+![](i/pet1@4x.png)
+![](i/pet2@4x.png)
+![](i/pet1a@4x.png)
+![](i/pet2a@4x.png)
 
 
-#### Collection №3 - 20 000 Blooming Flower (80x80px)
+
+#### Collection №3 - 20 000 Blooming Flower (80×80px)
 
 Find the deploy text @ [inscription no 17707699](https://ordinals.com/inscription/1a1427e31c91566fe7fb47d7f5c1b2130bea31219a08e1de794d45512319ee61i0) - July 17, 2023.
 
@@ -286,38 +291,34 @@ flower = gen.generate( background: 'new-moon',
                        window: 'simple-yellow',
                        table: 'metal',
                        flowerpot: 'ceramics-red',
-                       rose: 'bud-red',
+                       rose: 'bud-red'
                      )
 
 flower.save( "./flower1.png" )
-flower.zoom( 4 ).save( "./flower1@4x.png" )
 
 
 flower = gen.generate( background: 'autumn',
                        window: 'sliding-yellow',
                        table: 'wood',
                        flowerpot: 'ceramics-blue',
-                       rose: 'bud-white',
+                       rose: 'bud-white'
                      )
 
 flower.save( "./flower2.png" )
-flower.zoom( 4 ).save( "./flower2@4x.png" )
 
 
 flower = gen.generate(  flowerpot: 'ceramics-red',
-                        rose: 'bud-red',
+                        rose: 'bud-red'
                      )
 
 flower.save( "./flower1a.png" )
-flower.zoom( 4 ).save( "./flower1a@4x.png" )
 
 
 flower = gen.generate( flowerpot: 'ceramics-blue',
-                       rose: 'bud-white',
+                       rose: 'bud-white'
                      )
 
 flower.save( "./flower2a.png" )
-flower.zoom( 4 ).save( "./flower2a@4x.png" )
 ```
 
 resulting in:
@@ -340,8 +341,8 @@ in 4x:
 
 That's it. For more collections try:
 
-- 690 Ordinals Egg (60x60)  @ [inscribe no. 10265255](https://ordinals.com/inscription/15e0a8e0a6adde4388f14d6385db7ac63d55acb1c5a5b67aa4f8de3d5ad5dacci0) - May 31st, 2023 
-- 10 000 Unemployed Artist (24x24) @ [inscribe no. 11673452](https://ordinals.com/inscription/c11e21e4ac155b88d8cc4cb7e11d8c4f66112e95cac04c4cb14e9361d93aac16i0) - June 13th, 2023 
+- 690 Ordinals Egg (60×60)  @ [inscribe no. 10265255](https://ordinals.com/inscription/15e0a8e0a6adde4388f14d6385db7ac63d55acb1c5a5b67aa4f8de3d5ad5dacci0) - May 31st, 2023 
+- 10 000 Unemployed Artist (24×24) @ [inscribe no. 11673452](https://ordinals.com/inscription/c11e21e4ac155b88d8cc4cb7e11d8c4f66112e95cac04c4cb14e9361d93aac16i0) - June 13th, 2023 
 
 
 

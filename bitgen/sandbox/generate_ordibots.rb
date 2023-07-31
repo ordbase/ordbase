@@ -11,7 +11,7 @@ gen = Bitgen::Generator.read( './ordibots.json' )
 bot = gen.generate( accessories: 'antenna',
                 body: 'gold-oval',
                 belly: 'chess',
-                face: 'happy',
+                face: 'happy'
                 )
 
 bot.save( "./tmp/bot1.png" )
