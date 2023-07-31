@@ -76,15 +76,15 @@ bot.save( "./bot3.png" )
 
 resulting in:
 
-![](i/bot1.png)
-![](i/bot2.png)
-![](i/bot3.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/bot1.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/bot2.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/bot3.png)
 
 in 4x:
 
-![](i/bot1@4x.png)
-![](i/bot2@4x.png)
-![](i/bot3@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/bot1@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/bot2@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/bot3@4x.png)
 
 
 If you wonder what categories and names can I use?
@@ -233,17 +233,17 @@ pet.save( "./pet2a.png" )
 
 resulting in:
 
-![](i/pet1.png)
-![](i/pet2.png)
-![](i/pet1a.png)
-![](i/pet2a.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet1.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet2.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet1a.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet2a.png)
 
 4x
 
-![](i/pet1@4x.png)
-![](i/pet2@4x.png)
-![](i/pet1a@4x.png)
-![](i/pet2a@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet1@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet2@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet1a@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/pet2a@4x.png)
 
 
 
@@ -297,26 +297,28 @@ flower.save( "./flower2a.png" )
 
 resulting in:
 
-![](i/flower1.png)
-![](i/flower2.png)
-![](i/flower1a.png)
-![](i/flower2a.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower1.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower2.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower1a.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower2a.png)
 
 in 4x:
 
-![](i/flower1@4x.png)
-![](i/flower2@4x.png)
-![](i/flower1a@4x.png)
-![](i/flower2a@4x.png)
-
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower1@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower2@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower1a@4x.png)
+![](https://github.com/ordbase/ordbase/raw/master/bitgen/i/flower2a@4x.png)
 
 
 
 
 That's it. For more collections try:
 
+- 1000 Ordi Bot Mrs (32×32) @ [inscribe no. 9893590](https://ordinals.com/inscription/fd0d94695fc30af6238732c2b71aa4330511c5d2dd0ace2da05660c2ad57076di0) - May 29th, 2023 by Kelvin Liang
+- 4210 (GBRC721) Bit Punks (24×24) @  [inscribe no. 9950751](https://ordinals.com/inscription/c3915284759eaba761f6e5acf64b50e1089fe62448b595f61a40407d71bfb85ei0) - May 29th, 2023
 - 690 Ordinals Egg (60×60)  @ [inscribe no. 10265255](https://ordinals.com/inscription/15e0a8e0a6adde4388f14d6385db7ac63d55acb1c5a5b67aa4f8de3d5ad5dacci0) - May 31st, 2023 
 - 10 000 Unemployed Artist (24×24) @ [inscribe no. 11673452](https://ordinals.com/inscription/c11e21e4ac155b88d8cc4cb7e11d8c4f66112e95cac04c4cb14e9361d93aac16i0) - June 13th, 2023 
+
 
 
 

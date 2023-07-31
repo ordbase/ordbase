@@ -27,7 +27,9 @@ class Catalog   ## change/rename to Spritesheet / Atlas / Deploy or such - why? 
   
          img = Image.parse_base64(  h['base64'] )
   
-         cat = attributes[ category_name ] ||= {}
+         ## note: always downcase category_name for now 
+         ##    (e.g. Background => background  in OrdinalsEgg for example)
+         cat = attributes[ category_name.downcase ] ||= {}
          cat[ name ] = img
       end
     end
