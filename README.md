@@ -10,6 +10,13 @@ Gems:
 - [**ordbase**](ordbase) -  "right-clicker" (off-chain) ordinals (pixel art) command line tool, machinery & helpers for Bitcoin, Litcoin, Dogecoin & co.
 
 
+More:
+- [**ordserve**](ordserve) - serve-up ordinal inscription (on bitcoin & co) from a local test sandbox
+- [**bitgen**](bitgen) - bitcoin (inscription) generative image machinery incl gen-brc721 & co
+
+
+
+
 Bonus:
 
 

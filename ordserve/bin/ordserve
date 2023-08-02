@@ -1,0 +1,19 @@
+#!/usr/bin/env ruby
+
+###################
+# == DEV TIPS:
+#
+# For local testing run like:
+#
+#    ruby -Ilib bin/ordserve
+#
+# Set the executable bit in Linux. Example:
+#
+#    % chmod a+x bin/ordserve
+#
+
+require 'ordserve'
+
+Ordserve.main
+
+

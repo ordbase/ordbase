@@ -1,0 +1,32 @@
+require 'hoe'
+require './lib/ordserve/version.rb'
+
+Hoe.spec 'ordserve' do
+
+  self.version =  Ordinals::Module::Ordserve::VERSION
+
+
+  self.summary = "ordserve - serve-up ordinal inscription (on bitcoin & co) from a local test sandbox"
+  self.description = summary
+
+  self.urls    = { home: 'https://github.com/ordbase/ordbase' }
+
+  self.author  = 'Gerald Bauer'
+  self.email   = 'gerald.bauer@gmail.com'
+
+  # switch extension to .markdown for gihub formatting
+  self.readme_file  = 'README.md'
+  self.history_file = 'CHANGELOG.md'
+
+  self.extra_deps = [
+    ['ordinals'],
+    ['sinatra'],
+    ['webrick'],  
+  ]
+
+  self.licenses = ['Public Domain']
+
+  self.spec_extras = {
+    required_ruby_version: '>= 2.3'
+  }
+end
