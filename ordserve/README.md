@@ -40,7 +40,7 @@ bandana ([inscribe no. 11627632](https://ordinals.com/inscription/a6b4b81f69e8c2
 </svg>
 ```
 
-Now try <http://localhost:3000/punks1.svg> and 
+Now try <http://localhost:3000/punk1.svg> and 
 you get the million dollar alien with bandana built from zero / scratch.
 The two recursions (referenced via `/content/:id`) will get
 the first-time "automagically" downloaded via the ordinals.com api 
@@ -65,7 +65,7 @@ laser eyes ([inscribe no. 12359718](https://ordinals.com/inscription/72fe7ebda80
 </svg>
 ```
 
-Now try <http://localhost:3000/punks1a.svg> and 
+Now try <http://localhost:3000/punk1a.svg> and 
 you get an ultra-rare never-before-seen alien with cap foward
 and laser eyes built from zero / scratch.
 The three recursions (referenced via `/content/:id`) will get
