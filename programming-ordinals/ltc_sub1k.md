@@ -3,12 +3,12 @@
 [« Programming (Litecoin) Ordinals - Step-by-Step Book / Guide](./)
 
 
-# Sub 1k - Inside The First Thousand (Litcoin) Ordinal Inscriptions
+# Sub 1k - Inside The First Thousand (Litecoin) Ordinal Inscriptions
 
 
 Let's explore the first thousand ordinal inscriptions 
-from [inscription  №0](https://ordinals.com/inscription/6fb976ab49dcec017f1e201e84395983204ae1a7c2abf7ced0a85d692e442799i0)
-to [inscription №999](https://ordinalslite.com/inscription/71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0eei0).
+from [inscription  №0](https://ordinalslite.com/inscription/71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0eei0)
+to [inscription №999](https://ordinalslite.com/inscription/aba63632a275ce5c20cb87d0af58c0b11e6f328514e2cf7fecf6132086fd33f8i0).
 
 
 Looking for the bitcoin (btc) edition? See [Sub 1k - Inside the first thousand bitcoin ordinal inscripitons »](sub1k.md)
@@ -23,7 +23,7 @@ the first thousand ordinal inscriptions,
 that is, all metadata and (content) blobs, that is, images or text or audio or whatever.
 
 To fetch the inscription metadata and content blobs
-let's use the ordinals.com api wrapper / client, that is,
+let's use the ordinalslite.com api wrapper / client, that is,
 the [ordinals gem](https://github.com/ordbase/ordbase/tree/master/ordinals). 
 
 To setup and build the SQL schema / tables
