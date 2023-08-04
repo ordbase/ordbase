@@ -228,10 +228,10 @@ end
 
 resulting in:
 
-![](i/pepelangelo1.png)
-![](i/pepelangelo2.png)
-![](i/pepelangelo3.png)
-![](i/pepelangelo4.png)
+![](i/pepelangelo1.jpg)
+![](i/pepelangelo2.jpg)
+![](i/pepelangelo3.jpg)
+![](i/pepelangelo4.jpg)
 
 ...
 
@@ -274,6 +274,12 @@ resulting in:
 ![](i/punk2.png)
 ![](i/punk3.png)
 ![](i/punk4.png)
+![](i/punk5.png)
+![](i/punk6.png)
+![](i/punk7.png)
+![](i/punk8.png)
+![](i/punk9.png)
+![](i/punk10.png)
 
 ...
 
