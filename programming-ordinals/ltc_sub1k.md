@@ -108,17 +108,23 @@ or in vanilla SQL:
 resulting in:
 
 ```
-387 KB (396340 bytes) - Inscribe №100 (image/webp) - 2023-02-20 19:19:25 - 775291 fee in litoshis
-387 KB (396313 bytes) - Inscribe №89 (image/gif) - 2023-02-20 19:14:53 - 775236 fee in litoshis
-386 KB (395261 bytes) - Inscribe №866 (image/png) - 2023-02-21 06:35:39 - 199016 fee in litoshis
-385 KB (394012 bytes) - Inscribe №291 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in litoshis
-385 KB (394012 bytes) - Inscribe №292 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in litoshis
-385 KB (394012 bytes) - Inscribe №293 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in litoshis
-385 KB (394012 bytes) - Inscribe №294 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in litoshis
-385 KB (394012 bytes) - Inscribe №295 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in litoshis
-385 KB (394012 bytes) - Inscribe №296 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in litoshis
-385 KB (394012 bytes) - Inscribe №297 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in litoshis
+387 KB (396340 bytes) - Inscribe №100 (image/webp) - 2023-02-20 19:19:25 - 775291 fee in lits
+387 KB (396313 bytes) - Inscribe №89 (image/gif) - 2023-02-20 19:14:53 - 775236 fee in lits
+386 KB (395261 bytes) - Inscribe №866 (image/png) - 2023-02-21 06:35:39 - 199016 fee in lits
+385 KB (394012 bytes) - Inscribe №291 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in lits
+385 KB (394012 bytes) - Inscribe №292 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in lits
+385 KB (394012 bytes) - Inscribe №293 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in lits
+385 KB (394012 bytes) - Inscribe №294 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in lits
+385 KB (394012 bytes) - Inscribe №295 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in lits
+385 KB (394012 bytes) - Inscribe №296 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in lits
+385 KB (394012 bytes) - Inscribe №297 (image/webp) - 2023-02-20 21:03:48 - 770737 fee in lits
 ```
+
+Litecoin triva: Did you know? The litoshi is the smallest possible division
+and named in homage to bitcoin's smallest denomination 
+the satoshi, representing 1⁄100000000 (one hundred millionth) litecoin.
+
+
 
 
 Let's query for all inscriptions grouped by date (day) and dump the results:
