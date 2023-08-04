@@ -5,8 +5,6 @@ class Sandbox
    def initialize( dir='./content' )
       @dir   = dir
       @force      = false
-      @delay_in_s = 0.5  ## wait 0.5s before next (possible) request
-      @requests = 0
    end   
 
 
@@ -24,9 +22,7 @@ class Sandbox
       path = "#{@dir}/#{id}"
       if !@force && File.exist?( path )
          ## puts "  in sandbox"
-      else
-        sleep( @delay_in_s )   if @delay_in_s && @requests > 0 
-        
+      else        
         ## note: save text as blob - byte-by-byte as is  (might be corrupt text)
         content = Ordinals.content( id )
         ## pp content
@@ -38,7 +34,6 @@ class Sandbox
         ## puts "data:"
         ## puts content.data
         write_blob( path, content.data )
-        @requests += 1
       end
    end
 

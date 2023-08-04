@@ -86,6 +86,15 @@ module Ordinals
       self.chain = 'btc'   unless defined?( @client )
       @client
     end
+
+    def delay_in_s 
+      ## note - default to 1 (sec) if not set
+      self.delay_in_s = 1   unless defined?( @delay_in_s )
+      @delay_in_s
+    end  
+    def delay_in_s=(value) @delay_in_s = value; end
+    alias_method :sleep,  :delay_in_s   ## add sleep alias (or wait) - why? why not?
+    alias_method :sleep=, :delay_in_s=
   end # class Configuration
 
 
@@ -119,14 +128,18 @@ module Ordinals
 
   ###################
   ### more convenience shortcuts
-  def self.inscription( id ) client.inscription( id ); end
-  def self.content( id )     client.content( id );     end
+  def self.inscription( num_or_id )             client.inscription( num_or_id ); end
+  def self.content( num_or_id )                 client.content( num_or_id );     end
+
+  def self.inscription_ids( offset: )    client.inscription_ids( offset: offset ); end
+  def self.sub10k_ids()                  client.sub10k_ids; end
 end  # module Ordinals
 
 
 
 
 ## our own code
+require_relative 'ordinals/version'
 require_relative 'ordinals/api'
 
 require_relative 'ordinals/cache'
@@ -144,3 +157,7 @@ require_relative 'ordinals/recursive/generator'
 RcsvImage          = RecursiveImage
 RcsvImageComposite = RecursiveImageComposite
 
+
+
+# say hello
+puts Ordinals.banner     ## if defined?($RUBYCOCOS_DEBUG) && $RUBCOCOS_DEBUG

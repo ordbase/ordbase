@@ -24,9 +24,13 @@ class Api   ## change/rename Api to Client - why? why not?
   end
 
 
+  def config() Ordinals.config; end  ## convenience shortcut helper
+
   def initialize( base, inscription: 'inscription' )
-    @base        = base
-    @inscription = inscription
+    @base          = base
+    @inscription   = inscription
+    @requests      = 0  ## count requests (for delay_in_s sleeping/throttling)
+    @pages = {}   ## (0-)99, (100-)199, (200-)299 etc.  
   end
 
 
@@ -46,8 +50,9 @@ class Content
 end  ## (nested) class Content
 
 
+  def content( num_or_id )
+     id =  num_or_id.is_a?( Integer ) ? _num_to_id( num_or_id ) : num_or_id 
 
-  def content( id )
      src = "#{@base}/content/#{id}"
      res = get( src )
 
@@ -67,6 +72,56 @@ end  ## (nested) class Content
   end
 
 
+  INSCRIBE_ID_RX = %r{
+    inscription/(?<id>[a-fi0-9]+)
+   }ix
+
+
+  def inscription_ids( offset: )  ## note: page size is for now fixed 100
+    ids = []
+
+    src = "#{@base}/inscriptions/#{offset}"
+    res = get( src )
+
+    page = res.text  ### assumes utf-8 for now
+    page.scan( INSCRIBE_ID_RX ) do |_|
+      m = Regexp.last_match
+      ids << m[:id]
+    end       
+    puts "   #{ids.size} inscribe id(s)"
+    ids = ids.reverse  ## assume latest inscribe id is on top (reverse)
+    ids
+  end
+
+  def sub10k_ids
+    ids = []
+    limit  = 100
+
+    100.times do |i|   ## fetch first hundred (100*100=10000) inscribe ids
+      offset = 99 + limit*i
+      puts "==> #{i} - @ #{offset}..."
+      ids += inscription_ids( offset: offset )
+    end
+    puts "   #{ids.size} inscribe id(s) - total"
+    ids
+  end
+
+  
+  def _num_to_id( num )
+    limit = 100
+    page, i =  num.divmod( limit )
+    offset = 99+limit*page
+    ## e.g.   100.divmod( 100 ) => [1,0]
+    ##        100.divmod( 100 ) => [0,0]
+    ##        99.divmod( 100 ) =>  [0,99]
+    ## etc.
+  
+    ## auto-add to page cache
+    ids =  @pages[ offset ] ||= inscription_ids( offset: offset )      
+    ids[i] 
+   end
+ 
+ 
 =begin
 <dl>
   <dt>id</dt>
@@ -158,7 +213,9 @@ offset: 0
 
 =end
 
-  def inscription( id )
+  def inscription( num_or_id )
+    id =  num_or_id.is_a?( Integer ) ? _num_to_id( num_or_id ) : num_or_id 
+
     src = "#{@base}/#{@inscription}/#{id}"
     res = get( src )
 
@@ -218,10 +275,19 @@ offset: 0
 
 
   def get( src )
+    @requests += 1
+
+    if @requests > 1 && config.delay_in_s
+      puts "request no. #{@requests}@#{@base}; sleeping #{config.delay_in_s} sec(s)..."
+      sleep( config.delay_in_s )
+    end
+
     res = Webclient.get( src )
+ 
     if res.status.ok?
       res
     else
+      ## todo/fix: raise exception here!!!!
       puts "!! ERROR - HTTP #{res.status.code} #{res.status.message} - failed web request >#{src}<; sorry"
       exit 1
     end

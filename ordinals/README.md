@@ -13,12 +13,15 @@ ordinals gem - ordinals (inscription) api wrapper & helpers for Bitcoin, Litcoin
 
 
 For now ordinal inscription api queries are supported on
-- Bitcoin  (via <https://ordinals.com>)
-- Litecoin (via <https://ordinalslite.com>) and
+- Bitcoin  (via <https://ordinals.com>) and
+- Litecoin (via <https://ordinalslite.com>) 
+
+<!--
+  chekc if doginals still in operation???
 - Dogecoin (via <https://doginals.com>)
+-->
 
-
-Let's start querying for bitcoin (btc) ordinal inscriptions:
+Let's start querying for bitcoin (btc) ordinal inscriptions by id:
 
 ``` ruby
 require 'ordinals'
@@ -56,6 +59,38 @@ pp data
 ```
 
 
+Or by number (starting at 0):
+
+``` ruby
+data = Ordinals.inscription( 21_000_000 )
+pp data
+# GET https://ordinals.com/inscription/4825a59486fa91ee88b6dd58caf0f9ba0f7273e2f30d9eccf9bfdabee55028d2i0...
+#=> {"title"=>"Inscription 21000000",
+#    "id"=>"4825a59486fa91ee88b6dd58caf0f9ba0f7273e2f30d9eccf9bfdabee55028d2i0",
+#    "address"=>"bc1qq7dx8c9842jm6kf4gn83mft07jqtvye0gm5sq9",
+#    "output-value"=>"330",
+#    "sat"=>"1894095647358032",
+#    "content-length"=>"57 bytes",
+#    "content-type"=>"text/plain",
+#    "timestamp"=>"2023-08-02 11:00:22 UTC",
+#    "genesis-height"=>"801343",
+#    "genesis-fee"=>"842",
+#    "genesis-transaction"=>"4825a59486fa91ee88b6dd58caf0f9ba0f7273e2f30d9eccf9bfdabee55028d2",
+#    "location"=>"4825a59486fa91ee88b6dd58caf0f9ba0f7273e2f30d9eccf9bfdabee55028d2:0:0",
+#    "output"=>"4825a59486fa91ee88b6dd58caf0f9ba0f7273e2f30d9eccf9bfdabee55028d2:0",
+#    "offset"=>"0"}
+
+content = Ordinals.content( 21_000_000 )
+pp content
+# GET https://ordinals.com/content/4825a59486fa91ee88b6dd58caf0f9ba0f7273e2f30d9eccf9bfdabee55028d2i0...
+#=> <Ordinals::Api::Content:0x0000028bd4c1ff18
+#     @data="{\"p\":\"brc-20\",\"op\":\"mint\",\"tick\":\"sats\",\"amt\":\"99999999\"}",
+#     @length=nil,
+#     @type="text/plain">
+```
+
+
+
 Let's try querying for litecoin (ltc) ordinal inscriptions:
 
 ``` ruby
@@ -90,6 +125,33 @@ pp data
 #    "genesis-transaction"=>"f2b6adf7b2d0f128fb14817ff37f5f36e9176b17571e20c49871875553f937b4",
 #    "location"=>"6802c71b49f18aab91d0b363762b24afb1bf00c4820a5f782de6dd1b1cfbd68a:0:0",
 #    "output"=>"6802c71b49f18aab91d0b363762b24afb1bf00c4820a5f782de6dd1b1cfbd68a:0",
+#    "offset"=>"0"}
+
+
+content = Ordinals.content( 0 )
+pp content
+# GET https://ordinalslite.com/content/71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0eei0...
+#=> <Ordinals::Api::Content:0x00000242a9a874e0
+#     @data="%PDF-1.3\...",
+#     @length=nil,
+#     @type="application/pdf">
+
+data = Ordinals.inscription( 0 )
+pp data
+# GET https://ordinalslite.com/inscription/71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0eei0...
+#=> {"title"=>"Inscription 0",
+#    "id"=>"71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0eei0",
+#    "address"=>"ltc1qz7qy4m8nhfqggxrtj308njs52lu9f5l9v7d5wd",
+#    "output-value"=>"10000",
+#    "sat"=>"906691404536244",
+#    "content-length"=>"57237 bytes",
+#    "content-type"=>"application/pdf",
+#    "timestamp"=>"2023-02-19 20:26:43 UTC",
+#    "genesis-height"=>"2425370",
+#    "genesis-fee"=>"15968",
+#    "genesis-transaction"=>"71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0ee",
+#    "location"=>"71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0ee:0:0",
+#    "output"=>"71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0ee:0",
 #    "offset"=>"0"}
 ```
 
@@ -349,7 +411,7 @@ Use it as you please with no restrictions whatsoever.
 ## Questions? Comments?
 
 Join us in the [Ordgen / ORC-721 discord (chat server)](https://discord.gg/dDhvHKjm2t). Yes you can.
-Your questions and commetary welcome.
+Your questions and commentary welcome.
 
 
 Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.

@@ -6,8 +6,6 @@ class Cache
 def initialize( dir )
   @dir   = dir   
   @force = false
-  @delay_in_s = 0.5  ## wait 0.5s before next (possible) request
-  @requests = 0
 end
 
 
@@ -56,7 +54,6 @@ def add( id )
       print "."
    else
       print " meta-#{id} "
-      sleep( @delay_in_s )   if @delay_in_s && @requests > 0 
  
       ## fetch and cache in cache
       meta = Ordinals.inscription( id )
@@ -64,7 +61,6 @@ def add( id )
       meta_txt = json_to_txt( meta )
       
       write_text( meta_path, meta_txt )
-      @requests += 1
    end
       
       
@@ -88,7 +84,6 @@ def add( id )
        print "."
    else
        print " blob-#{id} "
-       sleep( @delay_in_s )   if @delay_in_s && @requests > 0 
        
        ## note: save text as blob - byte-by-byte as is  (might be corrupt text)
        content = Ordinals.content( id )
