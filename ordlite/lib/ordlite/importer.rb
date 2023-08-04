@@ -6,11 +6,6 @@ class Importer
    Collection =  Model::Collection 
 
 
-def initialize
-   @requests   = 0   ## count number of ordinals.com api requests
-   @delay_in_s = 1   ## use 1 sec (for now)
-end
-
 
 def import_collection_csv( path,
                                 name:,
@@ -148,9 +143,7 @@ def _import( id, content: true )
    if inscribe  ## already in db; dump record
      ## pp inscribe
    else         ## fetch via ordinals.com api and update db
-      sleep( @delay_in_s )   if @delay_in_s && @requests > 0   ## delay in seconds (before next request) 
       data = Ordinals.inscription( id )
-      @requests += 1
 
       pp data
       Inscribe.create_from_api( data )
@@ -161,9 +154,7 @@ def _import( id, content: true )
      blob = Blob.find_by( id: id )
      if blob    ## already in db; do nothing
      else       ## fetch via ordinals.com api and update db
-        sleep( @delay_in_s )   if @delay_in_s && @requests > 0   ## delay in seconds (before next request) 
         content = Ordinals.content( id )
-        @requests += 1
 
         puts "  content-type: #{content.type}"
         puts "  content-length: #{content.length}"

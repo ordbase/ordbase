@@ -13,6 +13,11 @@ To be continued...
 
 
 
+## Bonus - Programming (Litecoin) Ordinals
+
+- [Sub 1k - Inside The First Thousand Ordinal (Litecoin) Inscriptions](ltc_sub1k.md)
+
+
 ## Questions? Comments?
 
 Join us in the [Ordgen / ORC-721 discord (chat server)](https://discord.gg/dDhvHKjm2t). Yes you can.

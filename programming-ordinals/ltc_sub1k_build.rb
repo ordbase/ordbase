@@ -1,5 +1,5 @@
 #####
-#  build  ordsub1k.db  (sqlite database with first thousand ordinal inscriptions)
+#  build  ordsub1k.ltc.db  (sqlite database with first thousand ordinal inscriptions in litecoin/ltc)
 
 $LOAD_PATH.unshift( "../ordinals/lib" )
 $LOAD_PATH.unshift( "../ordlite/lib" )
@@ -9,7 +9,7 @@ require 'ordlite'
 
 
 
-OrdDb.open( './ordsub1k.db' )
+OrdDb.open( './ordsub1k.ltc.db' )
 
 
 puts
@@ -19,7 +19,8 @@ puts "  #{Blob.count} blob(s)"
 #=>   0 blob(s)
 
 
-OrdDb.import_csv( "./meta/sub1k_inscriptions.csv" )
+Ordinals.chain = :ltc 
+OrdDb.import_csv( "./meta/sub1k_inscriptions.ltc.csv" )
 
 puts
 puts "  #{Inscribe.count} inscribe(s)"
