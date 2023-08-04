@@ -180,6 +180,151 @@ resulting in:
 ```
 
 
+Let's query for the genesis inscription no. 0 - the mimble wimble whitepaper (6 pages) 
+by Tom Elvis Jedusor: 
+
+``` ruby
+## get mimble wimble whitpaper (no. 0) pdf document
+inscribe = Inscribe.find_by( num: 0 )
+write_blob( "./mimblewimble.pdf", inscribe.content )
+```
+
+
+Yes, you can. Learn more about confidental / private transactions with Mimble Wimble:
+- [mimblewimble.pdf (56 kb)](https://ordbase.github.io/ordbase/mimblewimble.pdf)
+
+Litecoin triva: Did you know? In May 2022, the Mimblewimble Extension Blocks (MWEB)
+upgrade was activated on the Litecoin network as a soft fork - 
+providing users with the option of sending confidential / private transactions where the amount sent is only known between the sender and receiver.
+
+
+
+Let's try to curate some sub1k image collections.
+
+
+Let's save all pepelangelo .JPGs in the collection for easy access
+using `pepelangelo1.png`, `pepelangelo2.png`, `pepelangelo3.png` up to 
+`pepelangelo44.png`.  
+
+
+```ruby
+nums = [
+  207, 208, 209,
+  210, 211, 212, 213, 214, 215, 216, 217, 218, 219,
+  220, 221, 222, 223, 224, 225, 226, 227, 228,
+  236, 237, 238, 239,
+  240, 241, 242, 243, 244, 245, 246, 247, 248, 249,
+  250, 251, 252, 253, 254, 255, 256, 257
+]
+
+puts "  #{nums.size} pepelangelo(s)"
+#=> 44 pepelangelo(s) 
+
+nums.each_with_index do |num, i|
+  inscribe = Inscribe.find_by( num: num )
+  write_blob( "./pepelangelo#{i+1}.jpg", inscribe.content )
+end   
+```
+
+resulting in:
+
+![](i/pepelangelo1.png)
+![](i/pepelangelo2.png)
+![](i/pepelangelo3.png)
+![](i/pepelangelo4.png)
+
+...
+
+
+Let's save all (ordinal?) punk .PNGs in the collection for easy access
+using `punk1.png`, `punk2.png`, `punk3.png` up to 
+`punk100.png`.  
+
+```ruby
+nums = [
+    458, 459, 
+    460, 461, 462, 463, 464, 465, 466, 467, 468, 469,
+    470, 471, 472, 473, 474, 475, 476, 477, 478, 
+    487, 488, 489, 
+    490, 491, 492, 493, 494, 495, 496, 497, 498, 499,
+    500, 501, 502, 503, 504, 505, 506, 507, 508, 509,
+    510, 511, 512, 513, 514, 515, 516, 517, 518, 519,
+    520, 521, 522, 523, 
+    531, 532, 533, 534, 535, 536, 537, 538, 539,
+    540, 541, 542, 548, 549, 
+    550, 551, 552, 553, 554, 555, 556, 557, 558, 559,
+    560, 561, 562, 563, 564, 565, 566, 567, 568, 569,
+    570, 571, 
+    580, 581, 582, 583, 584, 585,  
+]
+
+puts "  #{nums.size} punk(s)"
+#=>  100 punk(s) 
+
+
+nums.each_with_index do |num, i|
+    inscribe = Inscribe.find_by( num: num )
+    write_blob( "./punk#{i+1}.png", inscribe.content )
+end   
+```
+
+resulting in:
+
+![](i/punk1.png)
+![](i/punk2.png)
+![](i/punk3.png)
+![](i/punk4.png)
+
+...
+
+
+Bonus: Let's generate an all-in-one fam composite in 1x and 4x.
+
+```ruby
+require 'pixelart'
+
+composite = ImageComposite.new( 10, 10, width: 24,
+                                        height: 24 )
+
+
+nums = [
+    458, 459, 
+    460, 461, 462, 463, 464, 465, 466, 467, 468, 469,
+    470, 471, 472, 473, 474, 475, 476, 477, 478, 
+    487, 488, 489, 
+    490, 491, 492, 493, 494, 495, 496, 497, 498, 499,
+    500, 501, 502, 503, 504, 505, 506, 507, 508, 509,
+    510, 511, 512, 513, 514, 515, 516, 517, 518, 519,
+    520, 521, 522, 523, 
+    531, 532, 533, 534, 535, 536, 537, 538, 539,
+    540, 541, 542, 548, 549, 
+    550, 551, 552, 553, 554, 555, 556, 557, 558, 559,
+    560, 561, 562, 563, 564, 565, 566, 567, 568, 569,
+    570, 571, 
+    580, 581, 582, 583, 584, 585,  
+]
+
+nums.each_with_index do |num, i|
+    composite << Image.read( "./punk#{i+1}.png" ) 
+end
+
+composite.save( "./punks.png" )
+composite.zoom(4).save( "./punks@4x.png" )
+```
+
+
+resulting in:
+
+![](i/punks.png)
+
+in 4x
+
+![](i/punks@4x.png)
+
+
+
+
+
 Let's query for all text inscribes (with content type `text/plain;charset=utf-8`) 
 and print out the text:
 
@@ -247,24 +392,9 @@ litecoin
 Buy #Litecoin
 ```
 
+No quotes, cyber philosophy manifestos, collection manifests, or super sekretoo nuclear launch codes found in the text inscribes.
+See the bitcoin (btc) edition [Sub 1k - Inside the first thousand bitcoin ordinal inscripitons](sub1k.md) for more fun.
 
-
-Or let's query for the genesis inscription no. 0 - the mimble wimble whitepaper (6 pages) 
-by Tom Elvis Jedusor: 
-
-``` ruby
-## get mimble wimble whitpaper (no. 0) pdf document
-inscribe = Inscribe.find_by( num: 0 )
-write_blob( "./mimblewimble.pdf", inscribe.content )
-```
-
-
-Yes, you can. Learn more about confidental / private transactions with Mimble Wimble:
-- [mimblewimble.pdf (56 kb)](https://ordbase.github.io/ordbase/mimblewimble.pdf)
-
-Litecoin triva: Did you know? In May 2022, the Mimblewimble Extension Blocks (MWEB)
-upgrade was activated on the Litecoin network as a soft fork - 
-providing users with the option of sending confidential / private transactions where the amount sent is only known between the sender and receiver.
 
 
 
