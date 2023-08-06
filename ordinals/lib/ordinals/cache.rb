@@ -8,6 +8,12 @@ def initialize( dir )
   @force = false
 end
 
+##########
+## config helpers
+def force?() @force; end
+def force=(value) @force=value; end
+
+
 
 
 def json_to_txt( data )
