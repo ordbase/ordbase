@@ -9,7 +9,7 @@ require 'ordlite'
 OrdDb.setup_in_memory_db
 
 
-cache =  OrdDb::Cache.new( '../../ordinals.cache/btc' )
+cache =  Ordinals::Cache.new( '../../ordinals.cache/inscription' )
 
 cache.import_all
 

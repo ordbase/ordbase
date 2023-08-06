@@ -5,8 +5,6 @@
 require 'ordlite'
 require 'ordinals'
 
-OrdDb.connect( adapter:  'sqlite3',
-               database: './ord.db' )
 
 
 
@@ -134,31 +132,9 @@ ids = [
 
 
 
-ids.each do |id|
-  inscribe = Inscribe.find_by( id: id )
-  if inscribe
-    pp inscribe
-  else
-     ## fetch via ordinals.com api and update db
-     puts "==> fetching inscribe #{id} ..."
-     data = Ordinals.inscription( id )
-     pp data
-     Inscribe.create_from_api( data )
+OrdDb.open( './ord.db' )
 
-     sleep( 0.5 ) 
-
-     content = Ordinals.content( id )
-     pp content
-     #=> #<Ordinals::Api::Content:0x000001a1352df938
-     #      @data="RIFF\xF8\v\x00\x00WEBPVP8 \xEC\v\x00\x00...",
-     #      @length=3072,
-     #      @type="image/png"
-
-     Blob.create( id: id, content: content.data )
-
-     sleep( 0.5 )
-  end
-end
+OrdDb.import( ids )
 
 
 puts "bye"

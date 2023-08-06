@@ -175,6 +175,11 @@ def self.importer   ## "default" importer
    @importer ||= Importer.new 
 end
 
+def self.import( id_or_ids, content: true )
+   importer.import( id_or_ids, content: content )
+end
+
+
 def self.import_csv( path, content: true )
    importer.import_csv( path, content: content )
 end
