@@ -16,27 +16,6 @@ puts "  #{Blob.count} blob(s)"
 #=>   1000 inscribe(s)
 #=>   1000 blob(s)
 
-
-##
-# export all (sub1k) pepelangelo images
-
-nums = [
-  207, 208, 209,
-  210, 211, 212, 213, 214, 215, 216, 217, 218, 219,
-  220, 221, 222, 223, 224, 225, 226, 227, 228,
-  236, 237, 238, 239,
-  240, 241, 242, 243, 244, 245, 246, 247, 248, 249,
-  250, 251, 252, 253, 254, 255, 256, 257
-]
-
-puts "  #{nums.size} pepelangelo(s)"
-#=> 44 pepelangelo(s) 
-
-nums.each_with_index do |num, i|
-  inscribe = Inscribe.find_by( num: num )
-  # write_blob( "./i/pepelangelo#{i+1}.jpg", inscribe.content )
-end   
-
 ##
 # export all (sub1k) (ordinal?) punk images
 
@@ -65,17 +44,45 @@ puts "  #{nums.size} punk(s)"
 nums.each_with_index do |num, i|
     inscribe = Inscribe.find_by( num: num )
     write_blob( "./i/punk#{i+1}.png", inscribe.content )
+    write_blob( "./tmp3/punk#{num}.png", inscribe.content )
 end   
 
 composite = ImageComposite.new( 10, 10, width: 24,
                                         height: 24 )
 
-nums.each_with_index do |num, i|
+100.times do |i|
     composite << Image.read( "./i/punk#{i+1}.png" ) 
 end
 
 composite.save( "./i/punks.png" )
 composite.zoom(4).save( "./i/punks@4x.png" )
+
+
+##
+# reshuffle matching bitcoin ordinal punks order
+#
+nums = [
+    461, 459, 462, 458, 460, 464, 465, 463, 467, 466,
+    476, 470, 475, 472, 478, 474, 469, 473, 477, 471, 
+    468, 497, 496, 491, 488, 495, 490, 489, 487, 493,
+    492, 494, 499, 498, 511, 507, 509, 506, 500, 508,                                   
+    503, 504, 502, 501, 505, 510, 521, 522, 513, 512,                                          
+    514, 515, 517, 518, 523, 520, 516, 519, 531, 533,                                             
+    541, 536, 542, 539, 538, 532, 534, 537, 535, 540,                                             
+    551, 556, 549, 554, 552, 555, 557, 550, 558, 559,                                         
+    553, 548, 563, 566, 560, 562, 567, 571, 561, 570,             
+    565, 569, 568, 564, 585, 580, 584, 582, 581, 583,
+]
+
+composite = ImageComposite.new( 10, 10, width: 24,
+                                        height: 24 )
+
+nums.each do |num|
+    composite << Image.read( "./tmp3/punk#{num}.png" ) 
+end
+
+composite.save( "./tmp3/punks.png" )
+composite.zoom(4).save( "./tmp3/punks@4x.png" )
 
 
 puts "bye"
