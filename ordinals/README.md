@@ -22,6 +22,10 @@ For now ordinal inscription api queries are supported on
 - Dogecoin (via <https://doginals.com>)
 -->
 
+
+
+### Bitcoin (BTC) Ordinal Inscriptions
+
 Let's start querying for bitcoin (btc) ordinal inscriptions by id:
 
 ``` ruby
@@ -96,6 +100,9 @@ Free (Online) Programming (Bitcoin) Ordinals - Step-by-Step Book(let) / Guide.
 
 
 
+### Litecoin (LTC) Ordinal Inscriptions
+
+
 Let's try querying for litecoin (ltc) ordinal inscriptions:
 
 ``` ruby
@@ -166,8 +173,10 @@ Free (Online) Programming (Litecoin) Ordinals - Step-by-Step Book(let) / Guide.
 
 
 
+### Dogecoin (DOGE) Doginal Shibescriptions
 
-Let's try querying for dogecoin (doge) ordinal shibescriptions:
+
+Let's try querying for dogecoin (doge) doginal shibescriptions:
 
 ``` ruby
 Ordinals.chain = :doge
