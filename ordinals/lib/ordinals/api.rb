@@ -19,7 +19,9 @@ class Api   ## change/rename Api to Client - why? why not?
   def self.dogecoin
     ## note: "doginals" call inscriptions
     ##                     shibescriptions
-    @dogecoin ||= new( 'https://doginals.com', inscription: 'shibescription' )
+    ##
+    ##  note: https://doginals.com no longer in operation / working
+    @dogecoin ||= new( 'https://wonky-ord.dogeord.io', inscription: 'shibescription' )
     @dogecoin
   end
 
@@ -29,8 +31,16 @@ class Api   ## change/rename Api to Client - why? why not?
   def initialize( base, inscription: 'inscription' )
     @base          = base
     @inscription   = inscription
+
+    ## e.g. inscriptions or shibescriptions (dogecoin)
+    @inscriptions  = "#{@inscription}s"
+ 
     @requests      = 0  ## count requests (for delay_in_s sleeping/throttling)
     @pages = {}   ## (0-)99, (100-)199, (200-)299 etc.  
+
+    @inscribe_id_rx = %r{
+      (#{@inscription})/(?<id>[a-fi0-9]+)
+     }ix
   end
 
 
@@ -72,19 +82,15 @@ end  ## (nested) class Content
   end
 
 
-  INSCRIBE_ID_RX = %r{
-    inscription/(?<id>[a-fi0-9]+)
-   }ix
-
 
   def inscription_ids( offset: )  ## note: page size is for now fixed 100
     ids = []
 
-    src = "#{@base}/inscriptions/#{offset}"
+    src = "#{@base}/#{@inscriptions}/#{offset}"
     res = get( src )
 
     page = res.text  ### assumes utf-8 for now
-    page.scan( INSCRIBE_ID_RX ) do |_|
+    page.scan( @inscribe_id_rx ) do |_|
       m = Regexp.last_match
       ids << m[:id]
     end       
@@ -93,19 +99,28 @@ end  ## (nested) class Content
     ids
   end
 
-  def sub10k_ids
+  def _batch_inscription_ids( batch )
     ids = []
     limit  = 100
 
-    100.times do |i|   ## fetch first hundred (100*100=10000) inscribe ids
+    batch.times do |i|   
       offset = 99 + limit*i
+
       puts "==> #{i} - @ #{offset}..."
-      ids += inscription_ids( offset: offset )
+      ## auto-add to page cache - why? why not?
+      ids += (@pages[ offset ] ||= inscription_ids( offset: offset ))      
     end
     puts "   #{ids.size} inscribe id(s) - total"
     ids
   end
 
+  ## convenience sub1k & frens clubs / helpers
+  def sub1k_ids()   _batch_inscription_ids( 10 ); end
+  def sub2k_ids()   _batch_inscription_ids( 20 ); end
+  def sub5k_ids()   _batch_inscription_ids( 50 ); end
+  def sub10k_ids()  _batch_inscription_ids( 100 ); end
+  def sub20k_ids()  _batch_inscription_ids( 200 ); end
+ 
   
   def _num_to_id( num )
     limit = 100

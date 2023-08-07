@@ -15,6 +15,7 @@ ordinals gem - ordinals (inscription) api wrapper & helpers for Bitcoin, Litcoin
 For now ordinal inscription api queries are supported on
 - Bitcoin  (via <https://ordinals.com>) and
 - Litecoin (via <https://ordinalslite.com>) 
+- Dogecoin (via <https://wonky-ord.dogeord.io>)
 
 <!--
   chekc if doginals still in operation???
@@ -90,6 +91,10 @@ pp content
 ```
 
 
+Tip:  See [**Sub 1k - Inside The First Thousand (Bitcoin) Ordinal Inscriptions**](https://github.com/ordbase/ordbase/blob/master/programming-ordinals/sub1k.md) in the 
+Free (Online) Programming (Bitcoin) Ordinals - Step-by-Step Book(let) / Guide.
+
+
 
 Let's try querying for litecoin (ltc) ordinal inscriptions:
 
@@ -154,6 +159,71 @@ pp data
 #    "output"=>"71e0f6dc87a473aa69787fff8e09e5eddfdca96e587928a5b1a25c0ae16dc0ee:0",
 #    "offset"=>"0"}
 ```
+
+
+Tip:  See [**Sub 1k - Inside The First Thousand (Litecoin) Ordinal Inscriptions**](https://github.com/ordbase/ordbase/blob/master/programming-ordinals/ltc_sub1k.md) in the 
+Free (Online) Programming (Litecoin) Ordinals - Step-by-Step Book(let) / Guide.
+
+
+
+
+Let's try querying for dogecoin (doge) ordinal shibescriptions:
+
+``` ruby
+Ordinals.chain = :doge
+
+id = '8f7219639800fdddd510f35bcda52471828ded43753b1d2a42f2a054d006edd8i0'
+data = Ordinals.inscription( id )
+pp data
+# GET https://wonky-ord.dogeord.io/shibescription/8f7219639800fdddd510f35bcda52471828ded43753b1d2a42f2a054d006edd8i0...
+#=> {"title"=>"Shibescription 35",
+#    "id"=>"8f7219639800fdddd510f35bcda52471828ded43753b1d2a42f2a054d006edd8i0",
+#    "address"=>"D6tMqX2ZrjNunNfohgQPGLT9XpUCN56Zyj",
+#    "output-value"=>"100000",
+#    "content-length"=>"1077 bytes",
+#    "content-type"=>"image/png",
+#    "timestamp"=>"2023-02-24 09:23:06 UTC",
+#    "genesis-height"=>"4609819",
+#    "genesis-fee"=>"34200000",
+#    "genesis-transaction"=>"8f7219639800fdddd510f35bcda52471828ded43753b1d2a42f2a054d006edd8",
+#    "location"=>"8f7219639800fdddd510f35bcda52471828ded43753b1d2a42f2a054d006edd8:0:0",
+#    "output"=>"8f7219639800fdddd510f35bcda52471828ded43753b1d2a42f2a054d006edd8:0",
+#    "offset"=>"0"}
+
+content = Ordinals.content( id )
+pp content
+# GET https://wonky-ord.dogeord.io/content/8f7219639800fdddd510f35bcda52471828ded43753b1d2a42f2a054d006edd8i0...
+#=> #<Ordinals::Api::Content:0x000001cced0740e8
+#     @data="\x89PNG\r\n\x1A\n\x00\x00\x00...",
+#     @length=1077,
+#     @type="image/png">
+
+data = Ordinals.inscription( 0 )
+pp data
+# GET https://wonky-ord.dogeord.io/shibescription/15f3b73df7e5c072becb1d84191843ba080734805addfccb650929719080f62ei0...
+#=> {"title"=>"Shibescription 0",
+#    "id"=>"15f3b73df7e5c072becb1d84191843ba080734805addfccb650929719080f62ei0",
+#    "address"=>"DCagMX5GccdpaBFJwDqmPcCaNqSzXtYoVf",
+#    "output-value"=>"100000",
+#    "content-length"=>"1461 bytes",
+#    "content-type"=>"image/png",
+#    "timestamp"=>"2023-02-24 07:45:34 UTC",
+#    "genesis-height"=>"4609723",
+#    "genesis-fee"=>"34200000",
+#    "genesis-transaction"=>"15f3b73df7e5c072becb1d84191843ba080734805addfccb650929719080f62e",
+#    "location"=>"15f3b73df7e5c072becb1d84191843ba080734805addfccb650929719080f62e:0:0",
+#    "output"=>"15f3b73df7e5c072becb1d84191843ba080734805addfccb650929719080f62e:0",
+#    "offset"=>"0"}
+
+content = Ordinals.content( 0 )
+pp content
+# GET https://wonky-ord.dogeord.io/content/15f3b73df7e5c072becb1d84191843ba080734805addfccb650929719080f62ei0...
+#=> #<Ordinals::Api::Content:0x000001cceda012a0
+#     @data="\x89PNG\r\n\x1A\n\x00\x00...",
+#     @length=1461,
+#     @type="image/png">
+```
+
 
 That's it.
 
