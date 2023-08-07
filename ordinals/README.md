@@ -13,15 +13,19 @@ ordinals gem - ordinals (inscription) api wrapper & helpers for Bitcoin, Litcoin
 
 
 For now ordinal inscription api queries are supported on
-- Bitcoin  (via <https://ordinals.com> - source <https://github.com/ordinals/ord>) and
-- Litecoin (via <https://ordinalslite.com> - source <???>) 
-- Dogecoin (via <https://wonky-ord.dogeord.io> - source <https://github.com/verydogelabs/wonky-ord-dogecoin>)
+- Bitcoin  (via <https://ordinals.com>) and
+- Litecoin (via <https://ordinalslite.com>) and 
+- Dogecoin (via <https://wonky-ord.dogeord.io>)
 
 <!--
-  chekc if doginals still in operation???
-- Dogecoin (via <https://doginals.com>)
--->
+  check if doginals still in operation???
+ - Dogecoin (via <https://doginals.com>)
 
+ ord client sources
+ - bitcoin ->  <https://github.com/ordinals/ord>
+ - litecoin -> <https://github.com/ynohtna92/ord-litecoin>
+ - dogecoin -> <https://github.com/verydogelabs/wonky-ord-dogecoin>
+-->
 
 
 ### Bitcoin (BTC) Ordinal Inscriptions
