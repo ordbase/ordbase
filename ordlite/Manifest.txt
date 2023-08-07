@@ -5,6 +5,7 @@ Rakefile
 lib/ordlite.rb
 lib/ordlite/base.rb
 lib/ordlite/cache.rb
+lib/ordlite/factory.rb
 lib/ordlite/importer.rb
 lib/ordlite/models/blob.rb
 lib/ordlite/models/collection.rb

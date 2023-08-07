@@ -134,5 +134,13 @@ module OrdDb
 end  # module OrdDb
 
 
+
+####
+# add factory (ordgen/orc-721) support here for now - why? why not?
+require 'pixelart'
+require_relative 'factory'
+
+
+
 # say hello
 puts Ordlite.banner     ## if defined?($RUBYCOCOS_DEBUG) && $RUBCOCOS_DEBUG
