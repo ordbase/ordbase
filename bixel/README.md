@@ -67,8 +67,9 @@ Bonus:  Let's define a ready-to-use Bixel Image class.
 
 ```ruby
 module Bixel
-  # 7x7 canvas (49 pixels)
-  #   10 colors (0-9)
+  # 7x7 canvas (49 pixels) -  10 colors (0-9)
+  WIDTH  = 7
+  HEIGHT = 7      
   COLORS = {
         '0': '#434a41', 
         '1': '#689579', 
@@ -80,12 +81,12 @@ module Bixel
         '7': '#da4c27', 
         '8': '#dac8c6', 
         '9': '#547d8e'
-  }          
+  }    
   class Image < Pixelart::Image
      def self.parse( pixels )
         super( pixels, colors: COLORS, 
-                       width: 7,
-                       height: 7)
+                       width:  WIDTH,
+                       height: HEIGHT)
      end
   end # class Image
 end # module Bixel
@@ -108,6 +109,103 @@ in 8x
 
 ![](i/bixel1@8x.png)
 
+
+
+## V2 / Chapter 2   - 10x10 canvas / 21 colors
+
+- 10x10 canvas (=100 pixels)
+- 21 colors (A-U)
+  - A => #88b2c4
+  - B => #547d8e
+  - C => #dac8c6
+  - D => #7c7587
+  - E => #e3a18d
+  - F => #da4c27
+  - G => #f1b31f
+  - H => #e99248
+  - I => #87c687
+  - J => #529055
+  - K => #a08454
+  - L => #966946
+  - M => #e7debf
+  - N => #afa78a
+  - O => #d2fae0
+  - P => #f7e382
+  - Q => #9aaf89
+  - R => #e5cc7c
+  - S => #fff
+  - T => #d7e5e5
+  - U => #000
+
+
+
+Example - .biixel (at inscribe no. 22237694)
+
+```
+UGGLBBBBBLUHGHLBBBLHBLHGHLBBHGBBLHGGGGGHBBLGGGGGGGDDHSUGGGSUDGHUUGGGUUDFFGGGLGGGDFFHGLHLGHDDLHHHHHHH.biixel 
+```
+
+
+Let's use the pixelart machinery to generate the (bitmap) image 
+from the paint by letter spec.
+
+Step 1 - let's define a read-to-use Biixel Image class:
+
+``` ruby
+module Biixel    
+  # 10x10 canvas (100 pixels) - 21 colors (A-U)
+  WIDTH  = 10
+  HEIGHT = 10
+  COLORS = {
+    A: '#88b2c4',
+    B: '#547d8e',
+    C: '#dac8c6', 
+    D: '#7c7587',
+    E: '#e3a18d', 
+    F: '#da4c27',
+    G: '#f1b31f',
+    H: '#e99248',
+    I: '#87c687', 
+    J: '#529055',
+    K: '#a08454', 
+    L: '#966946',
+    M: '#e7debf', 
+    N: '#afa78a',
+    O: '#d2fae0', 
+    P: '#f7e382',
+    Q: '#9aaf89', 
+    R: '#e5cc7c',
+    S: '#fff',
+    T: '#d7e5e5',
+    U: '#000' }
+
+  class Image < Pixelart::Image
+    def self.parse( pixels )
+      super( pixels, colors: COLORS, 
+                     width:  WIDTH,
+                     height: HEIGHT)
+    end
+  end # class Image
+end  # module Biixel
+```
+
+
+and step 2 - let's generate the bitmap image / parse the spec:
+
+```ruby
+img = Biixel::Image.parse( 'UGGLBBBBBLUHGHLBBBLHBLHGHLBBHGBBLHGGGGGHBBLGGGGGGGDDHSUGGGSUDGHUUGGGUUDFFGGGLGGGDFFHGLHLGHDDLHHHHHHH' )
+img.save( "./biixel1.png" )
+img.zoom(8).save( "./biixel1@8x.png" )
+
+```
+
+Voila!
+
+![](i/biixel1.png)
+
+in 8x
+
+![](i/biixel1@8x.png)
 
 
 
