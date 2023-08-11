@@ -189,7 +189,7 @@ in 8x
 
 Let's try some more.
 [Search for .bixel](https://unisat.io/search?q=bixel&type=text) via unisat 
-or [search for .biixel](https://unisat.io/search?q=biixel&type=text) via unisat.
+or [search for .biixel](https://unisat.io/search?q=biixel&type=text).
 
 
 
@@ -228,7 +228,7 @@ resulting in:
 
 
 ![](i/bixel32.png)
-![](i/bixe43.png)
+![](i/bixel43.png)
 ![](i/bixel50.png)
 ![](i/bixel86.png)
 ![](i/bixel90.png)
@@ -241,7 +241,7 @@ resulting in:
 in 8x
 
 ![](i/bixel32@8x.png)
-![](i/bixe43@8x.png)
+![](i/bixel43@8x.png)
 ![](i/bixel50@8x.png)
 ![](i/bixel86@8x.png)
 ![](i/bixel90@8x.png)
