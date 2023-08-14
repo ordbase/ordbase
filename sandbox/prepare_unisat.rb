@@ -1,36 +1,60 @@
 require 'cocos'
+require 'nokogiri'
+
+
+def parse_page( html )
+  doc = Nokogiri::HTML( html )
+
+  items = []
+
+
+  sats = doc.css( '.item-container' )
+  sats.each_with_index do |el,i|
+    puts "==> sat ##{i+1}..."
+
+    h = {}
+#    <a href="https://ordinals.com/inscription/
+#    9613d44f53a1245bf34f43820163bb3064a5715c19f0d6c767a14d1b49f46614i0" 
+#    target="_blank" rel="noreferrer" class="sats-item  ">
+    a = el.at( 'a.sats-item' )
+    h['href'] = a['href']
+
+    name = el.at( '.name' )
+    h['name'] = name.text
+
+    num = el.at( '.num' )
+    h['num'] = num.text
+
+    address = el.at( '.address' )
+    h['address'] = address.text
+
+    date = el.at( '.date' )
+    h['date'] = date.text
+    pp h
+    items << h
+  end
+
+
+  items
+end
 
 
 
 ## todo/
 ##   filter out unconfirmed - why? why not?
 
-paths = Dir.glob( "./tmp/unisat/biixel/*.html" )
+paths = Dir.glob( "./tmp/unisat2/biixel/*.html" )
 puts "   #{paths.size} page(s)"
 
-
-INSCRIBE_ID_RX = %r{
-                  inscription/(?<id>[a-fi0-9]+)
-                 }ix
-
-
-ids = []
 paths.each do |path|
   txt = read_text( path )
-  txt.scan( INSCRIBE_ID_RX ) do |_|
-    m = Regexp.last_match
-  
-    ids  << m[:id]
-  end
-  puts "   #{ids.size} inscribe(s)"
+
+  data = parse_page( txt )
+  puts "   #{data.size} inscribe(s)"
+
+  basename = File.basename( path, File.extname( path ))
+  write_json( "./tmp/unisat/biixel/#{basename}.json" , data )
 end
-ids = ids.uniq
-puts "   #{ids.size} inscribe(s) - total / uniq"
-
-
-buf = "id\n"
-ids.each { |id| buf << "#{id}\n" }
-write_text( "./tmp/unisat/biixel.csv", buf )
 
 
 puts "bye"

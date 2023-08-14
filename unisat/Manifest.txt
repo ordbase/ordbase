@@ -1,0 +1,7 @@
+CHANGELOG.md
+Manifest.txt
+README.md
+Rakefile
+lib/unisat.rb
+lib/unisat/cache.rb
+lib/unisat/version.rb
