@@ -40,6 +40,7 @@ def self.parse_page( html )
 end  # method _parse_page
   
 
+
 class Cache
   def initialize( dir )
     @dir = dir
@@ -57,35 +58,41 @@ class Cache
        results = read_json( path )
        puts "==> #{i+1}/#{paths.size} - #{results.size} inscribe(s) in >#{path}<..."
 
-       results.each do |h|
-           date = h['date']  # note: might include unconfirmed!!!
-          ##  always "auto-magically" filter out unconfirmed for now 
-          if date == 'unconfirmed'
-             puts "  !! INFO - skipping unconfirmed inscribe"
-             next
-          end
-
-          ## todo/fix:
-          ##  reformat date here/parse
-          ##   and change to iso e.g. 2023-12-24 17:18 or such - why? why not!!!!
-
-
-          ## id -- split href by / and get last part (is id)
-          id  = h['href'].split( '/')[-1] 
-          ## num -- remove/ strip leadingnumber sign (#)  
-          num = h['num'].sub( '#', '' )  
-          recs << { 
-             'id'      => id,
-             'num'     => num,
-             'date'    => date,
-             'address' => h['address'],
-             'text'    => h['name'],  ## change name to text
-          }
-       end
+       recs += _normalize( results )
       end
       puts "   #{recs.size} inscribe(s) - total"
       recs
   end # method read
+
+
+  def _normalize( results )
+     recs = []
+     results.each do |h|
+       date = h['date']  # note: might include unconfirmed!!!
+       ##  always "auto-magically" filter out unconfirmed for now 
+       if date == 'unconfirmed'
+          puts "  !! INFO - skipping unconfirmed inscribe"
+          next
+       end
+
+       ## todo/fix:
+       ##  reformat date here/parse
+       ##   and change to iso e.g. 2023-12-24 17:18 or such - why? why not!!!!
+
+       ## id -- split href by / and get last part (is id)
+       id  = h['href'].split( '/')[-1] 
+       ## num -- remove/ strip leadingnumber sign (#)  
+       num = h['num'].sub( '#', '' )  
+       recs << { 
+         'id'      => id,
+         'num'     => num,
+         'date'    => date,
+         'address' => h['address'],
+         'text'    => h['name'],  ## change name to text
+       }
+     end
+     recs
+  end
 
 
   def exist?( key, offset: )
@@ -93,16 +100,26 @@ class Cache
     File.exist?( outpath )
   end
 
+  def read_page( key, offset: )
+    outpath = "#{@dir}/#{key}/#{offset}.json"
+    results = read_json( outpath )
+    recs = _normalize( results )
+    recs
+  end
+
+
   def add_page( page, key, offset: )
-     data = Unisat.parse_page( page )
+     results = Unisat.parse_page( page )
 
      ## note: only write if results > 0
-     if data.size > 0
+     if results.size > 0
         outpath = "#{@dir}/#{key}/#{offset}.json"
-        write_json( outpath, data )   
+        write_json( outpath, results )  
      else
         puts "!! WARN - no results found in page #{offset} for key >#{key}<"
      end
+     recs = _normalize( results )
+     recs
   end
 end  # class Cache
 end   # module Unisat

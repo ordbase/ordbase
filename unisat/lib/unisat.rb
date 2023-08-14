@@ -40,28 +40,46 @@ def self.cache()  Unisat.cache; end
 ###
 # search
 def self.search( q, offset: 1, 
-                    limit: 1,
-                    force: false )
+                    force: false,
+                    limit: nil )
 
-   opts = {}
-   opts[:headless]        = false
-   opts[:executable_path] = chrome_path  if chrome_path   ## add only if set (default is nil)
+     browser = nil
+     page    = nil
+     recs    = []
 
-
-  ::Puppeteer.launch( **opts ) do |browser|
-
-    page = browser.new_page
+     print "==> searching >#{q}< starting at page #{offset}"
+     print " up to #{offset+limit-1} (#{limit} pages)"   if limit && limit > 1 
+     print ", force: true"  if force
+     print "...\n"
  
-    limit.times do |i|
+     page_recs = nil 
+     i = 0
+     loop do     
+      break  if limit && i >= limit                               
       count = offset+i
 
       page_url  = "https://unisat.io/search?q=#{q}&type=text&p=#{count}"
       print page_url
      
       ## check if already in cache
-      if force == false && cache.exist?( q, offset: count )
+      if force == false && cache.exist?( q, 
+                                         offset: count )
         print "...in cache\n"
+        page_recs = cache.read_page( q, offset: count )
+        recs += page_recs
+
+        break  if limit.nil? && page_recs.size < 32  ## check for auto-limit (if less than 32 recs)
+        i += 1
         next 
+      end
+
+      if browser.nil?    ## first page request? launch browser on demand
+        opts = {}
+        opts[:headless]        = false
+        opts[:executable_path] = chrome_path  if chrome_path   ## add only if set (default is nil)
+        
+        browser = ::Puppeteer.launch( **opts )    
+        page    = browser.new_page
       end
 
       print "... goto page ...\n"
@@ -77,16 +95,7 @@ def self.search( q, offset: 1,
       puts
       puts el.evaluate("el => el.innerText")
       #=> Searched for "biixel" among 3252336 records, found 1105 results.
-
- 
-      ## print pagination 
-      page.wait_for_selector('ul.ant-pagination')
-      el =  page.query_selector("ul.ant-pagination")
-      puts
-      puts el.evaluate("el => el.innerText")
-      #=> 1 ••• 32 33 34 35
-
-      
+       
       ## get search results (32 inscribes per page)
       page.wait_for_selector('div.sats-list')
       el =  page.query_selector("div.sats-list")
@@ -94,14 +103,32 @@ def self.search( q, offset: 1,
       html = el.evaluate("el => el.innerHTML")
       # puts
       # puts html
-   
-      cache.add_page( html, q, 
-                            offset: count )
+ 
+      ## print pagination 
+      ## note: only available if more than one page!!!
+      el =  page.query_selector("ul.ant-pagination")
+      if el
+        puts
+        puts el.evaluate("el => el.innerText")
+         #=> 1 ••• 32 33 34 35
+      end
+
+      page_recs = cache.add_page( html, q, 
+                                         offset: count )
+      recs += page_recs
+
+      break  if limit.nil? && page_recs.size < 32  ## check for auto-limit (if less than 32 recs)
+
+      i += 1
+    end  # loop
+
+    if browser 
+       puts "sleeping 2 secs before browser shutdown..."
+       sleep( 2 )
+       browser.close
     end
 
-    puts "sleeping 2 secs before shutdown..."
-    sleep( 2 )
-  end
+    recs
 end  # method search  
 end # module Puppeteer
 end # module Unisat

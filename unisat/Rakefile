@@ -5,7 +5,7 @@ Hoe.spec 'unisat' do
 
   self.version =  Unisat::VERSION
 
-  self.summary = "unisat - lite helpers for full-text search in bitcoin ordinal inscriptions powered by unisat.io"
+  self.summary = "unisat - unisat.io lite helpers for full-text search in bitcoin ordinal inscriptions"
   self.description = summary
 
   self.urls    = { home: 'https://github.com/ordbase/ordbase' }

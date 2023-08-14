@@ -12,7 +12,7 @@ CHROME_PATH = 'C:\Program Files\Google\Chrome\Application\chrome.exe'
 Unisat::Puppeteer.chrome_path = CHROME_PATH
 
 
-Unisat::Puppeteer.search( 'biixel', limit: 6 )  
-Unisat::Puppeteer.search( 'bixel', limit: 7 )  
+Unisat::Puppeteer.search( 'diyphunks' )  
+Unisat::Puppeteer.search( 'orangepixels' )  
 
 puts "bye"
