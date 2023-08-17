@@ -5,9 +5,16 @@
 
 - 7x7 canvas (=49 pixels)
 - 10 colors (0-9)
-  - 0 => #434a41, 1 => #689579, 2 => #cdd995, 3 => #e7debf, 
-    4 => #e5cc7c, 5 => #f1b31f, 6 => #e99248, 7 => #da4c27, 
-    8 => #dac8c6, 9 => #547d8e
+  - ![](i/color0.png) 0 => #434a41
+  - ![](i/color1.png) 1 => #689579
+  - ![](i/color2.png) 2 => #cdd995
+  - ![](i/color3.png) 3 => #e7debf 
+  - ![](i/color4.png) 4 => #e5cc7c
+  - ![](i/color5.png) 5 => #f1b31f
+  - ![](i/color6.png) 6 => #e99248
+  - ![](i/color7.png) 7 => #da4c27
+  - ![](i/color8.png) 8 => #dac8c6
+  - ![](i/color9.png) 9 => #547d8e
   
 
 Example - .bixel no. 10 (at inscribe no. 21964036)
@@ -165,12 +172,27 @@ in 8x
 
 - 10x10 canvas (=100 pixels)
 - 21 colors (A-U)
-  - A => #88b2c4, B => #547d8e, C => #dac8c6, D => #7c7587,
-    E => #e3a18d, F => #da4c27, G => #f1b31f, H => #e99248,
-    I => #87c687, J => #529055, K => #a08454, L => #966946,
-    M => #e7debf, N => #afa78a, O => #d2fae0, P => #f7e382,
-    Q => #9aaf89, R => #e5cc7c, S => #fff,    T => #d7e5e5,
-    U => #000
+  - ![](i/colorA.png) A => #88b2c4
+  - ![](i/colorB.png) B => #547d8e
+  - ![](i/colorC.png) C => #dac8c6
+  - ![](i/colorD.png) D => #7c7587
+  - ![](i/colorE.png) E => #e3a18d
+  - ![](i/colorF.png) F => #da4c27
+  - ![](i/colorG.png) G => #f1b31f
+  - ![](i/colorH.png) H => #e99248
+  - ![](i/colorI.png) I => #87c687
+  - ![](i/colorJ.png) J => #529055
+  - ![](i/colorK.png) K => #a08454
+  - ![](i/colorL.png) L => #966946
+  - ![](i/colorM.png) M => #e7debf
+  - ![](i/colorN.png) N => #afa78a
+  - ![](i/colorO.png) O => #d2fae0
+  - ![](i/colorP.png) P => #f7e382
+  - ![](i/colorQ.png) Q => #9aaf89
+  - ![](i/colorR.png) R => #e5cc7c
+  - ![](i/colorS.png) S => #fff
+  - ![](i/colorT.png) T => #d7e5e5
+  - ![](i/colorU.png) U => #000
 
 
 
