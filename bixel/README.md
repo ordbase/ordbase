@@ -105,31 +105,21 @@ in 8x
 
 
 Let's try some more.
-[Search for .bixel](https://unisat.io/search?q=bixel&type=text) via unisat.
+[Search for bixel](https://unisat.io/search?q=bixel&type=text) via unisat.
 
 
 ```ruby
 bixels = [
-  # Bixel #32 - Inscription #22140448
-  [32,'0060000066660000600600066600006006006666000060000'],
-  # Bixel #43 - Inscription #22140536
-  [43,'0055500055555055050555555555550005606555600066600'],
-  # Bixel #50 - Inscription #22140557
-  [50,'9994999984548994575499845489988488998818899991999'],
-  # Bixel #86 - Inscription #22141494
-  [86,'8899988889998899999998888888889898888878888999998'],
-  # Bixel #90 - Inscription #22141738
-  [90,'0000000000100000110000001000000100000111000000000'],
-  # Bixel #153 - Inscription #22159765
-  [153,'0777777077777707777770777777077777707700000770000'],
-  # Bixel #163 - Inscription #22159775
-  [163,'3795793951116551010177117119311111333101333311133'],
-  # Bixel #298 - Inscription #22160168
-  [298,'0000000077077007070700700070007070000070000000000'],
-  # Bixel #405 - Inscription #22160379
-  [405,'7777777777777775777575757575577577557777755777775'],
-  # Bixel #432 - Inscription #22160466
-  [432,'0033300033333030030033003003333033303333300030300'],
+  [32,'0060000066660000600600066600006006006666000060000'],  # Bixel #32 - Inscribe #22140448
+  [43,'0055500055555055050555555555550005606555600066600'],  # Bixel #43 - Inscribe #22140536
+  [50,'9994999984548994575499845489988488998818899991999'],  # Bixel #50 - Inscribe #22140557
+  [86,'8899988889998899999998888888889898888878888999998'],  # Bixel #86 - Inscribe #22141494
+  [90,'0000000000100000110000001000000100000111000000000'],  # Bixel #90 - Inscribe #22141738
+  [153,'0777777077777707777770777777077777707700000770000'], # Bixel #153 - Inscribe #22159765
+  [163,'3795793951116551010177117119311111333101333311133'], # Bixel #163 - Inscribe #22159775
+  [298,'0000000077077007070700700070007070000070000000000'], # Bixel #298 - Inscribe #22160168
+  [405,'7777777777777775777575757575577577557777755777775'], # Bixel #405 - Inscribe #22160379
+  [432,'0033300033333030030033003003333033303333300030300'], # Bixel #432 - Inscribe #22160466
 ]
 
 bixels.each do |num,spec|
@@ -256,11 +246,11 @@ in 8x
 
 
 Let's try some more.
-[Search for .biixel](https://unisat.io/search?q=biixel&type=text) via unisat.
+[Search for biixel](https://unisat.io/search?q=biixel&type=text) via unisat.
 
 Let's prepare an (SQL) database with 1000+ inscriptions
-matching the 'biixel' full-text search (on unsisat)
-with all inscribed ids listed in [biixel.csv](biixel.csv).
+matching the 'biixel' full-text search (on unisat)
+with all inscribe ids listed in [biixel.csv](biixel.csv).
 
 Let's download the inscriptions (metadata & content) 
 via ordinals.com to a local cache (in `/inscription`)
@@ -303,13 +293,13 @@ puts "  #{inscribes.size} inscribe(s) - unconfirmed candidates"
 
 
 ## validate / filter-out false positives
-PIIXEL_RX =  /\A
+BIIXEL_RX =  /\A
                [A-U]{100}
                \.biixel
                \z/x
 
 inscribes = inscribes.select do |inscribe|
-                if PIXXEL_RX.match( inscribe.text.strip )
+                if BIXXEL_RX.match( inscribe.text.strip )
                     true
                 else  
                     puts "!! WARN - expected [A-U]{100}.biixel inscribe no. #{inscribe.num} @ #{inscribe.date}; got:"
@@ -374,8 +364,8 @@ resulting in
 
 
 Last but not least
-let's generate the first hundred fam
-and the first thousand fam composite all-in-one image.
+let's generate the first hundred biixel fam
+and the first thousand biixel fam composite all-in-one image.
 
 
 ``` ruby
