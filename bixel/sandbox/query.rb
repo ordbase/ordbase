@@ -22,21 +22,14 @@ puts
 puts "  #{inscribes.size} inscribe(s) - unconfirmed candidates"
 
 
-biixel_rx = /\A
-               (?<spec>[A-U]{100})
-                \.biixel
-              \z
-             /x
 
 ## validate / filter-out false positives
 inscribes = inscribes.select do |inscribe|
-                txt = inscribe.text
-                txt = txt.strip
-                if (m=biixel_rx.match( txt ))
+                if Biixel.match( inscribe.text )
                     true
                 else  
                     puts "!! WARN - expected [A-U]{100}.biixel inscribe no. #{inscribe.num} @ #{inscribe.date}; got:"
-                    puts "  >#{inscribe.content}<"
+                    puts "  >#{inscribe.text}<"
                     false  
                 end
              end

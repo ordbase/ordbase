@@ -18,6 +18,15 @@ module Bixel
   WIDTH  = 7
   HEIGHT = 7         
 
+  MATCH_RX = /\A
+              (?<spec>[0-9]{49})
+               \.bixel
+              \z
+              /x
+   def self.match( txt )  MATCH_RX.match( txt.strip ); end
+   def self.valid?( txt ) match ? true : false; end
+
+
   class Image < Pixelart::Image
     def self.parse( pixels )
       super( pixels, colors: COLORS, 
@@ -59,6 +68,16 @@ COLORS = {
 }
   WIDTH  = 10
   HEIGHT = 10
+
+  
+  MATCH_RX = /\A
+              (?<spec>[A-U]{100})
+               \.biixel
+              \z
+              /x
+   def self.match( txt )  MATCH_RX.match( txt.strip ); end
+   def self.valid?( txt ) match ? true : false; end
+
 
   class Image < Pixelart::Image
     def self.parse( pixels )

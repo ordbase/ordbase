@@ -22,21 +22,6 @@ img = Bixel::Image.parse( '3113113111111311303011111111117777711111131111333' )
 img.save( "./tmp/bixel10.png" )
 img.zoom(8).save( "./tmp/bixel10@8x.png" )
 
-
-
-###############
-# Biixel v2
-
-pp Biixel::COLORS
-
-
-# .biixel (at inscribe no. 22237694)
-img = Biixel::Image.parse( 'UGGLBBBBBLUHGHLBBBLHBLHGHLBBHGBBLHGGGGGHBBLGGGGGGGDDHSUGGGSUDGHUUGGGUUDFFGGGLGGGDFFHGLHLGHDDLHHHHHHH' )
-img.save( "./tmp/biixel1.png" )
-img.zoom(8).save( "./tmp/biixel1@8x.png" )
-
-
-
 bixels = [
   # Bixel #32 - Inscription #22140448
   [32,'0060000066660000600600066600006006006666000060000'],
@@ -65,5 +50,17 @@ bixels.each do |num,spec|
   img.save( "./tmp/bixel#{num}.png" )
   img.zoom(8).save( "./tmp/bixel#{num}@8x.png" )
 end
+
+
+
+
+###############
+# Biixel v2
+
+# .biixel (at inscribe no. 22237694)
+img = Biixel::Image.parse( 'UGGLBBBBBLUHGHLBBBLHBLHGHLBBHGBBLHGGGGGHBBLGGGGGGGDDHSUGGGSUDGHUUGGGUUDFFGGGLGGGDFFHGLHLGHDDLHHHHHHH' )
+img.save( "./tmp/biixel1.png" )
+img.zoom(8).save( "./tmp/biixel1@8x.png" )
+
 
 puts "bye"

@@ -104,6 +104,73 @@ in 8x
 
 
 
+Let's try some more.
+[Search for .bixel](https://unisat.io/search?q=bixel&type=text) via unisat.
+
+
+```ruby
+bixels = [
+  # Bixel #32 - Inscription #22140448
+  [32,'0060000066660000600600066600006006006666000060000'],
+  # Bixel #43 - Inscription #22140536
+  [43,'0055500055555055050555555555550005606555600066600'],
+  # Bixel #50 - Inscription #22140557
+  [50,'9994999984548994575499845489988488998818899991999'],
+  # Bixel #86 - Inscription #22141494
+  [86,'8899988889998899999998888888889898888878888999998'],
+  # Bixel #90 - Inscription #22141738
+  [90,'0000000000100000110000001000000100000111000000000'],
+  # Bixel #153 - Inscription #22159765
+  [153,'0777777077777707777770777777077777707700000770000'],
+  # Bixel #163 - Inscription #22159775
+  [163,'3795793951116551010177117119311111333101333311133'],
+  # Bixel #298 - Inscription #22160168
+  [298,'0000000077077007070700700070007070000070000000000'],
+  # Bixel #405 - Inscription #22160379
+  [405,'7777777777777775777575757575577577557777755777775'],
+  # Bixel #432 - Inscription #22160466
+  [432,'0033300033333030030033003003333033303333300030300'],
+]
+
+bixels.each do |num,spec|
+  img = Bixel::Image.parse( spec ) 
+  img.save( "./bixel#{num}.png" )
+  img.zoom(8).save( "./bixel#{num}@8x.png" )
+end
+```
+
+resulting in:
+
+
+![](i/bixel32.png)
+![](i/bixel43.png)
+![](i/bixel50.png)
+![](i/bixel86.png)
+![](i/bixel90.png)
+![](i/bixel153.png)
+![](i/bixel163.png)
+![](i/bixel298.png)
+![](i/bixel405.png)
+![](i/bixel432.png)
+
+in 8x
+
+![](i/bixel32@8x.png)
+![](i/bixel43@8x.png)
+![](i/bixel50@8x.png)
+![](i/bixel86@8x.png)
+![](i/bixel90@8x.png)
+![](i/bixel153@8x.png)
+![](i/bixel163@8x.png)
+![](i/bixel298@8x.png)
+![](i/bixel405@8x.png)
+![](i/bixel432@8x.png)
+
+
+
+
+
+
 ## V2 / Chapter 2   - 10x10 canvas / 21 colors
 
 - 10x10 canvas (=100 pixels)
@@ -187,70 +254,182 @@ in 8x
 
 
 
+
 Let's try some more.
-[Search for .bixel](https://unisat.io/search?q=bixel&type=text) via unisat 
-or [search for .biixel](https://unisat.io/search?q=biixel&type=text).
+[Search for .biixel](https://unisat.io/search?q=biixel&type=text) via unisat.
+
+Let's prepare an (SQL) database with 1000+ inscriptions
+matching the 'biixel' full-text search (on unsisat)
+with all inscribed ids listed in [biixel.csv](biixel.csv).
+
+Let's download the inscriptions (metadata & content) 
+via ordinals.com to a local cache (in `/inscription`)
+and than import into single-file SQLite database (`ord.db`).
+
+``` ruby
+require 'ordlite'
+
+cache = Ordinals::Cache.new( './inscription' )
+cache.add_csv( './biixel.csv' )
+
+OrdDb.open( './ord.db' )
+cache.import_all
+
+puts
+puts "  #{Inscribe.count} inscribe(s)"
+puts "  #{Blob.count} blob(s)"
+#=>  1024 inscribe(s)
+#=>  1024 blob(s)
+```
 
 
 
-```ruby
-bixels = [
-  # Bixel #32 - Inscription #22140448
-  [32,'0060000066660000600600066600006006006666000060000'],
-  # Bixel #43 - Inscription #22140536
-  [43,'0055500055555055050555555555550005606555600066600'],
-  # Bixel #50 - Inscription #22140557
-  [50,'9994999984548994575499845489988488998818899991999'],
-  # Bixel #86 - Inscription #22141494
-  [86,'8899988889998899999998888888889898888878888999998'],
-  # Bixel #90 - Inscription #22141738
-  [90,'0000000000100000110000001000000100000111000000000'],
-  # Bixel #153 - Inscription #22159765
-  [153,'0777777077777707777770777777077777707700000770000'],
-  # Bixel #163 - Inscription #22159775
-  [163,'3795793951116551010177117119311111333101333311133'],
-  # Bixel #298 - Inscription #22160168
-  [298,'0000000077077007070700700070007070000070000000000'],
-  # Bixel #405 - Inscription #22160379
-  [405,'7777777777777775777575757575577577557777755777775'],
-  # Bixel #432 - Inscription #22160466
-  [432,'0033300033333030030033003003333033303333300030300'],
-]
+Now let's query for the .biixel inscriptions 
+and validate the candidates to filter out broken mints
+not matching the pattern `[A-U]{100}.biixel`.
 
-bixels.each do |num,spec|
-  img = Bixel::Image.parse( spec ) 
-  img.save( "./bixel#{num}.png" )
-  img.zoom(8).save( "./bixel#{num}@8x.png" )
+
+``` ruby
+require 'ordlite'
+
+OrdDb.open( './ord.db' )
+
+inscribes = Inscribe.joins( :blob )
+                   .where( 'content LIKE ?', '%.biixel%' )
+                   .order( 'num' )
+                   
+puts
+puts "  #{inscribes.size} inscribe(s) - unconfirmed candidates"
+
+
+## validate / filter-out false positives
+PIIXEL_RX =  /\A
+               [A-U]{100}
+               \.biixel
+               \z/x
+
+inscribes = inscribes.select do |inscribe|
+                if PIXXEL_RX.match( inscribe.text.strip )
+                    true
+                else  
+                    puts "!! WARN - expected [A-U]{100}.biixel inscribe no. #{inscribe.num} @ #{inscribe.date}; got:"
+                    puts "  >#{inscribe.text}<"
+                    false  
+                end
+             end
+
+puts
+puts "  #{inscribes.size} inscribe(s) - validated"
+```
+
+resulting in
+
+```
+ 1023 inscribe(s) - unconfirmed candidates
+
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22238685 @ 2023-08-08 23:38:58 UTC; got:
+  >SUSUSUSUSUUSUSUSUSUUUUSUSUSUUUUUUSUSUUUUUUUUSUUUUUUUUUUSUUUUUUUUSUSUUUUUUSUSUSUUUUSUSUSUSUUSUSUSUSUS.biixel
+   FUFUFUFUFUUFUFUFUFUUUUFUFUFUUUUUUFUFUUUUUUUUFUUUUUUUUUUFUUUUUUUUFUFUUUUUUFUFUFUUUUFUFUFUFUUFUFUFUFUF.biixel
+   GUGUGUGUGUUGUGUGUGUUUUGUGUGUUUUUUGUGUUUUUUUUGUUUUUUUUUUGUUUUUUUUGUGUUUUUUGUGUGUUUUGUGUGUGUUGUGUGUGUG.biixel
+   AUAUAUAUAUUAUAUAUAUUUUAUAUAUUUUUUAUAUUUUUUUUAUUUUUUUUUUAUUUUUUUUAUAUUUUUUAUAUAUUUUAUAUAUAUUAUAUAUAUA.biixel
+   UAAAAAAAAUAUAAAAAAUAAAUAAAAUAAAAAUAAUAAAAAAAUUAAAAAAAAUUAAAAAAAUAAUAAAAAUAAAAUAAAUAAAAAAUAUAAAAAAAAU.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22238686 @ 2023-08-08 23:38:58 UTC; got:
+  >biixelFAAAAAAAAFAFAAAAAAFAAAFAAAAFAAAAAFAAFAAAAAAAFFAAAAAAAAFFAAAAAAAFAAFAAAAAFAAAAFAAAFAAAAAAFAFAAAAAAAAF.biixel
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGGGGAAAJJAGAAAAAAJAJGAGGFFFJAJGAAGFAFJAJGGGGFFFJJAAAAAAAAAAAAAAAAAAAAA.biixel
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGGGGAAAUUAGAAAAAAUAUGAGGFFFUAUGAAGFAFUAUGGGGFFFUUAAAAAAAAAAAAAAAAAAAAA.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22238748 @ 2023-08-09 00:32:25 UTC; got:
+  >lFDOBCGAHIEDOBCGAHIEIOBCGAHIEIHBCGAHIEIHACGAHIEIHAGGAHIEIHAGCAHIEIHAGCBHIEIHAGCBOIEIHAGCBODEIHAGCBODF.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22238957 @ 2023-08-09 00:51:29 UTC; got:
+  >啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22250952 @ 2023-08-09 03:05:25 UTC; got:
+  >SSSSSSSSSSSSJJQJJSSSSSJJJJJJJSSSGGGGGGSSSSGGBGBFFFSSGGGGGGSSSSGFFFFGSSSSGGGGGGSSSSSGGGSSSSSSSGGGSSSS.biixel
+   SSSSSSSSSSSSBBABBBSSSBBBBBBBSSSSIIIIIISSSSIIUIUISSSSIIIIIISSSSIFFFFISSSSIIIIIISSSSSIIISSSSSSSIIISSSS.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22291179 @ 2023-08-09 03:57:53 UTC; got:
+  >WXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZWXYZ.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22345638 @ 2023-08-09 08:00:09 UTC; got:
+  >ABJILPEFQMNCDGHRSTUOVWKXYTZBCJKLDFAGMQROPHNTSVWUXEIYLZCJDBLKFAPGMQHSORNTVWIUZXJYLCZBCJKLDFAGMQROPARH.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22348229 @ 2023-08-09 08:21:55 UTC; got:
+  >PUSHFORCHANGEADVENTURESBRINGPERSPECTIVESRESISTTHEOLDSTANDFIRMBELIEVEANDEMBRACEBITCOINORDINALS.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22350766 @ 2023-08-09 08:37:31 UTC; got:
+  >FUCKERSINSCHOOLTELLINGMEALWAYSINTHEBARBERSHOPCHIEFKEEFAINTBOUTTHISCHIEFAINTBOUTTHATMYBOYABDONFUCKING.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22350767 @ 2023-08-09 08:37:31 UTC; got:
+  >TRAPPINOUTTHEBANDOoTRAPPINOUTTHEBANDOoTRAPPINOUTTHEBANDOoTRAPPINOUTTHEBANDOoTRAPPINOUTTHEBANDOoTRAPP.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22350768 @ 2023-08-09 08:37:31 UTC; got:
+  >FUCKGARYGENSLERFUCKGARYGENSLERFUCKGARYGENSLERFUCKGARYGENSLERFUCKGARYGENSLERFUCKGARYGENSLERFUCKTHESEC.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22350786 @ 2023-08-09 08:37:31 UTC; got:
+  >THISISTHEPSYOPTHISISTHEPSYOPTHISISTHEPSYOPTHISISTHEPSYOPTHISISTHEPSYOPTHISISTHEPSYOPTHISISTHEPSYOPTH.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22351383 @ 2023-08-09 09:05:43 UTC; got:
+  >LEADTHEWAYINANERAOFCRISISRESISTTHEOLDSTANDFIRMPROMOTECHANGEANDTRUSTEMBRACEBITCOINORDINALSFIGHTBACKGO.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22395842 @ 2023-08-09 11:33:44 UTC; got:
+  >SATOSHINAKAMOTOSPARKSFIATSLOCKBITCOINSNEWARTBECOMESTHEMONETARYSPARKFIATLOCKSJUMPTOTHEBITCOINLIFERAFT.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22454744 @ 2023-08-09 17:07:40 UTC; got:
+  >BSSPBSSSSABSSSGSBSSSSSSAABSSSSHSSABSSSPSSSSBSSGSSSSSSSSSSSSSSSHSSSSBPSSSSSBB.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22550033 @ 2023-08-10 10:09:15 UTC; got:
+  >AAARAATAAAAAOAAAAQAAAFAAAAAAHAAAAAAAAAAA.biixel<
+!! WARN - expected [A-U]{100}.biixel inscribe no. 22591201 @ 2023-08-10 20:43:31 UTC; got:
+  >bixel_AAAAAAAAAAAAUUUUUUAAAUTTTTTTUAAUTUFFUTUAAUTFFFFTUAAUTTTTTTUAAAUTMMTUAAAAUTMMTUAAAAAUUUUAAAAAAAAAAAAA.biixel<
+
+  1006 inscribe(s) - validated
+```
+
+
+Last but not least
+let's generate the first hundred fam
+and the first thousand fam composite all-in-one image.
+
+
+``` ruby
+require 'pixelart'
+
+require_relative 'bixel'
+
+## first hundred in 10x10 grid
+composite = ImageComposite.new( 10, 10, width: Biixel::WIDTH,
+                                        height: Biixel::HEIGHT )
+
+inscribes[0,100].each do |inscribe|
+    txt = inscribe.text
+    spec = txt.strip.sub( '.biixel', '' )
+    img = Biixel::Image.parse( spec )
+    composite << img
 end
-````
+
+composite.save( './biixels_100.png' )
+composite.zoom(4).save( './biixels_100@4x.png' )
+
+
+## first thousand in 20x50 grid
+composite = ImageComposite.new( 20, 50, width: Biixel::WIDTH,
+                                        height: Biixel::HEIGHT )
+
+inscribes[0,1000].each do |inscribe|
+    txt = inscribe.text
+    spec = txt.strip.sub( '.biixel', '' )
+    img = Biixel::Image.parse( spec )
+    composite << img
+end
+
+composite.save( './biixels_1000.png' )
+composite.zoom(4).save( './biixels_1000@4x.png' )
+```
 
 resulting in:
 
 
-![](i/bixel32.png)
-![](i/bixel43.png)
-![](i/bixel50.png)
-![](i/bixel86.png)
-![](i/bixel90.png)
-![](i/bixel153.png)
-![](i/bixel163.png)
-![](i/bixel298.png)
-![](i/bixel405.png)
-![](i/bixel432.png)
+![](i/biixels_100.png)
 
-in 8x
+in 4x
 
-![](i/bixel32@8x.png)
-![](i/bixel43@8x.png)
-![](i/bixel50@8x.png)
-![](i/bixel86@8x.png)
-![](i/bixel90@8x.png)
-![](i/bixel153@8x.png)
-![](i/bixel163@8x.png)
-![](i/bixel298@8x.png)
-![](i/bixel405@8x.png)
-![](i/bixel432@8x.png)
+![](i/biixels_100@4x.png)
 
+
+and
+
+![](i/biixels_1000.png)
+
+in 4x
+
+![](i/biixels_1000@4x.png)
 
 
 
