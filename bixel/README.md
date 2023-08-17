@@ -5,17 +5,18 @@
 
 - 7x7 canvas (=49 pixels)
 - 10 colors (0-9)
-  - ![](i/color0.png) 0 => #434a41
-  - ![](i/color1.png) 1 => #689579
-  - ![](i/color2.png) 2 => #cdd995
-  - ![](i/color3.png) 3 => #e7debf 
-  - ![](i/color4.png) 4 => #e5cc7c
-  - ![](i/color5.png) 5 => #f1b31f
-  - ![](i/color6.png) 6 => #e99248
-  - ![](i/color7.png) 7 => #da4c27
-  - ![](i/color8.png) 8 => #dac8c6
-  - ![](i/color9.png) 9 => #547d8e
+  - ![](i/color0.png) 0 => #434a41 / rgb( 67  74  65) - hsl(107°   6%  27%)
+  - ![](i/color1.png) 1 => #689579 / rgb(104 149 121) - hsl(143°  18%  50%)
+  - ![](i/color2.png) 2 => #cdd995 / rgb(205 217 149) - hsl( 71°  47%  72%)
+  - ![](i/color3.png) 3 => #e7debf / rgb(231 222 191) - hsl( 47°  45%  83%)
+  - ![](i/color4.png) 4 => #e5cc7c / rgb(229 204 124) - hsl( 46°  67%  69%)
+  - ![](i/color5.png) 5 => #f1b31f / rgb(241 179  31) - hsl( 42°  88%  53%)
+  - ![](i/color6.png) 6 => #e99248 / rgb(233 146  72) - hsl( 28°  79%  60%)
+  - ![](i/color7.png) 7 => #da4c27 / rgb(218  76  39) - hsl( 12°  71%  50%)
+  - ![](i/color8.png) 8 => #dac8c6 / rgb(218 200 198) - hsl(  6°  21%  82%)
+  - ![](i/color9.png) 9 => #547d8e / rgb( 84 125 142) - hsl(198°  26%  44%)
   
+
 
 Example - .bixel no. 10 (at inscribe no. 21964036)
 
@@ -172,27 +173,27 @@ in 8x
 
 - 10x10 canvas (=100 pixels)
 - 21 colors (A-U)
-  - ![](i/colorA.png) A => #88b2c4
-  - ![](i/colorB.png) B => #547d8e
-  - ![](i/colorC.png) C => #dac8c6
-  - ![](i/colorD.png) D => #7c7587
-  - ![](i/colorE.png) E => #e3a18d
-  - ![](i/colorF.png) F => #da4c27
-  - ![](i/colorG.png) G => #f1b31f
-  - ![](i/colorH.png) H => #e99248
-  - ![](i/colorI.png) I => #87c687
-  - ![](i/colorJ.png) J => #529055
-  - ![](i/colorK.png) K => #a08454
-  - ![](i/colorL.png) L => #966946
-  - ![](i/colorM.png) M => #e7debf
-  - ![](i/colorN.png) N => #afa78a
-  - ![](i/colorO.png) O => #d2fae0
-  - ![](i/colorP.png) P => #f7e382
-  - ![](i/colorQ.png) Q => #9aaf89
-  - ![](i/colorR.png) R => #e5cc7c
-  - ![](i/colorS.png) S => #fff
-  - ![](i/colorT.png) T => #d7e5e5
-  - ![](i/colorU.png) U => #000
+  - ![](i/colorA.png) A => #88b2c4 / rgb(136 178 196) - hsl(198°  34%  65%)
+  - ![](i/colorB.png) B => #547d8e / rgb( 84 125 142) - hsl(198°  26%  44%)
+  - ![](i/colorC.png) C => #dac8c6 / rgb(218 200 198) - hsl(  6°  21%  82%)
+  - ![](i/colorD.png) D => #7c7587 / rgb(124 117 135) - hsl(263°   7%  49%)
+  - ![](i/colorE.png) E => #e3a18d / rgb(227 161 141) - hsl( 14°  61%  72%)
+  - ![](i/colorF.png) F => #da4c27 / rgb(218  76  39) - hsl( 12°  71%  50%)
+  - ![](i/colorG.png) G => #f1b31f / rgb(241 179  31) - hsl( 42°  88%  53%)
+  - ![](i/colorH.png) H => #e99248 / rgb(233 146  72) - hsl( 28°  79%  60%)
+  - ![](i/colorI.png) I => #87c687 / rgb(135 198 135) - hsl(120°  36%  65%)
+  - ![](i/colorJ.png) J => #529055 / rgb( 82 144  85) - hsl(123°  27%  44%)
+  - ![](i/colorK.png) K => #a08454 / rgb(160 132  84) - hsl( 38°  31%  48%)
+  - ![](i/colorL.png) L => #966946 / rgb(150 105  70) - hsl( 26°  36%  43%)
+  - ![](i/colorM.png) M => #e7debf / rgb(231 222 191) - hsl( 47°  45%  83%)
+  - ![](i/colorN.png) N => #afa78a / rgb(175 167 138) - hsl( 47°  19%  61%)
+  - ![](i/colorO.png) O => #d2fae0 / rgb(210 250 224) - hsl(141°  80%  90%)
+  - ![](i/colorP.png) P => #f7e382 / rgb(247 227 130) - hsl( 50°  88%  74%)
+  - ![](i/colorQ.png) Q => #9aaf89 / rgb(154 175 137) - hsl( 93°  19%  61%)
+  - ![](i/colorR.png) R => #e5cc7c / rgb(229 204 124) - hsl( 46°  67%  69%)
+  - ![](i/colorS.png) S => #fff / rgb(255 255 255) - hsl(  0°   0% 100%) - WHITE
+  - ![](i/colorT.png) T => #d7e5e5 / rgb(215 229 229) - hsl(180°  21%  87%)
+  - ![](i/colorU.png) U => #000 / rgb(  0   0   0) - hsl(  0°   0%   0%) - BLACK
 
 
 
