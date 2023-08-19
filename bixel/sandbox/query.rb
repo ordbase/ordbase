@@ -13,11 +13,8 @@ puts "  #{Blob.count} blob(s)"
 puts
 
 
-inscribes = Inscribe.joins( :blob )
-                   .where( 'content LIKE ?', '%.biixel%' )
-                   .order( 'num' )
+inscribes = Inscribe.search( 'biixel' )
                 
-   
 puts
 puts "  #{inscribes.size} inscribe(s) - unconfirmed candidates"
 

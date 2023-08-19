@@ -307,9 +307,7 @@ require 'ordlite'
 
 OrdDb.open( './ord.db' )
 
-inscribes = Inscribe.joins( :blob )
-                   .where( 'content LIKE ?', '%.biixel%' )
-                   .order( 'num' )
+inscribes = Inscribe.search( 'biixel' )
                    
 puts
 puts "  #{inscribes.size} inscribe(s) - unconfirmed candidates"
