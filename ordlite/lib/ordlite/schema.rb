@@ -56,6 +56,7 @@ create_table :inscribes, :id => :string do |t|
 
     ## "timestamp": "2023-06-01 05:00:57 UTC"
     ##   or use date_utc ???
+    ##   or change to t.integer AND timestamp  or time or epoch(time) - why? why not?
     t.datetime :date, null: false
 
     ##
@@ -99,8 +100,8 @@ create_table :blobs, :id => :string do |t|
     ## t.string   :id,  null: false, index: { unique: true, name: 'blob_uuids' }
  
     t.binary     :content,   null: false
-    t.string     :sha256   ## sha256 hash
-    t.string     :md5      ## md5 hash - add why? why not?  
+    t.string     :sha256   ## sha256 hash as hexstring
+    t.string     :md5      ## md5 hash as hexstring - add why? why not?  
 
   ## timestamp last
   t.timestamps
@@ -193,23 +194,5 @@ end # block Schema.define
 
 end # method up
 end # class CreateDb
-
-###
-#  migrations helpers
-class AddGeneratives
-
-def up  
-  ActiveRecord::Schema.define do
-    create_table :generatives, :id => :string do |t|
-      t.string  :factory_id, null: false
-      t.string  :g,          null: false  ##  use space separated numbers - why? why not?    
-      t.binary  :content    ### optional for now - why? why not?
-     
-      ## timestamp last
-      t.timestamps
-    end
-  end # block Schema.define
-end # method up
-end # class AddGeneratives
   
 end # module OrdDb

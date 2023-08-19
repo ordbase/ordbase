@@ -125,17 +125,70 @@ def import_csv( path, content: true )
     end  
 end # method import_csv
 
+
 def import( id_or_ids, content: true )
+   ## note: support (integer) numbers too (e.g. 0/1/2, etc.)
    if id_or_ids.is_a?( String )
       id = id_or_ids
      _import( id, content: content )
-   else  ## assume array
-      ids = id_or_ids
-      ids.each do |id|
-         _import( id, content: content )
+   elsif id_or_ids.is_a?( Integer )  
+      num = id_or_ids
+     _import_by_num( num, content: content )
+   elsif id_or_ids.is_a?( Array )
+      if id_or_ids.empty?   ## id_or_ids.size == 0
+         ## do nothing; empty array
+      else
+         first = id_or_ids[0]
+         if first.is_a?( String ) 
+           ids = id_or_ids
+           ids.each do |id|
+             _import( id, content: content )
+           end
+         elsif first.is_a?( Integer ) 
+            nums = id_or_ids
+            nums.each do |num|
+              _import_by_num( num, content: content )
+            end 
+         elsif first.is_a?( Hash ) && first.has_key?( 'id' ) 
+           ## try to get ids with records
+           recs = id_or_ids
+           ids = recs.map {|rec| rec['id'] }
+           ids.each do |id|
+             _import( id, content: content )
+           end
+         elsif first.is_a?( Hash ) && first.has_key?( 'num' ) 
+            ## try to get nums with records
+            recs = id_or_ids
+            nums = recs.map {|rec| rec['num'] }
+            nums.each do |num|
+               ## note: support numbers as strings too
+               num = num.to_i(10)  if num.is_a?( String )
+              _import_by_num( num, content: content )
+            end
+          else
+           raise ArgumentError, "expected Array of String|Integer or Hash (with keys id|num); got #{first.class.name}"
+         end
       end
+   else
+      raise ArgumentError, "expected String or Array; got #{id_or_ids.class.name}"
    end
-end 
+end  # method import
+
+
+def _import_content( id )
+     ## check if (content) blob is already in db?
+     blob = Blob.find_by( id: id )
+     if blob    ## already in db; do nothing
+     else       ## fetch via ordinals.com api and update db
+        content = Ordinals.content( id )
+
+        puts "  content-type: #{content.type}"
+        puts "  content-length: #{content.length}"
+     
+        Blob.create( id: id, content: content.data )
+     end
+end
+
 
 def _import( id, content: true )
    ## check if inscription / inscribe is already in db?
@@ -149,19 +202,22 @@ def _import( id, content: true )
       Inscribe.create_from_api( data )
    end
 
-   if content
-     ## check if (content) blob is already in db?
-     blob = Blob.find_by( id: id )
-     if blob    ## already in db; do nothing
-     else       ## fetch via ordinals.com api and update db
-        content = Ordinals.content( id )
+   _import_content( id )  if content              
+end
 
-        puts "  content-type: #{content.type}"
-        puts "  content-length: #{content.length}"
-     
-        Blob.create( id: id, content: content.data )
-     end
-   end              
+def _import_by_num( num, content: true )
+   ## check if inscription / inscribe is already in db?
+   inscribe = Inscribe.find_by( num: num )
+   if inscribe  ## already in db; dump record
+     ## pp inscribe
+   else         ## fetch via ordinals.com api and update db
+      data = Ordinals.inscription( num )
+
+      pp data
+      inscribe = Inscribe.create_from_api( data )
+   end
+
+   _import_content( inscribe.id )   if content              
 end
 
 end  # class Importer

@@ -18,6 +18,68 @@ module OrdDb
 
     ################################
     ### scope like helpers
+    def self.png() where( content_type: 'image/png' ); end
+    def self.gif() where( content_type: 'image/gif' ); end
+    def self.jpg() where( content_type: 'image/jpeg' ); end
+    def self.webp() where( content_type: 'image/webp' ); end
+    def self.svg()  where( content_type: 'image/svg+xml' ); end
+    def self.avif() where( content_type: 'image/avif' ); end
+
+    class << self
+       alias_method :jpeg, :jpg
+    end     
+
+    def self.image  
+         ## change to/or add alias e.g. image/images - why? why not
+        where( content_type: [
+            'image/png',
+            'image/jpeg',
+            'image/gif',
+            'image/webp',
+            'image/svg+xml',
+            'image/avif',
+            ])
+    end
+
+    def self.html
+        where( content_type: [
+           'text/html;charset=utf-8',
+           'text/html',
+          ])
+    end
+
+    def self.js
+        where( content_type: [
+           'text/javascript',
+           'application/javascript',
+          ])
+    end
+
+     class << self
+        alias_method :javascript, :js
+     end     
+ 
+    def self.text
+        ## change to/or add alias e.g. text/texts - why? why not
+        ## include html or svg in text-only inscription - why? why not?
+        ##  include markdown in text-only inscription - why? why not?
+        ##   make content_type lower case with lower() - why? why not?
+        where( content_type: [
+                  'text/plain',
+                  'text/plain;charset=utf-8',
+                  'text/plain;charset=us-ascii',
+                  'application/json',
+             ])
+    end
+        
+    def self.search( q )   ## "full-text" search helper
+        ##  rename to text_search - why? why not?        
+        ## auto-sort by num - why? why not?
+        joins(:blob).text.where( "content LIKE '%#{q}%'" ).order('num')
+    end
+    
+    
+
     def self.deploys 
       where_clause =<<SQL 
 content LIKE '%deploy%' 
@@ -25,7 +87,7 @@ AND (   content LIKE '%orc-721%'
      OR content LIKE '%og%')
 SQL
 
-       joins(:blob).where( where_clause ).order( 'num' )
+       joins(:blob).text.where( where_clause ).order( 'num' )
     end
 
     def self.deploys_by( slug: )
@@ -36,7 +98,7 @@ AND (   content LIKE '%orc-721%'
 AND content LIKE '%#{slug}%'     
 SQL
 
-      joins(:blob).where( where_clause ).order( 'num' )
+      joins(:blob).text.where( where_clause ).order( 'num' )
     end
 
     def self.mints 
@@ -46,7 +108,7 @@ AND (   content LIKE '%orc-721%'
      OR content LIKE '%og%')
 SQL
 
-       joins(:blob).where( where_clause ).order( 'num' )
+       joins(:blob).text.where( where_clause ).order( 'num' )
     end
 
     def self.mints_by( slug: ) 
@@ -57,9 +119,10 @@ AND (   content LIKE '%orc-721%'
 AND content LIKE '%#{slug}%'     
 SQL
 
-       joins(:blob).where( where_clause ).order( 'num' )
+       joins(:blob).text.where( where_clause ).order( 'num' )
     end
 
+    
    def self.sub1k()  where( 'num < 1000' ); end
    def self.sub2k()  where( 'num < 2000' ); end
    def self.sub10k()  where( 'num < 10000' ); end
@@ -129,23 +192,12 @@ SQL
    end
 
 
-   def self.text
-      ## note: for now include:
-      ##   - text/plain (all variants)
-      ##   - text/json (all variants)
-      ##   - text/markdown
-      where( content_type: 
-               ['text/plain',
-                'text/plain;charset=utf-8',
-                'text/markdown',
-                'application/json',
-               ]
-           )
-   end
-   def self.png() where( content_type: 'image/png' ); end
+
 
 ###
 ## add support for ordinals.com api txt (headers format) 
+##
+## todo/fix: move to importer!!! - why? why not?
 
 
    def self.create_from_api( data ) create( _parse_api( data )); end
