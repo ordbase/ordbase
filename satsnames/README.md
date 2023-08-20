@@ -39,7 +39,7 @@ Sats[ '2048.game' ]        #=> '2d7dcad13f149e82c5f2c77b003d55b3837df3710e30ed14
 ## Inside the "Off-Chain" Sats Names Relay to Bitcoin Inscription Ids Indexer
 
 Note: The (sats) name (relay) to (inscription) id mappings
-are fow now stored
+are for now stored
 in datafiles in the comma-separated value (.csv) format
 and split by year (e.g. 2023, 2024, ..., etc.)
 
