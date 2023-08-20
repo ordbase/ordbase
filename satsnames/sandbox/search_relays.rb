@@ -1,7 +1,7 @@
 ###
 # to run use
 #
-#  $ ruby ./search_relays.rb
+#  $ ruby sandbox/search_relays.rb
 
 
 ##
@@ -15,8 +15,6 @@
 $LOAD_PATH.unshift( "../unisat/lib" )
 require 'unisat'
 
-
-## Unisat.cache_dir = './tmp/unisat'
 
 
 CHROME_PATH = 'C:\Program Files\Google\Chrome\Application\chrome.exe'

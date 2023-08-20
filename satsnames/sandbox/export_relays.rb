@@ -1,3 +1,9 @@
+###
+# to run use
+#
+#  $ ruby sandbox/export_relays.rb
+
+
 require 'ordlite'
 require 'rb_json5'   ## add json5 support (see https://github.com/taichi-ishitani/rb_json5)
 

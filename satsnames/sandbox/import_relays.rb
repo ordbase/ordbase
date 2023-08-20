@@ -1,3 +1,9 @@
+###
+# to run use
+#
+#  $ ruby sandbox/import_relays.rb
+
+
 $LOAD_PATH.unshift( "../unisat/lib" )
 require 'unisat'
 require 'ordlite'
