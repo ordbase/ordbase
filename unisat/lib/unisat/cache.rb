@@ -46,12 +46,22 @@ class Cache
     @dir = dir
   end
 
+
+  def _slugify( key )
+     ## e.g. double quote enclosed "relay"
+     ##  change to slugify or such - why? why not?
+     key = key.downcase.gsub( /[^a-z0-9]/, '_' )
+     key
+  end
+
+
   ## todo:
   ## - add offset: nil, limit: nil  - why? why not?
   def read( key ) 
       recs = []
 
-     paths = Dir.glob( "#{@dir}/#{key}/*.json" )
+      slug = _slugify( key )
+     paths = Dir.glob( "#{@dir}/#{slug}/*.json" )
      puts "   #{paths.size} page(s) in cache"
 
      paths.each_with_index do |path,i|
@@ -96,12 +106,14 @@ class Cache
 
 
   def exist?( key, offset: )
-    outpath = "#{@dir}/#{key}/#{offset}.json"
+    slug = _slugify( key )
+    outpath = "#{@dir}/#{slug}/#{offset}.json"
     File.exist?( outpath )
   end
 
   def read_page( key, offset: )
-    outpath = "#{@dir}/#{key}/#{offset}.json"
+    slug = _slugify( key )
+    outpath = "#{@dir}/#{slug}/#{offset}.json"
     results = read_json( outpath )
     recs = _normalize( results )
     recs
@@ -113,10 +125,11 @@ class Cache
 
      ## note: only write if results > 0
      if results.size > 0
-        outpath = "#{@dir}/#{key}/#{offset}.json"
+        slug = _slugify( key )
+        outpath = "#{@dir}/#{slug}/#{offset}.json"
         write_json( outpath, results )  
      else
-        puts "!! WARN - no results found in page #{offset} for key >#{key}<"
+        puts "!! WARN - no results found in page #{offset} for >#{key}<"
      end
      recs = _normalize( results )
      recs

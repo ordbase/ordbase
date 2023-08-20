@@ -1,0 +1,29 @@
+require 'hoe'
+require './lib/satsnames/version.rb'
+
+Hoe.spec 'satsnames' do
+
+  self.version =  Sats::VERSION
+
+  self.summary = "satsnames - sats names helpers for bitcoin ordinal inscription names, relays and more"
+  self.description = summary
+
+  self.urls    = { home: 'https://github.com/ordbase/ordbase' }
+
+  self.author  = 'Gerald Bauer'
+  self.email   = 'gerald.bauer@gmail.com'
+
+  # switch extension to .markdown for gihub formatting
+  self.readme_file  = 'README.md'
+  self.history_file = 'CHANGELOG.md'
+
+  self.extra_deps = [
+    ['cocos'],
+  ]
+
+  self.licenses = ['Public Domain']
+
+  self.spec_extras = {
+    required_ruby_version: '>= 2.3'
+  }
+end

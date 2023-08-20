@@ -1,0 +1,7 @@
+CHANGELOG.md
+Manifest.txt
+README.md
+Rakefile
+config/relays.2023.csv
+lib/satsnames.rb
+lib/satsnames/version.rb

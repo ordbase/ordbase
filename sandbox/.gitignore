@@ -1,0 +1,9 @@
+########
+# more local sandbox ignores
+
+# ignore unisat cache
+unisat/
+
+# ignore inscription cache
+inscription/
+
