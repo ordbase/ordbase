@@ -13,7 +13,6 @@ satsnames  - sats names helpers for bitcoin ordinal inscription names, relays an
 ## What's Sats Names?
 
 Sats Names is a standard for writing names to bitcoin using ordinals. The goal is to build a name ecosystem for bitcoin.
-
 More @ [docs.satsnames.org »](https://docs.satsnames.org)
 
 
@@ -35,11 +34,9 @@ Sats[ '2048.game' ]        #=> '2d7dcad13f149e82c5f2c77b003d55b3837df3710e30ed14
 # and so on
 ```
 
-That's it.
 
 
-
-## Inside the  "Off-Chain" Sat Names Relay to Bitcoin Inscription Ids
+## Inside the "Off-Chain" Sats Names Relay to Bitcoin Inscription Ids Indexer
 
 Note: The (sats) name (relay) to (inscription) id mappings
 are fow now stored
@@ -49,18 +46,18 @@ and split by year (e.g. 2023, 2024, ..., etc.)
 Example - [config/relays.2023.csv](config/relays.2023.csv):
 
 ``` csv
-name, id
-bitcoin.paper, 85b10531435304cbe47d268106b58b57a4416c76573d4b50fa544432597ad670i0
+name,             id
+bitcoin.paper,    85b10531435304cbe47d268106b58b57a4416c76573d4b50fa544432597ad670i0
 cypherpunk.paper, 8277fca13d0d5ccf70b5930e351494768ae6ed6759b318b403df229318984af3i0
-snake.game, 315198afb24aed9bc0b68f222eb6f2e976b7ab62bac456b30f26cbb8b893ae55i0
-breakout.game, 6cc328043c8e8837a421e2b869026363010fb10a5e50f89005187cadc429a821i0
-2048.game, 2d7dcad13f149e82c5f2c77b003d55b3837df3710e30ed14aa3566625de28a53i0
-flieka.joelle, 2f78bcf10a94b675aa744ecb4572b93b1ab2a0fb601799c5c47ecc17d95044fdi0
+snake.game,       315198afb24aed9bc0b68f222eb6f2e976b7ab62bac456b30f26cbb8b893ae55i0
+breakout.game,    6cc328043c8e8837a421e2b869026363010fb10a5e50f89005187cadc429a821i0
+2048.game,        2d7dcad13f149e82c5f2c77b003d55b3837df3710e30ed14aa3566625de28a53i0
+flieka.joelle,    2f78bcf10a94b675aa744ecb4572b93b1ab2a0fb601799c5c47ecc17d95044fdi0
 ...
 ```
 
 
-
+That's it.
 
 
 
