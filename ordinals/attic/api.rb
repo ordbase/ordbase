@@ -61,11 +61,6 @@ end  ## (nested) class Content
 
 
   def content( num_or_id )
-
-     ## todo/fix:
-     ##    "old" number look-up no longer works
-     ##    for now use only ids!!!
-
      id =  num_or_id.is_a?( Integer ) ? _num_to_id( num_or_id ) : num_or_id 
 
      src = "#{@base}/content/#{id}"
@@ -234,9 +229,9 @@ offset: 0
 =end
 
   def inscription( num_or_id )
-    ## id =  num_or_id.is_a?( Integer ) ? _num_to_id( num_or_id ) : num_or_id 
+    id =  num_or_id.is_a?( Integer ) ? _num_to_id( num_or_id ) : num_or_id 
 
-    src = "#{@base}/#{@inscription}/#{num_or_id}"
+    src = "#{@base}/#{@inscription}/#{id}"
     res = get( src )
 
     data = _parse_inscription( res.text )
