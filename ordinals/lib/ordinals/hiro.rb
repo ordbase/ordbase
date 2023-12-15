@@ -12,9 +12,6 @@ class Api   ## change/rename Api to Client - why? why not?
   def initialize 
     @base      = 'https://api.hiro.so/ordinals/v1'
     @requests  = 0  ## count requests (for delay_in_s sleeping/throttling)
-
-    ## fix-fix-fix: hard coded delay for now
-    @delay_in_s = 1    # 0.5 
   end
 
 ### todo/fix -- add status api call !!!  
@@ -37,15 +34,12 @@ class Api   ## change/rename Api to Client - why? why not?
   def list( from_number:, offset: nil )
     src = "#{@base}/inscriptions"
 
-    src += "?from_number=#{from_number}"   ## '?from_number=45926920'
-    ## src += '&mime_type=image%2Fpng'
-    src += "&offset=#{offset}"  if offset
-    ## src += "&order=desc"
-    src += "&order=asc"   ### lowest numbers first!!!
+    src += "?from_number=#{from_number}" 
+    src += "&offset=#{offset}"   if offset
+    src += "&order=asc"    ## lowest numbers first!!!
     src += "&order_by=number"
-    src += '&limit=60'   ## max. limit is 60
-    # from_number = 45926920
-    # ?mime_type=image%2Fpng
+    src += '&limit=60'   ## note: max. limit is 60
+  
 
     data = nil
     loop do
@@ -62,8 +56,7 @@ class Api   ## change/rename Api to Client - why? why not?
       else
          pp data
          puts "!! ERROR ???"
-         puts "  retry - sleeping in #{@delay_in_s}s..."   
-         sleep( @delay_in_s )
+         puts "  retry..."   
          next
       end
     end
@@ -75,10 +68,12 @@ class Api   ## change/rename Api to Client - why? why not?
   def get_json( src )
     @requests += 1
 
+    ## fix-fix-fix: hard coded delay for now
+    delay_in_s = 1    # 0.5 
 
-    if @requests > 1 && @delay_in_s
-      puts "request no. #{@requests}@#{@base}; sleeping #{@delay_in_s} sec(s)..."
-      sleep( @delay_in_s )
+    if @requests > 1 && delay_in_s
+      puts "request no. #{@requests}@#{@base}; sleeping #{delay_in_s} sec(s)..."
+      sleep( delay_in_s )
     end
 
     res = nil
