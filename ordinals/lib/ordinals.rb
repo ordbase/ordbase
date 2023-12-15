@@ -147,6 +147,11 @@ require_relative 'ordinals/sandbox'   ## (blob) "flat" content cache by inscribe
 require_relative 'ordinals/stats'
 
 
+### add hiro api support
+require_relative 'ordinals/hiro'
+
+
+
 ### add recursive image helpers
 require_relative 'ordinals/recursive/image'
 require_relative 'ordinals/recursive/composite'
