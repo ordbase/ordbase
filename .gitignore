@@ -11,5 +11,7 @@ tmp5/
 #############
 # ignore all (sqlite) dbs for now - why? why not?
 *.db
+*.db-shm
+*.db-wal
 
 

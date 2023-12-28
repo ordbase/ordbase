@@ -147,8 +147,9 @@ require_relative 'ordinals/sandbox'   ## (blob) "flat" content cache by inscribe
 require_relative 'ordinals/stats'
 
 
-### add hiro api support
+### add hiro api & ordinalsbot api support
 require_relative 'ordinals/hiro'
+require_relative 'ordinals/ordinalsbot'
 
 
 
