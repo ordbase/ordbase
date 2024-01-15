@@ -15,6 +15,27 @@ class Api   ## change/rename Api to Client - why? why not?
   end
 
   
+##
+# docu here -> https://docs.ordinalsbot.com/api/search-inscriptions
+#
+#  Search for an existing Image or File
+#   Use this endpoint to check if a certain image was inscribed before. 
+#   We call this a "hash check".
+#
+#   note: Image Search is done by hashing the image file 
+#    and checking against previous inscriptions' hashes.
+#   To use this endpoint you need to sha256 hash the image file content. 
+#
+#   Results array will be sorted by ascending block height.
+#   Pagination parameters are the same as text search
+#
+#   query parameters:
+#   hash -  String - sha256 hash of an image buffer in hex
+#
+#  headers:
+#   x-api-key - String  - API Key Required if domain is not on allowlist
+
+
   def hashcheck( hash )
     src = "#{@base}/search?hash=#{hash}"
     data = get_json( src )
@@ -33,7 +54,16 @@ class Api   ## change/rename Api to Client - why? why not?
       sleep( delay_in_s )
     end
 
-    res = Webclient.get( src )
+
+   ## get api key
+    api_key = ENV['ORDINALSBOT_API'] || ENV['ORDINALSBOT_API_KEY']
+    if api_key.nil?
+      puts "!! ERROR - no ordinalsbot api key found in env; sorry"
+      exit 1
+    end
+
+    res = Webclient.get( src,
+                         headers: { 'x-api-key' => api_key } )
 
     ## tod/fix - check for content-type (application/json) too - why? why not? 
     if res.status.ok? && res.text.index( "{" )
